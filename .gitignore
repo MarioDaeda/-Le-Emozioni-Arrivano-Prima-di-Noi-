@@ -1,0 +1,10 @@
+# Non condividere la cartella delle fonti
+/fonti/
+
+# File temporanei di Windows
+Thumbs.db
+Desktop.ini
+
+# File temporanei generici
+*.tmp
+*.bak
