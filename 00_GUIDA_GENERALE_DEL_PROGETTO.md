@@ -1,5 +1,9 @@
 # 00 — GUIDA GENERALE DEL PROGETTO
 
+Versione: **1.1 — gerarchia visiva del progetto**
+
+Ultimo aggiornamento: **19 luglio 2026**
+
 ## Titolo provvisorio
 
 # Le emozioni decidono prima di noi
@@ -807,6 +811,20 @@ Occorre evitare:
 - metafore sovraccariche;
 - inglesismi non necessari.
 
+## Gerarchia visiva
+
+Tutti i capitoli devono utilizzare il grassetto in modo selettivo per rendere riconoscibili formule-cardine, distinzioni indispensabili, domande operative e, quando davvero utile, una svolta narrativa.
+
+Il grassetto deve:
+
+- orientare la lettura senza sostituire il ragionamento;
+- restare subordinato al tono narrativo;
+- seguire le regole definite in `03_GUIDA_STILISTICA`;
+- essere applicato dopo la revisione scientifica, così da non attribuire visivamente più certezza di quella autorizzata;
+- mantenere una densità coerente tra i capitoli, senza trasformarsi in una quota rigida.
+
+Se tutto viene evidenziato, la gerarchia scompare. La scelta delle frasi in grassetto è quindi una decisione editoriale e deve essere verificata prima dell’approvazione del capitolo.
+
 ---
 
 # 25. Metafora principale
@@ -1155,6 +1173,7 @@ Ogni capitolo deve essere controllato rispetto agli altri per verificare:
 - progressione dei concetti;
 - uso coerente delle metafore;
 - stabilità del lessico;
+- coerenza della gerarchia visiva e dell’uso del grassetto;
 - collegamenti tra capitoli.
 
 I capitoli già scritti potranno essere rivisti alla luce di quelli successivi.
@@ -1179,7 +1198,7 @@ Il progetto deve procedere in questo ordine:
 10. stesura completa;
 11. revisione narrativa;
 12. revisione scientifica;
-13. revisione stilistica;
+13. revisione stilistica e della gerarchia visiva;
 14. inserimento nel manoscritto principale;
 15. revisione globale finale.
 

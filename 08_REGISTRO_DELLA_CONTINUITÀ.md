@@ -106,7 +106,8 @@ Riguarda:
 - tipo di dialogo;
 - rapporto con il lettore;
 - struttura dei capitoli;
-- lunghezza e frequenza delle scene.
+- lunghezza e frequenza delle scene;
+- gerarchia visiva e densità del grassetto.
 
 ---
 
@@ -214,11 +215,11 @@ Capitoli o scene nei quali riprendere l’evento.
 
 | Codice | Capitolo | Personaggi | Evento | Interpretazione | Comportamento | Conseguenza | Ripresa futura |
 |---|---|---|---|---|---|---|---|
-| SC-C1-01 | 1 | Andrea, Luca | Luca propone una verifica esterna | Andrea si sente screditato | Risponde in modo aggressivo | Riunione deteriorata | Capitoli 6 e 12 |
-| SC-C1-02 | 1 | Andrea, Elena | Andrea racconta la riunione | Tratta l’intenzione di Luca come un fatto | Difende la propria lettura | Elena introduce il dubbio | Capitolo 4 |
-| SC-C1-03 | 1 | Andrea, Luca | Chiarimento successivo | Andrea verifica la propria interpretazione | Fa una domanda diretta | Il conflitto si riduce ma non scompare | Capitolo 6 |
+| SC-C1-01 | 1 | Andrea, Luca, responsabile commerciale, consulente finanziario | Luca propone una verifica esterna | Andrea si sente screditato | Risponde in modo tagliente e restringe la discussione | Riunione deteriorata; decisione rinviata | Capitoli 6 e 12 |
+| SC-C1-02 | 1 | Andrea, Elena | Andrea racconta la riunione | Tratta l’intenzione di Luca e l’accordo della collega come fatti | Distingue progressivamente parole, gesto e significato attribuito | Riduce il grado di certezza e avvia una verifica critica | Capitoli 4 e 11 |
+| SC-C1-03 | 1 | Andrea, Luca | Chiarimento il mattino seguente | Andrea verifica la propria interpretazione | Fa domande dirette e ascolta il rischio operativo | Concordata verifica esterna limitata; conflitto ridotto ma aperto | Capitoli 6 e 12 |
 
-La tabella deve essere aggiornata dopo la stesura effettiva.
+Tabella aggiornata sulla revisione 0.4 del 19 luglio 2026.
 
 ---
 
@@ -228,6 +229,7 @@ La tabella deve essere aggiornata dopo la stesura effettiva.
 
 - 45 anni;
 - imprenditore;
+- ha fondato l’azienda insieme ad altre tre persone; l’organico è cresciuto da 4 a 32 persone;
 - vive con Elena;
 - ha una figlia adolescente;
 - sensibile al giudizio;
@@ -260,7 +262,7 @@ Non utilizzare tutti i segnali in ogni scena.
 
 ### Capitolo 1
 
-Andrea comprende che la propria emozione non prova automaticamente l’intenzione di Luca.
+Andrea comprende che la propria emozione non prova automaticamente l’intenzione di Luca e inizia a distinguere ciò che sa da ciò che ha concluso.
 
 ### Capitolo 6
 
@@ -613,6 +615,8 @@ Dopo il Capitolo 1, utilizzare richiami brevi.
 
 Non spiegare ogni volta l’intera teoria di Lazarus.
 
+Mantenere distinti valori, impegni e obiettivi. Nel Capitolo 1 gli obiettivi funzionano anche come indizi retrospettivi per riconoscere ciò che era in gioco; non sono presentati come una lista cosciente consultata prima della risposta. Non estendere la rapidità di alcune valutazioni alla tesi che ogni valutazione sia istantanea.
+
 ---
 
 ## Corpo e segnali corporei
@@ -621,6 +625,8 @@ Non spiegare ogni volta l’intera teoria di Lazarus.
 **Sviluppo:** Capitoli 3, 4 e capitoli sulle singole emozioni
 
 Evitare che il corpo appaia soltanto come conseguenza dell’emozione.
+
+Formula introdotta nel Capitolo 1: il segnale corporeo è reale come informazione sullo stato interno; la causa attribuita, l’intenzione altrui e la risposta scelta richiedono verifica. Evitare sia l’infallibilità del corpo sia una mente separata che lo “governa”.
 
 ---
 
@@ -1017,14 +1023,15 @@ La scelta deve sostenere il pubblico generale.
 
 ## Azienda di Andrea
 
-Da definire:
+Definito nel Capitolo 1:
 
-- settore;
-- dimensioni;
-- struttura;
-- clienti;
-- rapporto con Luca;
-- livello di rischio economico.
+- società di servizi e consulenza B2B;
+- 32 persone, nata come impresa di quattro persone;
+- Andrea è fondatore e guida il progetto;
+- Luca è responsabile operativo e la sua squadra assorbirà l’impatto dell’eventuale avvio;
+- progetto capace di aprire un nuovo mercato, con impegno economico significativo e rischio sulla liquidità;
+- cliente necessario a rendere possibile l’investimento;
+- verifica indipendente limitata a due voci del piano prima della decisione finale.
 
 La scelta deve consentire:
 
@@ -1069,6 +1076,23 @@ Deve consentire:
 
 ---
 
+# 23A. Continuità della gerarchia visiva
+
+Il Capitolo 1, versione 0.5, stabilisce il primo riferimento operativo per l’uso del grassetto.
+
+Nei capitoli successivi:
+
+- evidenziare formule-cardine, distinzioni indispensabili, domande operative e autentiche svolte narrative;
+- evitare il grassetto sistematico nei dialoghi e nei dettagli di scena;
+- non usare l’enfasi per aumentare il grado di certezza di una teoria o di un’affermazione;
+- mantenere una densità paragonabile al Capitolo 1, adattandola alla struttura reale del capitolo;
+- non ripetere automaticamente in grassetto formule già introdotte: evidenziarle di nuovo soltanto quando acquistano una funzione nuova;
+- registrare nelle note di revisione eventuali scostamenti intenzionali.
+
+Riferimenti operativi: `03_GUIDA_STILISTICA`, sezione 29A; `05_STRUTTURA_STANDARD_DEI_CAPITOLI`, sezione 30A.
+
+---
+
 # 24. Continuità delle fonti
 
 Quando un autore viene introdotto:
@@ -1085,8 +1109,8 @@ Quando un autore viene introdotto:
 |---|---|---|---|---|
 | Lazarus | Capitolo 1 | Appraisal | 4-9 | Valutazione non necessariamente cosciente |
 | Barrett | Capitolo 1 | Costruzione dell’emozione | 3-4 | Modello influente, non unico |
-| Damasio | Capitolo 1 | Corpo e decisione | 3-4-12 | Corpo non infallibile |
-| Kahneman | Capitolo 1 | Processi rapidi e deliberati | 10-12 | Sistemi non anatomici |
+| Damasio | Capitolo 1 | Corpo e decisione | 3-4-12 | Segnale reale, causa e decisione non garantite |
+| Kahneman | Capitolo 1 | Processi rapidi, deliberati ed euristiche | 10-12 | Sistemi non anatomici; rapidità non universale |
 | Gross | Capitolo 2 | Regolazione | 4-12 | Nessuna strategia sempre migliore |
 | Porges | Capitolo 11 | Teoria Polivagale | 12 | Teoria discussa |
 
@@ -1140,7 +1164,8 @@ Dopo la prima stesura di ogni capitolo:
 7. registrare gli esercizi;
 8. annotare le promesse;
 9. segnalare dettagli da riprendere;
-10. aggiornare il changelog.
+10. aggiornare il changelog;
+11. verificare la gerarchia visiva e registrare eventuali scostamenti.
 
 Dopo ogni revisione:
 
@@ -1168,47 +1193,73 @@ Prima dell’approvazione verificare:
 - Le metafore sono coerenti?
 - Il capitolo mantiene le promesse precedenti?
 - Apre questioni che verranno riprese?
+- Il grassetto segue la stessa logica editoriale dei capitoli precedenti?
+- Le formule già evidenziate vengono ripetute soltanto quando necessario?
 
 ---
 
-# 28. Prima registrazione prevista: Capitolo 1
+# 28. Registrazione effettiva: Capitolo 1
 
-Le seguenti voci sono provvisorie e dovranno essere aggiornate dopo la stesura.
+Voci aggiornate sulla prima stesura completa; dovranno essere riallineate in caso di revisione narrativa.
 
 ## SC-C1-01 — La frase
 
-**Personaggi:** Andrea, Luca  
-**Evento:** Luca propone un controllo esterno dei dati  
-**Interpretazione di Andrea:** Luca non si fida della sua competenza  
-**Stato corporeo:** calore, mandibola tesa, respirazione accelerata  
-**Emozione:** rabbia, minaccia, irritazione  
-**Comportamento:** interruzione e risposta difensiva  
-**Conseguenza:** riunione deteriorata  
+**Personaggi:** Andrea, Luca, responsabile commerciale, consulente finanziario  
+**Luogo e momento:** sala riunioni, mattina  
+**Evento:** Luca propone un controllo esterno dei dati prima di un investimento significativo  
+**Interpretazione di Andrea:** Luca non si fida della sua competenza e vuole indebolirne l’autorità  
+**Stato corporeo:** mandibola tesa, calore al volto, respiro trattenuto, voce più rapida  
+**Emozione:** irritazione e allarme  
+**Tendenza all’azione:** interrompere, difendersi e riprendere controllo  
+**Comportamento:** risposta tagliente; richiesta di indicare un errore o chiudere il dubbio  
+**Conseguenza:** Luca si ritira, l’esplorazione dei dati si impoverisce e la decisione viene rinviata di quarantotto ore  
+**Conflitto aperto:** fiducia, autonomia e possibilità di dissentire quando Andrea ritiene di avere già verificato  
 **Ripresa futura:** Capitoli 6 e 12
 
 ## SC-C1-02 — Il racconto
 
 **Personaggi:** Andrea, Elena  
-**Evento:** Andrea racconta il conflitto  
+**Luogo e momento:** cucina di casa, sera della riunione  
+**Evento:** Andrea racconta il conflitto e afferma che Luca ha cercato di screditarlo  
 **Interpretazione:** presenta l’intenzione di Luca come fatto  
 **Comportamento:** difende la propria versione  
-**Conseguenza:** Elena introduce la distinzione tra parole e intenzione  
+**Conseguenza:** Elena introduce la metafora della telecamera e la distinzione tra osservabile e intenzione attribuita; Andrea riconosce di avere dato al gesto della collega un significato fondato sui propri ricordi, aspettative e timori; non cambia idea ma riduce il grado di certezza e, ripetendo la frase senza il tono ricordato, ne osserva il diverso effetto  
 **Ripresa futura:** Capitoli 4 e 11
 
 ## SC-C1-03 — Il chiarimento
 
 **Personaggi:** Andrea, Luca  
-**Evento:** Andrea chiede che cosa Luca intendesse  
-**Interpretazione alternativa:** controllo del rischio  
-**Comportamento:** domanda diretta  
-**Conseguenza:** il conflitto non scompare, ma la lettura si amplia  
-**Ripresa futura:** Capitolo 6
+**Luogo e momento:** ufficio di Andrea, mattina seguente  
+**Evento:** Andrea chiede quale fosse l’intenzione della proposta e quale ipotesi preoccupi Luca  
+**Interpretazione alternativa:** Luca vuole contenere il rischio e proteggere l’azienda e la propria squadra; resta possibile una componente di sfiducia  
+**Comportamento:** Andrea trattiene la prima replica, fa domande dirette e accetta una verifica circoscritta  
+**Conseguenza:** emergono due voci da controllare; verifica esterna limitata; decisione finale rinviata al giorno successivo; entrambi riconoscono di aver comunicato male  
+**Conflitto aperto:** Luca considera Andrea accentratore; Andrea sospetta anche una dinamica di potere  
+**Ripresa futura:** Capitoli 6 e 12
+
+## Concetti, metafore e formule introdotti nel Capitolo 1
+
+- fatto osservabile e significato attribuito;
+- appraisal in rapporto a ciò che conta, con distinzione tra valori, impegni e obiettivi usati come indizi retrospettivi;
+- valutazioni rapide e non necessariamente verbalizzate;
+- euristica come scorciatoia utile che produce una prima lettura, non un verdetto;
+- distinzione tra risorse reali e risorse percepite;
+- segnali corporei come informazioni reali sullo stato interno, non come prove della causa o dell’intenzione altrui;
+- pensiero critico come distinzione tra ciò che si sa e ciò che si è concluso;
+- teoria delle emozioni costruite dichiarata come modello teorico influente, non consenso definitivo;
+- Sistema 1 e Sistema 2 come distinzione funzionale, non anatomica;
+- matrice minima editoriale: fatto → significato attribuito → emozione → impulso → comportamento → conseguenza;
+- metafora della telecamera, con limite esplicito dell’inquadratura e del fuori campo;
+- formule già utilizzate: “Plausibile non significa ancora accertato”; “L’emozione era reale. L’intenzione attribuita a Luca era ancora un’ipotesi”; “Che cosa è accaduto realmente e che cosa sto aggiungendo io?”.
+
+## Esercizio effettivamente proposto
+
+Ricostruzione di un episodio in sette campi: fatto; elemento notato; significato attribuito; emozione e impulso; comportamento; conseguenza; spiegazione alternativa plausibile. L’alternativa non deve essere positiva o rassicurante, ma compatibile con i fatti.
 
 ---
 
 # 29. Questioni ancora da definire
 
-- settore dell’azienda di Andrea;
 - nome della figlia;
 - composizione precisa della famiglia di Sara;
 - nome e genere del partner di Marco;
@@ -1242,6 +1293,8 @@ La continuità sarà riuscita se:
 
 # 31. Stato del documento
 
-Versione: **prima struttura operativa del registro**
+Versione: **1.2 — continuità della gerarchia visiva**
 
-Stato: **da aggiornare dopo ogni capitolo**
+Data: **19 luglio 2026**
+
+Stato: **operativo e riallineato al Capitolo 1, versione 0.5; da aggiornare dopo ogni capitolo e revisione significativa**

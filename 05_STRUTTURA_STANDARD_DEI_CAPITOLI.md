@@ -711,6 +711,34 @@ La struttura interna può essere più articolata di quella visibile.
 
 ---
 
+# 30A. Gerarchia visiva del capitolo
+
+Ogni capitolo deve utilizzare il grassetto come strumento di orientamento, secondo `03_GUIDA_STILISTICA`.
+
+La selezione può comprendere:
+
+- la frase di apertura, soltanto se funziona come vero innesco narrativo;
+- una formula-cardine per ciascun nucleo concettuale;
+- una distinzione scientifica che il lettore non deve confondere;
+- la domanda operativa principale;
+- la matrice o la sequenza centrale;
+- la comprensione conclusiva del personaggio, quando rappresenta una svolta effettiva.
+
+Non devono essere evidenziati automaticamente:
+
+- tutti i dialoghi;
+- i nomi degli autori;
+- interi paragrafi;
+- ogni frase sintetica;
+- affermazioni scientifiche ancora da verificare;
+- passaggi scelti soltanto perché suonano memorabili.
+
+Per un capitolo di circa 4.500 parole, una distribuzione tra **12 e 24 evidenziazioni editoriali** può essere un riferimento utile, non una quota da raggiungere. La densità finale dipende dal numero delle sezioni e dalla complessità del capitolo.
+
+Il controllo del grassetto avviene dopo la revisione scientifica e prima dell’approvazione.
+
+---
+
 # 31. Struttura dei capitoli introduttivi
 
 I Capitoli 1-4 devono seguire una forma leggermente diversa.
@@ -868,6 +896,10 @@ Verificare:
 - Sono presenti ripetizioni?
 - Il narratore giudica il lettore?
 - Il testo appare frammentato?
+- Il grassetto individua davvero i passaggi centrali?
+- Sono stati evidenziati interi paragrafi o troppi passaggi consecutivi?
+- L’enfasi visiva rispetta il grado di certezza scientifica?
+- La densità è coerente con gli altri capitoli senza risultare meccanica?
 
 ---
 
@@ -916,7 +948,7 @@ Verificare ogni affermazione.
 
 ## Fase 7 — Revisione stilistica
 
-Uniformare voce e ritmo.
+Uniformare voce e ritmo; applicare e verificare la gerarchia visiva soltanto dopo che le formulazioni scientifiche sono stabili.
 
 ## Fase 8 — Revisione applicativa
 
@@ -949,6 +981,8 @@ La progettazione deve sostenere la scrittura, non sostituirla.
 
 # 42. Stato del documento
 
-Versione: **prima struttura standard completa**
+Versione: **1.1 — gerarchia visiva dei capitoli**
 
-Stato: **da applicare al Capitolo 1 e correggere sulla base dei risultati**
+Data: **19 luglio 2026**
+
+Stato: **applicata e verificata sul Capitolo 1; vincolante per i capitoli successivi**
