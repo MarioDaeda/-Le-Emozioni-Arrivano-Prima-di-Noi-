@@ -536,7 +536,7 @@ Regole obbligatorie:
 - affiancare fonti favorevoli, critiche e, quando disponibili, risposte alle critiche;
 - dichiarare quando un’applicazione professionale va oltre le prove disponibili.
 
-**Decisione richiesta dalla biblioteca attuale:** non è presente alcun PDF di Porges, alcuna fonte critica dedicata e alcuna revisione indipendente sulla Teoria Polivagale. La teoria non può quindi essere utilizzata nel manoscritto sulla base dei materiali oggi disponibili.
+**Decisione richiesta dalla biblioteca attuale:** è ora disponibile una fonte teorica rappresentativa di Stephen W. Porges, *The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, and Self-Regulation*. La presenza del volume consente di ricostruire la teoria nella formulazione dell’autore, ma non è sufficiente, da sola, per approvare le affermazioni scientifiche sulla Teoria Polivagale. Restano necessarie fonti indipendenti e critiche qualificate; fino al loro reperimento la teoria non può essere utilizzata nel manoscritto come spiegazione scientifica approvata.
 
 ---
 
@@ -888,7 +888,7 @@ Biblioteca esaminata:
 
 Risultati:
 
-- PDF trovati: **8**;
+- PDF trovati: **9**;
 - PDF non ricercabili: **nessuno**;
 - duplicati esatti rilevati: **nessuno**;
 - file cifrati: **nessuno**;
@@ -911,6 +911,7 @@ Il controllo ha riguardato metadati, pagine editoriali, numero di pagine, copert
 | `La chimica segreta delle intera - Paolo Borzacchiello.pdf` | Paolo Borzacchiello | *La chimica segreta delle interazioni umane* | 2023 | prima edizione digitale, marzo 2023 | fonte divulgativa e applicativa | 227 pagine; testo ricercabile; ROI Edizioni; ISBN 978-88-3620-166-2 verificato nel PDF |
 | `Stress, Appraisal, and Coping,L - Sconosciuto.pdf` | Richard S. Lazarus e Susan Folkman | *Stress, Appraisal, and Coping* | 1984 | da verificare | monografia accademica e teorica | 460 pagine; testo ricercabile; Springer Publishing Company; ISBN 0-8261-4191-9 verificato; nome file e metadati non identificano gli autori; PDF segnala produzione tramite strumento di riparazione; completezza apparente, da confermare durante la schedatura |
 | `The Feeling of What Happens - Antonio R. Damasio.pdf` | Antonio R. Damasio | *The Feeling of What Happens: Body and Emotion in the Making of Consciousness* | 1999 | prima edizione | monografia di sintesi scientifica e divulgazione d’autore | 364 pagine; testo ricercabile; Harcourt Brace & Company; ISBN 0-15-100369-6 verificato nel PDF |
+| `The Polyvagal Theory_ Neurophys - Stephen W. Porges.pdf` | Stephen W. Porges | *The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, and Self-Regulation* | 2011 | prima edizione | monografia accademica e fonte teorica rappresentativa dell’autore | 488 pagine PDF; testo ricercabile; W. W. Norton & Company; ISBN 978-0-393-70700-7 hardcover e 978-0-393-70906-3 ebook verificati nel PDF; il file appare completo, ma è una conversione PDF tramite calibre e la corrispondenza dell’ISBN ebook al file convertito resta da verificare |
 | `Thinking, Fast and Slow - Kahneman, Daniel.pdf` | Daniel Kahneman | *Thinking, Fast and Slow* | da verificare | da verificare | divulgazione scientifica e sintesi di ricerca psicologica | 663 pagine; testo ricercabile con alcuni artefatti di conversione; anno, editore e ISBN non presenti nelle pagine esaminate; pagine editoriali assenti o non identificabili; completezza e edizione da verificare |
 
 ## 20.3 Problemi e decisioni derivanti dall’inventario
@@ -935,6 +936,7 @@ Richiedono verifica esterna o confronto con un’edizione completa:
 - *Emotion and Adaptation*: dichiarazione esplicita dell’edizione;
 - *Stress, Appraisal, and Coping*: edizione o ristampa precisa;
 - *How Emotions Are Made*: edizione precisa;
+- *The Polyvagal Theory*: corrispondenza tra il file PDF convertito e l’ISBN dell’ebook;
 - corrispondenza tra formato del PDF e ISBN per alcuni ebook.
 
 ### PDF riparati o convertiti
@@ -942,6 +944,7 @@ Richiedono verifica esterna o confronto con un’edizione completa:
 - *Stress, Appraisal, and Coping* dichiara nei metadati l’uso di uno strumento di riparazione. Non sono emerse pagine non ricercabili, ma struttura e completezza dovranno essere ricontrollate durante la lettura pertinente.
 - *L’errore di Cartesio* contiene una nota di conversione non editoriale e non presenta i dati dell’edizione.
 - *Thinking, Fast and Slow* presenta artefatti testuali e non rende verificabili i dati editoriali.
+- *The Polyvagal Theory* è una conversione tramite calibre: il testo è ricercabile e la struttura appare completa, ma il PDF non è il formato editoriale originario e richiede cautela per la paginazione delle citazioni.
 
 Questi file possono essere usati per orientamento e lettura, ma citazioni e riferimenti richiedono una verifica dell’edizione.
 
@@ -961,23 +964,28 @@ La biblioteca non contiene ancora:
 - revisioni sistematiche;
 - meta-analisi;
 - fonti critiche dedicate;
-- fonti sulla Teoria Polivagale;
+- almeno un paper teorico originale di Porges sulla Teoria Polivagale;
+- una revisione indipendente sulla Teoria Polivagale;
+- una critica scientifica qualificata della Teoria Polivagale;
+- quando disponibile, una risposta di Porges o dei sostenitori alle critiche;
 - fonti indipendenti recenti sui principali modelli;
 - risposte alle critiche.
 
 Di conseguenza, i materiali disponibili non sono sufficienti per autorizzare la stesura scientifica del Capitolo 1 o di altri capitoli. Sono sufficienti soltanto per avviare la mappa teorica e la ricerca mirata.
 
+La biblioteca contiene ora una fonte teorica rappresentativa di Porges. La Teoria Polivagale resta classificata come **teoria influente ma controversa**: il volume dell’autore non costituisce, da solo, una verifica indipendente né autorizza l’approvazione delle affermazioni scientifiche della teoria.
+
 ---
 
 # 21. Stato del documento
 
-Versione: **1.0**
+Versione: **1.1**
 
 Data: **18 luglio 2026**
 
-Stato: **completo, in attesa di approvazione editoriale**
+Stato: **approvato e operativo**
 
-Il protocollo diventa operativo dopo l’approvazione.
+Il protocollo è approvato e operativo dalla data indicata.
 
 Dopo l’approvazione occorrerà:
 
@@ -985,4 +993,3 @@ Dopo l’approvazione occorrerà:
 2. verificare i dati bibliografici segnati “da verificare”;
 3. avviare la ricerca accademica specifica soltanto per il primo capitolo approvato;
 4. non iniziare la stesura finché non saranno soddisfatti i criteri della sezione 17.
-
