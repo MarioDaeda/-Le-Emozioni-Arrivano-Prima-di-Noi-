@@ -1,6 +1,6 @@
 # 00 — GUIDA GENERALE DEL PROGETTO
 
-Versione: **1.1 — gerarchia visiva del progetto**
+Versione: **1.3 — allineamento scientifico Capitolo 1 v0.5**
 
 Ultimo aggiornamento: **19 luglio 2026**
 
@@ -1263,3 +1263,7 @@ Dovrà essere più capace di chiedersi:
 Il messaggio conclusivo deve essere:
 
 > Diventare emotivamente competenti non significa provare soltanto emozioni piacevoli. Significa imparare a utilizzare anche le emozioni spiacevoli come informazioni, senza lasciare che decidano automaticamente il nostro comportamento.
+
+
+
+---

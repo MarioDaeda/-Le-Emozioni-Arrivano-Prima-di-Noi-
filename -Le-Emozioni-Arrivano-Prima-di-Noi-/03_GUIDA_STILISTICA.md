@@ -219,6 +219,20 @@ La prima apre una storia.
 
 La seconda annuncia un tema.
 
+## Apertura ex abrupto e ricostruzione ritardata
+
+Quando il conflitto lo consente, il capitolo può aprirsi **dopo che qualcosa è già accaduto**. Il lettore deve incontrare prima l'effetto — una frase tagliente, un silenzio, una decisione compromessa, una relazione irrigidita — e ricostruire soltanto in seguito l'evento che lo ha prodotto.
+
+Questa apertura deve funzionare come in un giallo:
+
+- prima compare la conseguenza;
+- poi emergono gli indizi;
+- infine si ricostruiscono antecedenti, interpretazioni e responsabilità.
+
+Non spiegare immediatamente chi ha ragione, che cosa è successo prima o perché il personaggio reagisce. Le informazioni devono arrivare nel momento in cui aumentano comprensione e tensione, non tutte insieme.
+
+L'effetto ricercato non è confondere, ma costringere il lettore a entrare nella scena e a inseguirne il significato.
+
 ---
 
 # 7. Struttura delle scene
@@ -284,6 +298,20 @@ Non devono servire a spiegare una teoria.
 I personaggi devono parlare come persone reali.
 
 La teoria appartiene alla voce autoriale.
+
+## Ritmo e disposizione tipografica dei dialoghi
+
+Come regola generale, non introdurre le battute con una frase seguita dai due punti. È una costruzione ammessa soltanto quando ha una precisa funzione ritmica.
+
+Preferire:
+
+- battute in paragrafi autonomi;
+- scambi brevi;
+- interruzioni, esitazioni e silenzi;
+- gesti o microazioni tra una battuta e l'altra;
+- attribuzioni essenziali, inserite solo quando servono a evitare ambiguità.
+
+Il ritmo nasce dall'alternanza tra parola, pausa e reazione. Non deve dipendere da una sequenza uniforme di «disse», «rispose», «aggiunse», né da spiegazioni che anticipano il significato della battuta.
 
 ---
 
@@ -1143,3 +1171,25 @@ Versione: **prima guida stilistica completa**
 
 Stato: **da applicare e verificare durante la stesura del Capitolo 1**
 
+
+
+
+
+---
+
+# 31. Controllo tipografico del manoscritto
+
+Prima di considerare una versione pronta per la revisione editoriale, verificare:
+
+- assenza di spazi impropri dopo apostrofi e prima della punteggiatura;
+- uso coerente di virgolette caporali, apostrofi tipografici e trattini;
+- rientri uniformi e assenza di tabulazioni accidentali;
+- paragrafi del corpo giustificati nella versione impaginata;
+- controllo di righe vedove e orfane;
+- titoli mantenuti insieme al paragrafo successivo;
+- battute di dialogo non spezzate da rientri o spaziature incoerenti;
+- nessuna riga isolata prodotta da interruzioni manuali non necessarie.
+
+Il controllo deve essere sia automatico sia visivo: la sola impostazione del software non garantisce una pagina equilibrata.
+
+---

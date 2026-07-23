@@ -2,9 +2,9 @@
 
 ## Le emozioni non arrivano a caso
 
-Versione: **1.0**  
-Data: **18 luglio 2026**  
-Stato: **approvato per la prima stesura prudente**
+Versione: **1.1 — allineata al manoscritto 0.5**  
+Data: **23 luglio 2026**  
+Stato: **approvato come dossier scientifico operativo del Capitolo 1 v0.5**
 
 ---
 
@@ -24,6 +24,8 @@ Il dossier serve a stabilire:
 
 Non è una bibliografia generale e non sostituisce il `06_REGISTRO_DELLE_FONTI`. Registra soltanto la selezione operativa per il Capitolo 1.
 
+La versione 1.1 recepisce la stesura 0.5 del manoscritto. Oltre a verificare la correttezza delle affermazioni scientifiche, registra il modo effettivo in cui i concetti sono stati usati nella narrazione: apertura *ex abrupto*, ricostruzione progressiva dell’incomprensione, distinzione tra fatto osservabile e significato attribuito, ruolo delle euristiche, differenza tra risorse reali e percepite e principio secondo cui il segnale corporeo è reale mentre la causa richiede verifica.
+
 ## 1.1 Perimetro approvato
 
 Il dossier utilizza soltanto i nove PDF attualmente presenti nella biblioteca centrale e le fonti già rappresentate nel registro. Non sono stati cercati né aggiunti paper, revisioni sistematiche o materiali esterni.
@@ -41,20 +43,26 @@ Le pagine indicate sono pagine del PDF, salvo diversa specificazione. Nei file c
 # 2. Domande di ricerca del capitolo
 
 1. In quale senso il significato attribuito a una situazione contribuisce alla risposta emotiva?
-2. L’appraisal deve essere cosciente o verbalizzato?
-3. Quale ruolo può avere lo stato corporeo nell’esperienza emotiva e nella decisione?
-4. Come presentare correttamente la teoria delle emozioni costruite?
-5. Come descrivere i processi rapidi senza usare il mito del cervello emotivo contro quello razionale?
-6. In quale senso un’emozione reale non dimostra necessariamente la correttezza dell’interpretazione?
-7. Quali limiti devono essere esplicitati usando soltanto i libri disponibili?
+2. L’*appraisal* deve essere cosciente o verbalizzato?
+3. Come distinguere un fatto osservabile dall’intenzione attribuita a un’altra persona?
+4. In quale modo aspettative, associazioni ed euristiche possono completare rapidamente informazioni mancanti?
+5. Quale ruolo può avere lo stato corporeo nell’esperienza emotiva e nella decisione senza trasformare il corpo in un oracolo?
+6. Come distinguere le risorse concretamente disponibili da quelle che la persona riesce a percepire e utilizzare nel momento?
+7. Come presentare correttamente la teoria delle emozioni costruite senza trasformarla in consenso definitivo?
+8. Come descrivere i processi rapidi e deliberati senza usare il mito del cervello emotivo contro quello razionale?
+9. In quale senso un’emozione reale non dimostra necessariamente la correttezza dell’interpretazione?
+10. Quali limiti devono essere esplicitati usando soltanto i libri disponibili?
 
 ## 2.1 Risposte operative
 
-- **Significato e risposta emotiva:** nella tradizione dell’appraisal, una situazione acquista rilevanza in rapporto a obiettivi, impegni, risorse e possibilità di azione; non reagiamo quindi soltanto alla descrizione fisica dell’evento.
-- **Appraisal e coscienza:** Lazarus e Lazarus–Folkman descrivono anche valutazioni automatiche o non accessibili alla consapevolezza. Appraisal non equivale necessariamente a una frase formulata mentalmente.
-- **Corpo e decisione:** Damasio offre una base teorica e clinico-neuropsicologica per presentare corpo, emozione e ragionamento come processi interdipendenti. I segnali corporei possono orientare, ma non garantiscono decisioni corrette.
+- **Significato e risposta emotiva:** nella tradizione dell’*appraisal*, una situazione acquista rilevanza in rapporto a valori, impegni, obiettivi, risorse e possibilità di azione; non reagiamo quindi soltanto alla descrizione fisica dell’evento.
+- **Fatti e attribuzioni:** ciò che una telecamera potrebbe registrare deve essere distinto dal significato assegnato al comportamento e dall’intenzione attribuita all’altra persona. Un’inferenza plausibile resta un’ipotesi finché non viene verificata.
+- **Appraisal e coscienza:** Lazarus e Lazarus–Folkman descrivono anche valutazioni rapide, automatiche o non accessibili alla consapevolezza. *Appraisal* non equivale necessariamente a una frase formulata mentalmente.
+- **Euristiche e prima lettura:** Kahneman consente di descrivere scorciatoie cognitive che completano rapidamente informazioni mancanti. Sono indispensabili al funzionamento quotidiano, ma non garantiscono una lettura fedele dei fatti.
+- **Corpo e decisione:** Damasio offre una base teorica e clinico-neuropsicologica per presentare corpo, emozione e ragionamento come processi interdipendenti. Il segnale corporeo informa sullo stato dell’organismo; non certifica da solo la causa né l’intenzione altrui.
+- **Risorse reali e percepite:** tempo, competenze, alleati e possibilità di correzione sono condizioni concrete; stanchezza, pressione e senso di esposizione possono restringere ciò che la persona riesce a vedere e utilizzare. La distinzione è operativa, non ontologica.
 - **Emozioni costruite:** Barrett deve essere introdotta come autrice di un modello teorico; il suo libro espone il ruolo proposto di predizione, esperienza precedente, concetti, contesto e interocezione, ma non documenta da solo un consenso definitivo.
-- **Processi rapidi:** Kahneman consente di distinguere funzionamento automatico e attività deliberata. Sistema 1 e Sistema 2 sono scorciatoie funzionali e non due organi, aree o cervelli separati.
+- **Processi rapidi e deliberati:** Sistema 1 e Sistema 2 sono personificazioni funzionali, non due organi o cervelli separati. La rapidità non implica errore e la lentezza non garantisce verità.
 - **Emozione e interpretazione:** la realtà dell’esperienza non rende automaticamente vera l’attribuzione causale o intenzionale che la accompagna.
 - **Limite generale:** i libri disponibili permettono di ricostruire modelli e formulare una sintesi prudente; non consentono dichiarazioni forti sul consenso, sull’universalità o sull’efficacia causale di tecniche.
 
@@ -75,6 +83,9 @@ Le pagine indicate sono pagine del PDF, salvo diversa specificazione. Nei file c
 | `AFF-007` | `BAR-001`, PDF pp. 45-52, 117-120 e 134-135 | Secondo la teoria delle emozioni costruite, esperienza precedente, contesto, concetti e segnali corporei partecipano alla costruzione dell’esperienza emotiva. | **Limitato-moderato**: esposizione rappresentativa dell’autrice. | Mancano articoli teorici, prove empiriche selezionate e critiche indipendenti; non presentare la teoria come consenso. |
 | `AFF-008` | `LAZ-001`, PDF pp. 169-170 e 202-203; `LAZ-002`, PDF p. 68 | Nella teoria dell’appraisal, la valutazione può essere rapida, automatica e non verbalizzata. | **Moderato-alto per la corretta ricostruzione di Lazarus**. | Non assimilare ogni processo non cosciente allo stesso meccanismo; evitare “prima pensiamo, poi proviamo sempre”. |
 | `AFF-009` | `LAZ-001`, PDF pp. 223-225; `LAZ-002`, PDF pp. 68-69; `BAR-001`, PDF pp. 117-120 | La stessa situazione può assumere significati differenti per persone diverse o per la stessa persona in momenti diversi. | **Moderato-alto entro il dossier**. | Non negare regolarità biologiche, culturali e situazionali; le interpretazioni non sono tutte ugualmente probabili. |
+| `AFF-021` | `KAH-001`, PDF pp. 24-31 e 128-133; `LAZ-002`, PDF pp. 52 e 200-201 | Una prima lettura può formarsi rapidamente completando informazioni mancanti mediante aspettative, associazioni ed euristiche; deve quindi essere trattata come ipotesi verificabile, non come verdetto. | **Moderato**: sostegno diretto per euristiche e inferenze rapide; applicazione relazionale prudente. | Non descrivere le euristiche come errori inevitabili; non attribuire a Kahneman una teoria completa dell’emozione. |
+| `AFF-022` | `DAM-001`, PDF pp. 10-14, 62-75 e 204-206; `DAM-002`, *The Feeling of What Happens*, PDF pp. 40-48 | Il segnale corporeo può essere reale e informativo sullo stato dell’organismo senza contenere, da solo, la spiegazione della propria causa o l’intenzione di un’altra persona. | **Moderato** per il ruolo informativo del corpo; la distinzione causa-segnale è anche logica ed editoriale. | Non scrivere che il corpo “ha sempre ragione” o che identifica infallibilmente il pericolo. |
+| `AFF-023` | `LAZ-002`, PDF pp. 49, 171-173 e 285-287; `LAZ-001`, PDF pp. 223-225 | Le risorse concretamente disponibili e quelle percepite possono non coincidere; stanchezza, pressione e significato personale possono restringere le alternative che la persona riesce a considerare. | **Moderato**, coerente con secondary appraisal, risorse e vincoli. | Non negare i vincoli reali e non ridurre ogni difficoltà a percezione soggettiva. |
 | `AFF-015` | `LAZ-001`, PDF pp. 223-225; `DAM-001`, PDF pp. 204-206; `KAH-001`, PDF pp. 30-36 | L’emozione e l’impulso possono orientare l’azione senza coincidere necessariamente con il comportamento infine scelto. | **Limitato-moderato**: sostegno indiretto; manca la fonte specifica sulla regolazione già prevista dal registro. | Usare come distinzione prudente, non come promessa di controllo pieno in ogni condizione. |
 | `AFF-MAT-001` | Contributi distinti di `LAZ-001`, `BAR-001`, `DAM-001` e `KAH-001`; decisione editoriale in `04_MATRICE_DELLE_EMOZIONI` | La matrice minima è una mappa orientativa del libro, costruita integrando contributi differenti. | **Sufficiente come dichiarazione editoriale**. | Non attribuirla a un autore e non presentarla come modello unitario validato. |
 | `AFF-MAT-002` | `LAZ-001`, PDF pp. 223-225; `LAZ-002`, PDF pp. 307-308; `BAR-001`, PDF pp. 45-52 | La sequenza aiuta a ricostruire l’episodio, ma i passaggi possono sovrapporsi, retroagire e procedere in modo circolare. | **Moderato**, oltre alla natura dichiaratamente editoriale. | Non descrivere una catena causale rigida o un ordine universale. |
@@ -89,6 +100,9 @@ Le pagine indicate sono pagine del PDF, salvo diversa specificazione. Nei file c
 - `AFF-006` — natura funzionale di Sistema 1 e Sistema 2;
 - `AFF-008` — appraisal non necessariamente verbalizzato;
 - `AFF-009` — pluralità delle risposte alla stessa situazione;
+- `AFF-021` — prima lettura, euristiche e verifica;
+- `AFF-022` — segnale corporeo reale e causa da verificare;
+- `AFF-023` — distinzione tra risorse disponibili e percepite;
 - `AFF-MAT-001` — natura editoriale della matrice;
 - `AFF-MAT-002` — non linearità della matrice.
 
@@ -166,7 +180,7 @@ Le pagine indicate sono pagine del PDF, salvo diversa specificazione. Nei file c
 
 **Citazioni dirette:** nessuna selezionata.
 
-**Affermazioni sostenibili:** `AFF-002`, `AFF-003`, `AFF-005`, `AFF-008`, `AFF-009`, `AFF-MAT-002`.
+**Affermazioni sostenibili:** `AFF-002`, `AFF-003`, `AFF-005`, `AFF-008`, `AFF-009`, `AFF-023`, `AFF-MAT-002`.
 
 **Non sostenibili:** ogni emozione come stress; cambiamento cognitivo come unica risposta; piena accessibilità cosciente dell’appraisal.
 
@@ -226,7 +240,7 @@ Le pagine indicate sono pagine del PDF, salvo diversa specificazione. Nei file c
 
 **Citazioni dirette:** nessuna, finché edizione e paginazione non saranno verificate.
 
-**Affermazioni sostenibili:** `AFF-004`; contributo prudente a `AFF-001` e `AFF-MAT-001`.
+**Affermazioni sostenibili:** `AFF-004`, `AFF-022`; contributo prudente a `AFF-001` e `AFF-MAT-001`.
 
 **Non sostenibili:** corpo infallibile; emozione sostitutiva della ragione; ogni intuizione come marcatore somatico; validità universale dell’ipotesi.
 
@@ -262,7 +276,7 @@ Le pagine indicate sono pagine del PDF, salvo diversa specificazione. Nei file c
 
 ---
 
-## 4.6 `DAM-002` — Antonio Damasio, *Feeling & Knowing*
+## 4.6 `DAM-003` — Antonio Damasio, *Feeling & Knowing*
 
 **Riferimento bibliografico:** Damasio, A. (2021). *Feeling & knowing: Making minds conscious*. Pantheon Books. Prima edizione. ISBN 978-1-5247-4755-8; ebook 978-1-5247-4756-5, corrispondenza al file da verificare.  
 **Percorso:** `fonti/biblioteca/divulgazione/Feeling & Knowing_ Making Minds - Antonio Damasio.pdf`  
@@ -281,7 +295,7 @@ Le pagine indicate sono pagine del PDF, salvo diversa specificazione. Nei file c
 
 **Citazioni dirette:** nessuna selezionata.
 
-**Affermazioni sostenibili:** contributo a `AFF-004` e `AFF-005`.
+**Affermazioni sostenibili:** contributo a `AFF-004`, `AFF-005` e `AFF-022`.
 
 **Non sostenibili:** segnali corporei sempre accurati; introspezione come accesso diretto ai meccanismi; terminologia dell’autore come consenso generale.
 
@@ -311,7 +325,7 @@ Le pagine indicate sono pagine del PDF, salvo diversa specificazione. Nei file c
 
 **Citazioni dirette:** nessuna necessaria.
 
-**Affermazioni sostenibili:** `AFF-003`, `AFF-005`, `AFF-006`; contributo cauto a `AFF-015`.
+**Affermazioni sostenibili:** `AFF-003`, `AFF-005`, `AFF-006`, `AFF-021`; contributo cauto a `AFF-015`.
 
 **Non sostenibili:** Sistema 1 uguale emozione; Sistema 2 uguale ragione; processi rapidi sempre sbagliati; processi deliberati sempre corretti; due cervelli separati.
 
@@ -370,19 +384,22 @@ Le affermazioni neurochimiche o causali presenti, per esempio alle PDF pp. 15-23
 
 ---
 
-# 5. Mappa fonti–sezioni
+# 5. Mappa fonti–sezioni effettive della versione 0.5
 
-| Sezione prevista dal brief | Fonti da usare | Uso operativo | Densità delle citazioni |
+| Sezione del manoscritto 0.5 | Fonti da usare | Uso operativo | Densità delle citazioni |
 |---|---|---|---|
-| Scena iniziale | Nessuna citazione nel testo; retroterra `DAM-001`, `LAZ-001` | Mostrare segnali corporei, restringimento dell’attenzione e risposta senza spiegarli. | Nessuna. |
-| Telecamera nella stanza | `LAZ-002` e `KAH-001` solo come controllo concettuale | Separare osservabile e inferito; “plausibile” non equivale ad “accertato”. | Nessuna citazione necessaria nella scena; eventuale nota finale. |
-| Emozioni non casuali | `LAZ-001`, `BAR-001`, complemento `DAM-002` | Descrivere evento, obiettivi, esperienza, corpo e contesto come fattori concorrenti. | Una o due note complessive. |
-| Corpo e valutazioni non verbalizzate | `LAZ-001`, `LAZ-002`, `DAM-001`, `DAM-002`, `KAH-001` | Spiegare appraisal rapido, segnali corporei e assenza di una frase cosciente obbligatoria. | Citazioni concentrate nel passaggio esplicativo. |
-| Nucleo scientifico | Centrali: `LAZ-001`, `BAR-001`, `DAM-001`, `KAH-001`; complementi mirati | Presentare prospettive separate, convergenze limitate e differenze. | Note per autore; evitare rassegna enciclopedica. |
-| Emozione reale e interpretazione fallibile | `LAZ-002`, `KAH-001`, `BAR-001` | Distinguere esperienza, inferenza e intenzione attribuita. | Una nota di sostegno; prevale la spiegazione logica. |
-| Stessa frase, significati diversi | `LAZ-001`, `BAR-001`; `BOR-001` soltanto applicativo | Mostrare che contesto, tono, memoria e relazione modificano la lettura. | Leggera; Borzacchiello non sostiene neuroscienze. |
-| Matrice minima | `LAZ-001`, `LAZ-002`, contributi distinti di `DAM-001` e `KAH-001` | Presentare “fatto → significato → emozione → impulso → comportamento → conseguenza” come sintesi editoriale non rigida. | Nota sulla natura editoriale della matrice. |
-| Esercizio finale | `LAZ-002`, `AFF-003`, `AFF-MAT-001` | Domandare che cosa è accaduto e che cosa è stato aggiunto; non obbligare a una lettura benevola. | Nessuna citazione nel corpo dell’esercizio. |
+| Apertura *ex abrupto* e scena dell’incomprensione | Nessuna citazione nel testo; retroterra `LAZ-001`, `DAM-001`, `KAH-001` | Mostrare la conseguenza prima dell’antecedente, il corpo in azione, l’attenzione ristretta e il conflitto senza spiegarli subito. | Nessuna. |
+| Ricostruzione di ciò che è accaduto | `LAZ-002`, `KAH-001` come controllo concettuale | Separare fatti osservabili, parole effettive, tono ricordato, significato assegnato e intenzione attribuita. | Nessuna nella scena; eventuale nota finale. |
+| Prima lettura, dubbio ed euristica | `KAH-001`; complemento `LAZ-002` | Spiegare che una scorciatoia cognitiva produce una lettura rapida e spesso utile, ma non necessariamente corretta; introdurre il pensiero critico come trasformazione del verdetto in ipotesi. | Una nota concentrata. |
+| Significato, valori, impegni e obiettivi | `LAZ-001`, `LAZ-002` | Mostrare che la rilevanza emotiva dipende dalla relazione tra evento e ciò che la persona cerca di proteggere; distinguere valori, impegni e obiettivi. | Una o due note. |
+| Risorse reali e percepite | `LAZ-002`, complemento `LAZ-001` | Distinguere condizioni concrete da alternative che la persona riesce a vedere e utilizzare nel momento; evitare che “percepito” significhi irreale. | Una nota. |
+| Il segnale è reale, la causa va verificata | `DAM-001`, `DAM-002`, complemento `DAM-003` | Presentare il corpo come parte del processo decisionale e come fonte di informazione sullo stato dell’organismo, non come certificazione delle intenzioni altrui. | Una o due note. |
+| Come nasce un significato | `BAR-001`, `LAZ-001` | Presentare la teoria delle emozioni costruite come modello distinto; chiarire il ruolo di esperienza, concetti, contesto e segnali corporei con cautele esplicite. | Una nota per la teoria e una per il limite. |
+| Processi rapidi e deliberati | `KAH-001` | Spiegare la distinzione funzionale, l’uso delle euristiche e il fatto che rapidità e lentezza non equivalgono rispettivamente a errore e verità. | Una nota. |
+| Linguaggio, tono e contesto | `LAZ-001`, `BAR-001`; `BOR-001` soltanto applicativo | Mostrare come il significato pragmatico di una frase dipenda anche da tono, relazione e contesto; Borzacchiello non sostiene affermazioni neuroscientifiche. | Leggera. |
+| L’emozione è reale | `LAZ-002`, `KAH-001`, `BAR-001` | Distinguere esperienza, inferenza e intenzione attribuita; non sminuire l’emozione e non trattarla come prova. | Una nota complessiva. |
+| Matrice minima | `LAZ-001`, `LAZ-002`, contributi distinti di `DAM-001` e `KAH-001` | Presentare la sequenza come strumento editoriale di ricostruzione, non come catena causale universale. | Nota sulla natura editoriale. |
+| Esercizio finale | `LAZ-002`, `AFF-003`, `AFF-021`, `AFF-MAT-001` | Chiedere che cosa è accaduto, che cosa è stato aggiunto, quale alternativa non era visibile e quale informazione potrebbe cambiare la valutazione. | Nessuna nel corpo dell’esercizio. |
 
 ## 5.1 Regola narrativa
 
@@ -402,6 +419,11 @@ Le scene narrative devono restare leggibili e non contenere nomi di autori, pare
 - “I segnali corporei possono orientare una decisione senza garantirne la correttezza.”
 - “La distinzione tra processi rapidi e deliberati è un modello funzionale: non descrive due parti anatomiche separate del cervello.”
 - “Un’impressione rapida può essere plausibile senza essere ancora verificata.”
+- “Un’euristica è una scorciatoia utile per produrre una prima lettura; non garantisce che quella lettura sia la più fedele ai fatti.”
+- “Il pensiero critico comincia quando la prima lettura smette di essere un verdetto e diventa un’ipotesi da verificare.”
+- “Le risorse disponibili e quelle che riusciamo a percepire non sempre coincidono.”
+- “Il segnale è reale; la causa che gli attribuiamo e la decisione che ne ricaviamo possono essere imprecise.”
+- “La velocità non è sinonimo di errore; la lentezza non garantisce la verità.”
 - “L’emozione era reale. L’intenzione attribuita a Luca era ancora un’ipotesi.”
 - “La sequenza proposta è una mappa orientativa: nella vita reale i passaggi possono sovrapporsi e influenzarsi reciprocamente.”
 - “Provare un impulso non determina automaticamente il comportamento successivo, anche se le possibilità di scelta dipendono dall’intensità e dal contesto.”
@@ -482,7 +504,7 @@ Le affermazioni controverse devono restare formulate come teorie, ipotesi o inte
 
 ## 9.1 Affermazioni ammesse
 
-La prima stesura può utilizzare `AFF-002`, `AFF-003`, `AFF-005`, `AFF-006`, `AFF-008`, `AFF-009`, `AFF-MAT-001` e `AFF-MAT-002` nelle formulazioni autorizzate.
+Il manoscritto 0.5 può utilizzare `AFF-002`, `AFF-003`, `AFF-005`, `AFF-006`, `AFF-008`, `AFF-009`, `AFF-021`, `AFF-022`, `AFF-023`, `AFF-MAT-001` e `AFF-MAT-002` nelle formulazioni autorizzate.
 
 `AFF-001`, `AFF-004`, `AFF-007` e `AFF-015` sono utilizzabili soltanto con le cautele indicate nella sezione 3.
 
@@ -501,13 +523,34 @@ Devono essere escluse o rinviate:
 ## 9.3 Fonti approvate
 
 **Centrali:** `LAZ-001`, `BAR-001`, `DAM-001`, `KAH-001`.  
-**Complementari:** `LAZ-002`, le due opere consultate sotto `DAM-002`, `BOR-001`.  
+**Complementari:** `LAZ-002`, `DAM-002`, `DAM-003`, `BOR-001`.  
 **Esclusa dal Capitolo 1:** `POR-001`.
 
 ## 9.4 Decisione operativa
 
-Il dossier consente di iniziare `11_MANOSCRITTO_CAPITOLO_1`.
+Il dossier è allineato a `11_MANOSCRITTO_CAPITOLO_1`, versione 0.5, e ne autorizza l’attuale impianto scientifico con le cautele qui registrate.
 
-L’autorizzazione riguarda una **prima stesura prudente e controllata**, non l’approvazione scientifica definitiva del capitolo. Durante la revisione occorrerà verificare coerenza delle parafrasi, note, paginazione e forza di ogni formulazione rispetto a questo dossier.
+L’autorizzazione riguarda il **manoscritto operativo 0.5**, non l’approvazione scientifica definitiva del capitolo. Prima della pubblicazione occorrerà verificare coerenza delle parafrasi, note, paginazione e forza di ogni formulazione rispetto a fonti primarie, revisioni e letteratura critica indipendente.
 
 Il `07_REGISTRO_DELLE_AFFERMAZIONI_SCIENTIFICHE` non richiede correzioni in questa fase: le differenze di sostegno registrate qui precisano l’uso nel solo Capitolo 1 senza modificare le schede generali.
+
+
+## 9.5 Controllo di conformità del manoscritto 0.5
+
+La versione 0.5 risulta coerente con il dossier nei seguenti punti:
+
+- non presenta l’*appraisal* come pensiero verbale obbligatorio;
+- distingue fatti, significato e intenzione attribuita;
+- usa “euristica” come scorciatoia, non come sinonimo di errore;
+- distingue valori, impegni e obiettivi;
+- distingue risorse disponibili e percepite senza negare i vincoli concreti;
+- presenta il corpo come fonte di informazione, non come oracolo;
+- introduce Barrett come teoria e ne dichiara i limiti;
+- presenta Kahneman e Lazarus come contributi a domande diverse;
+- non utilizza Porges né Borzacchiello come fondamento di affermazioni neuroscientifiche forti;
+- mantiene la matrice come sintesi editoriale non lineare.
+
+Restano da completare, in una fase successiva, la selezione delle note finali, il controllo della paginazione editoriale e il confronto con letteratura primaria e revisioni indipendenti.
+
+
+---

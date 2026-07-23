@@ -1155,6 +1155,23 @@ Dovrà diventare più capace di chiedersi:
 
 ---
 
+# 34A. Nota metodologica sulla sequenza narrativa
+
+La sequenza con cui un episodio viene raccontato non deve essere confusa con una sequenza biologica rigida. Nel Capitolo 1, versione 0.5, il lettore incontra prima la conseguenza dell’incomprensione e soltanto dopo ricostruisce l’evento, il significato attribuito e le risposte corporee ed emotive.
+
+Questa inversione è una scelta narrativa *ex abrupto*. Serve a produrre coinvolgimento e a mostrare dall’interno quanto rapidamente una persona possa vivere come certa un’interpretazione ancora incompleta. Non implica che, nel funzionamento reale, fatto, percezione, corpo, significato, emozione e impulso procedano sempre in un ordine lineare.
+
+La matrice resta quindi:
+
+- una mappa retrospettiva;
+- uno strumento per distinguere elementi sovrapposti;
+- una guida per formulare domande;
+- una sintesi editoriale costruita integrando prospettive differenti.
+
+Non deve essere presentata come catena causale universale né come modello unitario attribuibile a un singolo autore.
+
+---
+
 # 35. Stato del documento
 
 Versione: **prima definizione completa della matrice**

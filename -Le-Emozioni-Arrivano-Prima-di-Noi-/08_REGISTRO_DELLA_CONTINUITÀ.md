@@ -1200,7 +1200,7 @@ Prima dell’approvazione verificare:
 
 # 28. Registrazione effettiva: Capitolo 1
 
-Voci aggiornate sulla prima stesura completa; dovranno essere riallineate in caso di revisione narrativa.
+Voci riallineate alla versione 0.5 approvata come riferimento narrativo e stilistico del Capitolo 1.
 
 ## SC-C1-01 — La frase
 
@@ -1291,10 +1291,51 @@ La continuità sarà riuscita se:
 
 ---
 
+# 30A. Affermazioni aggiunte dopo la revisione del Capitolo 1 v0.5
+
+## AFF-021 — Le euristiche possono completare una lettura prima della verifica
+
+**Categoria:** T1/E2 — modello teorico con sostegno sperimentale indiretto nel dossier.  
+**Fonti principali:** `KAH-001`; supporto complementare `LAZ-001`, `LAZ-002`.  
+**Formulazione autorizzata:**
+
+> Quando le informazioni sono incomplete, la mente può costruire rapidamente una prima lettura usando aspettative, associazioni ed euristiche. Questa lettura può essere utile e plausibile, ma non è per questo necessariamente corretta.
+
+**Limiti:** non descrivere le euristiche come errori inevitabili; non affermare che ogni interpretazione interpersonale dipenda da una singola euristica identificabile.  
+**Capitoli:** 1; richiamabile nei capitoli su attenzione, decisione e conflitto.
+
+## AFF-022 — Un segnale corporeo reale non certifica la propria causa
+
+**Categoria:** T1 — sintesi prudente fondata su Damasio e sulla distinzione logica tra esperienza e attribuzione.  
+**Fonti principali:** `DAM-001`, `DAM-002`, `DAM-003`; supporto complementare `LAZ-001`.  
+**Formulazione autorizzata:**
+
+> Il cambiamento corporeo può essere reale e informativo sullo stato dell’organismo, ma non identifica da solo con certezza che cosa lo abbia provocato né quale intenzione avesse un’altra persona.
+
+**Limiti:** non ridurre il corpo a rumore; non presentarlo come oracolo; non negare che, in alcuni casi, la risposta possa corrispondere a un pericolo concreto.  
+**Capitoli:** 1; richiamabile nei capitoli su paura, rabbia e decisione.
+
+## AFF-023 — Risorse disponibili e risorse percepite non coincidono sempre
+
+**Categoria:** T1/E2 — formulazione operativa coerente con appraisal e coping.  
+**Fonti principali:** `LAZ-002`, in particolare secondary appraisal, coping resources e constraints; supporto `LAZ-001`.  
+**Formulazione autorizzata:**
+
+> Una persona può disporre concretamente di tempo, competenze, alleati o possibilità di correzione e, nello stesso momento, non riuscire a percepirli o utilizzarli pienamente. La valutazione delle risorse contribuisce alla risposta emotiva senza annullare le condizioni reali.
+
+**Limiti:** non trasformare ogni difficoltà materiale in errore percettivo; distinguere sempre tra risorsa assente, risorsa presente ma non accessibile e risorsa presente ma non riconosciuta.  
+**Capitoli:** 1; richiamabile nei capitoli su paura, stress, coping e leadership.
+
+---
+
 # 31. Stato del documento
 
-Versione: **1.2 — continuità della gerarchia visiva**
+Versione: **1.3 — continuità narrativa e stilistica**
 
 Data: **19 luglio 2026**
 
-Stato: **operativo e riallineato al Capitolo 1, versione 0.5; da aggiornare dopo ogni capitolo e revisione significativa**
+Stato: **operativo e riallineato al Capitolo 1, versione 0.5 approvata come riferimento; da aggiornare dopo ogni capitolo e revisione significativa**
+
+
+
+---

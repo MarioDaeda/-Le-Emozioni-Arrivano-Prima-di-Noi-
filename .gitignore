@@ -8,3 +8,4 @@ Desktop.ini
 # File temporanei generici
 *.tmp
 *.bak
+.aider*

@@ -6,6 +6,17 @@
 
 ---
 
+## Stato di allineamento
+
+Versione del brief: **1.1 — allineata al manoscritto 0.5**  
+Data: **23 luglio 2026**
+
+La soluzione narrativa approvata sostituisce l’apertura lineare precedentemente prevista. Il capitolo deve iniziare nel pieno dell’incomprensione, mostrando prima la frattura e soltanto dopo gli antecedenti. Il lettore deve ricostruire progressivamente ciò che è accaduto, come in un’indagine.
+
+I dialoghi devono essere autonomi, rapidi e sostenuti da pause, gesti e microazioni. Non vanno introdotti sistematicamente dopo i due punti. La teoria entra soltanto dopo che il lettore ha attraversato la scena e formulato una prima ipotesi.
+
+---
+
 # 1. Funzione del documento
 
 Questo documento definisce il brief operativo del Capitolo 1.
@@ -259,7 +270,9 @@ Deve poter essere interpretata in modi diversi.
 
 ## Obiettivo narrativo
 
-Mostrare la reazione prima di spiegarla.
+Aprire **ex abrupto**, quando la riunione è già compromessa. Il lettore deve incontrare prima la reazione tagliente di Andrea e soltanto dopo ricostruire la proposta di Luca, il rischio economico e il percorso che ha portato allo scontro.
+
+La scena deve funzionare come l'apertura di un giallo: prima il “delitto” relazionale, poi gli indizi e la ricostruzione. L'ordine delle informazioni deve produrre curiosità senza rendere opachi luogo, personaggi e posta in gioco.
 
 ## Lunghezza indicativa
 
@@ -275,6 +288,8 @@ Mostrare la reazione prima di spiegarla.
 - l’attenzione si restringe;
 - Andrea interrompe o risponde in modo freddo;
 - la discussione si sposta dai numeri alla fiducia;
+- i dialoghi sono brevi, incalzanti e disposti in paragrafi autonomi;
+- silenzi, gesti e microazioni scandiscono le battute;
 - la riunione termina senza una vera decisione;
 - il rapporto tra Andrea e Luca si irrigidisce.
 
@@ -300,6 +315,8 @@ Nella scena iniziale non devono comparire:
 - definizioni;
 - spiegazioni teoriche;
 - termini tecnici.
+
+La versione impaginata deve inoltre usare corpo giustificato, rientri uniformi e controllo visivo di vedove e orfane.
 
 ---
 
@@ -1213,6 +1230,9 @@ Verificare:
 
 # 36. Stato del documento
 
-Versione: **brief definitivo per la prima stesura**
+Versione: **1.1 — brief definitivo allineato al manoscritto 0.5**
 
-Stato: **approvabile dopo verifica della coerenza con i documenti precedenti**
+Stato: **approvato come riferimento narrativo e scientifico del Capitolo 1 v0.5**
+
+
+---

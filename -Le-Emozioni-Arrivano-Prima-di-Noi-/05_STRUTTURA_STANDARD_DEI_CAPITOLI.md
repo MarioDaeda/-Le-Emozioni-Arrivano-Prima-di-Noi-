@@ -131,6 +131,16 @@ L’apertura deve contenere:
 
 Le prime righe devono iniziare con un evento.
 
+Quando il capitolo lo permette, l'evento iniziale può essere già una conseguenza: il lettore entra nella scena dopo che il conflitto è cominciato e ricostruisce progressivamente ciò che lo ha provocato. Questa soluzione **ex abrupto** deve aumentare curiosità e partecipazione, non occultare informazioni essenziali in modo artificioso.
+
+La sequenza consigliata è:
+
+1. effetto o frattura già visibile;
+2. indizi concreti;
+3. antecedente immediato;
+4. significato attribuito;
+5. conseguenza narrativa.
+
 ## Esempi di aperture possibili
 
 - una frase pronunciata durante una riunione;
@@ -150,6 +160,10 @@ Le prime righe devono iniziare con un evento.
 - statistiche;
 - presentazioni teoriche;
 - anticipazioni complete del capitolo.
+
+## Regola sui dialoghi nella scena iniziale
+
+Le battute devono comparire di norma in paragrafi autonomi, senza essere introdotte sistematicamente dai due punti. Per dare ritmo, alternare battute brevi, silenzi, gesti e conseguenze immediate. Evitare spiegazioni del narratore che traducano ogni battuta prima che il lettore possa interpretarla.
 
 ---
 
@@ -986,3 +1000,7 @@ Versione: **1.1 — gerarchia visiva dei capitoli**
 Data: **19 luglio 2026**
 
 Stato: **applicata e verificata sul Capitolo 1; vincolante per i capitoli successivi**
+
+
+
+---

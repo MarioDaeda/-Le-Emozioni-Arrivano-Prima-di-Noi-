@@ -18,3 +18,15 @@ Cronologia delle modifiche al progetto editoriale, con data, documento interessa
 | 2026-07-19 | 11_MANOSCRITTO_CAPITOLO_1.md; 10_FONTI_CAPITOLO_1.md; 07_REGISTRO_DELLE_AFFERMAZIONI_SCIENTIFICHE.md; 08_REGISTRO_DELLA_CONTINUITÀ.md; 12_NOTE_DI_REVISIONE_CAPITOLO_1.md | Prodotta la versione 0.4 del capitolo: chiarita la crescita dell’azienda, reso esplicito il significato attribuito ai gesti, introdotti euristica e avvio del pensiero critico, distinti valori, obiettivi, risorse reali e percepite, e riformulato il rapporto tra segnali corporei e cause; aggiunta `AFF-006A` e riallineati dossier, continuità e note di revisione | Integrare le osservazioni editoriali mantenendo distinte le teorie e rispettando i limiti scientifici del dossier |
 | 2026-07-19 | 11_MANOSCRITTO_CAPITOLO_1.md; 03_GUIDA_STILISTICA.md; 12_NOTE_DI_REVISIONE_CAPITOLO_1.md | Prodotta la versione 0.5: applicato un grassetto selettivo a formule-cardine, distinzioni scientifiche e svolte narrative; introdotta nella guida stilistica una regola generale sulla gerarchia visiva e aggiornata la verifica editoriale | Facilitare il riconoscimento dei concetti centrali senza appesantire la prosa o aumentare artificialmente la certezza delle affermazioni |
 | 2026-07-19 | 00_GUIDA_GENERALE_DEL_PROGETTO.md; 05_STRUTTURA_STANDARD_DEI_CAPITOLI.md; 08_REGISTRO_DELLA_CONTINUITÀ.md | Estesa ai capitoli successivi la regola sul grassetto selettivo: definiti momento di applicazione, criteri, densità indicativa, checklist e continuità tra capitoli | Rendere stabile e verificabile la gerarchia visiva introdotta nel Capitolo 1, evitando applicazioni incoerenti o meccaniche |
+| 2026-07-23 | 11_MANOSCRITTO_CAPITOLO_1.md; 03_GUIDA_STILISTICA.md; 05_STRUTTURA_STANDARD_DEI_CAPITOLI.md; 08_REGISTRO_DELLA_CONTINUITÀ.md; 09_BRIEF_CAPITOLO_1.md; 12_NOTE_DI_REVISIONE_CAPITOLO_1.md | Approvata e sincronizzata la versione 0.5: apertura ex abrupto, ricostruzione ritardata del conflitto, dialoghi più rapidi e autonomi, revisione grammaticale e tipografica, testo giustificato e controllo di vedove e orfane | Usare il Capitolo 1 v0.5 come riferimento narrativo, stilistico e tipografico per i capitoli successivi |
+
+
+
+---
+
+## Aggiornamento di coerenza del 23 luglio 2026
+
+- sincronizzati `06_REGISTRO_DELLE_FONTI`, `07_REGISTRO_DELLE_AFFERMAZIONI_SCIENTIFICHE`, `09_BRIEF_CAPITOLO_1` e `10_FONTI_CAPITOLO_1`;
+- corretta la collisione con i codici generali già esistenti `AFF-010`, `AFF-011` e `AFF-012`;
+- assegnati alle nuove affermazioni del Capitolo 1 i codici univoci `AFF-021`, `AFF-022` e `AFF-023`;
+- confermata la distinzione tra scelte narrative e affermazioni scientifiche.

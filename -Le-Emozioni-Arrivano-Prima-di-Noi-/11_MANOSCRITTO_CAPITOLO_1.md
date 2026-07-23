@@ -1,8 +1,10 @@
-11 — MANOSCRITTO CAPITOLO 1
+# 11 — MANOSCRITTO CAPITOLO 1
 
-Versione: 0.5 — revisione narrativa, grammaticale e tipograficaData: 22 luglio 2026Stato: revisionato, da approvare
+Versione: **0.5 — revisione narrativa, grammaticale e tipografica**  
+Data: **22 luglio 2026**  
+Stato: **revisionato, da approvare**
 
-Capitolo 1 — Le emozioni non arrivano a caso
+# Capitolo 1 — Le emozioni non arrivano a caso
 
 «Se hai trovato un errore, dillo.»
 
@@ -90,9 +92,9 @@ La scena era incompleta e la sua mente l’aveva terminata con materiali già pr
 
 Quando tutti furono usciti, Andrea rimase davanti allo schermo spento. La riunione non aveva prodotto un rifiuto, né la prova di un errore. Eppure gli sembrava che qualcosa fosse accaduto davvero. Luca aveva messo in discussione la sua competenza nel momento in cui l’azienda aveva più bisogno di una guida chiara.
 
-Il fastidio non si era attenuato. Si era organizzato in una conclusione.
+Il fastidio non si era attenuato. **Si era organizzato in una conclusione.**
 
-«Ha cercato di screditarmi»
+## «Ha cercato di screditarmi»
 
 Quella sera Andrea raccontò tutto a Elena in cucina. Lei stava tagliando il pane; lui, ancora in camicia, camminava tra il tavolo e la finestra. Non cominciò dal progetto. Cominciò da Luca.
 
@@ -148,9 +150,9 @@ Andrea ricostruì la scena. Luca non aveva sorriso. Non aveva alzato la voce. Av
 
 Non era un’assoluzione per Luca. Non era nemmeno una smentita di Andrea. Era una piccola separazione tra due elementi che, nel suo racconto, erano diventati una cosa sola: le parole pronunciate da Luca e il significato che Andrea aveva attribuito loro.
 
-L’intenzione di ridurre la sua autorità non era un fatto osservato. Era una conclusione ancora da verificare.
+**L’intenzione di ridurre la sua autorità non era un fatto osservato. Era una conclusione ancora da verificare.**
 
-Una telecamera nella stanza
+## Una telecamera nella stanza
 
 Elena gli versò dell’acqua.
 
@@ -174,7 +176,7 @@ La collega poteva davvero essere d’accordo con Luca. Andrea, però, non lo ave
 
 Le parole di Luca erano un fatto. Il momento e il tono facevano parte del fatto, anche se erano più difficili da descrivere con precisione. «Vuole proteggere l’azienda» era una possibile lettura. «Vuole indebolirmi» era un’altra. Entrambe erano compatibili con la scena. Non per questo erano equivalenti, né ugualmente probabili. Servivano altre informazioni.
 
-Plausibile non significa ancora accertato.
+**Plausibile non significa ancora accertato.**
 
 Andrea non cambiò idea quella sera. Il dubbio si aprì in un punto preciso. Conosceva le parole pronunciate da Luca, ma non conosceva ancora la sua intenzione. Poteva raccontare con certezza la richiesta di un controllo esterno; non poteva essere altrettanto certo che Luca volesse ridurre la sua autorità.
 
@@ -182,23 +184,23 @@ Non sostituì la prima interpretazione con una versione più rassicurante. Le as
 
 Il pensiero critico cominciava da lì: non dal pensare il contrario, ma dal distinguere ciò che sapeva da ciò che aveva concluso. Andrea smise di raccontare l’intenzione di Luca con la stessa certezza con cui raccontava la frase pronunciata.
 
-Il processo invisibile
+## Il processo invisibile
 
 Quando diciamo che una persona ci ha fatto arrabbiare, spesso comprimiamo in poche parole un processo molto più ricco. Non è una menzogna. È una scorciatoia nel racconto. A volte riflette anche una scorciatoia mentale: un’euristica, cioè un modo rapido di dare significato a una situazione usando pochi elementi insieme a ricordi, aspettative e conoscenze precedenti.
 
 Le euristiche non sono difetti. Ci permettono di orientarci velocemente e spesso funzionano. Ma, come ogni scorciatoia, possono farci arrivare prima senza condurci necessariamente nel posto giusto. Producono rapidamente una prima lettura della realtà; non garantiscono che sia quella più fedele ai fatti.
 
-Il pensiero critico comincia quando la prima lettura smette di essere un verdetto e diventa un’ipotesi da verificare.
+**Il pensiero critico comincia quando la prima lettura smette di essere un verdetto e diventa un’ipotesi da verificare.**
 
 Nel caso di Andrea, la frase non era entrata in una stanza vuota. Aveva incontrato settimane di lavoro, una responsabilità economica concreta, il timore di perdere il momento giusto, poche ore di sonno e una storia professionale costruita anche dimostrando di saper vedere ciò che altri non vedevano. Aveva incontrato il suo bisogno di restare alla guida e la sua sensibilità a essere giudicato davanti ai collaboratori.
 
 Per questo la proposta di Luca non era soltanto una proposta. Per Andrea poteva significare che il suo controllo non bastava. Se quel significato si fosse confermato, la posta in gioco non sarebbe stata un calcolo da correggere, ma la sua credibilità. La reazione diventava comprensibile senza diventare inevitabile, e senza trasformare Luca nel colpevole perfetto o Andrea nella vittima di un difetto caratteriale.
 
-Nella tradizione dell’appraisal, sviluppata tra gli altri da Richard Lazarus, una situazione assume rilevanza emotiva in rapporto a ciò che per una persona conta. Valori, impegni e obiettivi non sono la stessa cosa. I valori possono orientare in modo più stabile; gli impegni legano ciò che conta a ruoli e responsabilità; gli obiettivi descrivono ciò che, in una situazione concreta, cerchiamo di ottenere o proteggere.
+Nella tradizione dell’*appraisal*, sviluppata tra gli altri da Richard Lazarus, una situazione assume rilevanza emotiva in rapporto a ciò che per una persona conta. Valori, impegni e obiettivi non sono la stessa cosa. I valori possono orientare in modo più stabile; gli impegni legano ciò che conta a ruoli e responsabilità; gli obiettivi descrivono ciò che, in una situazione concreta, cerchiamo di ottenere o proteggere.
 
-In questo capitolo gli obiettivi non sono una lista che la mente consulta prima di reagire. Sono indizi che possiamo usare dopo, per riconoscere che cosa fosse in gioco. Non rispondiamo soltanto alla descrizione esterna dell’evento, ma anche alla relazione tra quell’evento e ciò che abbiamo imparato a considerare importante.
+In questo capitolo gli obiettivi non sono una lista che la mente consulta prima di reagire. Sono indizi che possiamo usare dopo, per riconoscere che cosa fosse in gioco. **Non rispondiamo soltanto alla descrizione esterna dell’evento, ma anche alla relazione tra quell’evento e ciò che abbiamo imparato a considerare importante.**
 
-Il termine appraisal viene spesso tradotto con valutazione, ma può trarre in inganno se immaginiamo una riunione interiore ordinata, durante la quale elenchiamo pro e contro prima di provare qualcosa. Molte valutazioni possono essere rapide, automatiche e difficili da esprimere a parole. Usano associazioni apprese, aspettative e tracce dell’esperienza precedente; non sono ricordi immobili, né un ragionamento completo svolto in segreto.
+Il termine *appraisal* viene spesso tradotto con *valutazione*, ma può trarre in inganno se immaginiamo una riunione interiore ordinata, durante la quale elenchiamo pro e contro prima di provare qualcosa. Molte valutazioni possono essere rapide, automatiche e difficili da esprimere a parole. Usano associazioni apprese, aspettative e tracce dell’esperienza precedente; non sono ricordi immobili, né un ragionamento completo svolto in segreto.
 
 Andrea non aveva formulato con calma una frase come «La mia autorità è in pericolo, quindi proverò irritazione e mi preparerò a difendermi». Eppure la sua attenzione si era ristretta sui segnali compatibili con quella possibilità; il corpo si era teso; l’impulso a interrompere e riprendere il controllo era comparso con coerenza.
 
@@ -208,11 +210,11 @@ Andrea aveva almeno tre possibilità concrete: chiedere chiarimenti, accettare i
 
 Riconoscere questo processo non equivale a trovare una causa unica. Un episodio emotivo può contenere più valutazioni e più emozioni: irritazione per il modo, paura per il rischio, vergogna anticipata davanti al gruppo, perfino sollievo all’idea che qualcun altro condivida la responsabilità. Nel momento, una componente può occupare quasi tutto il campo. Le altre diventano visibili soltanto dopo, ammesso che lo diventino.
 
-Questo non dimostra che la lettura di Andrea fosse falsa. Spiega perché gli fosse sembrata ovvia.
+Questo non dimostra che la lettura di Andrea fosse falsa. **Spiega perché gli fosse sembrata ovvia.**
 
 Ripensandoci, Andrea riusciva ancora a sentire i palmi premuti sul tavolo. La conclusione su Luca non gli era apparsa come un’ipotesi. Aveva avuto il peso immediato di un fatto.
 
-Il segnale è reale, la causa va verificata
+## Il segnale è reale, la causa va verificata
 
 La mandibola contratta, il calore sul viso e il respiro trattenuto non erano dettagli decorativi. Facevano parte dell’episodio. In un senso limitato ma importante, il corpo aveva ragione: qualcosa stava accadendo davvero dentro Andrea. Non stava inventando la tensione.
 
@@ -220,13 +222,13 @@ Quel segnale, però, non conteneva la propria spiegazione. La mandibola non pote
 
 Il lavoro di Antonio Damasio ha contribuito a mettere in discussione una separazione rigida tra corpo, emozione, ragionamento e decisione. È questo il motivo per cui entra qui. Ciò che sentiamo può orientare l’attenzione, segnalare priorità e restringere o ampliare le opzioni che percepiamo. Pensare bene non significa eliminare il corpo per lasciare il comando a una ragione separata. Significa usare anche quei segnali senza trasformarli in verdetti.
 
-Una gola chiusa può accompagnare un pericolo presente, il ricordo di un’umiliazione, una previsione sbagliata o una giornata di esaurimento. Il segnale è reale; la causa che gli attribuiamo e la decisione che ne ricaviamo possono essere imprecise.
+Una gola chiusa può accompagnare un pericolo presente, il ricordo di un’umiliazione, una previsione sbagliata o una giornata di esaurimento. **Il segnale è reale; la causa che gli attribuiamo e la decisione che ne ricaviamo possono essere imprecise.**
 
 Prendere sul serio il corpo significa ascoltare un’informazione sul nostro stato, non usarla come certificazione delle intenzioni altrui. Il corpo ci informa che qualcosa sta accadendo; siamo noi a dover verificare che cosa significhi e come rispondere.
 
 Andrea, in quella riunione, non aveva prima ricevuto una verità dal corpo e poi una spiegazione dalla mente. L’episodio coinvolgeva insieme percezione, memoria, stato fisico, significato e preparazione all’azione. Separiamo questi elementi per capirli; nella vita, spesso si influenzano mentre accadono.
 
-Come nasce un significato
+## Come nasce un significato
 
 Secondo la teoria delle emozioni costruite proposta da Lisa Feldman Barrett, l’esperienza emotiva dipende anche dal modo in cui il cervello, usando esperienze precedenti, concetti, contesto e segnali provenienti dal corpo, dà significato a ciò che sta accadendo. È un modello teorico influente, non una conclusione definitiva sulla quale l’intera ricerca sulle emozioni concorda in ogni aspetto.
 
@@ -240,19 +242,19 @@ Anche la distinzione resa popolare da Daniel Kahneman tra processi rapidi e proc
 
 I processi rapidi ci permettono di capire una frase, riconoscere un’espressione e reagire a un imprevisto senza ricominciare ogni volta da zero. Sono indispensabili. Possono però completare informazioni mancanti usando aspettative, associazioni ed euristiche. Il ragionamento deliberato può verificare una prima impressione, ma può anche difenderla con grande abilità.
 
-La velocità non è sinonimo di errore; la lentezza non garantisce la verità.
+**La velocità non è sinonimo di errore; la lentezza non garantisce la verità.**
 
-Qui Kahneman non sostituisce Lazarus. La distinzione tra processi rapidi e deliberati aiuta a descrivere la velocità e l’automaticità di alcune operazioni; l’appraisal aiuta a chiedersi che cosa abbia reso la situazione emotivamente rilevante. Sono contributi a domande diverse, non parti di un’unica teoria.
+Qui Kahneman non sostituisce Lazarus. La distinzione tra processi rapidi e deliberati aiuta a descrivere la velocità e l’automaticità di alcune operazioni; l’*appraisal* aiuta a chiedersi che cosa abbia reso la situazione emotivamente rilevante. Sono contributi a domande diverse, non parti di un’unica teoria.
 
 Nel linguaggio applicativo e nelle relazioni è utile osservare come parole, tono, contesto e significati attribuiti cambino l’effetto di un messaggio. Autori divulgativi come Paolo Borzacchiello offrono esempi e strumenti pratici su questi aspetti. Possono aiutare a costruire una domanda o a notare l’effetto di una formulazione; non bastano, però, a dimostrare un’affermazione neuroscientifica.
 
 In cucina, Andrea ripeté a voce più bassa la frase di Luca. Senza la pausa e la durezza che ricordava, suonava quasi prudente. Non concluse che quella fosse la lettura giusta. Notò soltanto quanto il modo di pronunciarla orientasse il significato che lui le attribuiva.
 
-L’emozione è reale
+## L’emozione è reale
 
 Andrea era irritato. La tensione alla mandibola era reale. Il desiderio di chiudere la discussione era reale. Anche il suo comportamento aveva avuto effetti reali: Luca si era ritirato dalla conversazione, gli altri avevano smesso di esplorare apertamente i dubbi e la decisione era stata rinviata.
 
-L’emozione era reale. L’intenzione attribuita a Luca era ancora un’ipotesi.
+**L’emozione era reale. L’intenzione attribuita a Luca era ancora un’ipotesi.**
 
 Questa distinzione non serve a sminuire ciò che proviamo. Serve a evitare che l’intensità dell’esperienza diventi, da sola, la prova di una conclusione. Posso sentirmi escluso e avere ragione: qualcuno potrebbe avermi escluso davvero. Posso sentirmi escluso perché non ho ricevuto una risposta che, per ragioni estranee a me, non poteva arrivare. Posso trovarmi davanti a indizi ambigui.
 
@@ -264,7 +266,7 @@ La domanda utile non era quale versione lo facesse stare meglio. Doveva chieders
 
 L’emozione contiene una direzione. L’irritazione di Andrea lo spingeva a difendere un confine, riprendere il controllo e interrompere ciò che percepiva come un attacco. L’impulso non coincideva, però, con l’unico comportamento possibile. Tra il sentirsi spinto e l’agire esiste talvolta uno spazio piccolo, incostante, ma allenabile. Quel giorno Andrea non lo aveva usato. La conversazione con Elena gliene aveva restituito una parte.
 
-La stessa frase, significati diversi
+## La stessa frase, significati diversi
 
 Immaginiamo di ascoltare, in una riunione, «Prima di procedere, facciamo un altro controllo». Può significare prudenza, sfiducia, rispetto di una procedura, bisogno di tempo, timore di assumersi una responsabilità o tentativo di ostacolare una decisione. Il ruolo di chi parla, i precedenti, il tono e il momento rendono alcune letture più probabili di altre.
 
@@ -274,13 +276,13 @@ Un figlio adolescente chiude la porta della camera. Un genitore può leggerlo co
 
 Un amico passa dall’altra parte della strada e non saluta. Forse non ci ha visto. Forse è assorto. Forse ci evita. Se la settimana prima abbiamo litigato, l’ultima ipotesi acquista peso; non diventa automaticamente certa. Se succede cinque volte, l’equilibrio cambia ancora.
 
-Il punto non è moltiplicare interpretazioni fino a rendere impossibile ogni giudizio. Alcune condotte sono chiare; alcune persone mentono, manipolano, aggrediscono o si sottraggono alle responsabilità. Distinguere fatto e significato non ci chiede di essere indulgenti. Ci chiede di proporzionare la certezza alle prove disponibili.
+Il punto non è moltiplicare interpretazioni fino a rendere impossibile ogni giudizio. Alcune condotte sono chiare; alcune persone mentono, manipolano, aggrediscono o si sottraggono alle responsabilità. **Distinguere fatto e significato non ci chiede di essere indulgenti. Ci chiede di proporzionare la certezza alle prove disponibili.**
 
-Una mappa minima
+## Una mappa minima
 
 Per osservare ciò che accade possiamo usare una sequenza semplice:
 
-Fatto → significato attribuito → emozione → impulso → comportamento → conseguenza
+**Fatto → significato attribuito → emozione → impulso → comportamento → conseguenza**
 
 Nel caso di Andrea, il fatto comprendeva la proposta di una verifica esterna, formulata da Luca in riunione. Il significato attribuito era che Luca non si fidasse di lui e volesse indebolire la sua autorità. L’emozione prevalente era l’irritazione, insieme a una quota di allarme. L’impulso era difendersi e riprendere il controllo. Il comportamento fu rispondere in modo tagliente e chiudere lo spazio di esplorazione. La conseguenza fu una riunione più povera, il ritiro di Luca e il rinvio della decisione.
 
@@ -288,13 +290,13 @@ Questa sequenza non è una teoria scientifica nuova e non pretende di descrivere
 
 La mappa non è uno strumento diagnostico e non promette un cambiamento istantaneo. Serve a orientarsi. Come una cartina, omette molti dettagli per rendere visibile una relazione che, durante l’esperienza, tende a restare compressa.
 
-La prima domanda
+## La prima domanda
 
 La prima domanda non è come smettere di provare l’emozione. Non è nemmeno come trovare subito un pensiero positivo.
 
 È questa:
 
-Che cosa è accaduto realmente e che cosa sto aggiungendo io?
+**Che cosa è accaduto realmente e che cosa sto aggiungendo io?**
 
 «Aggiungendo» non significa inventando. Significa portando nell’episodio ricordi, aspettative, timori, obiettivi e ipotesi necessarie per comprenderlo. Senza questo lavoro non potremmo muoverci nel mondo. Il problema nasce quando perdiamo la distinzione tra i dati e la storia che li organizza.
 
@@ -302,7 +304,7 @@ Possiamo poi chiederci che cosa abbiamo notato per primo, che cosa fosse in gioc
 
 L’alternativa non deve essere benevola. Se qualcuno ha violato un accordo, la lettura alternativa non è necessariamente che «avrà avuto le sue ragioni». Può darsi che non sappiamo ancora se la violazione sia stata intenzionale, negligente o inevitabile. A volte la verifica confermerà il rischio. In quel caso distinguere i passaggi rende la risposta più precisa, non più debole.
 
-Tornare nella stanza
+## Tornare nella stanza
 
 La mattina dopo Andrea chiese a Luca di entrare nel suo ufficio. Aveva preparato una frase neutra. Quando lo vide sedersi, però, sentì tornare la tensione. Comprendere una distinzione non l’aveva cancellata.
 
@@ -350,7 +352,7 @@ La frase punse più della precedente, ma questa volta conteneva un’informazion
 
 Luca riaprì il quaderno. Indicò i costi di avviamento e il ritardo con cui il nuovo cliente avrebbe potuto generare ricavi. Ne parlarono per venti minuti. Emersero due voci da controllare, non errori certi. Concordarono una verifica esterna limitata, senza riaprire l’intero piano. La decisione finale restò rinviata al giorno seguente.
 
-La domanda non aveva reso la conversazione più comoda. L’aveva resa più difficile da liquidare.
+La domanda non aveva reso la conversazione più comoda. **L’aveva resa più difficile da liquidare.**
 
 Adesso Andrea possedeva elementi che non favorivano interamente né la sua versione né quella di Luca. La richiesta aveva una ragione operativa, ma Luca aveva aspettato la riunione. Andrea aveva verificato con scrupolo, ma aveva reso faticoso esprimere dubbi prima.
 
@@ -366,46 +368,37 @@ Andrea annuì.
 
 Non si strinsero la mano, non risolsero il loro rapporto e non scoprirono una versione pura dei fatti. Luca continuava a pensare che Andrea accentrasse troppo. Andrea continuava a sospettare che il dubbio fosse arrivato tardi anche per ragioni di potere. Avevano però trasformato una certezza sulle intenzioni in una conversazione su rischi, ruoli e comportamenti osservabili.
 
-Andrea non aveva smesso di essere irritato. Aveva smesso, almeno per qualche minuto, di trattare la propria irritazione come una prova.
+Andrea non aveva smesso di essere irritato. **Aveva smesso, almeno per qualche minuto, di trattare la propria irritazione come una prova.**
 
-Mettilo in pratica
+# Mettilo in pratica
 
 Scegli un episodio recente in cui hai reagito rapidamente a una frase, un silenzio o un gesto. Non partire dall’episodio più doloroso della tua vita. Usa una situazione abbastanza importante da essere reale, ma abbastanza circoscritta da poterla osservare.
 
 Scrivi sette righe:
 
-Fatto. Che cosa potrebbe descrivere una telecamera o registrare un audio? Includi parole, azioni, tempi e contesto, evitando per ora le intenzioni.
-
-Elemento notato. Quale dettaglio ha catturato la tua attenzione: una parola, un tono, un’espressione, un’assenza, un ritardo?
-
-Significato attribuito. Che cosa hai concluso su di te, sull’altra persona o su ciò che stava per accadere?
-
-Emozione e impulso. Che cosa hai provato e verso quale azione ti sei sentito spinto?
-
-Comportamento. Che cosa hai fatto davvero, anche se è stato restare in silenzio o rimandare?
-
-Conseguenza. Che cosa è cambiato subito e che cosa è rimasto dopo?
-
-Spiegazione alternativa plausibile. Quale altra lettura è compatibile con i fatti disponibili?
+1. **Fatto.** Che cosa potrebbe descrivere una telecamera o registrare un audio? Includi parole, azioni, tempi e contesto, evitando per ora le intenzioni.
+2. **Elemento notato.** Quale dettaglio ha catturato la tua attenzione: una parola, un tono, un’espressione, un’assenza, un ritardo?
+3. **Significato attribuito.** Che cosa hai concluso su di te, sull’altra persona o su ciò che stava per accadere?
+4. **Emozione e impulso.** Che cosa hai provato e verso quale azione ti sei sentito spinto?
+5. **Comportamento.** Che cosa hai fatto davvero, anche se è stato restare in silenzio o rimandare?
+6. **Conseguenza.** Che cosa è cambiato subito e che cosa è rimasto dopo?
+7. **Spiegazione alternativa plausibile.** Quale altra lettura è compatibile con i fatti disponibili?
 
 L’ultima spiegazione non deve essere positiva, rassicurante o indulgente. Deve soltanto rispettare ciò che sai. Se non ne trovi una credibile, scrivi quali informazioni ti servirebbero per verificare la prima lettura. Lo scopo non è convincerti che hai torto. È riconoscere dove finiscono i dati e dove comincia l’ipotesi.
 
-Da ricordare
+# Da ricordare
 
-Le emozioni possono sembrare improvvise senza essere prive di una logica.
-
-Non reagiamo soltanto ai fatti: contano anche ciò che notiamo e il significato che la situazione assume per noi.
-
-L’esperienza emotiva è reale; la sua interpretazione può essere incompleta o fallibile.
-
-Una prima lettura rapida può essere utile senza diventare, per questo, un verdetto sulla realtà.
-
-I segnali corporei sono informazioni reali sul nostro stato; non provano da soli la causa né l’intenzione altrui.
-
-Distinguere fatto e significato non elimina l’emozione e non assolve automaticamente nessuno; aumenta le possibilità di verifica e di scelta.
+- Le emozioni possono sembrare improvvise senza essere prive di una logica.
+- Non reagiamo soltanto ai fatti: contano anche ciò che notiamo e il significato che la situazione assume per noi.
+- L’esperienza emotiva è reale; la sua interpretazione può essere incompleta o fallibile.
+- Una prima lettura rapida può essere utile senza diventare, per questo, un verdetto sulla realtà.
+- I segnali corporei sono informazioni reali sul nostro stato; non provano da soli la causa né l’intenzione altrui.
+- Distinguere fatto e significato non elimina l’emozione e non assolve automaticamente nessuno; aumenta le possibilità di verifica e di scelta.
 
 Abbiamo cominciato da un’irritazione e abbiamo scoperto che conteneva responsabilità, paura di perdere il controllo, segnali corporei, abitudini di attenzione e una storia sul significato di una frase. Nel prossimo capitolo sposteremo la domanda: non più soltanto da dove arriva un’emozione, ma che cosa ci porta a fare.
 
 Se le emozioni possiedono una logica, perché alcune ci fanno stare bene e altre male?
 
-Il Capitolo 2 parte da qui: Piacevole non significa utile.
+Il Capitolo 2 parte da qui: **Piacevole non significa utile**.
+
+---

@@ -1372,3 +1372,8 @@ Versione: **prima struttura completa del registro**
 Stato: **operativo ma non ancora scientificamente verificato**
 
 Le schede iniziali costituiscono una base di lavoro. Le formulazioni definitive potranno essere utilizzate soltanto dopo la verifica delle fonti.
+
+
+
+
+---

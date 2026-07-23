@@ -993,3 +993,8 @@ Dopo l’approvazione occorrerà:
 2. verificare i dati bibliografici segnati “da verificare”;
 3. avviare la ricerca accademica specifica soltanto per il primo capitolo approvato;
 4. non iniziare la stesura finché non saranno soddisfatti i criteri della sezione 17.
+
+
+
+
+---

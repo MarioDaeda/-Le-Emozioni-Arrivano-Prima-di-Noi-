@@ -1364,6 +1364,21 @@ Prima di approvare una fonte, verificare:
 
 ---
 
+# 23A. Allineamento operativo al Capitolo 1 v0.5
+
+Per il Capitolo 1 il registro deve considerare esplicitamente i seguenti impieghi delle fonti:
+
+- **Lazarus e Lazarus–Folkman:** significato relazionale, rilevanza rispetto a obiettivi e impegni, valutazioni rapide o non verbalizzate, distinzione tra condizioni concrete e possibilità percepite di azione;
+- **Kahneman:** euristiche, completamento rapido delle informazioni mancanti, sicurezza soggettiva non equivalente a correttezza, distinzione funzionale tra processi automatici e deliberati;
+- **Damasio:** partecipazione dello stato corporeo all’esperienza e alla decisione, senza attribuire al corpo capacità infallibile di identificare la causa;
+- **Barrett:** ruolo proposto di esperienza precedente, contesto, concetti, predizione e segnali corporei nella costruzione dell’esperienza emotiva, presentato come modello teorico e non come consenso definitivo.
+
+La scelta di apertura *ex abrupto*, la ricostruzione differita dell’episodio e il ritmo dei dialoghi appartengono al livello editoriale. Non devono essere registrati come risultati scientifici.
+
+Le nuove affermazioni specifiche del Capitolo 1 sono registrate nel `07_REGISTRO_DELLE_AFFERMAZIONI_SCIENTIFICHE` con i codici `AFF-021`, `AFF-022` e `AFF-023`.
+
+---
+
 # 24. Stato del documento
 
 Versione: **struttura iniziale e registro provvisorio**
@@ -1371,3 +1386,8 @@ Versione: **struttura iniziale e registro provvisorio**
 Stato: **da completare attraverso ricerca bibliografica e verifica delle opere originali**
 
 Le schede presenti non autorizzano ancora l’uso definitivo delle fonti.
+
+
+
+
+---
