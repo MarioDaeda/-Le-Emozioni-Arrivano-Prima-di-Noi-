@@ -9,3 +9,6 @@ Desktop.ini
 *.tmp
 *.bak
 .aider*
+
+# Progetto separato
+/AL-database/
