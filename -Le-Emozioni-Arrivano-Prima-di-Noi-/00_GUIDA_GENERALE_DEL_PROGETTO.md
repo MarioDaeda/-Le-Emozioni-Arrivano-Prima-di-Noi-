@@ -1,8 +1,8 @@
 # 00 — GUIDA GENERALE DEL PROGETTO
 
-Versione: **1.3 — allineamento scientifico Capitolo 1 v0.5**
+Versione: **1.4 — riallineamento editoriale e scientifico al Capitolo 1 v0.4.1**
 
-Ultimo aggiornamento: **19 luglio 2026**
+Ultimo aggiornamento: **30 luglio 2026**
 
 ## Titolo provvisorio
 

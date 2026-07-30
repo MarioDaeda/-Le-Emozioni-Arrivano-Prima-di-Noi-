@@ -2,9 +2,9 @@
 
 ## Le emozioni non arrivano a caso
 
-Versione: **1.1 — allineata al manoscritto 0.5**  
-Data: **23 luglio 2026**  
-Stato: **approvato come dossier scientifico operativo del Capitolo 1 v0.5**
+Versione: **1.2 — riallineata al manoscritto 0.4.1**
+Data: **30 luglio 2026**
+Stato: **dossier scientifico operativo aggiornato; manoscritto da approvare**
 
 ---
 
@@ -24,7 +24,7 @@ Il dossier serve a stabilire:
 
 Non è una bibliografia generale e non sostituisce il `06_REGISTRO_DELLE_FONTI`. Registra soltanto la selezione operativa per il Capitolo 1.
 
-La versione 1.1 recepisce la stesura 0.5 del manoscritto. Oltre a verificare la correttezza delle affermazioni scientifiche, registra il modo effettivo in cui i concetti sono stati usati nella narrazione: apertura *ex abrupto*, ricostruzione progressiva dell’incomprensione, distinzione tra fatto osservabile e significato attribuito, ruolo delle euristiche, differenza tra risorse reali e percepite e principio secondo cui il segnale corporeo è reale mentre la causa richiede verifica.
+La versione 1.2 recepisce la stesura 0.4.1 del manoscritto e la revisione critica del 30 luglio 2026. Registra il modo effettivo in cui i concetti sono usati nella narrazione: apertura cronologica alle 10:17, distinzione tra fatto osservabile e significato attribuito, ruolo delle euristiche, differenza tra risorse reali e percepite e principio secondo cui il segnale corporeo è reale mentre la causa richiede verifica.
 
 ## 1.1 Perimetro approvato
 
@@ -384,11 +384,11 @@ Le affermazioni neurochimiche o causali presenti, per esempio alle PDF pp. 15-23
 
 ---
 
-# 5. Mappa fonti–sezioni effettive della versione 0.5
+# 5. Mappa fonti–sezioni effettive della versione 0.4.1
 
-| Sezione del manoscritto 0.5 | Fonti da usare | Uso operativo | Densità delle citazioni |
+| Sezione del manoscritto 0.4.1 | Fonti da usare | Uso operativo | Densità delle citazioni |
 |---|---|---|---|
-| Apertura *ex abrupto* e scena dell’incomprensione | Nessuna citazione nel testo; retroterra `LAZ-001`, `DAM-001`, `KAH-001` | Mostrare la conseguenza prima dell’antecedente, il corpo in azione, l’attenzione ristretta e il conflitto senza spiegarli subito. | Nessuna. |
+| “L’evento” e scena dell’incomprensione | Nessuna citazione nel testo; retroterra `LAZ-001`, `DAM-001`, `KAH-001` | Mostrare in ordine narrativo la posta economica, la frase di Luca, il corpo in azione, l’attenzione ristretta e il conflitto senza spiegarli subito. | Nessuna. |
 | Ricostruzione di ciò che è accaduto | `LAZ-002`, `KAH-001` come controllo concettuale | Separare fatti osservabili, parole effettive, tono ricordato, significato assegnato e intenzione attribuita. | Nessuna nella scena; eventuale nota finale. |
 | Prima lettura, dubbio ed euristica | `KAH-001`; complemento `LAZ-002` | Spiegare che una scorciatoia cognitiva produce una lettura rapida e spesso utile, ma non necessariamente corretta; introdurre il pensiero critico come trasformazione del verdetto in ipotesi. | Una nota concentrata. |
 | Significato, valori, impegni e obiettivi | `LAZ-001`, `LAZ-002` | Mostrare che la rilevanza emotiva dipende dalla relazione tra evento e ciò che la persona cerca di proteggere; distinguere valori, impegni e obiettivi. | Una o due note. |
@@ -452,6 +452,12 @@ Le scene narrative devono restare leggibili e non contenere nomi di autori, pare
 - “La neurocezione rileva infallibilmente il pericolo.”
 - “Le parole producono specifici ormoni o neurotrasmettitori.”
 - “La matrice dimostra scientificamente come funzionano tutte le emozioni.”
+- “I cinque sensi corrispondono al VAK.”
+- “Tutte le emozioni spiacevoli sono ricordi non elaborati.”
+- “L’EMDR è una ristrutturazione cognitiva generale che si può applicare senza competenze cliniche.”
+- “Contenuto significa logica, relazione significa emozione.”
+- “Contenuto e relazione si intersecano soltanto per il 20%.”
+- “Emozione significa energia e logica significa informazione.”
 
 ---
 
@@ -498,13 +504,25 @@ Le affermazioni controverse devono restare formulate come teorie, ipotesi o inte
 - *The Polyvagal Theory* è una conversione: la paginazione non deve essere usata per citazioni definitive senza controllo.
 - Per la prima stesura sono preferite parafrasi tracciabili; le citazioni testuali potranno essere selezionate in revisione.
 
+## 8.4 Riferimenti valutati ma non integrati
+
+La revisione della 0.4 corretta ha portato a valutare Watzlawick, Festinger, EMDR, VAK/VARK e Frijda. Non vengono inseriti tra le fonti autorizzate del Capitolo 1 perché non sono stati consultati e schedati secondo il protocollo oppure perché non sono necessari all’impianto attuale.
+
+- **Watzlawick:** possibile fonte futura sulla comunicazione; non sostiene le equivalenze e la percentuale comparse negli appunti.
+- **Festinger:** possibile fonte futura sulla dissonanza cognitiva; non sostiene una teoria generale secondo cui ogni emozione nasce dalla distanza tra realtà e aspettativa.
+- **EMDR:** escluso dal Capitolo 1; un eventuale uso futuro dovrà essere clinicamente circoscritto e fondato su linee guida e revisioni.
+- **VAK/VARK:** escluso come base scientifica.
+- **Frijda:** candidato prioritario per rafforzare in futuro la letteratura sulle tendenze all’azione e `AFF-015`.
+
+Queste voci restano nel backlog di ricerca e non devono comparire nel manoscritto finché non saranno reperite, consultate e registrate.
+
 ---
 
 # 9. Decisione sulla sufficienza
 
 ## 9.1 Affermazioni ammesse
 
-Il manoscritto 0.5 può utilizzare `AFF-002`, `AFF-003`, `AFF-005`, `AFF-006`, `AFF-008`, `AFF-009`, `AFF-021`, `AFF-022`, `AFF-023`, `AFF-MAT-001` e `AFF-MAT-002` nelle formulazioni autorizzate.
+Il manoscritto 0.4.1 può utilizzare `AFF-002`, `AFF-003`, `AFF-005`, `AFF-006`, `AFF-008`, `AFF-009`, `AFF-021`, `AFF-022`, `AFF-023`, `AFF-MAT-001` e `AFF-MAT-002` nelle formulazioni autorizzate.
 
 `AFF-001`, `AFF-004`, `AFF-007` e `AFF-015` sono utilizzabili soltanto con le cautele indicate nella sezione 3.
 
@@ -528,16 +546,16 @@ Devono essere escluse o rinviate:
 
 ## 9.4 Decisione operativa
 
-Il dossier è allineato a `11_MANOSCRITTO_CAPITOLO_1`, versione 0.5, e ne autorizza l’attuale impianto scientifico con le cautele qui registrate.
+Il dossier è allineato a `11_MANOSCRITTO_CAPITOLO_1`, versione 0.4.1, e ne autorizza l’attuale impianto scientifico con le cautele qui registrate.
 
-L’autorizzazione riguarda il **manoscritto operativo 0.5**, non l’approvazione scientifica definitiva del capitolo. Prima della pubblicazione occorrerà verificare coerenza delle parafrasi, note, paginazione e forza di ogni formulazione rispetto a fonti primarie, revisioni e letteratura critica indipendente.
+L’autorizzazione riguarda il **manoscritto operativo 0.4.1**, non l’approvazione scientifica definitiva del capitolo. Prima della pubblicazione occorrerà verificare coerenza delle parafrasi, note, paginazione e forza di ogni formulazione rispetto a fonti primarie, revisioni e letteratura critica indipendente.
 
 Il `07_REGISTRO_DELLE_AFFERMAZIONI_SCIENTIFICHE` non richiede correzioni in questa fase: le differenze di sostegno registrate qui precisano l’uso nel solo Capitolo 1 senza modificare le schede generali.
 
 
-## 9.5 Controllo di conformità del manoscritto 0.5
+## 9.5 Controllo di conformità del manoscritto 0.4.1
 
-La versione 0.5 risulta coerente con il dossier nei seguenti punti:
+La versione 0.4.1 risulta coerente con il dossier nei seguenti punti:
 
 - non presenta l’*appraisal* come pensiero verbale obbligatorio;
 - distingue fatti, significato e intenzione attribuita;
@@ -548,6 +566,7 @@ La versione 0.5 risulta coerente con il dossier nei seguenti punti:
 - introduce Barrett come teoria e ne dichiara i limiti;
 - presenta Kahneman e Lazarus come contributi a domande diverse;
 - non utilizza Porges né Borzacchiello come fondamento di affermazioni neuroscientifiche forti;
+- non utilizza Watzlawick, Festinger, EMDR o VAK come fondamenti scientifici non verificati;
 - mantiene la matrice come sintesi editoriale non lineare.
 
 Restano da completare, in una fase successiva, la selezione delle note finali, il controllo della paginazione editoriale e il confronto con letteratura primaria e revisioni indipendenti.

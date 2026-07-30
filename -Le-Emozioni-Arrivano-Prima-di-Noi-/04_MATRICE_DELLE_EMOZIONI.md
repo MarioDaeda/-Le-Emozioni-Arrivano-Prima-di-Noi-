@@ -1157,9 +1157,9 @@ Dovrà diventare più capace di chiedersi:
 
 # 34A. Nota metodologica sulla sequenza narrativa
 
-La sequenza con cui un episodio viene raccontato non deve essere confusa con una sequenza biologica rigida. Nel Capitolo 1, versione 0.5, il lettore incontra prima la conseguenza dell’incomprensione e soltanto dopo ricostruisce l’evento, il significato attribuito e le risposte corporee ed emotive.
+La sequenza con cui un episodio viene raccontato non deve essere confusa con una sequenza biologica rigida. Nel Capitolo 1, versione 0.4.1, il lettore segue l’evento in ordine narrativo e ricostruisce poi, in modo retrospettivo, il significato attribuito da Andrea e le risposte corporee ed emotive coinvolte.
 
-Questa inversione è una scelta narrativa *ex abrupto*. Serve a produrre coinvolgimento e a mostrare dall’interno quanto rapidamente una persona possa vivere come certa un’interpretazione ancora incompleta. Non implica che, nel funzionamento reale, fatto, percezione, corpo, significato, emozione e impulso procedano sempre in un ordine lineare.
+Anche questo ordine è una scelta narrativa. Serve a rendere visibile la formazione progressiva di una certezza soggettiva, ma non implica che, nel funzionamento reale, fatto, percezione, corpo, significato, emozione e impulso procedano sempre nello stesso ordine o come passaggi separati.
 
 La matrice resta quindi:
 

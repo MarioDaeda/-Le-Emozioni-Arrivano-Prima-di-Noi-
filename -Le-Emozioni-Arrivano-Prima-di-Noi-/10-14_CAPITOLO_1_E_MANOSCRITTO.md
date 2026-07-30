@@ -4,9 +4,9 @@
 
 ## Le emozioni non arrivano a caso
 
-Versione: **1.1 — allineata al manoscritto 0.5**  
-Data: **23 luglio 2026**  
-Stato: **approvato come dossier scientifico operativo del Capitolo 1 v0.5**
+Versione: **1.2 — riallineata al manoscritto 0.4.1**
+Data: **30 luglio 2026**
+Stato: **dossier scientifico operativo aggiornato; manoscritto da approvare**
 
 ---
 
@@ -26,7 +26,7 @@ Il dossier serve a stabilire:
 
 Non è una bibliografia generale e non sostituisce il `06_REGISTRO_DELLE_FONTI`. Registra soltanto la selezione operativa per il Capitolo 1.
 
-La versione 1.1 recepisce la stesura 0.5 del manoscritto. Oltre a verificare la correttezza delle affermazioni scientifiche, registra il modo effettivo in cui i concetti sono stati usati nella narrazione: apertura *ex abrupto*, ricostruzione progressiva dell’incomprensione, distinzione tra fatto osservabile e significato attribuito, ruolo delle euristiche, differenza tra risorse reali e percepite e principio secondo cui il segnale corporeo è reale mentre la causa richiede verifica.
+La versione 1.2 recepisce la stesura 0.4.1 del manoscritto e la revisione critica del 30 luglio 2026. Registra il modo effettivo in cui i concetti sono usati nella narrazione: apertura cronologica alle 10:17, distinzione tra fatto osservabile e significato attribuito, ruolo delle euristiche, differenza tra risorse reali e percepite e principio secondo cui il segnale corporeo è reale mentre la causa richiede verifica.
 
 ## 1.1 Perimetro approvato
 
@@ -386,11 +386,11 @@ Le affermazioni neurochimiche o causali presenti, per esempio alle PDF pp. 15-23
 
 ---
 
-# 5. Mappa fonti–sezioni effettive della versione 0.5
+# 5. Mappa fonti–sezioni effettive della versione 0.4.1
 
-| Sezione del manoscritto 0.5 | Fonti da usare | Uso operativo | Densità delle citazioni |
+| Sezione del manoscritto 0.4.1 | Fonti da usare | Uso operativo | Densità delle citazioni |
 |---|---|---|---|
-| Apertura *ex abrupto* e scena dell’incomprensione | Nessuna citazione nel testo; retroterra `LAZ-001`, `DAM-001`, `KAH-001` | Mostrare la conseguenza prima dell’antecedente, il corpo in azione, l’attenzione ristretta e il conflitto senza spiegarli subito. | Nessuna. |
+| “L’evento” e scena dell’incomprensione | Nessuna citazione nel testo; retroterra `LAZ-001`, `DAM-001`, `KAH-001` | Mostrare in ordine narrativo la posta economica, la frase di Luca, il corpo in azione, l’attenzione ristretta e il conflitto senza spiegarli subito. | Nessuna. |
 | Ricostruzione di ciò che è accaduto | `LAZ-002`, `KAH-001` come controllo concettuale | Separare fatti osservabili, parole effettive, tono ricordato, significato assegnato e intenzione attribuita. | Nessuna nella scena; eventuale nota finale. |
 | Prima lettura, dubbio ed euristica | `KAH-001`; complemento `LAZ-002` | Spiegare che una scorciatoia cognitiva produce una lettura rapida e spesso utile, ma non necessariamente corretta; introdurre il pensiero critico come trasformazione del verdetto in ipotesi. | Una nota concentrata. |
 | Significato, valori, impegni e obiettivi | `LAZ-001`, `LAZ-002` | Mostrare che la rilevanza emotiva dipende dalla relazione tra evento e ciò che la persona cerca di proteggere; distinguere valori, impegni e obiettivi. | Una o due note. |
@@ -454,6 +454,12 @@ Le scene narrative devono restare leggibili e non contenere nomi di autori, pare
 - “La neurocezione rileva infallibilmente il pericolo.”
 - “Le parole producono specifici ormoni o neurotrasmettitori.”
 - “La matrice dimostra scientificamente come funzionano tutte le emozioni.”
+- “I cinque sensi corrispondono al VAK.”
+- “Tutte le emozioni spiacevoli sono ricordi non elaborati.”
+- “L’EMDR è una ristrutturazione cognitiva generale che si può applicare senza competenze cliniche.”
+- “Contenuto significa logica, relazione significa emozione.”
+- “Contenuto e relazione si intersecano soltanto per il 20%.”
+- “Emozione significa energia e logica significa informazione.”
 
 ---
 
@@ -500,13 +506,25 @@ Le affermazioni controverse devono restare formulate come teorie, ipotesi o inte
 - *The Polyvagal Theory* è una conversione: la paginazione non deve essere usata per citazioni definitive senza controllo.
 - Per la prima stesura sono preferite parafrasi tracciabili; le citazioni testuali potranno essere selezionate in revisione.
 
+## 8.4 Riferimenti valutati ma non integrati
+
+La revisione della 0.4 corretta ha portato a valutare Watzlawick, Festinger, EMDR, VAK/VARK e Frijda. Non vengono inseriti tra le fonti autorizzate del Capitolo 1 perché non sono stati consultati e schedati secondo il protocollo oppure perché non sono necessari all’impianto attuale.
+
+- **Watzlawick:** possibile fonte futura sulla comunicazione; non sostiene le equivalenze e la percentuale comparse negli appunti.
+- **Festinger:** possibile fonte futura sulla dissonanza cognitiva; non sostiene una teoria generale secondo cui ogni emozione nasce dalla distanza tra realtà e aspettativa.
+- **EMDR:** escluso dal Capitolo 1; un eventuale uso futuro dovrà essere clinicamente circoscritto e fondato su linee guida e revisioni.
+- **VAK/VARK:** escluso come base scientifica.
+- **Frijda:** candidato prioritario per rafforzare in futuro la letteratura sulle tendenze all’azione e `AFF-015`.
+
+Queste voci restano nel backlog di ricerca e non devono comparire nel manoscritto finché non saranno reperite, consultate e registrate.
+
 ---
 
 # 9. Decisione sulla sufficienza
 
 ## 9.1 Affermazioni ammesse
 
-Il manoscritto 0.5 può utilizzare `AFF-002`, `AFF-003`, `AFF-005`, `AFF-006`, `AFF-008`, `AFF-009`, `AFF-021`, `AFF-022`, `AFF-023`, `AFF-MAT-001` e `AFF-MAT-002` nelle formulazioni autorizzate.
+Il manoscritto 0.4.1 può utilizzare `AFF-002`, `AFF-003`, `AFF-005`, `AFF-006`, `AFF-008`, `AFF-009`, `AFF-021`, `AFF-022`, `AFF-023`, `AFF-MAT-001` e `AFF-MAT-002` nelle formulazioni autorizzate.
 
 `AFF-001`, `AFF-004`, `AFF-007` e `AFF-015` sono utilizzabili soltanto con le cautele indicate nella sezione 3.
 
@@ -530,16 +548,16 @@ Devono essere escluse o rinviate:
 
 ## 9.4 Decisione operativa
 
-Il dossier è allineato a `11_MANOSCRITTO_CAPITOLO_1`, versione 0.5, e ne autorizza l’attuale impianto scientifico con le cautele qui registrate.
+Il dossier è allineato a `11_MANOSCRITTO_CAPITOLO_1`, versione 0.4.1, e ne autorizza l’attuale impianto scientifico con le cautele qui registrate.
 
-L’autorizzazione riguarda il **manoscritto operativo 0.5**, non l’approvazione scientifica definitiva del capitolo. Prima della pubblicazione occorrerà verificare coerenza delle parafrasi, note, paginazione e forza di ogni formulazione rispetto a fonti primarie, revisioni e letteratura critica indipendente.
+L’autorizzazione riguarda il **manoscritto operativo 0.4.1**, non l’approvazione scientifica definitiva del capitolo. Prima della pubblicazione occorrerà verificare coerenza delle parafrasi, note, paginazione e forza di ogni formulazione rispetto a fonti primarie, revisioni e letteratura critica indipendente.
 
 Il `07_REGISTRO_DELLE_AFFERMAZIONI_SCIENTIFICHE` non richiede correzioni in questa fase: le differenze di sostegno registrate qui precisano l’uso nel solo Capitolo 1 senza modificare le schede generali.
 
 
-## 9.5 Controllo di conformità del manoscritto 0.5
+## 9.5 Controllo di conformità del manoscritto 0.4.1
 
-La versione 0.5 risulta coerente con il dossier nei seguenti punti:
+La versione 0.4.1 risulta coerente con il dossier nei seguenti punti:
 
 - non presenta l’*appraisal* come pensiero verbale obbligatorio;
 - distingue fatti, significato e intenzione attribuita;
@@ -550,6 +568,7 @@ La versione 0.5 risulta coerente con il dossier nei seguenti punti:
 - introduce Barrett come teoria e ne dichiara i limiti;
 - presenta Kahneman e Lazarus come contributi a domande diverse;
 - non utilizza Porges né Borzacchiello come fondamento di affermazioni neuroscientifiche forti;
+- non utilizza Watzlawick, Festinger, EMDR o VAK come fondamenti scientifici non verificati;
 - mantiene la matrice come sintesi editoriale non lineare.
 
 Restano da completare, in una fase successiva, la selezione delle note finali, il controllo della paginazione editoriale e il confronto con letteratura primaria e revisioni indipendenti.
@@ -561,99 +580,71 @@ Restano da completare, in una fase successiva, la selezione delle note finali, i
 
 # 11 — MANOSCRITTO CAPITOLO 1
 
-Versione: **0.5 — revisione narrativa, grammaticale e tipografica**  
-Data: **22 luglio 2026**  
-Stato: **revisionato, da approvare**
+Versione: **0.4.1 — revisione completa della base 0.4**
+Data: **30 luglio 2026**
+Stato: **revisionato, da approvare dall’autore**
 
 # Capitolo 1 — Le emozioni non arrivano a caso
 
-«Se hai trovato un errore, dillo.»
+## L’evento
 
-Andrea aveva entrambe le mani premute sul tavolo. Non ricordava di averle appoggiate lì. Si accorse della mandibola rigida soltanto quando il consulente finanziario smise di muovere il cursore e nella sala riunioni non rimase più alcun rumore.
+Alle 10:17 Andrea aveva già deciso che Luca non si fidava più di lui.
 
-«Altrimenti smettiamo di mettere in dubbio il lavoro degli altri.»
-
-Luca non rispose. Guardò lo schermo, poi il quaderno aperto davanti a sé. La responsabile commerciale abbassò gli occhi sulle proprie note.
-
-Alle 10:17 la riunione era già compromessa. Nessuno, però, avrebbe saputo indicare il momento esatto in cui una verifica sui numeri si era trasformata in un giudizio su Andrea.
-
-Sul muro, il foglio di calcolo mostrava margini, tempi di rientro e costi di avviamento. Il progetto avrebbe impegnato l’azienda per diciotto mesi e assorbito una parte consistente della liquidità disponibile. Se avesse funzionato, avrebbe aperto un nuovo mercato. Se le stime fossero state troppo ottimistiche, il danno non sarebbe rimasto confinato a una riga di bilancio.
-
-La decisione avrebbe dovuto essere presa quella mattina.
-
-Meno di un minuto prima, Luca si era sporto verso il tavolo. Era il responsabile operativo, preciso fino a risultare irritante e affidabile proprio per la stessa ragione. Aveva osservato il prospetto ancora per qualche secondo.
-
-«Prima di procedere, forse dovremmo far controllare i numeri anche a qualcun altro.»
-
-Una pausa. Forse un secondo. Forse meno.
-
-Andrea aveva sentito il calore salire sul viso. La frase gli era arrivata già completa di significato. Non ti credo. Hai perso lucidità. Davanti agli altri bisogna proteggere l’azienda da te.
-
-«Qualcun altro chi?»
-
-«Un professionista esterno.»
-
-«Per controllare cosa?»
-
-«Le ipotesi. I costi. I tempi.»
-
-«Li ho controllati io.»
-
-Luca aveva inspirato lentamente.
-
-«Appunto. Li abbiamo costruiti noi.»
-
-«No. Hai detto che serve qualcuno che li controlli dopo di me.»
-
-«Ho detto che una verifica indipendente potrebbe essere utile.»
-
-«E io ti sto dicendo che la verifica è già stata fatta.»
-
-La voce di Andrea non era alta. Era diventata rapida e affilata, quel tono che in azienda tutti riconoscevano. Per lui significava rimettere ordine. Per gli altri, quasi sempre, significava che lo spazio per discutere si stava chiudendo.
+Fino a pochi secondi prima, nella sala riunioni si era parlato di margini, tempi di rientro e costi di avviamento. Sullo schermo, un foglio di calcolo occupava quasi tutta la parete. Il progetto avrebbe impegnato l’azienda per diciotto mesi e assorbito una parte consistente della liquidità disponibile. Se avesse funzionato, avrebbe aperto un nuovo mercato. Se le stime fossero state troppo ottimistiche, il danno non sarebbe rimasto confinato a una riga di bilancio.
 
 Andrea conosceva quei numeri. Li aveva controllati la sera, dopo cena, e poi di nuovo alle sei e quaranta del mattino. A quarantacinque anni aveva imparato a non confondere l’intuito imprenditoriale con l’improvvisazione. Aveva fondato l’azienda, una società di servizi e consulenza per imprese, insieme ad altre tre persone. All’inizio erano in quattro; ora erano in trentadue. Non poteva permettersi di innamorarsi delle proprie idee.
 
-Eppure era stanco. La notte precedente aveva dormito poco. Da una settimana rispondeva a domande di banche, consulenti e responsabili di area. Ogni nuova richiesta di verifica sembrava allontanare la decisione e aumentare il rischio di perdere il cliente che avrebbe reso possibile l’investimento.
+Eppure era stanco. La notte precedente aveva dormito poco. Da una settimana rispondeva a domande di banche, consulenti e responsabili di area. Ogni volta che qualcuno chiedeva una nuova verifica, sentiva allontanarsi la decisione e crescere il rischio di perdere il cliente che avrebbe reso possibile l’investimento.
 
-Luca tornò sui costi del secondo trimestre. Andrea gli mostrò una colonna che tutti avevano già visto. Il consulente provò a distinguere tra controllo tecnico e responsabilità decisionale. Andrea sentì in quella distinzione un tentativo di addolcire l’offesa.
+Luca si sporse appena verso il tavolo. Era il responsabile operativo, preciso fino a risultare irritante e affidabile proprio per la stessa ragione. Guardò il prospetto e disse:
 
-Il consulente ruotò appena la sedia verso Andrea.
+«Prima di procedere, forse dovremmo far controllare i numeri anche a qualcun altro.»
 
-«Il problema non è chi decide. È capire quanto margine abbiamo se i ricavi partono tardi.»
+Nella stanza ci fu una pausa breve. Forse un secondo. Forse meno.
 
-Andrea indicò la cella.
+Andrea sentì la mandibola irrigidirsi. Trattenne il respiro e si accorse del calore sul viso soltanto quando aveva già appoggiato entrambe le mani sul tavolo. La frase di Luca gli arrivò con una chiarezza che non sembrava richiedere interpretazioni: non ti credo; hai perso lucidità; davanti agli altri bisogna proteggere l’azienda da te.
 
-«Il margine è qui. L’abbiamo già discusso.»
+«Qualcun altro chi?»
 
-Luca chiuse la penna.
+Luca sollevò una spalla.
 
-«Va bene.»
+«Un professionista esterno. È una cifra importante.»
 
-Non andava bene. Da quel momento parlò soltanto quando gli venne rivolta una domanda diretta.
+«Lo so che è importante. I numeri li ho seguiti io.»
+
+La voce di Andrea era diventata più rapida. Non urlava, ma aveva quel tono affilato che in azienda tutti riconoscevano: la conversazione si stava chiudendo, anche se lui aveva l’impressione di stare semplicemente rimettendo ordine.
+
+Luca guardò lo schermo.
+
+«Non ho detto che non li hai seguiti.»
+
+«No. Hai detto che serve qualcuno che li controlli dopo di me.»
+
+La responsabile commerciale abbassò gli occhi sulle proprie note. Il consulente finanziario mosse il cursore senza fare clic. Andrea registrò quei gesti come si registrano le persone che scelgono da che parte stare.
+
+Luca inspirò.
+
+«Ho detto che, prima di impegnare questa somma, una verifica indipendente potrebbe essere utile.»
+
+«E io ti sto dicendo che la verifica è già stata fatta. Se hai trovato un errore, indicalo. Altrimenti evitiamo di mettere in dubbio il lavoro degli altri in una riunione che dovrebbe servire a decidere.»
+
+Quello che seguì ebbe ancora la forma di una discussione sui numeri, ma non ne conservò più la sostanza. Luca chiese quali costi fossero inclusi nel secondo trimestre. Andrea rispose mostrando una colonna che tutti avevano già visto. Il consulente provò a distinguere tra controllo tecnico e responsabilità decisionale. Andrea sentì nella distinzione un tentativo di addolcire l’offesa.
+
+Luca smise di insistere. Prese appunti e parlò soltanto quando gli venne rivolta una domanda diretta.
 
 La decisione fu rinviata di quarantotto ore.
 
-La responsabile commerciale raccolse i fogli con una lentezza insolita. Avrebbe avvisato il cliente, disse, senza promettere una nuova data.
+La responsabile commerciale raccolse i fogli con una lentezza insolita. Prima di uscire disse che avrebbe avvisato il cliente del ritardo, evitando di promettere una nuova data.
 
-«Non c’è nessun ritardo. Facciamo un ultimo controllo.»
+«Non c’è nessun ritardo. Facciamo soltanto un ultimo controllo.»
 
 Andrea sentì quanto suonava artificiale mentre lo diceva.
 
-Il consulente gli chiese se dovesse preparare una versione aggiornata.
+Il consulente finanziario gli chiese se dovesse preparare una versione aggiornata.
 
 «Non c’è niente da aggiornare.»
 
 Due minuti prima Andrea aveva accusato gli altri di spostare la discussione dai numeri. Ora era lui a non volerli più guardare.
-
-Nel corridoio, Luca si fermò accanto a una collega. Andrea passò senza salutarlo. Per un istante il gesto gli diede la sensazione di aver ristabilito una distanza corretta. Subito dopo cominciò a immaginare la conversazione alle proprie spalle: Luca che raccontava la sua reazione, la collega che confermava quanto fosse difficile contraddirlo.
-
-Non aveva udito una parola.
-
-La scena era incompleta e la sua mente l’aveva terminata con materiali già pronti.
-
-Quando tutti furono usciti, Andrea rimase davanti allo schermo spento. La riunione non aveva prodotto un rifiuto, né la prova di un errore. Eppure gli sembrava che qualcosa fosse accaduto davvero. Luca aveva messo in discussione la sua competenza nel momento in cui l’azienda aveva più bisogno di una guida chiara.
-
-Il fastidio non si era attenuato. **Si era organizzato in una conclusione.**
 
 ## «Ha cercato di screditarmi»
 
@@ -667,41 +658,43 @@ Elena posò il coltello.
 
 «Ha cercato di screditarmi davanti a tutti. Ha fatto passare l’idea che i miei numeri non fossero affidabili.»
 
-«Te l’ha detto?»
+«Ti ha detto esplicitamente che non lo erano?»
 
 Andrea si fermò.
 
 «Ha chiesto di farli controllare da qualcun altro. È la stessa cosa.»
 
-Elena conosceva Luca abbastanza da sapere che poteva essere brusco. Conosceva Andrea abbastanza da non liquidare la sua reazione come permalosità.
+Elena conosceva Luca abbastanza da sapere che poteva essere brusco. Conosceva Andrea abbastanza da non liquidare la sua reazione come semplice permalosità.
 
-«Com’è iniziata?»
+«Com’era arrivata la discussione a quel punto?»
 
-«Stavamo per decidere. Lui ha fatto due domande, gli ho risposto e poi ha tirato fuori il controllo esterno.»
+«Stavamo per avviare il progetto e lui ha fermato tutto.»
 
-«Davanti a tutti.»
+«Aveva già espresso dei dubbi?»
 
-«Esatto.»
+«Aveva fatto due domande sui costi operativi.»
 
-Elena riprese il coltello, ma non tagliò.
+«E tu avevi risposto?»
 
-«Può essere stato un modo per metterti in difficoltà.»
+«Certo.»
 
-Andrea smise di camminare.
+Andrea riprese a camminare.
 
-«Lo è stato.»
+«Il punto non sono le domande. Il punto è far entrare un estraneo nel mio progetto dopo che ho passato settimane su quel piano. È un modo per dire che il mio lavoro non basta.»
 
-«Può esserlo. Non è la stessa frase.»
+Elena si appoggiò al bordo del tavolo.
 
-Lui la guardò. Per un momento gli sembrò che anche Elena stesse scegliendo la posizione più comoda, quella di chi non era nella stanza e poteva permettersi tutte le sfumature.
+«Può esserlo. Ma sai che era questo che voleva dire?»
+
+«Non sono ingenuo.»
+
+«Non ho detto questo.»
+
+Andrea la guardò. Per un momento gli sembrò che anche lei stesse scegliendo la posizione più comoda: quella di chi non era nella stanza e poteva permettersi tutte le sfumature.
 
 «Avresti dovuto sentire il tono.»
 
-«Probabile.»
-
-«Non mi credi.»
-
-«Ti credo quando mi dici che ti sei sentito messo in discussione. Sto cercando di capire che cosa ha fatto lui.»
+«Probabile.» Elena riprese il coltello, poi lo posò di nuovo. «Sto cercando di capire. Era sprezzante?»
 
 Andrea ricostruì la scena. Luca non aveva sorriso. Non aveva alzato la voce. Aveva parlato dopo una pausa, con l’aria tesa. Era stato diretto, forse più del necessario. Andrea ricordava perfettamente la propria irritazione e molto meno l’espressione del collega.
 
@@ -709,7 +702,7 @@ Andrea ricostruì la scena. Luca non aveva sorriso. Non aveva alzato la voce. Av
 
 «Su questo posso crederti senza sapere che cosa intendesse.»
 
-Non era un’assoluzione per Luca. Non era nemmeno una smentita di Andrea. Era una piccola separazione tra due elementi che, nel suo racconto, erano diventati una cosa sola: le parole pronunciate da Luca e il significato che Andrea aveva attribuito loro.
+Non era un’assoluzione per Luca. Non era nemmeno una smentita di Andrea. Era una piccola separazione tra due cose che, nel suo racconto, erano diventate una sola: le parole pronunciate da Luca e il significato che Andrea aveva attribuito loro.
 
 **L’intenzione di ridurre la sua autorità non era un fatto osservato. Era una conclusione ancora da verificare.**
 
@@ -717,15 +710,17 @@ Non era un’assoluzione per Luca. Non era nemmeno una smentita di Andrea. Era u
 
 Elena gli versò dell’acqua.
 
-«Facciamo una cosa. Immagina di rivedere la riunione senza poter sentire i pensieri di nessuno.»
+«Che cosa avrebbe registrato una telecamera?»
 
 Andrea sbuffò.
 
-«Una telecamera non registra tutto.»
+«Una telecamera non registra il tono.»
 
-«No. Ma registra le parole, la voce, le pause, chi interrompe chi, dove guardate. Non registra quello che Luca pensava. E non registra quello che hai concluso tu dentro di te.»
+«In parte sì. Registra le parole, la voce, le pause, chi interrompe chi, dove guardate, quanto tempo passa. Non registra però quello che Luca pensava. E non registra quello che hai concluso tu dentro di te.»
 
-La domanda lo irritò proprio perché sembrava semplice. Una telecamera avrebbe mostrato un uomo che proponeva un controllo esterno e un altro che si irrigidiva. Avrebbe mostrato Luca arrivare a quella proposta dopo due domande. Avrebbe mostrato Andrea rispondere senza chiedergli che cosa temesse di preciso. Avrebbe mostrato la responsabile commerciale abbassare gli occhi, ma non avrebbe potuto stabilire se fosse imbarazzata, annoiata o concentrata sulle note.
+La domanda irritò Andrea perché sembrava facile. Non corrispondeva a come lui aveva vissuto la scena e gli sembrava che Elena non avesse capito fino in fondo ciò che aveva provato.
+
+Una telecamera avrebbe mostrato un uomo che proponeva un controllo esterno e un altro che si irrigidiva. Avrebbe mostrato Luca arrivare a quella proposta dopo due domande. Avrebbe mostrato Andrea rispondere senza chiedergli che cosa temesse di preciso. Avrebbe mostrato la responsabile commerciale abbassare gli occhi, ma non avrebbe potuto stabilire se fosse imbarazzata, annoiata o semplicemente concentrata sulle note.
 
 Una telecamera, naturalmente, non offre la verità completa. Sceglie un’inquadratura, perde ciò che accade fuori campo e non conosce la storia delle persone. Può però imporre una disciplina utile: separare ciò che potrebbe essere osservato dalle intenzioni che attribuiamo, dai significati che costruiamo e dalle conclusioni che trattiamo come già dimostrate.
 
@@ -735,11 +730,11 @@ Andrea aveva poi assegnato loro un significato. Luca voleva umiliarlo. La colleg
 
 La collega poteva davvero essere d’accordo con Luca. Andrea, però, non lo aveva ancora verificato. Confondere «ho visto che ha abbassato gli occhi» con «ho visto che era d’accordo con Luca» rende invisibile il passaggio in cui un indizio diventa una conclusione.
 
-Le parole di Luca erano un fatto. Il momento e il tono facevano parte del fatto, anche se erano più difficili da descrivere con precisione. «Vuole proteggere l’azienda» era una possibile lettura. «Vuole indebolirmi» era un’altra. Entrambe erano compatibili con la scena. Non per questo erano equivalenti, né ugualmente probabili. Servivano altre informazioni.
+Le parole di Luca erano un fatto. Il momento e il tono facevano parte dell’evento, anche se erano più difficili da descrivere con precisione. «Vuole proteggere l’azienda» era una possibile lettura. «Vuole indebolirmi» era un’altra. Entrambe potevano essere compatibili con la scena. Non per questo erano equivalenti, né ugualmente probabili. Servivano altre informazioni.
 
 **Plausibile non significa ancora accertato.**
 
-Andrea non cambiò idea quella sera. Il dubbio si aprì in un punto preciso. Conosceva le parole pronunciate da Luca, ma non conosceva ancora la sua intenzione. Poteva raccontare con certezza la richiesta di un controllo esterno; non poteva essere altrettanto certo che Luca volesse ridurre la sua autorità.
+Andrea non cambiò idea quella sera. Il dubbio si aprì in un punto preciso: conosceva le parole pronunciate da Luca, ma non conosceva ancora la sua intenzione. Poteva raccontare con certezza la richiesta di un controllo esterno; non poteva essere altrettanto certo che Luca volesse indebolire la sua autorità.
 
 Non sostituì la prima interpretazione con una versione più rassicurante. Le assegnò semplicemente un grado di certezza diverso.
 
@@ -749,7 +744,7 @@ Il pensiero critico cominciava da lì: non dal pensare il contrario, ma dal dist
 
 Quando diciamo che una persona ci ha fatto arrabbiare, spesso comprimiamo in poche parole un processo molto più ricco. Non è una menzogna. È una scorciatoia nel racconto. A volte riflette anche una scorciatoia mentale: un’euristica, cioè un modo rapido di dare significato a una situazione usando pochi elementi insieme a ricordi, aspettative e conoscenze precedenti.
 
-Le euristiche non sono difetti. Ci permettono di orientarci velocemente e spesso funzionano. Ma, come ogni scorciatoia, possono farci arrivare prima senza condurci necessariamente nel posto giusto. Producono rapidamente una prima lettura della realtà; non garantiscono che sia quella più fedele ai fatti.
+Le euristiche non sono, di per sé, difetti. Ci permettono di orientarci velocemente e spesso funzionano. Ma, come ogni scorciatoia, possono farci arrivare prima senza condurci necessariamente nel posto giusto. Producono rapidamente una prima lettura della realtà; non garantiscono che sia quella più fedele ai fatti.
 
 **Il pensiero critico comincia quando la prima lettura smette di essere un verdetto e diventa un’ipotesi da verificare.**
 
@@ -759,9 +754,9 @@ Per questo la proposta di Luca non era soltanto una proposta. Per Andrea poteva 
 
 Nella tradizione dell’*appraisal*, sviluppata tra gli altri da Richard Lazarus, una situazione assume rilevanza emotiva in rapporto a ciò che per una persona conta. Valori, impegni e obiettivi non sono la stessa cosa. I valori possono orientare in modo più stabile; gli impegni legano ciò che conta a ruoli e responsabilità; gli obiettivi descrivono ciò che, in una situazione concreta, cerchiamo di ottenere o proteggere.
 
-In questo capitolo gli obiettivi non sono una lista che la mente consulta prima di reagire. Sono indizi che possiamo usare dopo, per riconoscere che cosa fosse in gioco. **Non rispondiamo soltanto alla descrizione esterna dell’evento, ma anche alla relazione tra quell’evento e ciò che abbiamo imparato a considerare importante.**
+Gli obiettivi non sono necessariamente una lista che la mente consulta prima di reagire. Possono diventare indizi che usiamo dopo, per riconoscere che cosa fosse in gioco. **Non rispondiamo soltanto alla descrizione esterna dell’evento, ma anche alla relazione tra quell’evento e ciò che abbiamo imparato a considerare importante.**
 
-Il termine *appraisal* viene spesso tradotto con *valutazione*, ma può trarre in inganno se immaginiamo una riunione interiore ordinata, durante la quale elenchiamo pro e contro prima di provare qualcosa. Molte valutazioni possono essere rapide, automatiche e difficili da esprimere a parole. Usano associazioni apprese, aspettative e tracce dell’esperienza precedente; non sono ricordi immobili, né un ragionamento completo svolto in segreto.
+La parola *appraisal* viene spesso tradotta con *valutazione*. La traduzione può trarre in inganno se immaginiamo una riunione interiore ordinata, durante la quale elenchiamo pro e contro prima di provare qualcosa. Molte valutazioni possono essere rapide, automatiche e difficili da esprimere a parole. Usano associazioni apprese, aspettative e tracce dell’esperienza precedente; non sono un ragionamento completo svolto in segreto.
 
 Andrea non aveva formulato con calma una frase come «La mia autorità è in pericolo, quindi proverò irritazione e mi preparerò a difendermi». Eppure la sua attenzione si era ristretta sui segnali compatibili con quella possibilità; il corpo si era teso; l’impulso a interrompere e riprendere il controllo era comparso con coerenza.
 
@@ -777,7 +772,7 @@ Ripensandoci, Andrea riusciva ancora a sentire i palmi premuti sul tavolo. La co
 
 ## Il segnale è reale, la causa va verificata
 
-La mandibola contratta, il calore sul viso e il respiro trattenuto non erano dettagli decorativi. Facevano parte dell’episodio. In un senso limitato ma importante, il corpo aveva ragione: qualcosa stava accadendo davvero dentro Andrea. Non stava inventando la tensione.
+La mandibola contratta, il calore sul viso e il respiro trattenuto non erano dettagli decorativi. Facevano parte dell’episodio. Qualcosa stava accadendo davvero nello stato di Andrea: non stava inventando la tensione.
 
 Quel segnale, però, non conteneva la propria spiegazione. La mandibola non poteva rivelargli l’intenzione di Luca. Indicava che il suo organismo aveva riconosciuto qualcosa come rilevante e si stava preparando a reagire.
 
@@ -787,31 +782,31 @@ Una gola chiusa può accompagnare un pericolo presente, il ricordo di un’umili
 
 Prendere sul serio il corpo significa ascoltare un’informazione sul nostro stato, non usarla come certificazione delle intenzioni altrui. Il corpo ci informa che qualcosa sta accadendo; siamo noi a dover verificare che cosa significhi e come rispondere.
 
-Andrea, in quella riunione, non aveva prima ricevuto una verità dal corpo e poi una spiegazione dalla mente. L’episodio coinvolgeva insieme percezione, memoria, stato fisico, significato e preparazione all’azione. Separiamo questi elementi per capirli; nella vita, spesso si influenzano mentre accadono.
+Andrea, in quella riunione, non aveva prima ricevuto una verità dal corpo e poi una spiegazione dalla mente. L’episodio coinvolgeva insieme percezione, memoria, stato fisico, significato e preparazione all’azione. Separiamo questi elementi per capirli; nella vita si influenzano mentre accadono.
 
 ## Come nasce un significato
 
 Secondo la teoria delle emozioni costruite proposta da Lisa Feldman Barrett, l’esperienza emotiva dipende anche dal modo in cui il cervello, usando esperienze precedenti, concetti, contesto e segnali provenienti dal corpo, dà significato a ciò che sta accadendo. È un modello teorico influente, non una conclusione definitiva sulla quale l’intera ricerca sulle emozioni concorda in ogni aspetto.
 
-Presentarlo correttamente richiede due cautele. Dire che l’esperienza emotiva è costruita non significa dire che sia inventata, volontaria o priva di basi biologiche. Anche una percezione costruita può avere conseguenze concrete. Inoltre, questa teoria non esaurisce da sola la spiegazione delle emozioni e non autorizza a concludere che basti cambiare una parola per cambiare ciò che proviamo.
+Presentarlo correttamente richiede due cautele. Dire che l’esperienza emotiva è costruita non significa dire che sia inventata, volontaria o priva di basi biologiche. Anche un’esperienza costruita può avere conseguenze concrete. Inoltre, questa teoria non esaurisce da sola la spiegazione delle emozioni e non autorizza a concludere che basti cambiare una parola per cambiare ciò che proviamo.
 
 Nel caso di Andrea, il contesto professionale, le esperienze precedenti e i concetti disponibili contribuivano a rendere leggibile la frase di Luca come una sfida all’autorità. Un altro imprenditore, con una storia diversa o in un momento meno teso, avrebbe potuto ascoltare le stesse parole come una forma di prudenza. Andrea stesso, in un’altra settimana, avrebbe potuto rispondere diversamente.
 
 Questo non significa che ogni interpretazione valga quanto le altre. Significa che, per valutarne una, dobbiamo guardare sia ai fatti sia al processo che dà loro significato.
 
-Anche la distinzione resa popolare da Daniel Kahneman tra processi rapidi e processi deliberati può aiutare, purché non venga trasformata in una favola su due cervelli in lotta. Sistema 1 e Sistema 2 sono nomi funzionali. Descrivono, in modo semplificato, operazioni che possono essere automatiche e veloci oppure più lente, impegnative e controllate. Non corrispondono a due organi o a due aree separate. E non coincidono con un sistema emotivo sempre irrazionale e uno razionale sempre corretto.
+Anche la distinzione resa popolare da Daniel Kahneman tra processi rapidi e deliberati può aiutare, purché non venga trasformata nella favola di due cervelli in lotta. Sistema 1 e Sistema 2 sono nomi funzionali. Descrivono, in modo semplificato, operazioni che possono essere automatiche e veloci oppure più lente, impegnative e controllate. Non corrispondono a due organi o a due aree separate. E non coincidono con un sistema emotivo sempre irrazionale e uno razionale sempre corretto.
 
 I processi rapidi ci permettono di capire una frase, riconoscere un’espressione e reagire a un imprevisto senza ricominciare ogni volta da zero. Sono indispensabili. Possono però completare informazioni mancanti usando aspettative, associazioni ed euristiche. Il ragionamento deliberato può verificare una prima impressione, ma può anche difenderla con grande abilità.
 
 **La velocità non è sinonimo di errore; la lentezza non garantisce la verità.**
 
-Qui Kahneman non sostituisce Lazarus. La distinzione tra processi rapidi e deliberati aiuta a descrivere la velocità e l’automaticità di alcune operazioni; l’*appraisal* aiuta a chiedersi che cosa abbia reso la situazione emotivamente rilevante. Sono contributi a domande diverse, non parti di un’unica teoria.
+Qui Kahneman non sostituisce Lazarus. La distinzione tra processi rapidi e deliberati aiuta a descrivere la velocità e l’automaticità di alcune operazioni; l’*appraisal* aiuta a chiedersi che cosa abbia reso la situazione emotivamente rilevante. Rispondono a domande diverse e non vanno fusi in un’unica teoria.
 
 Nel linguaggio applicativo e nelle relazioni è utile osservare come parole, tono, contesto e significati attribuiti cambino l’effetto di un messaggio. Autori divulgativi come Paolo Borzacchiello offrono esempi e strumenti pratici su questi aspetti. Possono aiutare a costruire una domanda o a notare l’effetto di una formulazione; non bastano, però, a dimostrare un’affermazione neuroscientifica.
 
 In cucina, Andrea ripeté a voce più bassa la frase di Luca. Senza la pausa e la durezza che ricordava, suonava quasi prudente. Non concluse che quella fosse la lettura giusta. Notò soltanto quanto il modo di pronunciarla orientasse il significato che lui le attribuiva.
 
-## L’emozione è reale
+## L’emozione è reale, la spiegazione va verificata
 
 Andrea era irritato. La tensione alla mandibola era reale. Il desiderio di chiudere la discussione era reale. Anche il suo comportamento aveva avuto effetti reali: Luca si era ritirato dalla conversazione, gli altri avevano smesso di esplorare apertamente i dubbi e la decisione era stata rinviata.
 
@@ -821,11 +816,11 @@ Questa distinzione non serve a sminuire ciò che proviamo. Serve a evitare che l
 
 In tutti i casi l’esperienza merita attenzione. Ciò che cambia è il grado di certezza con cui posso raccontarne la causa.
 
-Verificare non significa sostituire una lettura sgradevole con una rassicurante. Luca poteva davvero aver perso fiducia in Andrea. Poteva aver scelto quella frase per limitare il suo potere. Poteva anche voler evitare un errore senza sapere come sollevare il dubbio.
+Verificare non significa sostituire una lettura sgradevole con una rassicurante. Luca poteva davvero aver perso fiducia in Andrea. Poteva aver scelto quella frase per limitarne il potere. Poteva anche voler evitare un errore senza sapere come sollevare il dubbio.
 
 La domanda utile non era quale versione lo facesse stare meglio. Doveva chiedersi quali elementi sostenessero ciascuna versione e quali informazioni mancassero.
 
-L’emozione contiene una direzione. L’irritazione di Andrea lo spingeva a difendere un confine, riprendere il controllo e interrompere ciò che percepiva come un attacco. L’impulso non coincideva, però, con l’unico comportamento possibile. Tra il sentirsi spinto e l’agire esiste talvolta uno spazio piccolo, incostante, ma allenabile. Quel giorno Andrea non lo aveva usato. La conversazione con Elena gliene aveva restituito una parte.
+Prendere sul serio un’emozione non significa obbedirle. Nella scena, l’irritazione spingeva Andrea a difendere un confine, riprendere il controllo e interrompere ciò che percepiva come un attacco. L’impulso non coincideva, però, con l’unico comportamento possibile. Tra il sentirsi spinto e l’agire esiste talvolta uno spazio piccolo, incostante e dipendente dal contesto. Quel giorno Andrea non lo aveva usato. La conversazione con Elena gliene aveva restituito una parte.
 
 ## La stessa frase, significati diversi
 
@@ -847,7 +842,7 @@ Per osservare ciò che accade possiamo usare una sequenza semplice:
 
 Nel caso di Andrea, il fatto comprendeva la proposta di una verifica esterna, formulata da Luca in riunione. Il significato attribuito era che Luca non si fidasse di lui e volesse indebolire la sua autorità. L’emozione prevalente era l’irritazione, insieme a una quota di allarme. L’impulso era difendersi e riprendere il controllo. Il comportamento fu rispondere in modo tagliente e chiudere lo spazio di esplorazione. La conseguenza fu una riunione più povera, il ritiro di Luca e il rinvio della decisione.
 
-Questa sequenza non è una teoria scientifica nuova e non pretende di descrivere ogni episodio in ordine lineare. È una mappa minima costruita per il libro, integrando contributi differenti. Nella realtà i passaggi si sovrappongono: il corpo può influenzare ciò che notiamo; il comportamento altrui cambia il significato; una conseguenza alimenta una nuova emozione. A volte ricostruiamo la sequenza soltanto dopo, e con margini di incertezza.
+Questa sequenza non è una teoria scientifica nuova e non pretende di descrivere ogni episodio in ordine lineare. È una mappa minima costruita per il libro integrando contributi differenti. Nella realtà i passaggi si sovrappongono: il corpo può influenzare ciò che notiamo; il comportamento altrui cambia il significato; una conseguenza alimenta una nuova emozione. A volte ricostruiamo la sequenza soltanto dopo, e con margini di incertezza.
 
 La mappa non è uno strumento diagnostico e non promette un cambiamento istantaneo. Serve a orientarsi. Come una cartina, omette molti dettagli per rendere visibile una relazione che, durante l’esperienza, tende a restare compressa.
 
@@ -951,7 +946,7 @@ L’ultima spiegazione non deve essere positiva, rassicurante o indulgente. Deve
 
 - Le emozioni possono sembrare improvvise senza essere prive di una logica.
 - Non reagiamo soltanto ai fatti: contano anche ciò che notiamo e il significato che la situazione assume per noi.
-- L’esperienza emotiva è reale; la sua interpretazione può essere incompleta o fallibile.
+- L’esperienza emotiva è reale; la spiegazione che le attribuiamo può essere incompleta o fallibile.
 - Una prima lettura rapida può essere utile senza diventare, per questo, un verdetto sulla realtà.
 - I segnali corporei sono informazioni reali sul nostro stato; non provano da soli la causa né l’intenzione altrui.
 - Distinguere fatto e significato non elimina l’emozione e non assolve automaticamente nessuno; aumenta le possibilità di verifica e di scelta.
@@ -968,53 +963,113 @@ Il Capitolo 2 parte da qui: **Piacevole non significa utile**.
 
 # 12 — NOTE DI REVISIONE CAPITOLO 1
 
-Versione: **0.3**  
-Data: **23 luglio 2026**  
-Documento valutato: `11_MANOSCRITTO_CAPITOLO_1`, versione 0.5  
-Stato: **versione approvata come riferimento narrativo, stilistico e tipografico per i capitoli successivi**
+Versione: **0.4**
+Data: **30 luglio 2026**
+Documento valutato: `11_MANOSCRITTO_CAPITOLO_1`, versione 0.4.1
+Rapporto esteso: `revisioni/2026-07-30_CAPITOLO_1_v0.4_REVISIONE_CRITICA.md`
+Stato: **revisione completa pronta per la verifica dell’autore; versione 0.5 respinta come riferimento**
 
 # 1. Esito sintetico
 
-La versione 0.5 è approvata come base del Capitolo 1. La revisione non modifica il perimetro scientifico della versione 0.4, ma consolida la forma narrativa e l'impaginazione.
+La versione attiva riparte dalla 0.4 corretta, preferita dall’autore, e la trasforma nella 0.4.1. Il nucleo narrativo della riunione, la scena con Elena e la metafora della telecamera sono stati conservati e rifiniti. L’impianto scientifico prudente è stato riallineato al dossier già disponibile.
 
-Il capitolo apre ex abrupto nel punto di massima frattura della riunione; la proposta di Luca e gli antecedenti vengono ricostruiti in seguito. Il lettore entra quindi in un conflitto già avvenuto e deve inseguirne cause, significati e conseguenze.
+La versione 0.5 non è più il manoscritto attivo né il riferimento narrativo e stilistico del Capitolo 1. La sua esistenza resta registrata nel changelog per tracciabilità, ma il suo testo è stato sostituito dalla 0.4.1.
 
-# 2. Decisioni narrative approvate
+Il manoscritto conta circa **4.720 parole**, rientra nel range previsto e contiene tutte le funzioni finali richieste dal brief.
 
-- apertura in medias res sulla risposta tagliente di Andrea;
-- effetto mostrato prima della causa;
-- ricostruzione progressiva della proposta di Luca e della posta economica;
-- dialoghi brevi, autonomi e non introdotti sistematicamente dai due punti;
-- uso di pause, gesti, silenzi e microazioni per scandire il ritmo;
-- mantenimento della scena narrativa per circa le prime cinque pagine prima dell'ingresso pieno della teoria;
-- nessuna soluzione perfetta nel confronto finale tra Andrea e Luca.
+# 2. Decisioni narrative
 
-# 3. Decisioni linguistiche e tipografiche approvate
+- ripristinata l’apertura cronologica «Alle 10:17 Andrea aveva già deciso che Luca non si fidava più di lui»;
+- mantenuta la posta economica concreta e chiarito che l’azienda è cresciuta da quattro a trentadue persone;
+- corretti e uniformati i dialoghi, eliminando le sigle `E:` e `A:`;
+- mantenuta Elena in una funzione non giudicante e non terapeutica;
+- collocata la metafora della telecamera subito dopo la scena in cucina;
+- mantenuto il limite della metafora: l’inquadratura non offre una verità completa;
+- ricostruito il processo invisibile senza trasformare Andrea in una diagnosi;
+- completato il confronto del giorno seguente con Luca, senza riconciliazione perfetta;
+- inseriti mappa minima, esercizio, sezione “Da ricordare” e ponte a *Piacevole non significa utile*.
 
-- corretti spazi impropri dopo apostrofi e intorno alla punteggiatura;
-- uniformati apostrofi, virgolette caporali e trattini;
-- corretti rientri e interruzioni di paragrafo;
-- corpo del testo giustificato nella versione DOCX;
-- attivato il controllo di vedove e orfane;
-- titoli mantenuti insieme al paragrafo successivo;
-- confermata la formulazione «Voglio tornare a ieri».
+# 3. Decisioni scientifiche
 
-# 4. Continuità da mantenere
+Sono state mantenute, con formulazioni prudenti:
 
-I capitoli successivi devono riprendere dalla versione 0.5:
+- distinzione tra fatto osservabile, significato attribuito e intenzione inferita;
+- ruolo dell’*appraisal* e di ciò che per la persona conta;
+- valutazioni rapide e non necessariamente verbalizzate;
+- euristiche come scorciatoie utili ma fallibili;
+- differenza tra risorse disponibili e risorse percepite;
+- partecipazione dei segnali corporei senza infallibilità del corpo;
+- teoria delle emozioni costruite presentata esplicitamente come modello;
+- Sistema 1 e Sistema 2 presentati come nomi funzionali, non strutture anatomiche;
+- matrice minima dichiarata come sintesi editoriale non lineare;
+- distinzione tra emozione autentica e spiegazione ancora da verificare.
 
-- l'apertura concreta e, quando utile, ex abrupto;
-- il ritmo dialogico basato su battute, pause e azioni;
-- la distinzione netta tra ciò che accade e ciò che viene ricostruito;
-- la gradualità con cui la teoria entra dopo l'immersione narrativa;
-- la formattazione tipografica uniforme;
-- il grassetto selettivo già definito nelle guide.
+Sono stati eliminati:
 
-# 5. Controlli ancora necessari prima della pubblicazione
+- percentuale del 100% sulle relazioni;
+- uso dell’etimologia come prova di un meccanismo psicologico;
+- equivalenza tra emozione ed energia;
+- equivalenza tra logica e informazione;
+- dualismo interno generalizzato;
+- VAK come modello dei cinque sensi;
+- assi cartesiani e *locus* usati come gergo non definito;
+- affermazioni generalizzate su ricordi non elaborati ed EMDR;
+- gaslighting usato come sinonimo di disaccordo;
+- “zona di comfort” e reti neurali stabili;
+- regole universali sul rispondere prima alle emozioni e poi ai dati;
+- Watzlawick e Festinger usati oltre ciò che potrebbero sostenere;
+- riferimenti alla trilogia, promesse trasformative, autopromozione e “versione migliore di te”.
 
-- verifica bibliografica finale delle note;
-- ultima lettura su impaginato definitivo, perché variazioni di font, margini o formato possono creare nuove vedove o orfane;
-- controllo editoriale dell'intero libro per uniformare ritmo, rientri, spaziature e dialoghi.
+# 4. Fonti proposte ma non integrate
+
+- Watzlawick resta una possibile fonte futura sulla comunicazione, dopo consultazione dell’opera originale.
+- Festinger resta una possibile fonte futura sulla dissonanza cognitiva, preferibilmente in un capitolo successivo.
+- EMDR resta fuori dal Capitolo 1 e richiederebbe un perimetro clinico specifico.
+- VAK/VARK non viene adottato come base scientifica.
+- Frijda è indicato come candidato prioritario se si svilupperà il tema delle tendenze all’azione.
+
+Le decisioni sono registrate in `06_REGISTRO_DELLE_FONTI` e `10_FONTI_CAPITOLO_1`.
+
+# 5. Decisioni linguistiche e tipografiche
+
+- uniformate virgolette caporali, apostrofi e punteggiatura;
+- separati i turni di dialogo in paragrafi autonomi;
+- normalizzata la gerarchia dei titoli;
+- eliminati promemoria, note all’autore e segnaposto dal corpo del capitolo;
+- mantenuto il grassetto soltanto per formule-cardine, domande operative e svolte narrative;
+- eliminati inglesismi non necessari; mantenuto *appraisal* con spiegazione;
+- corretti refusi, concordanze, ripetizioni e periodi incompleti provenienti dal PDF;
+- rimosso ogni riferimento a impaginazione o numerazione di pagina dal manoscritto Markdown.
+
+# 6. Continuità da mantenere
+
+I capitoli successivi devono riprendere dalla versione 0.4.1:
+
+- apertura concreta, senza obbligo di struttura *ex abrupto*;
+- scene comprensibili prima dell’ingresso della teoria;
+- dialoghi sostenuti da pause, gesti e microazioni;
+- distinzione tra esperienza emotiva e certezza sulla causa;
+- corpo trattato come parte del processo, non come oracolo;
+- teorie mantenute distinte e presentate con il corretto grado di certezza;
+- mappa dichiarata come strumento orientativo;
+- esercizi non clinici, circoscritti e privi di promesse di trasformazione immediata;
+- grassetto selettivo e non meccanico.
+
+# 7. Controlli ancora necessari
+
+Prima dell’approvazione autoriale:
+
+- leggere la 0.4.1 confrontandola con la voce desiderata;
+- verificare se la densità del blocco scientifico è adeguata al pubblico;
+- decidere se mantenere tutti e quattro gli autori nominati nel corpo del capitolo;
+- controllare che il chiarimento finale con Luca sia coerente con l’arco previsto per i capitoli 6 e 12.
+
+Prima della pubblicazione:
+
+- integrare fonti primarie, revisioni e letteratura critica indipendente;
+- verificare dati editoriali, pagine e note bibliografiche definitive;
+- eseguire un’ultima revisione grammaticale sull’impaginato;
+- controllare vedove, orfane, titoli, rientri e spaziature nel formato finale.
 
 ---
 
@@ -1032,7 +1087,7 @@ Documento master destinato a raccogliere progressivamente la prefazione, i capit
 ### Parte I
 
 1. Le emozioni non arrivano a caso
-2. Capitolo da definire
+2. Piacevole non significa utile
 3. Capitolo da definire
 
 ### Parte II
@@ -1057,6 +1112,8 @@ Documento master destinato a raccogliere progressivamente la prefazione, i capit
 
 ## Nota sullo stato del manoscritto
 Il contenuto definitivo verrà aggiunto progressivamente soltanto dopo l’approvazione dei relativi documenti preparatori.
+
+Il Capitolo 1 è disponibile come versione **0.4.1**, revisionata il 30 luglio 2026 e in attesa di approvazione autoriale. La versione 0.5 è stata respinta e non deve essere inserita nel master.
 
 
 
@@ -1087,6 +1144,7 @@ Cronologia delle modifiche al progetto editoriale, con data, documento interessa
 | 2026-07-19 | 11_MANOSCRITTO_CAPITOLO_1.md; 03_GUIDA_STILISTICA.md; 12_NOTE_DI_REVISIONE_CAPITOLO_1.md | Prodotta la versione 0.5: applicato un grassetto selettivo a formule-cardine, distinzioni scientifiche e svolte narrative; introdotta nella guida stilistica una regola generale sulla gerarchia visiva e aggiornata la verifica editoriale | Facilitare il riconoscimento dei concetti centrali senza appesantire la prosa o aumentare artificialmente la certezza delle affermazioni |
 | 2026-07-19 | 00_GUIDA_GENERALE_DEL_PROGETTO.md; 05_STRUTTURA_STANDARD_DEI_CAPITOLI.md; 08_REGISTRO_DELLA_CONTINUITÀ.md | Estesa ai capitoli successivi la regola sul grassetto selettivo: definiti momento di applicazione, criteri, densità indicativa, checklist e continuità tra capitoli | Rendere stabile e verificabile la gerarchia visiva introdotta nel Capitolo 1, evitando applicazioni incoerenti o meccaniche |
 | 2026-07-23 | 11_MANOSCRITTO_CAPITOLO_1.md; 03_GUIDA_STILISTICA.md; 05_STRUTTURA_STANDARD_DEI_CAPITOLI.md; 08_REGISTRO_DELLA_CONTINUITÀ.md; 09_BRIEF_CAPITOLO_1.md; 12_NOTE_DI_REVISIONE_CAPITOLO_1.md | Approvata e sincronizzata la versione 0.5: apertura ex abrupto, ricostruzione ritardata del conflitto, dialoghi più rapidi e autonomi, revisione grammaticale e tipografica, testo giustificato e controllo di vedove e orfane | Usare il Capitolo 1 v0.5 come riferimento narrativo, stilistico e tipografico per i capitoli successivi |
+| 2026-07-30 | 11_MANOSCRITTO_CAPITOLO_1.md; 00_GUIDA_GENERALE_DEL_PROGETTO.md; 04_MATRICE_DELLE_EMOZIONI.md; 06_REGISTRO_DELLE_FONTI.md; 08_REGISTRO_DELLA_CONTINUITÀ.md; 09_BRIEF_CAPITOLO_1.md; 10_FONTI_CAPITOLO_1.md; 12_NOTE_DI_REVISIONE_CAPITOLO_1.md; 13_MASTER_MANUSCRIPT.md; revisioni/ | Respinta dall’autore la versione 0.5 come riferimento; prodotta la 0.4.1 dalla 0.4 corretta, con apertura cronologica, pulizia narrativa e tipografica, rimozione delle affermazioni non sostenute, completamento di mappa, chiarimento finale, esercizio e ponte al Capitolo 2; registrata la valutazione di Watzlawick, Festinger, EMDR, VAK/VARK e Frijda | Conservare la voce preferita dall’autore, ristabilire la coerenza scientifica e rendere esplicita la nuova versione attiva senza cancellare la tracciabilità storica |
 
 
 

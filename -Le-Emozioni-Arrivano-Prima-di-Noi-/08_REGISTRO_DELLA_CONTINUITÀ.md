@@ -1078,7 +1078,7 @@ Deve consentire:
 
 # 23A. Continuità della gerarchia visiva
 
-Il Capitolo 1, versione 0.5, stabilisce il primo riferimento operativo per l’uso del grassetto.
+Il Capitolo 1, versione 0.4.1, stabilisce il primo riferimento operativo attivo per l’uso del grassetto.
 
 Nei capitoli successivi:
 
@@ -1200,7 +1200,7 @@ Prima dell’approvazione verificare:
 
 # 28. Registrazione effettiva: Capitolo 1
 
-Voci riallineate alla versione 0.5 approvata come riferimento narrativo e stilistico del Capitolo 1.
+Voci riallineate alla versione 0.4.1, candidata a nuovo riferimento narrativo e stilistico del Capitolo 1.
 
 ## SC-C1-01 — La frase
 
@@ -1291,7 +1291,7 @@ La continuità sarà riuscita se:
 
 ---
 
-# 30A. Affermazioni aggiunte dopo la revisione del Capitolo 1 v0.5
+# 30A. Affermazioni mantenute nella revisione del Capitolo 1 v0.4.1
 
 ## AFF-021 — Le euristiche possono completare una lettura prima della verifica
 
@@ -1330,11 +1330,11 @@ La continuità sarà riuscita se:
 
 # 31. Stato del documento
 
-Versione: **1.3 — continuità narrativa e stilistica**
+Versione: **1.4 — continuità riallineata al Capitolo 1 v0.4.1**
 
-Data: **19 luglio 2026**
+Data: **30 luglio 2026**
 
-Stato: **operativo e riallineato al Capitolo 1, versione 0.5 approvata come riferimento; da aggiornare dopo ogni capitolo e revisione significativa**
+Stato: **operativo e riallineato al Capitolo 1, versione 0.4.1 da approvare; da aggiornare dopo ogni capitolo e revisione significativa**
 
 
 

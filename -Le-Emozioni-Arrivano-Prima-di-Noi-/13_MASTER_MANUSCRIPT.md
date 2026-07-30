@@ -10,7 +10,7 @@ Documento master destinato a raccogliere progressivamente la prefazione, i capit
 ### Parte I
 
 1. Le emozioni non arrivano a caso
-2. Capitolo da definire
+2. Piacevole non significa utile
 3. Capitolo da definire
 
 ### Parte II
@@ -35,6 +35,8 @@ Documento master destinato a raccogliere progressivamente la prefazione, i capit
 
 ## Nota sullo stato del manoscritto
 Il contenuto definitivo verrà aggiunto progressivamente soltanto dopo l’approvazione dei relativi documenti preparatori.
+
+Il Capitolo 1 è disponibile come versione **0.4.1**, revisionata il 30 luglio 2026 e in attesa di approvazione autoriale. La versione 0.5 è stata respinta e non deve essere inserita nel master.
 
 
 

@@ -3378,7 +3378,7 @@ Prima di approvare una fonte, verificare:
 
 ---
 
-# 23A. Allineamento operativo al Capitolo 1 v0.5
+# 23A. Allineamento operativo al Capitolo 1 v0.4.1
 
 Per il Capitolo 1 il registro deve considerare esplicitamente i seguenti impieghi delle fonti:
 
@@ -3387,9 +3387,23 @@ Per il Capitolo 1 il registro deve considerare esplicitamente i seguenti impiegh
 - **Damasio:** partecipazione dello stato corporeo all’esperienza e alla decisione, senza attribuire al corpo capacità infallibile di identificare la causa;
 - **Barrett:** ruolo proposto di esperienza precedente, contesto, concetti, predizione e segnali corporei nella costruzione dell’esperienza emotiva, presentato come modello teorico e non come consenso definitivo.
 
-La scelta di apertura *ex abrupto*, la ricostruzione differita dell’episodio e il ritmo dei dialoghi appartengono al livello editoriale. Non devono essere registrati come risultati scientifici.
+La scelta dell’apertura cronologica alle 10:17, l’ordine delle scene e il ritmo dei dialoghi appartengono al livello editoriale. Non devono essere registrati come risultati scientifici.
 
 Le nuove affermazioni specifiche del Capitolo 1 sono registrate nel `07_REGISTRO_DELLE_AFFERMAZIONI_SCIENTIFICHE` con i codici `AFF-021`, `AFF-022` e `AFF-023`.
+
+---
+
+# 23B. Esito della valutazione delle fonti proposte nella revisione 0.4 corretta
+
+La revisione critica del 30 luglio 2026 ha valutato alcuni riferimenti comparsi negli appunti incorporati nella 0.4 corretta. Nessuno di essi viene aggiunto automaticamente alle fonti autorizzate: l’inclusione richiede reperimento, consultazione diretta e schedatura secondo il protocollo.
+
+- **Paul Watzlawick e collaboratori:** candidato teorico e applicativo per la comunicazione. Non autorizza l’equivalenza “contenuto = logica” e “relazione = emozione”, né la percentuale del 20% comparsa negli appunti. Non è necessario al Capitolo 1 nella versione attuale.
+- **Leon Festinger:** candidato accademico per un futuro sviluppo sulla dissonanza cognitiva. Non sostiene che tutte le emozioni derivino dalla distanza tra aspettativa e realtà. Il tema viene rinviato perché aprirebbe una digressione non necessaria al Capitolo 1.
+- **EMDR:** escluso dal Capitolo 1. Un eventuale uso futuro dovrà restare circoscritto alla letteratura clinica pertinente, con revisioni e linee guida, senza generalizzazioni sulle emozioni e senza procedure autonome.
+- **VAK/VARK:** escluso come fondamento scientifico. Se il libro svilupperà il ruolo delle informazioni sensoriali e corporee, saranno necessarie fonti dedicate a percezione, interocezione e propriocezione.
+- **Nico H. Frijda e tendenze all’azione:** candidato prioritario se si vorrà rafforzare `AFF-015` e sviluppare in modo scientifico il collegamento tra emozione e preparazione all’azione.
+
+Fino alla consultazione delle opere pertinenti, questi riferimenti restano **proposte di ricerca**, non fonti registrate né citabili nel manoscritto.
 
 ---
 
@@ -5870,7 +5884,7 @@ Deve consentire:
 
 # 23A. Continuità della gerarchia visiva
 
-Il Capitolo 1, versione 0.5, stabilisce il primo riferimento operativo per l’uso del grassetto.
+Il Capitolo 1, versione 0.4.1, stabilisce il primo riferimento operativo attivo per l’uso del grassetto.
 
 Nei capitoli successivi:
 
@@ -5992,7 +6006,7 @@ Prima dell’approvazione verificare:
 
 # 28. Registrazione effettiva: Capitolo 1
 
-Voci riallineate alla versione 0.5 approvata come riferimento narrativo e stilistico del Capitolo 1.
+Voci riallineate alla versione 0.4.1, candidata a nuovo riferimento narrativo e stilistico del Capitolo 1.
 
 ## SC-C1-01 — La frase
 
@@ -6083,7 +6097,7 @@ La continuità sarà riuscita se:
 
 ---
 
-# 30A. Affermazioni aggiunte dopo la revisione del Capitolo 1 v0.5
+# 30A. Affermazioni mantenute nella revisione del Capitolo 1 v0.4.1
 
 ## AFF-021 — Le euristiche possono completare una lettura prima della verifica
 
@@ -6122,11 +6136,11 @@ La continuità sarà riuscita se:
 
 # 31. Stato del documento
 
-Versione: **1.3 — continuità narrativa e stilistica**
+Versione: **1.4 — continuità riallineata al Capitolo 1 v0.4.1**
 
-Data: **19 luglio 2026**
+Data: **30 luglio 2026**
 
-Stato: **operativo e riallineato al Capitolo 1, versione 0.5 approvata come riferimento; da aggiornare dopo ogni capitolo e revisione significativa**
+Stato: **operativo e riallineato al Capitolo 1, versione 0.4.1 da approvare; da aggiornare dopo ogni capitolo e revisione significativa**
 
 
 
@@ -6144,10 +6158,10 @@ Stato: **operativo e riallineato al Capitolo 1, versione 0.5 approvata come rife
 
 ## Stato di allineamento
 
-Versione del brief: **1.1 — allineata al manoscritto 0.5**  
-Data: **23 luglio 2026**
+Versione del brief: **1.2 — riallineata al manoscritto 0.4.1**
+Data: **30 luglio 2026**
 
-La soluzione narrativa approvata sostituisce l’apertura lineare precedentemente prevista. Il capitolo deve iniziare nel pieno dell’incomprensione, mostrando prima la frattura e soltanto dopo gli antecedenti. Il lettore deve ricostruire progressivamente ciò che è accaduto, come in un’indagine.
+La versione 0.5 è stata respinta dall’autore come riferimento narrativo. Il capitolo torna all’apertura cronologica scelta nella 0.4 corretta: alle 10:17 Andrea ha già attribuito alla frase di Luca un significato, ma il lettore assiste in ordine alla situazione, alla proposta di verifica, alla risposta corporea, al conflitto e alle conseguenze.
 
 I dialoghi devono essere autonomi, rapidi e sostenuti da pause, gesti e microazioni. Non vanno introdotti sistematicamente dopo i due punti. La teoria entra soltanto dopo che il lettore ha attraversato la scena e formulato una prima ipotesi.
 
@@ -6406,9 +6420,9 @@ Deve poter essere interpretata in modi diversi.
 
 ## Obiettivo narrativo
 
-Aprire **ex abrupto**, quando la riunione è già compromessa. Il lettore deve incontrare prima la reazione tagliente di Andrea e soltanto dopo ricostruire la proposta di Luca, il rischio economico e il percorso che ha portato allo scontro.
+Aprire con la frase «Alle 10:17 Andrea aveva già deciso che Luca non si fidava più di lui». Presentare subito il giudizio di Andrea, poi seguire in ordine narrativo la posta economica, la proposta di Luca, i segnali corporei, la risposta tagliente e il progressivo impoverimento della discussione.
 
-La scena deve funzionare come l'apertura di un giallo: prima il “delitto” relazionale, poi gli indizi e la ricostruzione. L'ordine delle informazioni deve produrre curiosità senza rendere opachi luogo, personaggi e posta in gioco.
+La scena deve produrre curiosità attraverso la distanza tra la certezza iniziale di Andrea e gli elementi realmente disponibili, senza nascondere artificialmente gli antecedenti. Il lettore deve vivere la formazione dell’interpretazione prima che la teoria la scomponga.
 
 ## Lunghezza indicativa
 
@@ -7366,9 +7380,9 @@ Verificare:
 
 # 36. Stato del documento
 
-Versione: **1.1 — brief definitivo allineato al manoscritto 0.5**
+Versione: **1.2 — brief riallineato al manoscritto 0.4.1**
 
-Stato: **approvato come riferimento narrativo e scientifico del Capitolo 1 v0.5**
+Stato: **operativo e coerente con la versione 0.4.1; da riconfermare con l’approvazione del manoscritto**
 
 
 ---

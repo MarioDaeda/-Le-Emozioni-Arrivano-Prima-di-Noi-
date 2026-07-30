@@ -1364,7 +1364,7 @@ Prima di approvare una fonte, verificare:
 
 ---
 
-# 23A. Allineamento operativo al Capitolo 1 v0.5
+# 23A. Allineamento operativo al Capitolo 1 v0.4.1
 
 Per il Capitolo 1 il registro deve considerare esplicitamente i seguenti impieghi delle fonti:
 
@@ -1373,9 +1373,23 @@ Per il Capitolo 1 il registro deve considerare esplicitamente i seguenti impiegh
 - **Damasio:** partecipazione dello stato corporeo all’esperienza e alla decisione, senza attribuire al corpo capacità infallibile di identificare la causa;
 - **Barrett:** ruolo proposto di esperienza precedente, contesto, concetti, predizione e segnali corporei nella costruzione dell’esperienza emotiva, presentato come modello teorico e non come consenso definitivo.
 
-La scelta di apertura *ex abrupto*, la ricostruzione differita dell’episodio e il ritmo dei dialoghi appartengono al livello editoriale. Non devono essere registrati come risultati scientifici.
+La scelta dell’apertura cronologica alle 10:17, l’ordine delle scene e il ritmo dei dialoghi appartengono al livello editoriale. Non devono essere registrati come risultati scientifici.
 
 Le nuove affermazioni specifiche del Capitolo 1 sono registrate nel `07_REGISTRO_DELLE_AFFERMAZIONI_SCIENTIFICHE` con i codici `AFF-021`, `AFF-022` e `AFF-023`.
+
+---
+
+# 23B. Esito della valutazione delle fonti proposte nella revisione 0.4 corretta
+
+La revisione critica del 30 luglio 2026 ha valutato alcuni riferimenti comparsi negli appunti incorporati nella 0.4 corretta. Nessuno di essi viene aggiunto automaticamente alle fonti autorizzate: l’inclusione richiede reperimento, consultazione diretta e schedatura secondo il protocollo.
+
+- **Paul Watzlawick e collaboratori:** candidato teorico e applicativo per la comunicazione. Non autorizza l’equivalenza “contenuto = logica” e “relazione = emozione”, né la percentuale del 20% comparsa negli appunti. Non è necessario al Capitolo 1 nella versione attuale.
+- **Leon Festinger:** candidato accademico per un futuro sviluppo sulla dissonanza cognitiva. Non sostiene che tutte le emozioni derivino dalla distanza tra aspettativa e realtà. Il tema viene rinviato perché aprirebbe una digressione non necessaria al Capitolo 1.
+- **EMDR:** escluso dal Capitolo 1. Un eventuale uso futuro dovrà restare circoscritto alla letteratura clinica pertinente, con revisioni e linee guida, senza generalizzazioni sulle emozioni e senza procedure autonome.
+- **VAK/VARK:** escluso come fondamento scientifico. Se il libro svilupperà il ruolo delle informazioni sensoriali e corporee, saranno necessarie fonti dedicate a percezione, interocezione e propriocezione.
+- **Nico H. Frijda e tendenze all’azione:** candidato prioritario se si vorrà rafforzare `AFF-015` e sviluppare in modo scientifico il collegamento tra emozione e preparazione all’azione.
+
+Fino alla consultazione delle opere pertinenti, questi riferimenti restano **proposte di ricerca**, non fonti registrate né citabili nel manoscritto.
 
 ---
 

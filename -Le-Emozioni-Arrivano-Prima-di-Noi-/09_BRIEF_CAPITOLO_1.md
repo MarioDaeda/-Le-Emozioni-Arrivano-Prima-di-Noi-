@@ -8,10 +8,10 @@
 
 ## Stato di allineamento
 
-Versione del brief: **1.1 — allineata al manoscritto 0.5**  
-Data: **23 luglio 2026**
+Versione del brief: **1.2 — riallineata al manoscritto 0.4.1**
+Data: **30 luglio 2026**
 
-La soluzione narrativa approvata sostituisce l’apertura lineare precedentemente prevista. Il capitolo deve iniziare nel pieno dell’incomprensione, mostrando prima la frattura e soltanto dopo gli antecedenti. Il lettore deve ricostruire progressivamente ciò che è accaduto, come in un’indagine.
+La versione 0.5 è stata respinta dall’autore come riferimento narrativo. Il capitolo torna all’apertura cronologica scelta nella 0.4 corretta: alle 10:17 Andrea ha già attribuito alla frase di Luca un significato, ma il lettore assiste in ordine alla situazione, alla proposta di verifica, alla risposta corporea, al conflitto e alle conseguenze.
 
 I dialoghi devono essere autonomi, rapidi e sostenuti da pause, gesti e microazioni. Non vanno introdotti sistematicamente dopo i due punti. La teoria entra soltanto dopo che il lettore ha attraversato la scena e formulato una prima ipotesi.
 
@@ -270,9 +270,9 @@ Deve poter essere interpretata in modi diversi.
 
 ## Obiettivo narrativo
 
-Aprire **ex abrupto**, quando la riunione è già compromessa. Il lettore deve incontrare prima la reazione tagliente di Andrea e soltanto dopo ricostruire la proposta di Luca, il rischio economico e il percorso che ha portato allo scontro.
+Aprire con la frase «Alle 10:17 Andrea aveva già deciso che Luca non si fidava più di lui». Presentare subito il giudizio di Andrea, poi seguire in ordine narrativo la posta economica, la proposta di Luca, i segnali corporei, la risposta tagliente e il progressivo impoverimento della discussione.
 
-La scena deve funzionare come l'apertura di un giallo: prima il “delitto” relazionale, poi gli indizi e la ricostruzione. L'ordine delle informazioni deve produrre curiosità senza rendere opachi luogo, personaggi e posta in gioco.
+La scena deve produrre curiosità attraverso la distanza tra la certezza iniziale di Andrea e gli elementi realmente disponibili, senza nascondere artificialmente gli antecedenti. Il lettore deve vivere la formazione dell’interpretazione prima che la teoria la scomponga.
 
 ## Lunghezza indicativa
 
@@ -1230,9 +1230,9 @@ Verificare:
 
 # 36. Stato del documento
 
-Versione: **1.1 — brief definitivo allineato al manoscritto 0.5**
+Versione: **1.2 — brief riallineato al manoscritto 0.4.1**
 
-Stato: **approvato come riferimento narrativo e scientifico del Capitolo 1 v0.5**
+Stato: **operativo e coerente con la versione 0.4.1; da riconfermare con l’approvazione del manoscritto**
 
 
 ---

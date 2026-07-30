@@ -2,9 +2,9 @@
 
 # 00 — GUIDA GENERALE DEL PROGETTO
 
-Versione: **1.3 — allineamento scientifico Capitolo 1 v0.5**
+Versione: **1.4 — riallineamento editoriale e scientifico al Capitolo 1 v0.4.1**
 
-Ultimo aggiornamento: **19 luglio 2026**
+Ultimo aggiornamento: **30 luglio 2026**
 
 ## Titolo provvisorio
 
@@ -5753,9 +5753,9 @@ Dovrà diventare più capace di chiedersi:
 
 # 34A. Nota metodologica sulla sequenza narrativa
 
-La sequenza con cui un episodio viene raccontato non deve essere confusa con una sequenza biologica rigida. Nel Capitolo 1, versione 0.5, il lettore incontra prima la conseguenza dell’incomprensione e soltanto dopo ricostruisce l’evento, il significato attribuito e le risposte corporee ed emotive.
+La sequenza con cui un episodio viene raccontato non deve essere confusa con una sequenza biologica rigida. Nel Capitolo 1, versione 0.4.1, il lettore segue l’evento in ordine narrativo e ricostruisce poi, in modo retrospettivo, il significato attribuito da Andrea e le risposte corporee ed emotive coinvolte.
 
-Questa inversione è una scelta narrativa *ex abrupto*. Serve a produrre coinvolgimento e a mostrare dall’interno quanto rapidamente una persona possa vivere come certa un’interpretazione ancora incompleta. Non implica che, nel funzionamento reale, fatto, percezione, corpo, significato, emozione e impulso procedano sempre in un ordine lineare.
+Anche questo ordine è una scelta narrativa. Serve a rendere visibile la formazione progressiva di una certezza soggettiva, ma non implica che, nel funzionamento reale, fatto, percezione, corpo, significato, emozione e impulso procedano sempre nello stesso ordine o come passaggi separati.
 
 La matrice resta quindi:
 
@@ -5773,5 +5773,3 @@ Non deve essere presentata come catena causale universale né come modello unita
 Versione: **prima definizione completa della matrice**
 
 Stato: **da verificare rispetto alle fonti scientifiche e da testare durante la stesura dei primi capitoli**
-
-
