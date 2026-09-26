@@ -203,16 +203,20 @@ La ferita della riconoscenza negata continuava a dolere al centro del petto, ma 
 
 «Se vuoi che l'officina funzioni, Gianluca, dobbiamo riscrivere il patto su basi chiare,» disse Marta, guardando Sara. «Io non farò il cane da guardia delle macchine per il vecchio stipendio mentre tu ti prendi il titolo da direttore.»
 
-Sara aprì il cassetto della scrivania, estrasse una cartella con l'intestazione della Direzione Generale e la posò davanti a Marta.
+Sara non aprì un cassetto per estrarre un contratto miracolosamente già pronto: nel mondo industriale nessuno regala promozioni per rimorso morale. Davanti a sé aveva soltanto la scheda anagrafica di Marta e il modulo standard di dimissioni volontarie che temeva di dover protocollare.
 
-«Eravamo qui esattamente per questo, Marta,» disse Sara con voce emozionata ma fermissima. «L'amministratore ha usato parole pessime venerdì e ha sbagliato il modo. Ma l'azienda non può fare a meno di te. Abbiamo preparato questo addendum contrattuale con decorrenza da oggi:
-1. **Inquadramento come Master Technical Specialist & Responsabile Metrologico di Filiera:** equiparazione economica al livello Quadro Superiore con incremento retributivo del 28% e indennità di funzione specifica per il presidio qualità;
-2. **Autorità tecnica esclusiva e vincolante di fermo impianto:** l'avvio e il blocco dei lotti sulle leghe speciali richiedono la firma congiunta tua e di Moretti; sui parametri geometrici e di tolleranza, il tuo parere tecnico è sovrano e insindacabile dalla direzione commerciale;
-3. **Direzione dell'Accademia Tecnica di Fabbrica:** da marzo, per venti ore al mese, sarai distaccata formalmente per formare i giovani periti neoassunti e gli operatori sulle macchine a cinque assi, con un budget dedicato per la strumentazione metrologica.»
+Sara guardò Moretti, poi guardò Marta. Prese il ricevitore del telefono fisso, compose l'interno dell'Amministratore Delegato e attivò il vivavoce:
 
-Marta lesse il documento riga per riga. Sentì le parole di suo padre risuonare nella memoria: *«Il tuo prezzo per insegnare il mestiere a quel ragazzo. Da pari a pari. Non da serva tradita.»*
+«Dottore, sono qui con Marta Bellamoli e con l'ingegner Moretti. Abbiamo quarantaquattro centri di lavoro che stanno scaldando i mandrini per la commessa Kuka. Se vogliamo che i pezzi escano a sei micron e che l'ingegnere possa parlare con Stoccarda senza farci revocare le certificazioni, dobbiamo formalizzare adesso il perimetro tecnico di Marta prima che inizi il turno delle nove. Le condizioni operative sono tre:
+1. **Inquadramento come Master Technical Specialist & Responsabile Metrologico di Filiera:** equiparazione contrattuale al livello Quadro con incremento retributivo del ventotto per cento legato al presidio delle tolleranze;
+2. **Autorità tecnica esclusiva e vincolante di fermo impianto:** l'avvio e il blocco dei lotti sulle leghe speciali richiedono la firma congiunta di Marta e Moretti; sui parametri geometrici il parere di Marta è sovrano;
+3. **Direzione dell'Accademia Tecnica di Reparto:** venti ore al mese distaccate per formare i giovani operatori con budget dedicato per i tastatori centesimali. Se firmiamo questo addendum adesso, il turno parte. Altrimenti tra quarantotto ore affrontiamo l'audit tedesco senza collaudatore capo.»
 
-Prese la penna dalla scrivania di Sara. Firmò in calce con la sua grafia spigolosa e decisa.
+Dall'altoparlante del vivavoce seguirono sei secondi di silenzio tombale, rotto solo dal respiro dell'amministratore. Poi la voce arrivò ruvida, priva di pacche sulle spalle ma ancorata alla salvezza della commessa:
+
+«Prepara l'addendum con decorrenza immediata, Sara. Firmo io alle undici quando rientro da Milano. Buon lavoro a tutti e due.»
+
+Sara stampò il testo provvisorio in tre copie. Marta prese la penna dalla scrivania e firmò in calce con la sua grafia spigolosa.
 
 Poi allungò la mano verso Gianluca Moretti. «L'isola 4 ha iniziato il ciclo di riscaldamento mandrini dieci minuti fa, ingegnere. Venga giù con me in officina. Le faccio vedere come si azzera un tastatore Renishaw sul titanio a sei micron prima che arrivi la prima mail da Stoccarda.»
 

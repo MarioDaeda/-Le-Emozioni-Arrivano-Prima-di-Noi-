@@ -186,7 +186,7 @@ Guardò il foglio per tre secondi. Poi, con due movimenti netti e calmi, lo stra
 
 Poi scostò la scatola di cartone e si sedette sul bordo della scrivania, a mezzo metro dal suo socio di quindici anni.
 
-«Quella mail è una porcheria infame, Luca,» disse Andrea a bassa voce. Le parole uscirono stabili, ancorate a un dolore autentico ma purificato dall'orgoglio. «L'ho scritta alle dodici e un quarto di notte perché ero terrorizzato di non farcela, avevo il cuore in gola per la scadenza del bando, e invece di vedere la tua sofferenza ho trasformato la tua emicrania in una pugnalata alle spalle. Ho fatto l'errore fondamentale di attribuzione: ho creduto che tu te ne fossi andato per distruggere me. Ti chiedo scusa. Con tutto me stesso. Davanti a te e davanti a questa stanza.»
+«Quella mail fa schifo, Luca,» disse Andrea a bassa voce. Le parole uscirono stabili, ancorate a un dolore autentico ma purificato dall'orgoglio. «L'ho scritta alle dodici e un quarto di notte perché ero terrorizzato di non farcela, avevo il cuore in gola per la scadenza del bando, e ho ragionato come un bastardo. Ho pensato che te ne fossi andato apposta per fregarmi e lasciarmi affogare da solo. Ti chiedo scusa. Davanti a te e davanti a questa stanza.»
 
 Luca rimase immobile, fissando i pezzi di carta nel cestino. Le palpebre batterono a vuoto per due volte; la gola compì una deglutizione dolorosa, ma la corazza difensiva non cedette all'istante.
 
@@ -210,7 +210,7 @@ L'accordo di ricostruzione del vertice fu formalizzato prima delle nove:
 1. **Ritiro formale e tombale di ogni contestazione:** Andrea avrebbe inviato alle 09:00 una mail congiunta al collegio sindacale e al commercialista dichiarando che la precedente comunicazione era frutto di un equivoco tecnico superato, confermando la piena solidità paritetica della governance;
 2. **Diritto di Veto Strategico Operativo:** a Luca veniva formalmente riconosciuto il diritto di veto preventivo insindacabile su qualsiasi nuova commessa o accordo di rete proposto da Andrea che comportasse un incremento di carico operativo superiore al 15% della capacità di Omnia;
 3. **Istituzione del "Check-in Paritetico del Venerdì":** ogni venerdì dalle 16:30 alle 17:30, i due soci si sarebbero incontrati a porte chiuse, senza computer, senza fogli di bilancio e senza dipendenti, unicamente per verificare il proprio stato di salute biologica, il livello di fatica personale e la tenuta della fiducia reciproca;
-4. **Introduzione della clausola di *Sabbatical Operativo Protetto*:** in caso di sovraccarico di salute o familiare certificato di uno dei soci, l'altro avrebbe assunto temporaneamente la totalità delle deleghe esecutive per un massimo di sessanta giorni senza alcuna decurtazione di quote, compensi o poteri di indirizzo.
+4. **Revisione dei Patti Parasociali con Clausola di Salvaguardia Paritetica:** integrazione formale nello statuto societario di una clausola 'Texas Shoot-out / Roulette Russa' regolata con perizia asseverata di terzo livello per evitare lo stallo decisionale al 50%, unita a una clausola di *Sabbatical Medico Tutelato* di novanta giorni garantito con copertura assicurativa D&O per preservare la salute fisica dei soci fondatori senza perdita di quote o compensi.
 
 Alle 08:45, Sara bussò alla porta di Luca portando due cartelline per il consuntivo di O.M.P.
 
@@ -220,7 +220,7 @@ Si fermò sulla soglia, guardando i due fondatori seduti l'uno di fronte all'alt
 
 Luca alzò lo sguardo. Il colorito era tornato normale; la tensione alla bocca era svanita, sostituita da un mezzo sorriso asciutto e stanco, ma profondamente vivo.
 
-«Tutto a posto, Sara,» rispose Luca, allungando la mano per prendere le cartelline. «Abbiamo solo dovuto tarare le tolleranze dei mandrini di vertice. Adesso le macchine possono girare.»
+«Tutto a posto, Sara,» rispose Luca, allungando la mano per prendere le cartelline. «Ci siamo detti quello che dovevamo dirci da due anni. Lascia pure i faldoni qui sul tavolo: ce ne occupiamo insieme.»
 
 Andrea guardò il suo socio e annuì in silenzio.
 

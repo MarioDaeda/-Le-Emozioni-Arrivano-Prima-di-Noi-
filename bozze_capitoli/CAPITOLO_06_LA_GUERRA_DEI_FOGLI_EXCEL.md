@@ -106,13 +106,7 @@ Paolo posò la forchetta e il coltello con movimenti millimetrici sul bordo del 
 
 Valerio si irrigidì, sentendosi tradito dall'unico alleato su cui contava. «Anche tu adesso ti metti dalla parte di Marcolini?»
 
-«Non so chi sia Marcolini e non mi interessa la sua simpatia,» rispose Paolo, versando due dita d'acqua nel bicchiere dell'amico. «Mi interessa la tua lucidità, perché stasera ragioni come un pugile suonato. Facciamo l'esperimento della telecamera. Quello di cui parlava sempre la consulente Elena nelle riunioni di governance.»
-
-Valerio scosse la testa con stizza. «Ancora la telecamera... ma cosa c'entra la telecamera con i costi di trafileria?»
-
-«C'entra che la telecamera non legge i tuoi rancori e non legge la boria di Marcolini. Metti un obiettivo sul muro della sala conferenze oggi alle due e mezza del pomeriggio. Registrazione oggettiva al cento per cento. Che cosa ha visto quella telecamera, Valerio? Dimmelo senza usare aggettivi morali.»
-
-Valerio sospirò, costringendosi a rallentare la respirazione affannosa.
+«Non so chi sia Marcolini e non mi interessa la sua simpatia,» rispose Paolo, versando due dita d'acqua nel bicchiere dell'amico. «Mi interessa la tua testa, perché stasera ragioni come un pugile intossicato dal suo stesso fegato. Svegliati, Valerio! Ho passato quarant'anni a controllare mastrini contabili, partitari e bolle doganali. Ho visto fallire trafilerie perché il titolare guardava il prezzo del rottame e faceva finta di non vedere le cricche interne nei tondelli. Mettiti nei panni di un perito asseveratore del tribunale che entra nella sala di LogiDistretto e sequestra i documenti sul tavolo. Cosa c'era scritto nel tuo foglio? Settantottomilaquattrocento euro di minor costo all'acquisto. E cosa c'era scritto nei log di Marcolini? Ottantaquattro bancali di barre ovalizzate fermi nelle campate che costano novantaduemila euro di fermo camion e perizie straordinarie. Dimmi la verità: il metallo di Brescia era ovalizzato o no?»
 
 «Ha visto che io ho proiettato il report acquisti che mostra un risparmio medio dell'11,4% su ogni tonnellata di barre acquistate da Ferrometalli Sebina, pari a 78.400 euro di minor costo d'acquisto per O.M.P.»
 
@@ -234,21 +228,19 @@ Claudio fissò la tabella, poi guardò Valerio. «Le Trafilerie Venete le conosc
 L'accordo operativo fu siglato in quaranta minuti di lavoro congiunto sui dati:
 1. **Distruzione e dismissione immediata dei fogli Excel paralleli:** divieto assoluto per qualsiasi reparto di gestire archivi clandestini o non sincronizzati con il database centrale;
 2. **Istituzione della "Scheda Unica di Fornitura" su piattaforma MES NexSys:** ogni nuovo fornitore di metalli deve essere approvato congiuntamente da Acquisti, Logistica e Capo Officina mediante un indice ponderato di *Total Cost of Ownership*;
-3. **Riforma strutturale del piano incentivi (curata da Sara):** cancellazione del bonus isolato sul prezzo d'acquisto per Valerio e sui tempi di piazzale per Claudio; introduzione di un KPI di filiera condiviso legato al **margine operativo netto della commessa consegnata al cliente finale**.
+3. **Riforma strutturale del piano incentivi MBO (formalizzata da Sara):** cancellazione del bonus isolato sul prezzo d'acquisto per Valerio e sui tempi di piazzale per Claudio; introduzione di un KPI di filiera condiviso e vincolante legato al **Margine Operativo Netto di Consegna Effettiva** (prezzo finale incassato dedotti costi di scarto, stoccaggio e sanzioni di ritardo).
 
-Quando la riunione si sciolse, Claudio rimase indietro nella sala.
+Quando la riunione si sciolse, Claudio si fermò sulla soglia della sala, con la felpa tecnica aperta sul petto e le chiavi del piazzale strette nel pugno.
 
-Si avvicinò a Valerio mentre quest'ultimo riponeva il computer nella borsa di cuoio.
+Fissò Valerio mentre quest'ultimo riponeva il computer nella borsa di cuoio: «Guidotti... vieni a farti un giro sulle baie domani mattina alle sei e mezza. Così vedi con i tuoi occhi cosa succede quando un bilico scarica barre con tre decimi di pancia e i carrelli trilaterali non riescono a inforcarle.»
 
-«Valerio,» disse Claudio, allungando una mano nodosa con le nocche segnate dal freddo dei piazzali. «Ieri ho esagerato con i toni. Quella chiavetta rossa potevo risparmiarmela e parlartene prima a quattr'occhi.»
+Valerio chiuse la cerniera della borsa. I masseteri erano ancora tesi, ma nei suoi occhi non c'era più odio: c'era la fatica del rispetto reciproco.
 
-Valerio guardò la mano del responsabile logistico. Esitò un battito di ciglia, poi strinse la mano con una presa salda e asciutta.
+«Ci sarò alle sei e mezza, Marcolini,» rispose. «E tu vieni a guardare i contratti di fornitura delle Trafilerie Venete prima di dare del truffatore a chi tratta sul centesimo di euro per difendere il margine dell'azienda.»
 
-«Anch'io ho sbagliato a guardare solo il mio listino, Claudio. Se le barre non girano sulle macchine, il mio risparmio è solo carta straccia.»
+Non diventarono amici, non si scambiarono pacche sulle spalle e non cancellarono le rugosità dei loro caratteri. Valerio rimase un contabile spigoloso e meticoloso; Claudio rimase un ruvido comandante di piazzale.
 
-Non diventarono amici intimi, né trascorsero i fine settimana insieme. Valerio continuò a essere un contabile scrupoloso e pignolo; Claudio continuò a essere un ruvido comandante di piazzale che non amava i formalismi d'ufficio.
-
-Ma mentre uscivano insieme verso il parcheggio, scambiandosi una battuta sulla nebbia che saliva dai campi, entrambi sapevano che i fogli di calcolo avevano smesso di essere trincee di guerra, tornando a essere ciò che dovevano essere fin dal principio: le lenti pulite attraverso cui governare insieme la nave dell'impresa.
+Ma quando si strinsero la mano nell'atrio, la presa fu d'acciaio freddo. I fogli di calcolo avevano smesso di essere trincee feudali ed erano tornati a essere strumenti di navigazione comune.
 
 ---
 

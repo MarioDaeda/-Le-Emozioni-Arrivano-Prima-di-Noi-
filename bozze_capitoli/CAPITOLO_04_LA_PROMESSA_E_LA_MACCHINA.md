@@ -40,7 +40,7 @@ Fabio sbatté la cartellina direttamente sulla scrivania, sopra la tazza di caff
 
 «Contratto quadro chiuso venerdì sera a Francoforte,» disse Fabio, allargando le braccia con un sorriso trionfale a trentadue denti. «Millecinquecento blocchi distributori per valvole idrauliche ad altissima pressione. Materiale: titanio grado 5. Valore complessivo della commessa: duecentoventimila euro con margine operativo lordo al 38%. Roba che ci ripaga un terzo del buco lasciato da Apex!»
 
-Silvano sentì un muscolo sotto la palpebra sinistra iniziare a contrarsi a scatti rapidi. «Titanio grado 5? E con quali macchine vorresti farlo?»
+Un muscolo sotto la palpebra sinistra di Silvano prese a contrarsi a scatti rapidi, involontari. «Titanio grado 5? E con quali macchine vorresti farlo?»
 
 «Con le cinque assi, ovvio! Le Mori Seiki dell'isola 3 e 4. Hanno la rigidità dinamica perfetta per quel profilo.»
 
@@ -126,11 +126,7 @@ Luisa si sciolse le braccia, si avvicinò al tavolo e si sedette sulla sedia di 
 
 «Questo con la fabbrica non c'entra niente!»
 
-«C'entra tutto. Adesso ti fermi e facciamo l'esperimento della telecamera. Quello che mi hai raccontato che usano nei corsi di governance con Elena.»
-
-Silvano sbuffò, passandosi la mano callosa sulla fronte madida. «La telecamera... ma per favore, Luisa!»
-
-«Sì, la telecamera. Immagina un obiettivo montato nell'angolo del tuo gabbiotto alle sette e venti di stamattina. Un nastro magnetico a colori. Senza audio di retropensieri. Che cosa ha registrato quella telecamera, Silvano? Dimmelo come se fossi un perito del tribunale.»
+«C'entra tutto. Spegni la rabbia cieca, Silvano. In rianimazione, quando arrivava un politrauma da schiacciamento dalla statale e il chirurgo d'urgenza urlava che la sala operatoria era occupata dall'ortopedico, non ci mettevamo a discutere di chi fosse il più bastardo: guardavamo la saturazione di ossigeno e il tracciato dell'elettrocardiogramma. I fatti e i numeri vitali, nient'altro. Dimmi cosa ha visto e sentito chiunque stesse guardando dentro quel gabbiotto stamattina alle sette e venti. Le parole esatte, non i film che ti stai montando in testa per farti venire un ictus.»
 
 Silvano serrò i pugni sopra il tavolo, costringendosi a riavvolgere la pellicola della memoria.
 
@@ -253,11 +249,13 @@ Silvano allungò la mano e fece scivolare davanti a Fabio una copia del foglio t
 
 «Nel senso che il titanio grado 5 si lavora a quaranta metri al minuto. Per fare millecinquecento blocchi servono trecentocinquanta ore mandrino. Se le mettiamo sulle due macchine a cinque assi che abbiamo libere, servono diciotto giorni pieni lavorando ventiquattr'ore al giorno, a patto di fermare completamente Kuka e buttare nel cestino le consegne dei clienti medicali. A meno che... a meno che Hydac non avesse bisogno di tutti i millecinquecento pezzi per il 19 dicembre. Ti hanno chiesto millecinquecento pezzi per quella data, o a loro serviva una pre-serie per i test di montaggio?»
 
-Fabio guardò la tabella dei tempi ciclo con la bocca semiaperta. I numeri, incolonnati con il rigore dei millesimi di millimetro e delle velocità di rotazione, non lasciavano spazio alla retorica dei miracoli aziendali.
+Fabio guardò la tabella dei tempi ciclo, poi raddrizzò la schiena, picchiando l'indice sulla scrivania: «Silvano, io parlo di fatturato e di quote di mercato, non di trucioli! A Stoccarda i buyer non vogliono sentire il piagnisteo sulle frese che vibrano, vogliono sapere se il fornitore regge il ritmo! Tu mi parli di velocità di taglio come fossimo negli anni ottanta!»
 
-Il Direttore Commerciale abbassò le spalle. L'arroganza manageriale si sgonfiò di colpo, lasciando emergere la verità nuda della trattativa estera.
+Silvano non arretrò di un millimetro. Spostò il foglio di tre centimetri verso il petto del commerciale: «Il titanio grado 5 non legge il tuo budget aziendale, Fabio. A quaranta metri al minuto, se acceleri bruci l'inserto in metallo duro e il pezzo si salda sulla pinza mandrino distruggendo cinquantamila euro di elettromandrino. O diciamo la verità tecnica sui lotti, o il 19 dicembre paghiamo ventiduemila euro di penale e il cliente lo perdi per sempre.»
 
-«Loro... loro hanno la presentazione dei nuovi escavatori alla fiera Bauma di Monaco a fine gennaio,» confessò Fabio a voce bassa, guardando Sara ed Elena. «Gli servivano centocinquanta blocchi entro Natale per allestire i primi tre prototipi dimostrativi nel loro stabilimento di Stoccarda. I restanti milletrecentocinquanta pezzi sono destinati alla produzione di serie che parte a marzo.»
+Fabio deglutì a vuoto. Le dita strinsero la stilografica fino a sbiancare. Guardò Sara, poi Elena. L'arroganza commerciale si incrinò davanti alla ghisa e all'acciaio.
+
+«Loro... loro hanno la presentazione dei nuovi escavatori alla fiera Bauma di Monaco a fine gennaio,» confessò infine a voce più bassa. «Gli servivano centocinquanta blocchi entro Natale per allestire i primi tre prototipi dimostrativi nello stabilimento di Stoccarda. I restanti milletrecentocinquanta pezzi sono destinati alla produzione di serie che parte a marzo.»
 
 Silvano chiuse gli occhi per un secondo. Il punto cieco dell'intero distretto si spalancò nella stanza.
 
@@ -265,7 +263,7 @@ Silvano chiuse gli occhi per un secondo. Il punto cieco dell'intero distretto si
 
 Fabio arrossì violentemente. «Perché il loro buyer mi ha detto che se chiudevamo il lotto intero entro il budget 2026 ci avrebbero riconosciuto il prezzo pieno di centoquarantasette euro a pezzo senza sconti di volume. E perché... perché pensavo che se vi avessi detto che ne bastavano centocinquanta, in officina avreste fatto i comodi vostri rimandando il lavoro a dopo le feste! Ho pensato che mettere la pressione della penale totale fosse l'unico modo per costringervi a prendere la commessa sul serio!»
 
-Silvano non urlò. Non scattò in piedi. Scosse la testa con una mestizia infinita.
+Silvano non urlò. Scosse la testa con una mestizia infinita.
 
 «Vedi, Fabio,» disse Silvano, e la sua voce aveva la gravità calma della terra battuta. «Tu hai creduto che la fabbrica fosse una banda di fannulloni da prendere a frustate con le penali per farli lavorare. E io ho creduto che tu fossi un avido senza scrupoli che voleva calpestare la vita dei miei ragazzi per intascarsi il premio di produzione. Ci siamo trattati come due nemici mortali, e stavamo per buttare via un cliente da duecentoventimila euro e trentaquattro anni di lavoro mio.»
 
@@ -276,7 +274,7 @@ Elena, che fino a quel momento aveva preso appunti in silenzio, chiuse il taccui
 L'accordo fu siglato in quaranta minuti di lavoro serrato sui numeri:
 1. **Rimodulazione contrattuale immediata:** Fabio avrebbe chiamato il buyer di Hydac alle 14:00, formalizzando la consegna di un primo lotto di campionatura da **150 pezzi entro il 18 dicembre** (perfettamente assorbibile nelle 34 ore di riserva tecnica dell'officina senza toccare Kuka), con consegna scaglionata dei restanti 1.350 pezzi a partire dal 20 gennaio a lotti di 450 pezzi al mese.
 2. **Nessun provvedimento disciplinare espulsivo:** il verbale di lite veniva archiviato a fronte di una reciproca conciliazione formale a verbale tra Silvano e Fabio.
-3. **Istituzione della nuova regola di processo (*Feasibility Check vincolante*):** da quel giorno stesso, nessun commerciale di O.M.P. Precision avrebbe più potuto apporre la firma su un'offerta vincolante contenente penali di consegna senza la preventiva sigla tecnica di fattibilità oraria (*feasibility sign-off*) apposta dal Capo Officina sul sistema APS.
+3. **Istituzione della nuova regola di processo (*Feasibility Check Vincolante*):** da quel giorno stesso, nessun commerciale di O.M.P. Precision avrebbe più potuto apporre la firma su un'offerta vincolante contenente penali di consegna senza la preventiva validazione tecnica di fattibilità oraria (*feasibility sign-off*) validata con token crittografico dal Capo Officina sul modulo APS-Capacity.
 
 Quando uscirono dalla sala riunioni, Fabio si fermò davanti alla porta a vetri.
 

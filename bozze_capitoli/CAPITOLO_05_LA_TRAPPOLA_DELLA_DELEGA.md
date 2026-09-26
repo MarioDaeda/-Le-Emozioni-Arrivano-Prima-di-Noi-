@@ -122,25 +122,11 @@ Lo schermo diventò nero.
 
 «Cosa fai, Elena? Devo stampare le copie per le nove!»
 
-«Ascoltami per tre minuti, Andrea,» disse Elena, e nel suo sguardo non c'era né ammirazione per l'eroe notturno né compassione consolatoria. C'era quella lucidità da arbitro neutrale che Andrea temeva e rispettava più di ogni altra cosa al mondo. «Guardati. Hai quarantacinque anni. Hai la pressione alle stelle, la cervicale infiammata, le dita che tremano dalla caffeina e hai passato la notte a fare il lavoro di un contabile junior per dimostrare a te stesso che sei l'unico indispensabile sulla faccia della terra. Sei fiero di te?»
+«Guardati, Andrea,» disse Elena, e nel suo sguardo non c'era né ammirazione per l'eroe notturno né compassione consolatoria. C'era quella lucidità clinica che Andrea temeva e rispettava più di ogni altra cosa al mondo. «Hai quarantacinque anni. Hai la pressione alle stelle, la cervicale infiammata, le dita che tremano per la caffeina e hai passato la notte a fare il lavoro di un contabile junior per dimostrare a te stesso che sei l'unico indispensabile sulla faccia della terra. Sei fiero di te?»
 
 «Ho evitato una catastrofe!»
 
-«Facciamo l'esperimento della telecamera,» disse Elena, incrociando le braccia.
-
-«Elena, ti prego, non stamattina. Tra tre ore ho il comitato...»
-
-«Proprio stamattina. Perché se vai a quel comitato credendoti un martire infallibile, prima di sera distruggerai l'azienda molto più velocemente di quanto avrebbe fatto un errore di formula. Immagina la telecamera a circuito chiuso nel tuo ufficio ieri sera alle 19:15. Cosa ha registrato la telecamera, Andrea? Dimmelo senza aggiungere la tua epica da salvatore della patria.»
-
-Andrea chiuse gli occhi, respirando con fatica. Il silenzio della stanza era rotto soltanto dal ticchettio dell'orologio a pendolo nel corridoio.
-
-«Ha registrato che Enrico mi ha mostrato un modello con due parametri di sconto sbagliati.»
-
-«Bene. E poi cosa ha registrato il microfono?»
-
-«Ha registrato che gli ho detto che il file era spazzatura, gli ho staccato il cavo dello schermo, gli ho detto che facevo prima a farlo io che a spiegarlo a lui e gli ho ordinato di andare a casa.»
-
-«Perfetto,» disse Elena, con una voce che non conteneva traccia di sarcasmo, ma il peso implacabile della realtà fenomenologica. «La telecamera ha registrato questo: un ragazzo di ventisette anni che ha lavorato tre giorni su un modello matematico complesso commettendo un errore su due variabili di contesto; e un amministratore delegato che gli strappa il mouse di mano, lo umilia professionalmente, rifiuta di spiegargli dove sta l'errore e si barrica in ufficio per dodici ore a riscrivere formule al posto suo. Adesso dimmi: la telecamera ha registrato che tu gli avevi consegnato una scheda scritta con il tasso del 5,85% e i tempi a centoventi giorni prima che lui iniziasse il lavoro?»
+«Hai fatto il bullo da cortile con un ragazzo che ha la metà dei tuoi anni,» ribatté Elena, senza alzare la voce ma pesando ogni sillaba. «Ieri sera Enrico ti ha portato un modello matematico con due parametri teorici errati. E tu cosa hai fatto? Gli hai strappato il cavo di mano, gli hai detto che il suo lavoro era spazzatura, hai rifiutato di mostrargli l'errore e ti sei barricato qui dentro per dodici ore a rifare le formule da solo. Adesso rispondimi guardandomi negli occhi: prima di dirgli di impostare la simulazione, gli avevi consegnato una copia dell'accordo con la Banca Popolare sullo spread al 5,85%? Gli avevi spiegato che nel distretto i committenti pagano a centoventi giorni con collaudo asseverato?»
 
 Andrea aprì la bocca per replicare, ma le parole gli morirono sulla lingua. Il ricordo delle istruzioni impartite a Enrico tre giorni prima gli tornò alla mente: *«Enrico, buttami giù una simulazione dinamica della liquidità di rete per il comitato di venerdì, fai qualcosa di moderno e pulito»*. Non gli aveva consegnato l'accordo con la Banca Popolare. Non gli aveva spiegato i meccanismi di anticipo fatture del distretto. Aveva dato per scontato che ciò che per lui era ovvietà biologica dopo vent'anni di trincea dovesse essere magicamente trasparente per un ragazzo appena uscito dall'università.
 
@@ -248,16 +234,16 @@ Il ragazzo sciolse le spalle; un respiro profondo gli liberò finalmente il tora
 
 «È andato benissimo. Il budget consolidato è stato approvato all'unanimità. Ma è andato bene perché io ho passato la notte in bianco a rifare il modello da solo. E questa è una sconfitta, non una vittoria. Perché se io devo passare le notti a scrivere formule per non avere paura, la mia azienda non ha un futuro: ha solo un fondatore condannato ai lavori forzati.»
 
-Andrea prese un foglio bianco dalla stampante, tracciò una linea verticale al centro e scrisse tre punti:
+Andrea aprì il cassetto della scrivania, estrasse una cartella blu intestata e compilò la **Scheda Parametrica di Delega Finanziaria**:
 
-«Da lunedì mattina cambiamo metodo. Introduciamo il **Protocollo di Delega a Tre Stadi**:
-1. **Stadio 1 — La Scheda dei Vincoli di Contesto (I Vincoli non Negoziabili):** prima di affidarti qualsiasi modello, io stilerò una scheda di una pagina con i parametri reali non trattabili (tassi effettivi degli istituti di credito, giorni medi storici d'incasso per ciascun cliente, penali di fornitura e margini operativi minimi). Tu costruisci l'architettura matematica, ma dentro il perimetro dei vincoli che ti consegno io.
-2. **Stadio 2 — Il Checkpoint Intermedio di Calibrazione:** a metà del lavoro, ci fermiamo per venti minuti. Nessun giudizio estetico: guardiamo solo la congruità delle formule rispetto ai vincoli. Se c'è un'incongruenza, la correggi tu, non io. Io ti spiego l'attrito materiale, tu sistemi il codice.
-3. **Stadio 3 — La Piena Titolarità del Risultato:** quando il modello supera il checkpoint, la firma sotto il prospetto è la tua. Al comitato successivo, sui numeri del modello, rispondi tu davanti a Luca e alla banca, non io.»
+«Da lunedì mattina cambiamo metodo. Firmiamo questo protocollo vincolante:
+1. **I Cinque Parametri di Vincolo Non Negoziabili:** prima di toccare qualsiasi codice, io formalizzo per iscritto lo Spread bancario effettivo al 5,85%, il DSO storico a 115 giorni, il plafond fidi a 300.000 euro, la riserva tecnica di cassa a 50.000 euro e il margine operativo minimo del 35%. Tu progetti l'architettura matematica, ma dentro questo perimetro blindato.
+2. **Il Checkpoint Intermedio a 48 Ore:** ogni quarantott'ore ci fermiamo quindici minuti sul log delle formule. Se c'è una discrepanza di contesto, la correggi tu, non io. Io ti spiego l'attrito territoriale, tu aggiusti il modello.
+3. **La Piena Titolarità del Risultato:** quando il modello supera il log del secondo trimestre, la firma sul prospetto è la tua. Al comitato di fine mese, la presentazione del cruscotto a Luca e ai revisori della banca la fai tu in prima persona.»
 
-Enrico guardò lo schema tracciato a penna sul foglio. Sul suo volto non c'era più la spavalderia ingenua del giorno prima, né il terrore della mattina; c'era la gravità concentrata di un professionista che riceve un mandato impegnativo, severo ma rispettoso della sua intelligenza.
+Enrico lesse la scheda parametrica riga per riga. Sul suo volto non c'era più la spavalderia accademica del giorno prima, né il terrore della mattina; c'era la gravità concentrata di un professionista che riceve un mandato esigente, severo ma ancorato al rispetto reciproco.
 
-«Accetto il protocollo, dottor Vettori,» disse Enrico, alzandosi e allungando la mano. «Lunedì mattina alle otto sono qui per la scheda dei vincoli della commessa Hydac.»
+«Accetto il protocollo, dottor Vettori,» disse Enrico, alzandosi e allungando la mano. «Lunedì mattina alle otto sono qui per i vincoli della commessa Hydac.»
 
 Andrea si alzò e strinse la mano del giovane ingegnere. La presa fu solida, ferma, senza paternalismi.
 

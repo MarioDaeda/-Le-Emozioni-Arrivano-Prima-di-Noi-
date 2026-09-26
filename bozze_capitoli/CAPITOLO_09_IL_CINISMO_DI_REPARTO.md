@@ -199,7 +199,7 @@ Dario teneva le mani nodose appoggiate sulle cosce, la schiena dritta e gli occh
 
 L'Amministratore Delegato si schiarì la voce. Aveva abbandonato il tono da predicatore motivazionale; la sua voce era bassa, asciutta, ancorata alla fatica dei fatti.
 
-«Grazie di essere saliti,» esordì l'Amministratore, guardando Dario senza ostilità. «Mercoledì scorso in mensa ho sbagliato tutto. Ho sbagliato il linguaggio, ho sbagliato il momento e ho fatto l'errore imperdonabile di presentare slide sull'agilità e borracce promozionali a persone a cui questa azienda deve ancora una quota importante del lavoro dello scorso anno. Quella convention è stata un fallimento di presunzione manageriale. Vi chiedo scusa davanti a tutti.»
+«Grazie di essere saliti,» esordì l'Amministratore, guardando Dario senza ostilità. «Mercoledì in mensa ho sbagliato tutto. Ho fatto un comizio ridicolo spendendo quattordicimila euro di convention aziendale mentre abbiamo i premi di produzione fermi da novembre. Il risultato pratico di quel teatrino è stato che da giovedì nessuno si è iscritto ai turni di straordinario del sabato e rischiamo di non consegnare il secondo lotto Kuka e il titanio di Hydac, rischiando penali da tremila euro al giorno. Quella convention è stata un fallimento di presunzione manageriale che ha messo a rischio la fabbrica. Vi chiedo scusa davanti a tutti.»
 
 Silvano e Marta si scambiarono una rapida occhiata. Dario rimase immobile, ma la piega amara sulla sua bocca ebbe un impercettibile rilassamento.
 
@@ -232,7 +232,7 @@ L'Amministratore accennò un sorriso asciutto, tese la mano destra attraverso il
 
 Si strinsero la mano. Una stretta solida, forte, tra la mano bianca dell'amministratore e quella scura e segnata dal metallo del rettificatore.
 
-Alle 15:10, mentre scendevano la scaletta per tornare nel reparto macchine, Silvano diede una gomitata amichevole a Dario: «Allora, vecchio nichilista, torniamo al lavoro?»
+Alle 15:10, mentre scendevano la scaletta per tornare nel reparto macchine, Silvano diede una gomitata amichevole a Dario: «Allora, Meneghelli, hai finito di fare il comizio o torniamo al banco?»
 
 Dario si fermò davanti alla porta dell'officina. Guardò la navata illuminata, il ronzio possente dei mandrini che lavoravano al novantotto per cento di saturazione, Marta che controllava un tastatore con Gianluca Moretti, e Davide che caricava i pezzi con precisione.
 

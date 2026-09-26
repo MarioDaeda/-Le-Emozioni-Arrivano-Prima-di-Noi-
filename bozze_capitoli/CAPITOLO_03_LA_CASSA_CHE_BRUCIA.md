@@ -20,7 +20,7 @@ Alle 18:47 squillò la notifica push dell'app di posta elettronica sullo smartph
 Mittente: *Bignami Dott.ssa Claudia — Area Crediti Imprese Direzione Territoriale*.  
 Oggetto: *Pratica affidamento R&D / Contratto Rete NexSys-OMP — Aggiornamento istruttoria*.
 
-Marco sentì le dita della mano destra congelarsi all'istante mentre faceva doppio clic sul messaggio. Il testo conteneva esattamente quarantuno parole, formattate con la glaciale asetticità della burocrazia creditizia:
+Le falangi della mano destra persero sensibilità, congelate all'istante a contatto col mouse mentre faceva doppio clic sul messaggio. Il testo conteneva esattamente quarantuno parole, formattate con la glaciale asetticità della burocrazia creditizia:
 
 *«Gentile ingegner Vantini, con riferimento alla richiesta di finanziamento ponte di cui all'oggetto, si comunica che il Comitato Rischi di Direzione ha richiesto un supplemento istruttorio sulla perizia asseverata del software proprietario. La pratica è stata aggiornata alla seduta collegiale di martedì pomeriggio. Cordiali saluti.»*
 
@@ -78,15 +78,15 @@ Giulia non arretrò. Si piantò davanti a lui a mezzo metro di distanza. Gli blo
 
 «Cosa fai? Ridammelo!» protestò Marco, allungando le braccia.
 
-«Ascoltami bene per cinque minuti,» disse Giulia, e nei suoi occhi verdi non c'era né compassione accondiscendente né la paura che Marco cercava disperatamente di trasmetterle. C'era la freddezza chirurgica di chi passa otto ore al giorno al microscopio a contare cellule vive e cellule morte senza confondere le speranze con i reagenti chimici. «Sei sveglio da quarantotto ore. Non mangi da venerdì a pranzo. Hai lo sguardo di un tossicodipendente in crisi d'astinenza e stai per inviare una diffida legale alla banca con cui lavori da cinque anni, sulla base del nulla assoluto.»
+«Ascoltami bene, Marco,» disse Giulia, e nei suoi occhi verdi non c'era né compassione accondiscendente né il panico che lui cercava disperatamente di trasmetterle. C'era la freddezza chirurgica di chi passa otto ore al giorno al microscopio a contare cellule vive e cellule morte senza confondere le speranze con i reagenti chimici. «Sei sveglio da quarantotto ore. Non mangi da venerdì a mezzogiorno. Hai le pupille a spillo e stai per inviare una diffida legale con richiesta danni milionaria alla banca che finanzia le tue linee di credito, sulla base del nulla cosmico.»
 
-«Il nulla assoluto? Quella mail è una sentenza!»
+«Il nulla? Quella mail è una sentenza di morte!»
 
-«Facciamo la telecamera,» tagliò corto Giulia.
+«In laboratorio, quando un saggio di proliferazione cellulare non dà colonie in quarantott'ore, non prendo a sprangate l'incubatrice: controllo il pH del terreno e conto i corpi apoptotici al microscopio a fluorescenza. Tu invece hai letto quarantuno parole burocratiche e ci hai costruito sopra il fallimento di NexSys, il pignoramento della casa e il licenziamento dei tuoi programmatori.»
 
-Marco chiuse gli occhi ed espirò con rabbia, mandando una nuvola di vapore bianco contro il cielo plumbeo. «Non ricominciare con le storie di Elena e Andrea. Quelli fanno consulenza, vendono parole. Io devo pagare centoquarantamila euro di stipendi martedì!»
+Marco provò a divincolarsi, ma Giulia serrò la presa sul suo braccio.
 
-«E proprio perché devi pagare centoquarantamila euro, adesso ti fermi e guardi la scena dalla telecamera. Immagina un obiettivo grandangolare montato sul soffitto del tuo ufficio venerdì alle 18:47. Una registrazione audio e video digitale ad alta definizione. Che cosa ha registrato quella telecamera, Marco? Dimmelo parola per parola.»
+«La PEC con la diffida non parte,» tagliò corto lei. «Il telefono resta nella mia tasca fino a domani mattina. E adesso mi dici che cosa c'era scritto in quella mail. Non quello che ti sei immaginato nella notte: le parole esatte che stavano sullo schermo alle 18:47.»
 
 Marco deglutì. La bocca era impastata, amara di caffè liofilizzato e acido gastrico.
 
@@ -209,9 +209,9 @@ Marco sentì il sangue defluire dalla testa verso il petto: non era un rifiuto d
 
 Il punto cieco di Marco si spalancò con una chiarezza abbagliante. La banca non era il nemico crudele che voleva distruggerlo: era un'istituzione sottoposta a vincoli normativi severissimi che cercava di difendere la propria conformità procedurale.
 
-«Se il problema è la controfirma di un capofila di rete industriale,» disse Marco con voce fermissima, «Omnia Servizi Direzionali, nella persona del dottor Andrea Vettori, è il nostro capofila di distretto accreditato presso la Regione. Ho qui con me la bozza dell'addendum all'accordo di filiera siglato con loro e con O.M.P. Precision. Se convoco Andrea adesso in conference call, possiamo avere la perizia controfirmata e vidimata digitalmente entro domani mattina alle dieci.»
+«Se il vincolo è l'asseverazione di filiera,» disse Marco posando la cartella sul cristallo del tavolo con calma ferma, «Omnia Servizi, nella persona di Andrea Vettori, è il nostro capofila di distretto accreditato presso la Regione. Ho qui con me la bozza dell'Addendum all'Accordo di Rete Meccatronica — Fascicolo FCG-2026-B. Se convoco Andrea adesso in conference call con lo studio legale di Elena Colombo, carichiamo la controfirma asseverata con marca temporale entro le ore dieci di domani mattina.»
 
-Marangoni guardò la Bignami, poi annuì. «Con la firma di Omnia come garante della conformità di rete, la pratica rispetta al cento per cento i requisiti del Fondo. La porto in approvazione domani pomeriggio alle 16:00 come pratica d'urgenza fuori sacco. La delibera sarà esecutiva giovedì mattina.»
+Marangoni guardò la Bignami, poi annuì. «Con la firma digitale di Omnia come garante della conformità di rete, la pratica rispetta al centesimo i requisiti del Fondo. La porto in approvazione domani pomeriggio alle 16:00 come pratica d'urgenza fuori sacco. La delibera sarà esecutiva giovedì mattina.»
 
 Non ci fu nessun miracolo hollywoodiano: la liquidità non arrivò sul conto corrente quel martedì.
 
