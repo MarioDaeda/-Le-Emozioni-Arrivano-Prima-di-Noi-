@@ -1,6 +1,6 @@
-﻿---
+---
 name: editing-creativo-e-dialoghi
-description: Framework integrato di editing letterario, developmental editing, subtext analysis, deep POV e verifica dell'autenticita dei dialoghi per narrativa industriale e saggi d'impresa.
+description: Framework di editing letterario, developmental editing, subtext analysis, deep POV e verifica dell'autenticita dei dialoghi per narrativa industriale e saggi d'impresa.
 ---
 # SKILLS.md — FRAMEWORK INTEGRATO DI EDITING LETTERARIO E REVISIONE DIALOGHI
 ## Raccolta Ufficiale delle Migliori Skills Open-Source da GitHub per la Revisione Narrativa
