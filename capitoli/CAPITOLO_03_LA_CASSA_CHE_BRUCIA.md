@@ -94,7 +94,7 @@ Marco deglutì. La bocca era impastata, amara di caffè liofilizzato e acido gas
 
 «Cosa c'è scritto nella mail? Ripetimi il testo esatto, senza aggiungere i tuoi aggettivi.»
 
-Marco socchiuse le palpebre, recitando a memoria il testo che aveva scavato solchi nella sua corteccia cerebrale: «*Si comunica che il Comitato Rischi di Direzione ha richiesto un supplemento istruttorio sulla perizia asseverata del software proprietario. La pratica è stata aggiornata alla seduta collegiale di martedì pomeriggio.*»
+Marco socchiuse le palpebre, recitando a memoria il testo che quella notte aveva ingrandito e riletto sullo schermo del telefono fino a saperlo come una stringa di codice: «*Si comunica che il Comitato Rischi di Direzione ha richiesto un supplemento istruttorio sulla perizia asseverata del software proprietario. La pratica è stata aggiornata alla seduta collegiale di martedì pomeriggio.*»
 
 «Perfetto,» disse Giulia, sollevando un dito guantato contro il cielo di piombo. «Quarantacinque parole. Adesso esaminiamo i dati per quello che sono. C'è scritta la parola *bocciata*?»
 
@@ -179,7 +179,7 @@ La filiale grandi imprese di Mediocredito, nel centro storico di Bologna, occupa
 
 Marco salì i tre gradini che portavano al piano dell'Area Crediti Imprese. Indossava un abito blu scuro, una camicia stirata di fresco e una cravatta sobria. Nella mano sinistra teneva una borsa portadocumenti in pelle nera contenente il bilancio previsionale, i contratti in essere con O.M.P. e LogiDistretto, e la perizia tecnica sui brevetti.
 
-Quando la bussola a vetri scorrevoli si aprì con un sibilo pneumatico, la fitta acida riaffiorò puntuale alla bocca dello stomaco. I battiti accelerarono con colpi sordi contro le costole; le dita registrarono il consueto brivido freddo attorno all'impugnatura di pelle della borsa. L'organismo animale continuava a leggere quell'atrio in arenaria come un mattatoio potenziale, scaricando noradrenalina nel sangue prima di qualsiasi calcolo logico.
+Quando la bussola a vetri scorrevoli si aprì con un sibilo pneumatico, la fitta acida riaffiorò puntuale alla bocca dello stomaco. I battiti accelerarono con colpi sordi contro le costole; il consueto brivido freddo gli serrò le dita attorno all'impugnatura di pelle della borsa. Quell'atrio in arenaria aveva già l'aria di un tribunale, e la pancia aveva emesso il verdetto prima che la testa caricasse un solo numero del bilancio.
 
 Ma questa volta Marco non scambiò la contrazione viscerale per un presagio di sventura. Si fermò un secondo davanti alla reception, appoggiò la mano libera sul legno freddo del bancone, inspirò lentamente contando fino a quattro, espirò fino a sei. *Il segnale è reale, la causa è da accertare.*
 
@@ -209,7 +209,7 @@ Il sangue defluì dalla testa verso il petto in una vampata liberatoria: non era
 
 «Il Comitato non mette affatto in discussione la solidità della vostra scale-up né il valore del software,» aggiunse la Bignami con un sorriso professionale che dissipò l'ultimo residuo di nebbia. «I numeri del conto economico sono eccellenti. Ma se noi deliberiamo il fido da trecentomila euro oggi con questa perizia monca, in caso di controllo della Corte dei Conti o del gestore del Fondo di garanzia, la garanzia pubblica decade e la banca si trova scoperta per l'intero importo. Per questo venerdì abbiamo sospeso la delibera: stavamo cercando il modo tecnico di blindare la pratica senza farvi bocciare l'operazione.»
 
-Il punto cieco di Marco si spalancò con una chiarezza abbagliante. La banca non era il nemico crudele che voleva distruggerlo: era un'istituzione sottoposta a vincoli normativi severissimi che cercava di difendere la propria conformità procedurale.
+La penna di Marangoni restava ferma sulla pagina delle firme. Non un rigetto: un campo obbligatorio vuoto, come una build respinta dalla pipeline per un controllo di conformità. Dall'altra parte del cristallo non sedeva nessun boia: due persone con una circolare da rispettare cercavano il varco per far passare la pratica.
 
 «Se il vincolo è l'asseverazione di filiera,» disse Marco posando la cartella sul cristallo del tavolo con calma ferma, «Omnia, nella persona di Andrea Vettori, è il nostro capofila di distretto accreditato presso la Regione. Ho qui con me la bozza dell'Addendum all'Accordo di Rete Meccatronica — Fascicolo FCG-B. Se convoco Andrea adesso in conference call con lo Studio Colombo & Associati di Elena Colombo, carichiamo la controfirma asseverata con marca temporale entro le ore dieci di domani mattina.»
 
