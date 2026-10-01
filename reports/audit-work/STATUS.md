@@ -11,6 +11,6 @@ Copie: scratchpad/main/ ; vecchie versioni in scratchpad/src/ (solo confronto).
 | 5 Red Team + referto | NON INIZIATA | | 05 | | |
 Copertura lettura canone: Pref ✓ | C1 ✓ | C2 ✓ (lettura LIBRO vecchio + diff 37 righe) | C3 ✓ (idem) | C4 ☐ | C5 ☐ | C6 ☐ | C7 ☐ | C8 ☐ | C9 ☐ | EPI ☐
 OUTPUT FINALE: reports/AUDIT_REVISIONE_CLAUDE.md (istruzione utente 2026-10-01, sostituisce reports/2026-09-30_REFERTO_...).
-Copertura: C4 ✓ C5 ✓ C6 ✓ C7 ✓ C8 ✓
-Prossimo passo: leggere capitoli/CAPITOLO_09.
+Copertura: C4 ✓ C5 ✓ C6 ✓ C7 ✓ C8 ✓ C9 ✓
+Prossimo passo: leggere capitoli/EPILOGO_E_TOOLKIT_OPERATIVO.
 Deroga utente: commit+push dei soli checkpoint reports/audit-work/ dopo ogni fase/capitolo sul branch claude/busy-mccarthy-j9u2h1; pulizia finale con commit di rimozione.
