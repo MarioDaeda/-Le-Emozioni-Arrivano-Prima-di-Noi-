@@ -10,7 +10,7 @@ Quei numeri Andrea li aveva. Controllati la sera, dopo cena, con il portatile ac
 
 Ed era stanco. Una settimana a rispondere a banche, consulenti e responsabili d'area. Ogni verifica richiesta era un giorno in più, e ogni giorno in più allontanava la decisione e avvicinava il cliente alla porta di qualcun altro.
 
-Luca si sporse appena verso il tavolo. Il responsabile operativo: la precisione che in chiunque altro sarebbe stata una virtù, e in lui era anche qualcos'altro — la mano ferma sul grilletto. Guardò il prospetto e disse:
+Luca Marangon si sporse appena verso il tavolo. Quarantatré anni, socio paritetico al cinquanta per cento e responsabile operativo di Omnia: la precisione che in chiunque altro sarebbe stata una virtù, e in lui era anche qualcos'altro — la mano ferma sul grilletto. Guardò il prospetto e disse:
 
 «Prima di procedere, forse dovremmo far controllare i numeri anche a qualcun altro.»
 
@@ -102,7 +102,7 @@ Elena gli versò dell'acqua. «Che cosa avrebbe registrato una telecamera?»
 
 Andrea sbuffò, le dita aperte a ventaglio sul piano della cucina. «Una telecamera del cazzo non registra il tono, Elena.»
 
-Elena affondò la lama nel tagliere di faggio, un colpo secco; i bicchieri tintinnarono nella credenza. Si girò a guardarlo negli occhi, le mani infarinate: «La telecamera sente se uno urla o se parla basso. Registra se ti ha dato del truffatore o se ha chiesto una seconda firma sui conti del secondo trimestre. Il resto — che voleva fotterti davanti alla commerciale, che non si fida, che ti considera un vecchio rincoglionito — ce lo stai mettendo tu. Perché hai la gastrite da tre settimane, non dormi per la firma con la Popolare, e ti aspetti che Luca ti batta le mani a ogni preventivo.»
+Elena affondò la lama nel tagliere di faggio, un colpo secco; i bicchieri tintinnarono nella credenza. Si girò a guardarlo negli occhi, le mani infarinate: «La telecamera sente se uno urla o se parla basso. Registra se ti ha dato del truffatore o se ha chiesto una seconda firma sui conti del secondo trimestre. Il resto — che voleva fotterti davanti alla commerciale, che non si fida, che ti considera un vecchio rincoglionito — ce lo stai mettendo tu. Perché hai la gastrite da tre settimane, non dormi per la firma con Mediocredito, e ti aspetti che Luca ti batta le mani a ogni preventivo.»
 
 La domanda pungeva perché era facile. Facile, detta da fuori. Una telecamera avrebbe mostrato un uomo che propone un controllo esterno e un altro che si irrigidisce. Avrebbe mostrato Luca arrivare a quella proposta dopo due domande. Avrebbe mostrato Andrea rispondere di rimbalzo, senza chiedere all'altro che cosa temesse, di preciso. Avrebbe mostrato la responsabile commerciale abbassare gli occhi — e sull'imbarazzo, sulla noia o sulla concentrazione di quegli occhi, la telecamera non apre inchieste.
 
@@ -266,7 +266,7 @@ Andrea non aveva smesso di essere irritato. Aveva smesso, fino alla relazione di
 
 ## Mettilo in pratica
 
-Scegli un episodio recente in cui hai reagito in fretta a una frase, un silenzio, un gesto. Non partire dall'episodio più doloroso della tua vita: ti serve una situazione abbastanza importante da essere reale, abbastanza circoscritta da poterla osservare.
+Scegli un episodio recente in cui hai reagito in fretta a una frase, un silenzio, un gesto. Non partire dall'episodio più doloroso della tua vita: ti serve una situazione sufficientemente rilevante da essere reale e delimitata da poterla osservare.
 
 Scrivi sette righe:
 

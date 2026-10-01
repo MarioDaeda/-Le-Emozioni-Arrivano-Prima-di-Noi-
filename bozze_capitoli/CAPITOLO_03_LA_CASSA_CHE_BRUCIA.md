@@ -3,15 +3,15 @@
 
 ---
 
-### ATTO I — L'INNESCO NARRATIVO SITUATO
+## La riga di comando alle diciotto e quarantasette
 
 Alle 18:47 di venerdì 21 novembre, il salvaschermo del monitor principale di Marco — un display ultrawide da trentaquattro pollici montato su un braccio d'acciaio satinato — passò dal nero al codice sorgente di un microservizio in linguaggio Rust.
 
-Nell'open space di NexSys Solutions, al terzo piano della stecca direzionale Archimede a ridosso del casello di Verona Sud, il silenzio era rotto soltanto dal sibilo del sistema di areazione e dal ticchettio discontinuo di due sviluppatori che completavano gli ultimi commit prima del fine settimana. L'aria sapeva di caffè lungo riscaldato nel microonde e plastica calda di schede madri. Diciotto postazioni ergonomiche, ventiquattro chilometri di cavi in fibra cablati nei pavimenti galleggianti, server blade che pulsavano con piccole luci verdi all'interno del vano rack condizionato. Per chi entrava dall'esterno, NexSys era l'avanguardia del distretto: la fabbrica del codice che collegava i centri di lavoro a cinque assi di O.M.P. Precision con la flotta di autocarri intermodali di LogiDistretto.
+Nell'open space di NexSys Solutions, al terzo piano della stecca direzionale Archimede a ridosso del casello di Verona Sud, il silenzio era rotto soltanto dal sibilo del sistema di areazione e dal ticchettio discontinuo di due sviluppatori che completavano gli ultimi commit prima del fine settimana. C'era odore di caffè lungo riscaldato nel microonde e plastica calda di schede madri. Diciotto postazioni ergonomiche, ventiquattro chilometri di cavi in fibra cablati nei pavimenti galleggianti, server blade che pulsavano con piccole luci verdi all'interno del vano rack condizionato. Per chi entrava dall'esterno, NexSys era l'avanguardia del distretto: la fabbrica del codice che collegava i centri di lavoro a cinque assi di O.M.P. Precision con la flotta di autocarri intermodali di LogiDistretto.
 
-Ma per Marco — trent'anni, fondatore, amministratore unico e azionista al 72% della società — quell'infrastruttura immateriale aveva una consistenza termica brutale: bruciava quarantaduecentocinquanta euro di liquidità viva ogni trenta giorni solari. Il *burn rate* operativo, asfittico e implacabile.
+Ma per Marco — trent'anni, fondatore, amministratore unico e azionista al 72% della società — quell'infrastruttura immateriale aveva una consistenza termica brutale: bruciava quarantaduemiladuecentocinquanta euro di liquidità viva ogni trenta giorni solari. Il *burn rate* operativo, asfittico e implacabile.
 
-I committenti del manifatturiero pagavano a novanta giorni data fattura fine mese, se andava bene; a centoventi quando le perizie di collaudo accumulavano ritardi, come nel caso del blocco software avvenuto la settimana precedente sull'isola 4 di O.M.P. Precision. Il 27 del mese corrente, martedì successivo, il conto corrente aziendale aperto presso la filiale grandi imprese della Banca Popolare del Distretto avrebbe dovuto far fronte a uscite improrogabili per centotrentottomila euro: gli stipendi netti dei diciotto programmatori, le ritenute fiscali, i contributi Inps e la rata leasing dei server. Sul saldo disponibile, quella sera, figuravano esattamente dodicimilasettecentoquaranta euro e ventidue centesimi.
+I committenti del manifatturiero pagavano a novanta giorni data fattura fine mese, se andava bene; a centoventi quando le perizie di collaudo accumulavano ritardi, come nel caso del blocco software avvenuto la settimana precedente sull'isola 4 di O.M.P. Precision. Il 27 del mese corrente, giovedì successivo, il conto corrente aziendale aperto presso la filiale grandi imprese di Mediocredito avrebbe dovuto far fronte a uscite improrogabili per centotrentottomila euro: gli stipendi netti dei diciotto programmatori, le ritenute fiscali, i contributi Inps e la rata leasing dei server. Sul saldo disponibile, quella sera, figuravano esattamente dodicimilasettecentoquaranta euro e ventidue centesimi.
 
 Tutto il castello poggiava su una trave portante: un fido ponte per anticipo contratti e R&D da trecentomila euro, assistito dal Fondo Centrale di Garanzia, deliberato in via preliminare dal gestore territoriale tre settimane prima e destinato all'approvazione finale del Comitato Rischi entro le ore 18:00 di quel maledetto venerdì. Senza quel credito, il 27 novembre NexSys sarebbe andata a protesto tecnico, innescando la revoca immediata di tutti gli affidamenti e la segnalazione alla Centrale dei Rischi di Banca d'Italia.
 
@@ -20,7 +20,7 @@ Alle 18:47 squillò la notifica push dell'app di posta elettronica sullo smartph
 Mittente: *Bignami Dott.ssa Claudia — Area Crediti Imprese Direzione Territoriale*.  
 Oggetto: *Pratica affidamento R&D / Contratto Rete NexSys-OMP — Aggiornamento istruttoria*.
 
-Le falangi della mano destra persero sensibilità, congelate all'istante a contatto col mouse mentre faceva doppio clic sul messaggio. Il testo conteneva esattamente quarantuno parole, formattate con la glaciale asetticità della burocrazia creditizia:
+Le falangi della mano destra persero sensibilità, congelate all'istante a contatto col mouse mentre faceva doppio clic sul messaggio. Il testo conteneva esattamente quarantacinque parole, formattate con la glaciale asetticità della burocrazia creditizia:
 
 *«Gentile ingegner Vantini, con riferimento alla richiesta di finanziamento ponte di cui all'oggetto, si comunica che il Comitato Rischi di Direzione ha richiesto un supplemento istruttorio sulla perizia asseverata del software proprietario. La pratica è stata aggiornata alla seduta collegiale di martedì pomeriggio. Cordiali saluti.»*
 
@@ -38,7 +38,7 @@ Il cervello di Marco non lesse la mail come una richiesta procedurale di documen
 
 Tutto ciò che aveva costruito nei sette anni successivi alla laurea — le notti trascorse su una brandina da campo accanto ai server quando erano in due in un garage a San Massimo; i diciotto ragazzi assunti uno per uno guardando i loro genitori negli occhi e promettendo che NexSys non sarebbe mai stata un'agenzia interinale di sfruttamento; i brevetti registrati all'ufficio europeo di Monaco; la stima conquistata a fatica davanti a capitani d'industria ruvidi come Andrea di Omnia e Silvano di O.M.P. — tutto venne istantaneamente cancellato, dissolto in una voragine di disonore e catastrofe.
 
-*«Non c'è nessun supplemento istruttorio,»* si disse mentalmente, mentre i denti presero a battere l'uno contro l'altro con un crepitio udibile. *«È la formula standard che usano quando bocciano un'operazione per non dare spiegazioni al telefono il venerdì sera. Si sono accorti del blocco sulla linea di O.M.P. della settimana scorsa. Qualcuno ha parlato. Andrea di Omnia ha ritirato la firma di garanzia di filiera. Martedì non ci sarà nessun comitato: ci sarà la revoca degli scoperti per giusta causa. Il 27 non pago gli stipendi. Mercoledì prossimo i sindacati bloccano i cancelli. I fornitori di cloud staccano le macchine virtuali. La mia vita professionale è finita a trent'anni.»*
+Non c'era nessun supplemento istruttorio. I denti gli battevano l'uno contro l'altro con un crepitio udibile nel silenzio dell'ufficio vuoto. Era la formula standard usata quando una pratica veniva respinta per non dare spiegazioni al telefono il venerdì sera. Si erano accorti del blocco sulla linea di O.M.P. della settimana prima. Qualcuno aveva parlato. Andrea di Omnia doveva aver ritirato la firma di garanzia di filiera. Martedì non ci sarebbe stato nessun comitato: ci sarebbe stata la revoca degli scoperti per giusta causa. Il 27 novembre niente stipendi. Il mercoledì successivo i sindacati avrebbero bloccato i cancelli, i fornitori di cloud avrebbero staccato le macchine virtuali. La sua vita professionale finiva lì, a trent'anni, davanti a uno schermo azzurrognolo.
 
 Restò seduto immobile per quasi un'ora davanti al monitor spento, immerso nel buio dell'ufficio che si svuotava. Il corpo tremava a scatti irregolari, scosso da brividi termici che salivano dalle gambe intirizzite. Quando si alzò per andare verso il garage sotterraneo, le ginocchia gli cedettero per un millimetro, come se non riuscissero a reggere il peso della colonna vertebrale.
 
@@ -56,7 +56,7 @@ Alle otto del mattino di sabato aveva le dita bianche, gli occhi iniettati di sa
 
 ---
 
-### ATTO II — LO SPECCHIO INTIMO E LA TELECAMERA
+## L'aria gelata sul lungadige
 
 Domenica mattina, ore 08:32.
 
@@ -82,9 +82,9 @@ Giulia non arretrò. Si piantò davanti a lui a mezzo metro di distanza. Gli blo
 
 «Il nulla? Quella mail è una sentenza di morte!»
 
-«In laboratorio, quando un saggio di proliferazione cellulare non dà colonie in quarantott'ore, non prendo a sprangate l'incubatrice: controllo il pH del terreno e conto i corpi apoptotici al microscopio a fluorescenza. Tu invece hai letto quarantuno parole burocratiche e ci hai costruito sopra il fallimento di NexSys, il pignoramento della casa e il licenziamento dei tuoi programmatori.»
+«In laboratorio, quando un saggio di proliferazione cellulare non dà colonie in quarantott'ore, non prendo a sprangate l'incubatrice: controllo il pH del terreno e conto i corpi apoptotici al microscopio a fluorescenza. Tu invece hai letto quarantacinque parole burocratiche e ci hai costruito sopra il fallimento di NexSys, il pignoramento della casa e il licenziamento dei tuoi programmatori.»
 
-Marco provò a divincolarsi, ma Giulia serrò la presa sul suo braccio.
+Marco accennò un movimento per divincolarsi, ma Giulia serrò la presa sul suo braccio.
 
 «La PEC con la diffida non parte,» tagliò corto lei. «Il telefono resta nella mia tasca fino a domani mattina. E adesso mi dici che cosa c'era scritto in quella mail. Non quello che ti sei immaginato nella notte: le parole esatte che stavano sullo schermo alle 18:47.»
 
@@ -96,19 +96,21 @@ Marco deglutì. La bocca era impastata, amara di caffè liofilizzato e acido gas
 
 Marco socchiuse le palpebre, recitando a memoria il testo che aveva scavato solchi nella sua corteccia cerebrale: «*Si comunica che il Comitato Rischi di Direzione ha richiesto un supplemento istruttorio sulla perizia asseverata del software proprietario. La pratica è stata aggiornata alla seduta collegiale di martedì pomeriggio.*»
 
-«Perfetto,» disse Giulia, sollevando un dito. «Quarantuno parole. Adesso analizziamo la registrazione. La telecamera ha registrato la parola *bocciata*?»
+«Perfetto,» disse Giulia, sollevando un dito guantato contro il cielo di piombo. «Quarantacinque parole. Adesso esaminiamo i dati per quello che sono. C'è scritta la parola *bocciata*?»
 
 «No, ma...»
 
-«Ha registrato la parola *revoca degli affidamenti*?»
+Marco scosse il capo, stringendo i denti fino a indolenzire la mandibola.
+
+«C'è scritta la formula *revoca degli affidamenti*?»
 
 «No, ma il gergo bancario...»
 
-«Ha registrato che il Comitato ha detto di no al finanziamento?»
+«C'è scritto che il Comitato ha respinto il finanziamento?»
 
-«Giulia, non lo dicono in quel modo! Te lo fanno capire!»
+«Giulia, non lo dicono in quel modo!» sbottò lui, pestando il tacco sul fango secco della riva. «Te lo fanno capire!»
 
-«La telecamera registra quello che dicono, non quello che tu credi che ti facciano capire!» scandì Giulia, alzando appena il tono per sovrastare il rumore della corrente dell'acqua. «Che cosa ha visto la telecamera subito dopo che hai letto la mail? Ha inquadrato un ragazzo di trent'anni che è diventato bianco come un cencio, a cui sono tremate le mani, che ha cominciato a iperventilare e che nei successivi due giorni ha scritto una lettera d'insulti alla banca e una tabella per licenziare cinque ragazzi che fino a giovedì considerava fratelli. Questo ha registrato la telecamera: una risposta biologica da panico terminale a fronte di un testo asettico che chiede un controllo documentale sui brevetti.»
+«C'è scritto quello che c'è scritto, Marco, non il film dell'orrore che ti sei montato tu!» scandì Giulia, alzando appena il tono per sovrastare lo scroscio della corrente dell'acqua. «Che cosa è accaduto sul piano materiale subito dopo che hai letto quella comunicazione? Un ragazzo di trent'anni è sbiancato come un cencio, gli sono tremate le mani, ha cominciato a iperventilare e nei successivi due giorni ha steso una lettera di insulti legali alla banca e una tabella per licenziare cinque ragazzi che fino a giovedì considerava fratelli. Questo è accaduto nella realtà: una risposta biologica da panico terminale a fronte di un testo asettico che chiede un controllo documentale sui brevetti.»
 
 Marco abbassò le braccia lungo i fianchi. Il vento umido gli pungeva la fronte sudata.
 
@@ -124,7 +126,7 @@ Giulia scosse la testa lentamente, con infinita pazienza.
 
 ---
 
-### ATTO III — LA DECODIFICA SCIENTIFICA & LA MAPPA MINIMA
+## Il circuito difensivo di sopravvivenza
 
 Per quale ragione un essere umano adulto, con una solida formazione scientifico-matematica e una brillante capacità di calcolo analitico, può essere ridotto in meno di un secondo a uno stato di prostrazione somatica equivalente a quello di una preda davanti al predatore, di fronte a un testo di quarantuno caratteri asettici visualizzati su uno schermo a cristalli liquidi?
 
@@ -144,7 +146,7 @@ In questa condizione di vulnerabilità energetica, quando sullo schermo compare 
 
 Qui entra in gioco il concetto neuropsicologico fondamentale di **Antonio Damasio**: il meccanismo del **marcatore somatico "come se" (*as-if body loop*)**.
 
-Come dimostrato da Damasio ne *L'errore di Cartesio* e affinato in *Feeling & Knowing*, la corteccia prefrontale e l'insula non hanno bisogno che la catastrofe materiale si verifichi realmente per attivare il corpo: esse possono proiettare lo scenario futuro simulato sulle mappe somatosensoriali, costringendo l'organismo a sentire il dolore viscerale del fallimento *come se stesse già accadendo*. Marco sentiva la cassa bruciare e la vita finire perché il suo sistema neurale stava già vivendo la rovina all'interno del proprio teatro enterocettivo.
+Come dimostrato da Damasio ne *L'errore di Cartesio* e affinato in *Feeling & Knowing*, la corteccia prefrontale e l'insula non hanno bisogno che la catastrofe materiale si verifichi realmente per attivare il corpo: esse possono proiettare lo scenario futuro simulato sulle mappe somatosensoriali, costringendo l'organismo a sentire il dolore viscerale del fallimento *come se stesse già accadendo*. Per Marco la cassa bruciava e la vita finiva perché il suo sistema neurale stava già vivendo la rovina all'interno del proprio teatro enterocettivo.
 
 La fallacia fatale risiede nell'inversione logica dell'evidenza: **trattare l'intensità del segnale somatico anticipatorio come la prova provata che l'evento temuto si verificherà**. Poiché sto tremando come se fossi sul lastrico, concludo che sono già sul lastrico.
 
@@ -152,7 +154,7 @@ La dinamica si struttura matematicamente nella **Mappa Minima** dell'episodio:
 
 $$\mathbf{Fatto} \longrightarrow \mathbf{Significato\ Attribuito} \longrightarrow \mathbf{Emozione} \longrightarrow \mathbf{Impulso} \longrightarrow \mathbf{Comportamento} \longrightarrow \mathbf{Conseguenza}$$
 
-* **Fatto (telecamera e stringa informatica):** Venerdì ore 18:47, ricezione di un'email di 41 parole dalla banca. Il testo comunica un supplemento istruttorio sulla perizia asseverata dei brevetti e aggiorna la seduta del Comitato Rischi a martedì pomeriggio.
+* **Fatto (telecamera e stringa informatica):** Venerdì ore 18:47, ricezione di un'email di 45 parole dalla banca. Il testo comunica un supplemento istruttorio sulla perizia asseverata dei brevetti e aggiorna la seduta del Comitato Rischi a martedì pomeriggio.
 * **Significato Attribuito:** «La banca ci ha già bocciato il fido con una formula ipocrita; martedì revocheranno tutti gli affidamenti; il 27 vado a protesto e finisco sul lastrico; sono un fallito che ha tradito i collaboratori».
 * **Emozione:** Panico anticipatorio parossistico; terrore dell'esclusione sociale e del disonore professionale; angoscia di annientamento del Sé.
 * **Impulso somatico:** Attivazione massiccia di attacco-fuga; impulso a contrattaccare per disperazione; distruggere i ponti relazionali prima di essere distrutti.
@@ -169,7 +171,7 @@ Riconoscere che il corpo reagisce con violenza reale a pericoli che esistono uni
 
 ---
 
-### ATTO IV — IL RITORNO NELLA STANZA (L'AZIONE CONCRETA)
+## La Sala Verde di Corso Cavour
 
 Martedì 25 novembre, ore 14:48.
 
@@ -177,7 +179,7 @@ La sede direzionale della Banca Popolare del Distretto in Corso Cavour occupava 
 
 Marco salì i tre gradini che portavano al piano dell'Area Crediti Imprese. Indossava un abito blu scuro, una camicia stirata di fresco e una cravatta sobria. Nella mano sinistra teneva una borsa portadocumenti in pelle nera contenente il bilancio previsionale, i contratti in essere con O.M.P. e LogiDistretto, e la perizia tecnica sui brevetti.
 
-Quando la porta di vetro scorrevole si aprì con un sibilo pneumatico, sentì la fitta acida riaffiorare puntuale alla bocca dello stomaco. I battiti accelerarono di nuovo; le dita registrarono il consueto brivido freddo. La comprensione delle neuroscienze di LeDoux e la camminata nel parco con Giulia non avevano disattivato magicamente l'amigdala. L'organismo animale continuava a leggere quell'ambiente come un mattatoio potenziale.
+Quando la bussola a vetri scorrevoli si aprì con un sibilo pneumatico, la fitta acida riaffiorò puntuale alla bocca dello stomaco. I battiti accelerarono con colpi sordi contro le costole; le dita registrarono il consueto brivido freddo attorno all'impugnatura di pelle della borsa. L'organismo animale continuava a leggere quell'atrio in pietra d'Avesa come un mattatoio potenziale, scaricando noradrenalina nel sangue prima di qualsiasi calcolo logico.
 
 Ma questa volta Marco non scambiò la contrazione viscerale per un presagio di sventura. Si fermò un secondo davanti alla reception, appoggiò la mano libera sul legno freddo del bancone, inspirò lentamente contando fino a quattro, espirò fino a sei. *Il segnale è reale, la causa è da accertare.*
 
@@ -191,7 +193,7 @@ Le strette di mano furono asettiche, professionali.
 
 «Grazie di essere venuto con così poco preavviso, ingegnere,» esordì la Bignami, sedendosi e aprendo il portatile. «So che la tempistica è molto stretta per via delle scadenze di fine mese.»
 
-Marco si sedette composto, la schiena appoggiata allo schienale della poltrona, le mani aperte e visibili sul piano di cristallo. Nessun tremore, nessuna chiusura difensiva. Aveva cancellato dal computer la diffida legale da quattordici pagine e il file di licenziamento; nella sua testa risuonava soltanto la disciplina della telecamera.
+Marco si sedette composto, la schiena appoggiata allo schienale della poltrona, le mani aperte e visibili sul piano di cristallo. Nessun tremore, nessuna chiusura difensiva. Aveva cancellato dal computer la diffida legale da quattordici pagine e il file di licenziamento; nella sua testa risuonava soltanto l'imperativo dei dati verificabili contro i fantasmi delle proiezioni.
 
 Non aprì il discorso protestando. Non fece appelli alla moralità aziendale, né implorò pietà per i suoi programmatori. Pose una domanda pulita, tecnica, interamente focalizzata sul processo:
 
@@ -203,7 +205,7 @@ Marangoni aprì la cartella ed estrasse la perizia asseverata presentata da NexS
 
 «Vede, ingegner Vantini, la questione è puramente formale e normativa, ma vincolante per noi,» spiegò il capo analista rischi, indicando con la penna la pagina delle firme. «La vostra perizia assevera il valore immateriale dell'architettura MES e dei protocolli IoT in seicentoventimila euro. La perizia è firmata da un eccellente ingegnere meccanico iscritto all'ordine. Tuttavia, per poter accedere alla garanzia pubblica speciale del Fondo Centrale PMI all'80% per investimenti 4.0, la circolare ministeriale di settembre esige che l'asseverazione per software embedded complessi sia controfirmata da un ente certificatore accreditato di terzo livello, oppure da un capofila di contratto di rete industriale che certifichi l'interoperabilità di filiera.»
 
-Marco sentì il sangue defluire dalla testa verso il petto: non era un rifiuto di credito! Non c'era alcun giudizio di inaffidabilità sulla sua azienda!
+Il sangue defluì dalla testa verso il petto in una vampata liberatoria: non era un rifiuto di credito. Nessun giudizio di inaffidabilità gravava sull'azienda.
 
 «Il Comitato non mette affatto in discussione la solidità della vostra scale-up né il valore del software,» aggiunse la Bignami con un sorriso professionale che dissipò l'ultimo residuo di nebbia. «I numeri del conto economico sono eccellenti. Ma se noi deliberiamo il fido da trecentomila euro oggi con questa perizia monca, in caso di audit della Corte dei Conti o del Mediocredito Centrale la garanzia statale decade e la banca si trova scoperta per l'intero importo. Per questo venerdì abbiamo sospeso la delibera: stavamo cercando il modo tecnico di blindare la pratica senza farvi bocciare l'operazione.»
 
@@ -225,14 +227,14 @@ Non aveva smesso di essere un imprenditore consapevole che fare impresa signific
 
 ---
 
-### ATTO V — APPARATI OPERATIVI & CONTINUITÀ
+## Apparati operativi e continuità
 
-#### 1. Mettilo in Pratica: Il Protocollo di "Decostruzione della Minaccia Anticipatoria" in 7 Passaggi
+### 1. Mettilo in Pratica: Il Protocollo di "Decostruzione della Minaccia Anticipatoria" in 7 Passaggi
 
 Questo strumento va attivato istantaneamente ogni volta che una notizia ambigua, un'email interlocutoria, una richiesta di chiarimento o un ritardo inatteso scatenano una reazione corporea acuta di catastrofizzazione e l'impulso ad agire d'impulso (inviare repliche furiose, licenziare, interrompere contratti, paralizzarsi).
 
 1. **FATTO (Il dato telemetrico oggettivo):**  
-   Isola la stringa di testo o l'evento materiale privandolo di qualsiasi inferenza o giudizio. Conta le parole, trascrivi la data, l'orario e l'autore esatto (es. *«Venerdì ore 18:47: ricezione di un'email di 41 parole in cui la banca comunica la richiesta di un supplemento istruttorio sui brevetti e aggiorna la pratica a martedì»*).
+   Isola la stringa di testo o l'evento materiale privandolo di qualsiasi inferenza o giudizio. Conta le parole, trascrivi la data, l'orario e l'autore esatto (es. *«Venerdì ore 18:47: ricezione di un'email di 45 parole in cui la banca comunica la richiesta di un supplemento istruttorio sui brevetti e aggiorna la pratica a martedì»*).
 2. **ELEMENTO NOTATO (Il trigger della simulazione):**  
    Individua la formula verbale o il dettaglio su cui la tua attenzione ha costruito lo scenario di rovina (es. *«La dicitura 'supplemento istruttorio' associata all'orario di venerdì sera prima del weekend»*).
 3. **SIGNIFICATO ATTRIBUITO (La profezia catastrofica del Sistema 1):**  
@@ -248,7 +250,7 @@ Questo strumento va attivato istantaneamente ogni volta che una notizia ambigua,
 
 ---
 
-#### 2. Da Ricordare: Massime di Sintesi Epistemica
+### 2. Da Ricordare: Massime di Sintesi Epistemica
 
 * **Il corpo non è un oracolo del futuro: è il registratore delle nostre simulazioni mentali.** L'amigdala e il circuito difensivo non sanno cosa accadrà martedì; reagiscono all'ipotesi di disastro proiettata dalla mente con la stessa intensità con cui reagirebbero a un incendio presente.
 * **Separare radicalmente il circuito difensivo biologico dal sentimento cosciente di paura.** L'accelerazione cardiaca e il nodo allo stomaco sono automatismi allostatici di mobilitazione energetica; non sono l'obbligo di arrendersi alla disperazione.
@@ -258,7 +260,7 @@ Questo strumento va attivato istantaneamente ogni volta che una notizia ambigua,
 
 ---
 
-#### 3. Gancio Tematico al Capitolo Successivo (Il Ponte Metodologico)
+### 3. Gancio Tematico al Capitolo Successivo (Il Ponte Metodologico)
 
 Nel Capitolo 2 abbiamo scoperto come il sollievo fittizio possa spingerci a fuggire dal dovere del limite. In questo Capitolo 3 abbiamo smascherato la tirannia delle minacce immaginate e l'ansia predittiva di cassa.
 
@@ -272,7 +274,7 @@ Il Capitolo 4 entra nel cuore del conflitto di produzione: **La promessa del com
 
 ---
 
-#### 4. Note di Lavorazione e Registro di Continuità
+### 4. Note di Lavorazione e Registro di Continuità
 
 ##### Verifiche Scientifiche e Fonti
 * **Joseph LeDoux (1996, 2015):** Applicazione della duplice via di elaborazione della minaccia (subcorticale vs corticale) e separazione epistemica tra *circuito di sopravvivenza difensiva* ed esperienza soggettiva di paura.

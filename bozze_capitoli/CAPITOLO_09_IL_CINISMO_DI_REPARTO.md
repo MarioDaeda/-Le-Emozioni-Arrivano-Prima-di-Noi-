@@ -1,24 +1,3 @@
-# 2026-09-30 — Capitolo 9 — Riscrittura integrale deep POV
-
-**Metodo:** skill `rewrite-deep-pov`, Fase 2 eseguita sulle prescrizioni vincolanti del Referto Forense del 2026-09-30 (`bozze_capitoli/CAPITOLO_09_IL_CINISMO_DI_REPARTO.md`, branch `revisioni-deep-pov`).
-
-**Prescrizioni applicate:**
-1. *De-ventriloquizzazione radicale di Elena & Dario nell'Atto II (P1-1):* Bonifica integrale del confronto nel cortile ferroviario; eliminazione totale di tutte le 5 occorrenze della parola «telecamera»; cancellazione del gergo accademico (*contratto psicologico*, *reazione biologica*) dal dialogo parlato; Dario Meneghelli parla da operaio senior con ventotto anni di rettifica e la terza media, non da corsista aziendale; Elena lo incalza sul terreno materico del reparto: le conseguenze del suo sarcasmo su Marta Bellamoli, su Silvano Spinelli e sui giovani periti esposti alla rassegnazione.
-2. *Cancellazione del recap espositivo nel POV di Sara nell'Atto I (P1-2):* Espunzione a R68 del riassunto didascalico dei capitoli precedenti (*«tre mesi di lavoro di mediazione, i successi con Davide, Silvano e Marta...»*); sostituzione con la cascata somatica pura del collasso vaso-vagale da sconfitta sistemica (caduta di pressione arteriosa, apnea diaframmatica, disorientamento sensoriale tra il jazz motivazionale e il battito metallico degli operai).
-3. *Bonifica dell'estrazione biografica in bocca a Dario (P1-3):* A R98 cancellata la recitazione posticcia del curriculum vitae di Sara (*«ha trentanove anni e ha studiato psicologia del lavoro sui manuali di Milano»*); Dario usa un linguaggio di classe e di mestiere, contrapponendo le tabelle sul clima aziendale arrivate tre anni prima ai suoi ventotto anni trascorsi alla tangenziale.
-4. *Espunzione dell'enfasi epico-retorica in CdA (P1-4):* A R198 cancellata la formula solenne ed estranea al contesto industriale (*«dove si decidono i destini della terra»*); restituita la gravità sobria dell'ufficio direzionale tra faldoni di cassa, caraffe d'acqua del rubinetto e tute da lavoro spolverate prima di salire la moquette.
-5. *Censura radicale della battuta farsesca del parabrezza (P1-5):* A R231 cancellata la replica goliardica dell'Amministratore Delegato (*«hai il diritto di tirarmela sul parabrezza»*); sostituita con un'asseverazione industriale solenne e vincolante (il mancato accredito ad aprile legittima i lavoratori a spegnere i quadri elettrici e lasciare l'officina).
-6. *Purga dei verbi filtro e de-filtraggio radicale (P2-1):* Eliminati chirurgicamente tutti i filtri percettivi e cognitivi del narratore: R38 (*si udì*), R48 (*guardò*), R62 (*guardò*), R66 (*senza guardare*), R68 (*sentì, sembrava*), R78 (*guardando*), R80 (*si udì*), R84 (*vide arrivare*), R96 (*guardò, avevano visto*), R108 (*sentì*), R110 (*guardò*), R126 (*guardò*), R130 (*abbassò lo sguardo*), R198 (*aveva l'aria*), R202 (*guardando senza ostilità*), R212 (*guardando*), R225 (*soffermandosi*), R227 (*guardò*), R238 (*guardò*). Sostituiti con cinematica dei corpi, contatto materico e propagazione acustica diretta.
-7. *Intensificazione somatica della postura di Dario Meneghelli (P2-2):* Ancoraggio della mimica orofacciale al sorriso sardonico come corazza viscerale che disconnette il Complesso Vagale Ventrale per proteggere l'organismo dal dolore di una nuova disillusione; presa a due dita della borraccia satinata; rotazione micrometrica tra i calli neri di grafite; voce baritonale piatta e priva di tremito.
-8. *Integrazione del 4° pilastro materiale nel Patto di Trasparenza (P2-3):* Aggiunta dell'impegno economico vincolante di € 18.000 (recuperati dall'azzeramento dei costi della convention) per la revisione totale dell'impianto di aspirazione dei fumi d'olio delle rettifiche e l'installazione di due raffrescatori industriali prima dell'ondata di calore estiva (40°C a finestroni sigillati per la polvere).
-9. *Titolazione narrativa elegante e organica (P3-1):* Sostituite le etichette meccaniche da cantiere (`### ATTO I`, etc.) con cinque titoli di sezione narrativi ed evocativi.
-10. *Eliminazione del cliché e precisione interocettiva (P3-2):* A R108 eliminata la metafora stereotipata *«come un pugno di ghisa allo stomaco»*; sostituita con l'urto meccanico del diaframma contro le costole inferiori e l'impossibilità di deglutire la saliva.
-11. *Certificazione della timeline cronologica (P3-3):* Blindata la sequenza oraria: Mercoledì ore 10:28 (Convention in mensa) $\rightarrow$ Mercoledì ore 17:15 (Cortile ferroviario tra i fusti d'olio) $\rightarrow$ Giovedì (Boicottaggio straordinari e minaccia penali Kuka/Hydac da 3.000€/giorno) $\rightarrow$ Venerdì ore 14:15 (Tavolo CdA spoglio) $\rightarrow$ Venerdì ore 15:10 (Rientro al banco macchine).
-12. *Blindatura verbatim delle 7 battute GOLD (P3-1):* Preservate e valorizzate intatte le battute storiche di Dario sulla borraccia a 40 gradi (R50), sul premio congelato e il caffè aumentato (R54), dell'AD sul disfattismo operaio (R64), di Dario sulle sei convention dal '99 al 2018 (R102), sul cinismo come anestetico di sopravvivenza (R106), sul veleno di sentirsi presi in giro (R214) e di Silvano sulla fine del comizio (R235).
-13. *Raccordi di Continuità Certificati e Chiusura Filiera:* Saldato l'intreccio corale con il crac Apex (Cap. 3), con le commesse notturne Kuka (Cap. 2) e Hydac (Cap. 4), con il MES di Marco (Cap. 6), con l'Accademia di Marta (Cap. 7), con la governance di Andrea e Luca e il bando regionale da 180.000€ (Cap. 8), aprendo il varco strutturale all'Epilogo e al Toolkit Operativo di De-escalation.
-
----
-
 # Capitolo 9 — Il cinismo di reparto e l'anestesia difensiva
 
 ## La borraccia blu notte
@@ -35,7 +14,7 @@ I tavoli lunghi in formica arancione sono stati ribaltati contro le pareti perim
 
 Alla sinistra del palco, un monitor professionale da ottantacinque pollici trasmette a ciclo continuo il filmato istituzionale curato dall'agenzia milanese di comunicazione: frese integrali a cinque assi che incidono blocchi di anticorodal sollevando scintille e getti di refrigerante trasparente al rallentatore, grafici a barre tridimensionali che scalano le percentuali di margine lordo, primi piani di giovani ingegneri con occhiali di design che si scambiano il cinque davanti a terminali touch-screen. Su ogni singola sedia la direzione ha fatto posizionare una cartellina in cartone avana riciclato, una penna a sfera ricavata da canne di bambù e una borraccia termica a doppia parete in alluminio satinato blu notte, con inciso al laser il motto della convention: *«Insieme facciamo la differenza»*.
 
-Costo dell'allestimento, fatturato dall'agenzia due settimane prima: quattordicimila euro netti.
+Costo dell'allestimento, fatturato dall'agenzia due settimane prima: quindicimila euro netti.
 
 Sulle centoventi sedie di plastica siede l'intero turno di produzione.
 
@@ -65,19 +44,19 @@ L'addetta stampa gli allunga il microfono gelato; Dario non lo tocca. Non alza n
 
 Con il pollice e l'indice della mano destra solleva per il collo la borraccia termica blu notte. La tiene a mezz'aria, facendola ruotare lentamente tra i polpastrelli callosi sporchi di grafite, con lo stesso gesto meticoloso con cui saggia la rugosità superficiale di un perno in acciaio da cementazione dopo la passata di finitura.
 
-Sul suo volto non compare ira. Sul labbro superiore si disegna una curva sardonica, amara e immobile: la maschera orofacciale del disingaggio biologico, una contrazione che serra le orbite e sigilla il Complesso Vagale Ventrale per impedire all'organismo di cadere nella trappola di una nuova illusione.
+Sul suo volto non compare ira. Sul labbro superiore si disegna una curva sardonica, amara e immobile: le orbite si serrano in fessure taglienti, il muscolo massetere picchia duro contro la mandibola e la grafite accumulata negli anni tra le pieghe della fronte sembra scurirsi d'un colpo, come una corazza tirata su in fretta per non farsi toccare da un'altra promessa.
 
 «Dottore,» esordisce Dario. La voce esce piana, profonda, priva di tremolii, tagliata per farsi intendere sopra il ronzio dei motori trifase. «La borraccia in alluminio è davvero un bel pensiero. Terrà sicuramente l'acqua fresca d'estate quando siamo a quaranta gradi davanti alle rettifiche con le finestre chiuse per non far entrare la polvere.»
 
 Tre secondi di sospensione assoluta. Centoventi schiene si raddrizzano contemporaneamente.
 
-«Ma visto che oggi parliamo di *benessere olistico* e di *famiglia industriale*, volevo farle una domanda semplice da parte di quelli che stanno in tuta: **i duemilaseicento euro a testa di premio di risultato del 2025, che la proprietà ha congelato a novembre con la scusa del buco di cassa di Apex mentre voi vi aumentavate i compensi di consiglio di amministrazione, ce li pagate dentro questa borraccia o ci dobbiamo mettere dentro i gettoni della macchinetta del caffè che avete aumentato da quaranta a cinquanta centesimi lunedì scorso?**»
+«Ma visto che oggi parliamo di *benessere olistico* e di *famiglia industriale*, volevo farle una domanda semplice da parte di quelli che stanno in tuta: **i duemilaseicento euro a testa di premio di risultato del 2025, che la proprietà ha congelato a novembre con la scusa del buco di cassa di Apex mentre voi vi aumentavate i compensi di consiglio di amministrazione, ce li pagate dentro questa borraccia o ci dobbiamo mettere dentro i gettoni della macchinetta del caffè che avete aumentato da quaranta a cinquantacinque centesimi lunedì scorso?**»
 
 La frase piomba sulla sala come una mola che si frantuma a seimila giri al minuto.
 
 Per un battito di ciglia l'aria si svuota.
 
-Poi, dalla seconda fila delle frese, sale una risata secca, metallica. Subito dopo una gomitata tra due montatori; poi un mormorio denso, viscerale, che sale dal pavimento e scuote le gambe delle centoventi sedie. Dalla sesta fila parte il primo colpo di palmo: lento, pesante, sincopato. In due secondi novanta operai sbattono le mani all'unisono: un applauso cadenzato, sbeffeggiante, gelido come l'acciaio trafilato. Nessun urlo: solo il ritmo sordo di mani operaie che demoliscono quattordicimila euro di retorica milanese in trenta secondi.
+Poi, dalla seconda fila delle frese, sale una risata secca, metallica. Subito dopo una gomitata tra due montatori; poi un mormorio denso, viscerale, che sale dal pavimento e scuote le gambe delle centoventi sedie. Dalla sesta fila parte il primo colpo di palmo: lento, pesante, sincopato. In due secondi novanta operai sbattono le mani all'unisono: un applauso cadenzato, sbeffeggiante, gelido come l'acciaio trafilato. Nessun urlo: solo il ritmo sordo di mani operaie che demoliscono quindicimila euro di retorica milanese in trenta secondi.
 
 Sulla pedana, il viso dell'Amministratore Delegato si tinge di un rosso violaceo. Il braccio che regge il telecomando delle slide scatta in basso; le dita intorno all'archetto tremano di collera impotente. I suoi occhi incrociano quelli di Gianluca Moretti, sbarrati dallo sconcerto, poi si piantano sulla platea:
 
@@ -139,7 +118,7 @@ Sara si volta con un sussulto delle spalle. «Elena?»
 
 Elena si ferma a fianco delle due pozzanghere che separano i cassoni dai fusti. La pioggia le imperla le ciocche dei capelli corti sulla fronte. Il suo sguardo non cerca le cartelle cliniche né i manuali di sociologia; cerca le mani nodose di Dario:
 
-«Hai ragione sui quattordicimila euro buttati nella convention di stamattina, Dario. E hai ragione sui duemilaseicento euro congelati: un'azienda che chiede generosità e spirito di sacrificio mentre trattiene i soldi del salario maturato compie una truffa morale. Chiedervi di sentirvi 'imprenditori' regalando una borraccia di alluminio da quattro euro è un insulto alla fatica delle vostre braccia. Il tuo sarcasmo stamattina era l'unica risposta sensata all'ipocrisia di quel palco.»
+«Hai ragione sui quindicimila euro buttati nella convention di stamattina, Dario. E hai ragione sui duemilaseicento euro congelati: un'azienda che chiede generosità e spirito di sacrificio mentre trattiene i soldi del salario maturato compie una truffa morale. Chiedervi di sentirvi 'imprenditori' regalando una borraccia di alluminio da quattro euro è un insulto alla fatica delle vostre braccia. Il tuo sarcasmo stamattina era l'unica risposta sensata all'ipocrisia di quel palco.»
 
 Dario socchiude gli occhi dietro le lenti riparate con il nastro isolante, spiazzato dall'attacco frontale privo di difese aziendali.
 
@@ -190,7 +169,7 @@ La sequenza fisiologica trova la propria sintesi algebrica nella **Mappa Minima*
 
 $$\mathbf{Fatto} \longrightarrow \mathbf{Significato\ Attribuito} \longrightarrow \mathbf{Emozione} \longrightarrow \mathbf{Impulso} \longrightarrow \mathbf{Comportamento} \longrightarrow \mathbf{Conseguenza}$$
 
-* **Fatto (oggettività documentabile):** Mercoledì ore 10:28: l'amministratore delegato spende € 14.000 per una convention motivazionale parlando di "famiglia industriale" e regalando borracce serigrafate, mentre il premio di risultato di € 2.600 maturato nel 2025 è congelato da quattro mesi e il prezzo del caffè ai distributori è stato aumentato di 10 centesimi.
+* **Fatto (oggettività documentabile):** Mercoledì ore 10:28: l'amministratore delegato spende € 15.000 per una convention motivazionale parlando di "famiglia industriale" e regalando borracce serigrafate, mentre il premio di risultato di € 2.600 maturato nel 2025 è congelato da quattro mesi e il prezzo del caffè ai distributori è stato aumentato a 55 centesimi (un rincaro di 15 centesimi).
 * **Significato Attribuito (credito zero alla dirigenza):** «La proprietà usa slogan vuoti per mascherare l'asimmetria economica; chi crede alle promesse è un fesso sacrificabile; l'unico modo per difendere la propria dignità è smascherare l'ipocrisia del padrone».
 * **Emozione somatica:** Disillusione sorda, disprezzo morale, intorpidimento affettivo ed esaurimento dell'ascolto.
 * **Impulso neurobiologico:** Distanziamento cognitivo immediato (Lazarus & Folkman); soppressione dell'ingaggio vagale ventrale; impulso sarcastico orofacciale per disarmare la manipolazione.
@@ -225,7 +204,7 @@ Oltre i doppi vetri dell'ufficio, il cielo di Verona è solcato da stracci di nu
 
 L'Amministratore Delegato fa scorrere le dita lungo il faldone dei numeri contabili. Non usa l'archetto; la voce è bassa, asciutta, ancorata alla ruvidità dei fatti:
 
-«Grazie di essere saliti,» esordisce l'Amministratore, piantando gli occhi direttamente in quelli di Dario. «Mercoledì mattina ho commesso un errore di presunzione imperdonabile. Ho allestito un comizio vuoto spendendo quattordicimila euro di convention aziendale mentre tratteniamo i premi di produzione dello scorso esercizio. Il risultato concreto di quell'esibizione è che da ieri nessuno si è iscritto ai turni del sabato, le linee delle boccole medicali Kuka e dei corpi valvola Hydac sono ferme e da lunedì mattina scattano le penali contrattuali da tremila euro al giorno. Quella convention è stata un fallimento manageriale che ha messo a rischio il futuro della fabbrica. Vi chiedo scusa.»
+«Grazie di essere saliti,» esordisce l'Amministratore, piantando gli occhi direttamente in quelli di Dario. «Mercoledì mattina ho commesso un errore di presunzione imperdonabile. Ho allestito un comizio vuoto spendendo quindicimila euro di convention aziendale mentre tratteniamo i premi di produzione dello scorso esercizio. Il risultato concreto di quell'esibizione è che da ieri nessuno si è iscritto ai turni del sabato, le linee delle boccole medicali Kuka e dei corpi valvola Hydac sono ferme e da lunedì mattina scattano le penali contrattuali da tremila euro al giorno. Quella convention è stata un fallimento manageriale che ha messo a rischio il futuro della fabbrica. Vi chiedo scusa.»
 
 Silvano inclina il capo di un millimetro, serrando le labbra; Marta mantiene lo sguardo fisso sulla caraffa dell'acqua. Dario non muove un muscolo della faccia; la sua spalla destra resta allineata a quella di Silvano.
 
@@ -246,19 +225,19 @@ SOTTOSCRITTO TRA DIREZIONE GENERALE, R.S.U. E RAPPRESENTANZE TECNICHE DI REPARTO
 
 L'Amministratore riprende la parola, scandendo i quattro articoli del testo:
 
-«Primo punto: **Piano di rientro finanziario vincolante del premio di risultato 2025**. I duemilaseicento euro netti a lavoratore vengono sbloccati con garanzia irrevocabile a valere sulle rimesse certe delle commesse tedesche Kuka e Hydac: **il cinquanta per cento, pari a milleduecento euro netti a testa, sarà erogato nella busta paga di aprile 2027**; il saldo definitivo del restante cinquanta per cento sarà corrisposto nella busta paga di settembre 2027. Se una sola di queste scadenze salta, l'accordo decade e l'azienda si impegna a non contestare alcuna forma di mobilitazione sindacale.
+«Primo punto: **Piano di rientro finanziario vincolante del premio di risultato 2025**. I duemilaseicento euro netti a lavoratore vengono sbloccati con garanzia irrevocabile a valere sulle rimesse certe delle commesse tedesche Kuka e Hydac: **il cinquanta per cento, pari a milletrecento euro netti a testa, sarà erogato nella busta paga di aprile 2027**; il saldo definitivo del restante cinquanta per cento sarà corrisposto nella busta paga di settembre 2027. Se una sola di queste scadenze salta, l'accordo decade e l'azienda si impegna a non contestare alcuna forma di mobilitazione sindacale.
 
 Secondo punto: **Azzeramento totale delle spese futili e bonifica immediata del costo della vita in reparto**. Divieto assoluto di campagne motivazionali esterne, kit promozionali e video istituzionali per i prossimi tre esercizi; ripristino immediato da lunedì mattina del prezzo calmierato storico di **quaranta centesimi a gettone** per il caffè e le bevande calde su tutti i distributori dello stabilimento, con onere economico a carico diretto del fondo di presidenza.
 
 Terzo punto: **Istituzione del Comitato di Trasparenza a Bordo Macchina**. Ogni primo lunedì del mese, dalle sette alle sette e mezzo del mattino, la Direzione Generale e l'Ingegner Moretti si presenteranno davanti al terminale di collaudo con Dario Meneghelli, Marta Bellamoli e Silvano Spinelli per proiettare a schermo i numeri veri dell'officina: fatturato consuntivato, margini industriali, pezzi scartati e saldo di cassa disponibile, prima che i report vengano trasmessi agli istituti di credito.
 
-Quarto punto: **Destinazione del risparmio della convention alla salute del reparto**. I quattordicimila euro risparmiati dall'azzeramento dei gadget e delle agenzie di comunicazione, integrati da altri quattromila euro stanziati oggi dal fondo di sicurezza, vengono vincolati entro il trenta maggio alla **revisione integrale dell'impianto di aspirazione dei fumi d'olio delle rettifiche** e all'installazione di **due raffrescatori adiabatici industriali** per garantire che l'estate non si affronti a quaranta gradi con i finestroni chiusi.»
+Quarto punto: **Destinazione del risparmio della convention alla salute del reparto**. I quindicimila euro risparmiati dall'azzeramento dei gadget e delle agenzie di comunicazione, integrati da altri tremila euro stanziati oggi dal fondo di sicurezza, vengono vincolati entro il trenta maggio alla **revisione integrale dell'impianto di aspirazione dei fumi d'olio delle rettifiche** e all'installazione di **due raffrescatori adiabatici industriali** per garantire che l'estate non si affronti a quaranta gradi con i finestroni chiusi.»
 
 Quando l'Amministratore tace, il respiro di Silvano si fa pesante. Marta alza gli occhi verso Moretti, che le risponde con un cenno netto del capo.
 
 Dario appoggia i tre fogli sul noce. Si sfila gli occhiali da lettura con entrambe le mani, li ripone nel taschino della casacca e fa scorrere i polpastrelli scuri lungo il bordo del foglio.
 
-«Dottore,» dice Dario. La voce ha perso ogni residuo di scherno sarcastico; c'è la ruvidità pesante di chi valuta la tenuta di una flangia sotto pressione idraulica. «Noi dell'officina sappiamo leggere i bilanci. Sappiamo che il buco di Apex è stato un colpo da tre milioni e sappiamo che se questa baracca va a gambe all'aria noi finiamo per strada prima di voi. Non abbiamo mai chiesto miracoli. Ma quello che ci ha avvelenato il sangue in questi anni non sono stati i turni o i pezzi difficili: è stato vederci trattare come scemi da imbonire con le parole in inglese mentre ci toglievate dieci centesimi sulla macchinetta del caffè per fare cassa.»
+«Dottore,» dice Dario. La voce ha perso ogni residuo di scherno sarcastico; c'è la ruvidità pesante di chi valuta la tenuta di una flangia sotto pressione idraulica. «Noi dell'officina sappiamo leggere i bilanci. Sappiamo che il buco di Apex è stato un colpo da tre milioni e sappiamo che se questa baracca va a gambe all'aria noi finiamo per strada prima di voi. Non abbiamo mai chiesto miracoli. Ma quello che ci ha avvelenato il sangue in questi anni non sono stati i turni o i pezzi difficili: è stato vederci trattare come scemi da imbonire con le parole in inglese mentre ci aumentavate di quindici centesimi la macchinetta del caffè portandolo a cinquantacinque per fare cassa.»
 
 L'Amministratore non abbassa lo sguardo. «Lo so, Dario. Ho fatto il venditore quando dovevo fare l'industriale.»
 
@@ -268,7 +247,7 @@ Passa il foglio a Silvano, che firma con la mano pesante da capofficina; poi a M
 
 Dario solleva il mento verso l'Amministratore Delegato:
 
-«Se ad aprile quei milleduecento euro non sono dentro le buste paga, dottore, non servirà fare battute o lanciare borracce: noi spegniamo i quadri generali delle macchine, posiamo i calibri sul banco e ce ne andiamo a casa. E voi le boccole per i tedeschi ve le rettificate con le vostre mani.»
+«Se ad aprile quei milletrecento euro non sono dentro le buste paga, dottore, non servirà fare battute o lanciare borracce: noi spegniamo i quadri generali delle macchine, posiamo i calibri sul banco e ce ne andiamo a casa. E voi le boccole per i tedeschi ve le rettificate con le vostre mani.»
 
 L'Amministratore prende la penna, firma a sua volta sul rigo della presidenza e allunga la mano destra oltre la metà del tavolo:
 
@@ -307,9 +286,9 @@ Dario infila due dita nella casacca, toccando la piega ruvida della copia del pa
 Questo strumento operativo va attivato ogni volta che, di fronte a una nuova iniziativa di riorganizzazione, a un cambio di leadership o a un piano industriale, ti accorgi di rifugiarti nel sarcasmo sistematico, nella derisione difensiva o nell'apatia del *«tanto sono tutti uguali e non cambierà mai niente»*.
 
 1. **FATTO (La registrazione oggettiva priva di sdegno):**  
-   Separa l'accaduto materiale dalle tue inferenze storiche. Trascrivi unicamente i dati contabili, i documenti presentati e le azioni verificabili (es. *«Mercoledì ore 10:28: la direzione presenta il piano con video motivazionale e borracce mentre il premio pregresso di € 2.600 è congelato da 4 mesi e il caffè è aumentato di 10 centesimi»*).
+   Separa l'accaduto materiale dalle tue inferenze storiche. Trascrivi unicamente i dati contabili, i documenti presentati e le azioni verificabili (es. *«Mercoledì ore 10:28: la direzione presenta il piano con video motivazionale e borracce mentre il premio pregresso di € 2.600 è congelato da 4 mesi e il caffè è aumentato da 40 a 55 centesimi»*).
 2. **ELEMENTO NOTATO (Il detonatore dell'incoerenza storica):**  
-   Individua il micro-dettaglio materiale che ha risvegliato la memoria delle promesse tradite (es. *«Il contrasto intollerabile tra i quattordicimila euro sprecati per l'evento e il rincaro meschino sul caffè mentre mancano i riconoscimenti economici dovuti»*).
+   Individua il micro-dettaglio materiale che ha risvegliato la memoria delle promesse tradite (es. *«Il contrasto intollerabile tra i quindicimila euro sprecati per l'evento e il rincaro meschino sul caffè mentre mancano i riconoscimenti economici dovuti»*).
 3. **SIGNIFICATO ATTRIBUITO (La corazza del cinismo omeostatico - Dean & Brandes):**  
    Riconosci l'inferenza difensiva automatica (es. *«La dirigenza è strutturalmente ipocrita; chi crede ai valori aziendali è una vittima designata; l'unica via per salvare l'autostima è ridicolizzare il potere»*).
 4. **EMOZIONE E IMPULSO SOMATICO (L'anestesia viscerale - Damasio & Lazarus):**  

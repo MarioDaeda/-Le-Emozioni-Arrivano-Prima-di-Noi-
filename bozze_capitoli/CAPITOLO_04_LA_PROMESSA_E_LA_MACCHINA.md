@@ -3,7 +3,7 @@
 
 ---
 
-### ATTO I — L'INNESCO NARRATIVO SITUATO
+## Il pugno sul banco di noce
 
 Alle 07:14 di lunedì 1° dicembre, Silvano Spinelli chiuse a chiave lo sportello del suo armadietto di metallo grigio nello spogliatoio capireparto di O.M.P. Precision.
 
@@ -38,7 +38,7 @@ Silvano non si mosse dalla sedia. Si limitò a sollevare lo sguardo dallo scherm
 
 Fabio sbatté la cartellina direttamente sulla scrivania, sopra la tazza di caffè di Silvano e sopra il registro cartaceo degli utensili usurati.
 
-«Contratto quadro chiuso venerdì sera a Francoforte,» disse Fabio, allargando le braccia con un sorriso trionfale a trentadue denti. «Millecinquecento blocchi distributori per valvole idrauliche ad altissima pressione. Materiale: titanio grado 5. Valore complessivo della commessa: duecentoventimila euro con margine operativo lordo al 38%. Roba che ci ripaga un terzo del buco lasciato da Apex!»
+«Contratto quadro chiuso venerdì sera a Francoforte,» disse Fabio, allargando le braccia con un sorriso trionfale a trentadue denti. «Trecento distributori oleodinamici in titanio grado 5 ad altissima pressione. Valore complessivo della commessa: centoquarantamila euro con margine operativo lordo al 38%. Roba che ci ripaga un terzo del buco lasciato da Apex!»
 
 Un muscolo sotto la palpebra sinistra di Silvano prese a contrarsi a scatti rapidi, involontari. «Titanio grado 5? E con quali macchine vorresti farlo?»
 
@@ -48,11 +48,11 @@ Silvano puntò l'indice verso il diagramma di Gantt illuminato di rosso sul moni
 
 Fabio estrasse dalla tasca una stilografica d'oro, la fece roteare tra le dita con disinvoltura e indicò una riga stampata a pagina 4 del contratto.
 
-«Tassativa: venerdì 19 dicembre. Primo lotto completo da millecinquecento pezzi consegnato franco fabbrica a Stoccarda. C'è una penale dell'uno per cento per ogni giorno solare di ritardo. Ma non ci saranno ritardi, vero Silvano? Ho garantito io personalmente con il loro Vicepresidente Acquisti che O.M.P. è in grado di fare il miracolo. Dai, aumentiamo l'avanzamento al dente, mettiamo gli operai a fare quattro ore di straordinario la domenica e portiamo a casa il risultato. A Capodanno il bonus di reparto lo brindiamo insieme!»
+«Tassativa: venerdì 19 dicembre. Consegna completa di tutti i trecento distributori franco fabbrica a Stoccarda. C'è una penale contrattuale di tremila euro per ogni giorno solare di ritardo. Ma non ci saranno ritardi, vero Silvano? Ho garantito io personalmente con il loro Vicepresidente Acquisti che O.M.P. è in grado di fare il miracolo. Dai, aumentiamo l'avanzamento al dente, mettiamo gli operai a fare quattro ore di straordinario la domenica e portiamo a casa il risultato. A Capodanno il bonus di reparto lo brindiamo insieme!»
 
 Nella stanza, per tre secondi interminabili, scese un silenzio di piombo fuso.
 
-Il cervello di Silvano compì un calcolo matematico istantaneo e inesorabile: fresare un blocco di titanio grado 5 con tolleranze di sei micron esige una velocità di taglio non superiore a quaranta metri al minuto. Per lavorare un singolo pezzo grezzo servono quattordici minuti di mandrino; per millecinquecento pezzi fanno trecentocinquanta ore di lavorazione netta, senza contare i piazzamenti, la taratura dei tastatori e lo scarico truciolo. Su due macchine fanno centosettantacinque ore per ciascun mandrino. Mancavano diciotto giorni lavorativi al 19 dicembre: per inserire quel carico bisognava semplicemente cancellare la commessa Kuka, bloccare la produzione medicale e costringere gli operai a lavorare sedici ore al giorno senza sosta.
+Il cervello di Silvano compì un calcolo matematico istantaneo e inesorabile: fresare un blocco di titanio grado 5 con tolleranze di sei micron esige una velocità di taglio non superiore a quaranta metri al minuto. Per lavorare ciascun distributore servono cinquanta minuti di mandrino; per trecento pezzi fanno duecentocinquanta ore di lavorazione netta, senza contare i piazzamenti, la taratura dei tastatori e lo scarico truciolo. Su due macchine fanno centoventicinque ore per ciascun mandrino. Mancavano diciotto giorni lavorativi al 19 dicembre: per inserire quel carico bisognava semplicemente cancellare la commessa Kuka, bloccare la produzione medicale e costringere gli operai a lavorare sedici ore al giorno senza sosta.
 
 Non era un miracolo industriale: era una truffa fisica. Una scommessa suicida venduta da un commerciale irresponsabile per centrare il proprio target di budget annuale e incassare la provvigione del 4% sul fatturato acquisito prima della chiusura dell'esercizio contabile.
 
@@ -96,7 +96,7 @@ Nessun mandrino ripartì per dieci minuti. Gli operai si scambiavano sguardi sgo
 
 ---
 
-### ATTO II — LO SPECCHIO INTIMO E LA TELECAMERA
+## La minestra sul tavolo di formica
 
 Lunedì sera, ore 20:45.
 
@@ -126,25 +126,25 @@ Luisa si sciolse le braccia, si avvicinò al tavolo e si sedette sulla sedia di 
 
 «Questo con la fabbrica non c'entra niente!»
 
-«C'entra tutto. Spegni la rabbia cieca, Silvano. In rianimazione, quando arrivava un politrauma da schiacciamento dalla statale e il chirurgo d'urgenza urlava che la sala operatoria era occupata dall'ortopedico, non ci mettevamo a discutere di chi fosse il più bastardo: guardavamo la saturazione di ossigeno e il tracciato dell'elettrocardiogramma. I fatti e i numeri vitali, nient'altro. Dimmi cosa ha visto e sentito chiunque stesse guardando dentro quel gabbiotto stamattina alle sette e venti. Le parole esatte, non i film che ti stai montando in testa per farti venire un ictus.»
+«C'entra tutto. Spegni la rabbia cieca, Silvano. In rianimazione, quando arrivava un politrauma da schiacciamento dalla statale e il chirurgo d'urgenza urlava che la sala operatoria era occupata dall'ortopedico, non ci mettevamo a discutere di chi fosse il più bastardo: guardavamo la saturazione di ossigeno e il tracciato dell'elettrocardiogramma. I fatti e i numeri vitali, nient'altro. Dimmi cosa è successo sul piano materiale dentro quel gabbiotto stamattina alle sette e venti. Le parole esatte, non i film che ti stai montando in testa per farti venire un ictus.»
 
-Silvano serrò i pugni sopra il tavolo, costringendosi a riavvolgere la pellicola della memoria.
+Silvano serrò i pugni sopra il tavolo, costringendosi a riavvolgere la memoria delle ore del mattino.
 
-«Ha registrato che Fabio è entrato senza bussare con un cappotto nuovo e una cartellina nera.»
+«Fabio è entrato senza bussare con un cappotto nuovo e una cartellina nera.»
 
 «Bene. Poi?»
 
-«Ha sbattuto la cartellina sulla mia scrivania rovesciandomi quasi il caffè e ha detto che aveva chiuso un ordine da duecentoventimila euro con Hydac per millecinquecento pezzi in titanio da consegnare il 19 dicembre.»
+«Ha sbattuto la cartellina sulla mia scrivania rovesciandomi quasi il caffè e ha detto che aveva chiuso un ordine da centoquarantamila euro con Hydac per trecento distributori in titanio da consegnare il 19 dicembre con tremila euro di penale al giorno.»
 
 «E poi?»
 
 «E poi mi ha detto che dovevamo mettere gli operai a fare la notte e che a Capodanno avremmo brindato col bonus.»
 
-«Perfetto,» disse Luisa, alzando un dito. «Questo è ciò che ha registrato il microfono: parole pronunciate e documenti fisici. Adesso dimmi: la telecamera ha registrato le parole: *Silvano, ho firmato questo ordine per distruggerti e farti cacciare dall'azienda*?»
+«Perfetto,» disse Luisa, alzando un dito. «Questo è quello che è successo: parole dette e carte buttate sul banco. Adesso dimmi una cosa nuda e cruda: Fabio ti ha detto in faccia: *Silvano, ho firmato questo ordine per distruggerti e farti cacciare dall'azienda*?»
 
 Silvano distolse lo sguardo, fissando il muro intonacato di giallo. «No. Ovvio che non l'ha detto.»
 
-«La telecamera ha registrato che Fabio conosceva il livello di saturazione delle frese a cinque assi all'ottantotto per cento?»
+«Fabio conosceva a che punto fosse il carico delle frese a cinque assi all'ottantotto per cento?»
 
 «Non all'ottantotto, al novantotto virgola quattro!» la corresse Silvano per riflesso d'officina.
 
@@ -152,23 +152,23 @@ Silvano distolse lo sguardo, fissando il muro intonacato di giallo. «No. Ovvio 
 
 «Quello non sa nemmeno che password serve per entrare nell'APS!» ringhiò Silvano.
 
-«E allora vedi che la tua testa sta inventando la trama di un film?» scandì Luisa con implacabile dolcezza logica. «La telecamera ha registrato un commerciale ambizioso, incompetente sui tempi tecnici del titanio, che ha visto l'opportunità di portare a casa un cliente colossale dopo il disastro di Apex, ha firmato una scadenza senza verificare la capacità produttiva perché il suo contratto lo premia sui volumi venduti, ed è venuto da te credendo davvero, nella sua totale ignoranza meccanica, che con un po' di straordinario e di buona volontà l'officina potesse farcela. Questo ha registrato la telecamera: ignoranza, incentivi aziendali sbagliati e superficialità.»
+«E allora vedi che la tua testa sta inventando la trama di un film?» scandì Luisa con implacabile fermezza. «La realtà è molto più banale: un commerciale ambizioso, incompetente sui tempi tecnici del titanio, che ha visto l'opportunità di portare a casa un cliente colossale dopo il disastro di Apex, ha firmato una scadenza senza verificare la capacità produttiva perché il suo contratto lo premia sui volumi venduti, ed è venuto da te credendo davvero, nella sua totale ignoranza meccanica, che con un po' di straordinario e di buona volontà l'officina potesse farcela. Questa è la realtà dei fatti: ignoranza, incentivi aziendali sbagliati e superficialità.»
 
-Silvano sentì la terra mancargli sotto i piedi. L'edificio monumentale del complotto personale, su cui aveva alimentato la propria furia per dodici ore consecutive, cominciava a scricchiolare pericolosamente.
+A Silvano mancò la terra sotto i piedi. L'edificio monumentale del complotto personale, su cui aveva alimentato la propria furia per dodici ore consecutive, cominciava a scricchiolare pericolosamente.
 
 «Ma mi ha dato dell'incapace e del vecchio!» protestò, con una voce che cercava disperatamente di rianimare l'oltraggio.
 
-«Ti ha dato dell'incapace dopo che tu hai tirato un pugno sul tavolo da spaccare il legno, gli hai dato del criminale e gli hai buttato il contratto da duecentoventimila euro giù dalle scale davanti a tutta la fabbrica!» ribatté Luisa, implacabile. «La telecamera mostra due uomini che si sono aggrediti a vicenda come due cani per strada. Tu non sei arrabbiato perché Fabio voleva distruggerti, Silvano. Tu sei arrabbiato perché il tuo mestiere è sacro, perché sai che millecinquecento pezzi in titanio in diciotto giorni sono un'assurdità che mette a rischio le macchine e le persone, e hai vissuto la sua leggerezza come uno sputo sulla tua vita. È comprensibile. La tua rabbia è sacrosanta nel merito. Ma l'hai trasformata in una guerra personale tra te e lui, e adesso l'unica cosa che hai ottenuto è che domani la fabbrica è ferma, Fabio andrà dalla direzione a denunciare l'aggressione, e tu passi dalla parte del torto marcio.»
+«Ti ha dato dell'incapace dopo che tu hai tirato un pugno sul tavolo da spaccare il legno, gli hai dato del criminale e gli hai buttato il contratto da centoquarantamila euro giù dalle scale davanti a tutta la fabbrica!» ribatté Luisa, implacabile. «La realtà è che due uomini adulti si sono aggrediti a vicenda come due cani per strada. Tu non sei arrabbiato perché Fabio voleva distruggerti, Silvano. Tu sei arrabbiato perché il tuo mestiere è sacro, perché sai che trecento distributori in titanio in diciotto giorni con tremila euro di penale al giorno sono un'assurdità che mette a rischio le macchine e le persone, e hai vissuto la sua leggerezza come uno sputo sulla tua vita. È comprensibile. La tua rabbia è sacrosanta nel merito. Ma l'hai trasformata in una guerra personale tra te e lui, e adesso l'unica cosa che hai ottenuto è che domani la fabbrica è ferma, Fabio andrà dalla direzione a denunciare l'aggressione, e tu passi dalla parte del torto marcio.»
 
-Silvano affondò il viso tra le mani. Sentì i muscoli del collo sciogliersi lentamente, lasciando il posto a una stanchezza immensa, plumbea, che gli svuotava le ossa.
+Silvano affondò il viso tra le mani. I muscoli del collo si sciolsero lentamente, lasciando il posto a una stanchezza immensa, plumbea, che gli svuotava le ossa.
 
-«Cosa devo fare, Luisa?» mormorò tra le dita. «Quel contratto non si può fare. Se provo a farlo spacco trecento ore di mandrino e brucio l'azienda.»
+«Cosa devo fare, Luisa?» mormorò tra le dita. «Quel contratto non si può fare. Se provo a farlo brucio duecentocinquanta ore di mandrino e spacco l'azienda.»
 
 «Non devi fare l'eroe solitario e non devi fare il pugile,» disse Luisa, posandogli una mano calda e ruvida sulla nuca. «Prendi la minestra, adesso. E domani mattina non andare dall'amministratore a dare le dimissioni. Vai da Sara e da Fabio con il foglio di calcolo dei tempi ciclo stampato in quadruplice copia. La rabbia ti serve per difendere il lavoro dei tuoi operai, non per farti cacciare dalla fabbrica come un cane rognoso.»
 
 ---
 
-### ATTO III — LA DECODIFICA SCIENTIFICA & LA MAPPA MINIMA
+## La rabbia e l'errore fondamentale di attribuzione
 
 La collisione distruttiva consumatasi nel box vetrato tra Silvano e Fabio è il prototipo universale della **frattura sistemica tra funzione commerciale e funzione produttiva**: una delle patologie relazionali più costose, frequenti e logoranti dell'intero panorama industriale.
 
@@ -192,20 +192,20 @@ L'errore tragico di Silvano non è stato provare rabbia: la sua rabbia era un in
 
 A questo cortocircuito si affianca la trappola cognitiva identificata da **Daniel Kahneman**: il **bias del sentimento punitivo (*punitive sentiment*)** del Sistema 1.
 
-Negli esperimenti di economia comportamentale basati sul *Gioco dell'Ultimatum*, gli individui scelgono massicciamente di punire una controparte percepita come ingiusta o avida rifiutando l'accordo economico, anche quando tale punizione comporta un danno finanziario gravissimo per se stessi. Il Sistema 1 è guidato da un imperativo morale arcaico: *il trasgressore deve pagare, costi quel che costi*. Nella mente di Silvano, la pulsione a punire Fabio e fargli perdere la commessa ha completamente oscurato la consapevolezza delle conseguenze sistemiche differite: far saltare il contratto Hydac avrebbe significato un danno economico da 220.000 euro per l'intera fabbrica, accelerando proprio quel licenziamento collettivo che lui voleva scongiurare.
+Negli esperimenti di economia comportamentale basati sul *Gioco dell'Ultimatum*, gli individui scelgono massicciamente di punire una controparte percepita come ingiusta o avida rifiutando l'accordo economico, anche quando tale punizione comporta un danno finanziario gravissimo per se stessi. Il Sistema 1 è guidato da un imperativo morale arcaico: *il trasgressore deve pagare, costi quel che costi*. Nella mente di Silvano, la pulsione a punire Fabio e fargli perdere la commessa ha completamente oscurato la consapevolezza delle conseguenze sistemiche differite: far saltare il contratto Hydac avrebbe significato un danno economico da 140.000 euro per l'intera fabbrica, accelerando proprio quel licenziamento collettivo che lui voleva scongiurare.
 
 La sequenza dell'episodio trova la sua formalizzazione scientifica nella **Mappa Minima**:
 
 $$\mathbf{Fatto} \longrightarrow \mathbf{Significato\ Attribuito} \longrightarrow \mathbf{Emozione} \longrightarrow \mathbf{Impulso} \longrightarrow \mathbf{Comportamento} \longrightarrow \mathbf{Conseguenza}$$
 
-* **Fatto (osservabile dalla telecamera):** Lunedì ore 07:22: Fabio deposita sul banco del gabbiotto un ordine di 1.500 blocchi valvole in titanio con consegna al 19 dicembre e penale dell'1% al giorno, affermando: «Mettiamo sotto le macchine, a Capodanno brindiamo insieme».
+* **Fatto (osservabile dalla telecamera):** Lunedì ore 07:22: Fabio deposita sul banco del gabbiotto un ordine di 300 distributori in titanio con consegna al 19 dicembre e penale di 3.000 euro al giorno, affermando: «Mettiamo sotto le macchine, a Capodanno brindiamo insieme».
 * **Significato Attribuito:** «Fabio è un parassita senza scrupoli che ha svenduto la dignità della mia officina per incassare la sua provvigione personale; vuole umiliarmi e dimostrare alla proprietà che sono un vecchio da rottamare».
 * **Emozione:** Rabbia parossistica scaturita da un'offesa denigratoria al proprio ruolo e alla fatica dei collaboratori (*demeaning offense*); indignazione morale.
 * **Impulso somatico:** Attacco fisico; afferrare la controparte per il colletto; distruggere il documento; espellere l'intruso dallo spazio vitale.
 * **Comportamento espresso:** Pugno sulla scrivania con rovesciamento del caffè; urla ingiuriose udibili in tutto il reparto; lancio fisico del contratto fuori dalla porta; cacciata violenta del commerciale.
 * **Conseguenze sistemiche:** 
   1. *Immediate:* Blocco psicologico della produzione per dieci minuti; terrore diffuso tra gli operai; minaccia di ritorsione disciplinare da parte del commerciale; isolamento di Silvano.
-  2. *Differite (se non corrette):* Rischio di licenziamento del Capo Officina; perdita della commessa strategica da 220.000 euro; paralisi della filiera di distretto.
+  2. *Differite (se non corrette):* Rischio di licenziamento del Capo Officina; perdita della commessa strategica da 140.000 euro; paralisi della filiera di distretto.
 
 Da questo snodo scaturisce la domanda operativa tascabile, indispensabile per chiunque senta montare il fuoco della collera in un contesto professionale:
 
@@ -215,7 +215,7 @@ Se l'energia della rabbia viene usata per aggredire il colpevole presunto, essa 
 
 ---
 
-### ATTO IV — IL RITORNO NELLA STANZA (L'AZIONE CONCRETA)
+## Il foglio di calcolo sul tavolo ovale
 
 Martedì 2 dicembre, ore 10:30.
 
@@ -223,15 +223,15 @@ La sala riunioni della palazzina direzionale di O.M.P. Precision era immersa in 
 
 Attorno al tavolo rettangolare in rovere chiaro sedevano quattro persone. Al centro, Sara, responsabile delle risorse umane, con davanti a sé il verbale dell'incidente del giorno prima e il regolamento aziendale disciplinare. Alla sua sinistra Fabio, con lo stesso abito sartoriale impeccabile, le braccia conserte e la mascella serrata, che evitava accuratamente di incrociare lo sguardo altrui. Alla destra di Sara sedeva Silvano, che si era tolto la tuta da lavoro e indossava una camicia di flanella a quadri pulita, i capelli grigi pettinati all'indietro con cura. Di fronte a loro sedeva Elena, la consulente di governance di rete, chiamata d'urgenza da Sara per evitare che lo scontro degenerasse in una denuncia formale per aggressione sul luogo di lavoro.
 
-L'aria nella stanza era densa di elettricità statica. Quando Fabio mosse la poltroncina facendola cigolare sul pavimento, Silvano sentì la solita fitta acida risalire lungo l'esofago; le tempie registrarono una pulsazione accelerata e i palmi presero a pizzicare. La conversazione della sera prima con Luisa non aveva cancellato la sua fisiologia animale: la presenza di Fabio continuava a essere codificata come una violazione territoriale inaccettabile.
+L'aria nella stanza era densa di elettricità statica. Quando Fabio mosse la poltroncina facendola cigolare sul pavimento, la solita fitta acida risalì lungo l'esofago di Silvano; le tempie registrarono una pulsazione accelerata e i palmi presero a pizzicare. La conversazione della sera prima con Luisa non aveva cancellato la sua fisiologia animale: la presenza di Fabio continuava a essere codificata come una violazione territoriale inaccettabile.
 
-Ma questa volta Silvano ricordava la disciplina della telecamera. Teneva le mani piatte sul tavolo, aperte, a custodire quattro copie cartacee stampate del diagramma di Gantt e della scheda tecnica di lavorazione del titanio grado 5.
+Ma questa volta Silvano teneva a mente i dati nudi della produzione. Teneva le mani piatte sul tavolo, aperte, a custodire quattro copie cartacee stampate del diagramma di Gantt e della scheda tecnica di lavorazione del titanio grado 5.
 
 Sara prese la parola con tono misurato: «Siamo qui per gestire un episodio inaccettabile avvenuto ieri mattina in officina. Ci sono state urla, minacce fisiche e documenti scagliati a terra davanti a venti lavoratori. Prima di valutare i provvedimenti disciplinari previsti dallo statuto, ho chiesto a Elena di essere presente per verificare se dietro questa esplosione vi sia un problema strutturale di processo.»
 
-Fabio prese subito la parola, la voce carica di sdegno risentito: «Il problema non è di processo, Sara. È di rispetto gerarchico e di violenza. Io ho portato in azienda un contratto da duecentoventimila euro che salva il conto economico dopo la delocalizzazione di Apex, e sono stato aggredito verbalmente e cacciato dal reparto come un delinquente da un dipendente che rifiuta gli ordini della direzione commerciale. Questo è insubordinazione grave.»
+Fabio prese subito la parola, la voce carica di sdegno risentito: «Il problema non è di processo, Sara. È di rispetto gerarchico e di violenza. Io ho portato in azienda un contratto da centoquarantamila euro che salva il conto economico dopo la delocalizzazione di Apex, e sono stato aggredito verbalmente e cacciato dal reparto come un delinquente da un dipendente che rifiuta gli ordini della direzione commerciale. Questo è insubordinazione grave.»
 
-Silvano sentì il sangue salirgli alle orecchie. Il vecchio impulso a urlare *«Dipendente a chi, pagliaccio?»* premette contro i suoi denti.
+Il sangue pulsò alle orecchie di Silvano. Il vecchio impulso a urlare *«Dipendente a chi, pagliaccio?»* premette contro i suoi denti.
 
 Trattenne il fiato per tre secondi. Espirò lentamente attraverso il naso, appoggiò gli avambracci sul piano di legno, guardò Fabio dritto negli occhi e, invece di replicare all'accusa di insubordinazione, pose una domanda di processo pulita, priva di sarcasmo, tagliente come una fresa al diamante:
 
@@ -247,32 +247,32 @@ Fabio sbatté le palpebre. La maschera di sicura superiorità commerciale ebbe u
 
 Silvano allungò la mano e fece scivolare davanti a Fabio una copia del foglio tecnico.
 
-«Nel senso che il titanio grado 5 si lavora a quaranta metri al minuto. Per fare millecinquecento blocchi servono trecentocinquanta ore mandrino. Se le mettiamo sulle due macchine a cinque assi che abbiamo libere, servono diciotto giorni pieni lavorando ventiquattr'ore al giorno, a patto di fermare completamente Kuka e buttare nel cestino le consegne dei clienti medicali. A meno che... a meno che Hydac non avesse bisogno di tutti i millecinquecento pezzi per il 19 dicembre. Ti hanno chiesto millecinquecento pezzi per quella data, o a loro serviva una pre-serie per i test di montaggio?»
+«Nel senso che il titanio grado 5 si lavora a quaranta metri al minuto. Per trecento pezzi servono duecentocinquanta ore mandrino. Se le mettiamo sulle due macchine a cinque assi che abbiamo libere, servono diciotto giorni pieni lavorando ventiquattr'ore al giorno, a patto di fermare completamente Kuka e buttare nel cestino le consegne dei clienti medicali. A meno che... a meno che Hydac non avesse bisogno di tutti i trecento distributori per il 19 dicembre. Ti hanno chiesto trecento pezzi per quella data, o a loro serviva una pre-serie per i test di montaggio?»
 
 Fabio guardò la tabella dei tempi ciclo, poi raddrizzò la schiena, picchiando l'indice sulla scrivania: «Silvano, io parlo di fatturato e di quote di mercato, non di trucioli! A Stoccarda i buyer non vogliono sentire il piagnisteo sulle frese che vibrano, vogliono sapere se il fornitore regge il ritmo! Tu mi parli di velocità di taglio come fossimo negli anni ottanta!»
 
-Silvano non arretrò di un millimetro. Spostò il foglio di tre centimetri verso il petto del commerciale: «Il titanio grado 5 non legge il tuo budget aziendale, Fabio. A quaranta metri al minuto, se acceleri bruci l'inserto in metallo duro e il pezzo si salda sulla pinza mandrino distruggendo cinquantamila euro di elettromandrino. O diciamo la verità tecnica sui lotti, o il 19 dicembre paghiamo ventiduemila euro di penale e il cliente lo perdi per sempre.»
+Silvano non arretrò di un millimetro. Spostò il foglio di tre centimetri verso il petto del commerciale: «Il titanio grado 5 non legge il tuo budget aziendale, Fabio. A quaranta metri al minuto, se acceleri bruci l'inserto in metallo duro e il pezzo si salda sulla pinza mandrino distruggendo cinquantamila euro di elettromandrino. O diciamo la verità tecnica sui lotti, o il 19 dicembre paghiamo trentamila euro di penale in dieci giorni e il cliente lo perdi per sempre.»
 
 Fabio deglutì a vuoto. Le dita strinsero la stilografica fino a sbiancare. Guardò Sara, poi Elena. L'arroganza commerciale si incrinò davanti alla ghisa e all'acciaio.
 
-«Loro... loro hanno la presentazione dei nuovi escavatori alla fiera Bauma di Monaco a fine gennaio,» confessò infine a voce più bassa. «Gli servivano centocinquanta blocchi entro Natale per allestire i primi tre prototipi dimostrativi nello stabilimento di Stoccarda. I restanti milletrecentocinquanta pezzi sono destinati alla produzione di serie che parte a marzo.»
+«Loro... loro hanno la presentazione dei nuovi escavatori alla fiera Bauma di Monaco a fine gennaio,» confessò infine a voce più bassa. «Gli servivano cinquanta distributori entro Natale per allestire i primi prototipi dimostrativi nello stabilimento di Stoccarda. I restanti duecentocinquanta pezzi sono destinati alla produzione di serie che parte a fine gennaio.»
 
 Silvano chiuse gli occhi per un secondo. Il punto cieco dell'intero distretto si spalancò nella stanza.
 
-«E perché hai firmato per millecinquecento pezzi entro il 19 con la penale dell'uno per cento?» chiese Sara, la voce incredula.
+«E perché hai firmato per trecento pezzi entro il 19 con la penale di tremila euro al giorno?» chiese Sara, la voce incredula.
 
-Fabio arrossì violentemente. «Perché il loro buyer mi ha detto che se chiudevamo il lotto intero entro il budget 2026 ci avrebbero riconosciuto il prezzo pieno di centoquarantasette euro a pezzo senza sconti di volume. E perché... perché pensavo che se vi avessi detto che ne bastavano centocinquanta, in officina avreste fatto i comodi vostri rimandando il lavoro a dopo le feste! Ho pensato che mettere la pressione della penale totale fosse l'unico modo per costringervi a prendere la commessa sul serio!»
+Fabio arrossì violentemente. «Perché il loro buyer mi ha detto che se chiudevamo il lotto intero entro il budget 2026 ci avrebbero riconosciuto il prezzo pieno senza sconti di volume. E perché... perché pensavo che se vi avessi detto che ne bastavano cinquanta, in officina avreste fatto i comodi vostri rimandando il lavoro a dopo le feste! Ho pensato che mettere la pressione della penale totale fosse l'unico modo per costringervi a prendere la commessa sul serio!»
 
 Silvano non urlò. Scosse la testa con una mestizia infinita.
 
-«Vedi, Fabio,» disse Silvano, e la sua voce aveva la gravità calma della terra battuta. «Tu hai creduto che la fabbrica fosse una banda di fannulloni da prendere a frustate con le penali per farli lavorare. E io ho creduto che tu fossi un avido senza scrupoli che voleva calpestare la vita dei miei ragazzi per intascarsi il premio di produzione. Ci siamo trattati come due nemici mortali, e stavamo per buttare via un cliente da duecentoventimila euro e trentaquattro anni di lavoro mio.»
+«Vedi, Fabio,» disse Silvano, e la sua voce aveva la gravità calma della terra battuta. «Tu hai creduto che la fabbrica fosse una banda di fannulloni da prendere a frustate con le penali per farli lavorare. E io ho creduto che tu fossi un avido senza scrupoli che voleva calpestare la vita dei miei ragazzi per intascarsi il premio di produzione. Ci siamo trattati come due nemici mortali, e stavamo per buttare via un cliente da centoquarantamila euro e trentaquattro anni di lavoro mio.»
 
 Elena, che fino a quel momento aveva preso appunti in silenzio, chiuse il taccuino e guardò Sara:
 
 «Abbiamo la soluzione tecnica e la soluzione organizzativa,» disse la consulente.
 
 L'accordo fu siglato in quaranta minuti di lavoro serrato sui numeri:
-1. **Rimodulazione contrattuale immediata:** Fabio avrebbe chiamato il buyer di Hydac alle 14:00, formalizzando la consegna di un primo lotto di campionatura da **150 pezzi entro il 18 dicembre** (perfettamente assorbibile nelle 34 ore di riserva tecnica dell'officina senza toccare Kuka), con consegna scaglionata dei restanti 1.350 pezzi a partire dal 20 gennaio a lotti di 450 pezzi al mese.
+1. **Rimodulazione contrattuale immediata:** Fabio avrebbe chiamato il buyer di Hydac alle 14:00, formalizzando la consegna di un primo lotto di campionatura da **50 pezzi entro il 18 dicembre** (perfettamente assorbibile nelle 34 ore di riserva tecnica dell'officina senza toccare Kuka), con consegna scaglionata dei restanti 250 pezzi a partire dal 20 gennaio.
 2. **Nessun provvedimento disciplinare espulsivo:** il verbale di lite veniva archiviato a fronte di una reciproca conciliazione formale a verbale tra Silvano e Fabio.
 3. **Istituzione della nuova regola di processo (*Feasibility Check Vincolante*):** da quel giorno stesso, nessun commerciale di O.M.P. Precision avrebbe più potuto apporre la firma su un'offerta vincolante contenente penali di consegna senza la preventiva validazione tecnica di fattibilità oraria (*feasibility sign-off*) validata con token crittografico dal Capo Officina sul modulo APS-Capacity.
 
@@ -288,20 +288,20 @@ Silvano guardò la mano del commerciale. Esitò un battito di ciglia, poi strins
 
 Non si abbracciarono, non divennero amici per la pelle e non cancellarono le differenze abissali tra i loro mondi. Fabio continuava a essere un venditore spinto dai numeri di bilancio; Silvano continuava a essere un custode geloso e ruvido dei confini d'officina.
 
-Ma mentre scendeva la scaletta di ferro per tornare al suo gabbiotto, Silvano sentì il cuore battere con un ritmo antico, pacificato.
+Ma mentre scendeva la scaletta di ferro per tornare al suo gabbiotto, il cuore batteva con un ritmo antico, pacificato.
 
 Non aveva smesso di essere un uomo capace di infiammarsi per la giustizia del proprio lavoro. Aveva smesso, però, di usare la propria rabbia per dare fuoco alla casa, trasformandola in una diga d'acciaio che nessun venditore avrebbe mai più potuto scavalcare.
 
 ---
 
-### ATTO V — APPARATI OPERATIVI & CONTINUITÀ
+## Apparati operativi e continuità
 
-#### 1. Mettilo in Pratica: Il Protocollo del "Confine di Fuoco" in 7 Passaggi
+### 1. Mettilo in Pratica: Il Protocollo del "Confine di Fuoco" in 7 Passaggi
 
 Questo protocollo va applicato entro dodici ore da qualsiasi scontro aziendale o relazionale violento in cui la rabbia ti ha spinto a compiere gesti distruttivi (sbattere porte, urlare, minacciare dimissioni, stracciare contratti o insultare un collega ritenuto colpevole di malafede).
 
 1. **FATTO (La registrazione asettica della telecamera):**  
-   Trascrivi unicamente ciò che un registratore audiovisivo avrebbe immortalato: parole testuali esatte, decibel, oggetti spostati, documenti consegnati, tempi e scadenze numeriche (es. *«Lunedì ore 07:22: il commerciale deposita una commessa da 1.500 pezzi in titanio con consegna al 19 dicembre e penale dell'1%, dicendo che a Capodanno brinderemo tutti col bonus»*).
+   Trascrivi unicamente ciò che un registratore audiovisivo avrebbe immortalato: parole testuali esatte, decibel, oggetti spostati, documenti consegnati, tempi e scadenze numeriche (es. *«Lunedì ore 07:22: il commerciale deposita una commessa da 300 distributori in titanio con consegna al 19 dicembre e penale di 3.000 euro al giorno, dicendo che a Capodanno brinderemo tutti col bonus»*).
 2. **ELEMENTO NOTATO (Il detonatore dell'offesa):**  
    Isola il dettaglio specifico che ha acceso l'incendio della collera (es. *«Il sorriso a trentadue denti associato alla cravatta bordeaux mentre io guardavo il tabellone Kanban saturo al 98,4%»*).
 3. **SIGNIFICATO ATTRIBUITO (L'inferenza di colpa e svalutazione - Lazarus):**  
@@ -312,13 +312,13 @@ Questo protocollo va applicato entro dodici ore da qualsiasi scontro aziendale o
    Descrivi l'azione violenta compiuta (es. *«Ho gridato che era un pazzo criminale, ho lanciato il contratto giù dalle scale davanti agli operai e gli ho intimato di andarsene prima che gli mettessi le mani addosso»*).
 6. **CONSEGUENZE MATERIALI ACCERTATE (Immediate vs Differite):**  
    - *Immediata:* paralisi del reparto per dieci minuti; denuncia verbale di insubordinazione; vergogna e isolamento.  
-   - *Differita (se non arginata):* perdita del cliente da 220.000 euro; rischio di licenziamento per giusta causa.
+   - *Differita (se non arginata):* perdita del cliente da 140.000 euro; rischio di licenziamento per giusta causa.
 7. **SPIEGAZIONE ALTERNATIVA PLAUSIBILE & DOMANDA DI PROCESSO:**  
    Formula l'ipotesi sistemica alternativa e costruisci la domanda operativa da portare nella stanza (es. *«Fabio non voleva distruggermi: non conosce la velocità del titanio e ha incentivi disallineati; Domanda: 'Qual è il fabbisogno minimo di pezzi che il cliente accetta prima della fiera prima di applicare la penale?'»*).
 
 ---
 
-#### 2. Da Ricordare: Massime di Sintesi Epistemica
+### 2. Da Ricordare: Massime di Sintesi Epistemica
 
 * **La rabbia non nasce dalla frustrazione: nasce dalla percezione di un'offesa denigratoria contro il proprio valore (*Core Relational Theme*).** Non ci arrabbiamo perché un compito è difficile, ma perché valutiamo che l'altro stia calpestando ingiustamente un confine vitale con piena volontarietà lesiva.
 * **La componente di colpa (*blame*) è un'interpretazione interna, non una prova oggettiva.** Chi prova rabbia è intimamente certo della malafede altrui; nella quasi totalità dei contesti aziendali, l'attrito deriva da ignoranza tecnica, asimmetria informativa e incentivi economici mal disegnati.
@@ -328,7 +328,7 @@ Questo protocollo va applicato entro dodici ore da qualsiasi scontro aziendale o
 
 ---
 
-#### 3. Gancio Tematico al Capitolo Successivo (Il Ponte Metodologico)
+### 3. Gancio Tematico al Capitolo Successivo (Il Ponte Metodologico)
 
 Nel Capitolo 3 abbiamo visto come la mente possa anticipare catastrofi immaginarie. In questo Capitolo 4 abbiamo imparato a canalizzare il fuoco della rabbia per trasformare una collisione tra commerciale e officina in una regola aurea di fattibilità.
 
@@ -342,7 +342,7 @@ Il Capitolo 5 affronta la crisi più solitaria della piccola e media impresa: **
 
 ---
 
-#### 4. Note di Lavorazione e Registro di Continuità
+### 4. Note di Lavorazione e Registro di Continuità
 
 ##### Verifiche Scientifiche e Fonti
 * **Richard S. Lazarus (1991):** Rigorosa applicazione della formula del *Core Relational Theme* della rabbia (*A demeaning offense against me and mine*) e della necessaria componente di *Blame* con controllo volontario attribuito (*imputed control*, pp. 222–226).
@@ -352,7 +352,7 @@ Il Capitolo 5 affronta la crisi più solitaria della piccola e media impresa: **
 ##### Marcatori di Continuità e Intreccio di Filiera
 * **Codice Scena:** `SC-C4-01` (Gabbiotto Silvano / Lite con Fabio), `SC-C4-02` (Cucina Silvano e Luisa / Telecamera), `SC-C4-03` (Sala riunioni O.M.P. / Sara, Elena, Fabio e Silvano).
 * **Debiti di Filiera Intrecciati:**
-  - La commessa Hydac da 220.000 euro compensa parzialmente il trauma della revoca del committente Apex (ADR 0001);
+  - La commessa Hydac da 140.000 euro compensa parzialmente il trauma della revoca del committente Apex (ADR 0001);
   - L'isola 4 menzionata all'inizio del capitolo mostra Marta e Davide che lavorano con disciplina al lotto Kuka, dimostrando la tenuta del patto di riqualificazione stabilito da Sara nel Capitolo 2;
   - L'introduzione del *Feasibility Check vincolante* tra commerciale e officina rappresenta il presidio organizzativo che Elena utilizzerà come modello per la governance distrettuale.
 

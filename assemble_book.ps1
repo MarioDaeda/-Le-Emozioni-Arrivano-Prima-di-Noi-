@@ -1,4 +1,4 @@
-# Assemble Master Book: Le Emozioni Arrivano Prima di Noi
+﻿# Assemble Master Book: Le Emozioni Arrivano Prima di Noi
 $ErrorActionPreference = "Stop"
 
 $baseDir = "C:\Users\MARIO\Libro Emozioni"

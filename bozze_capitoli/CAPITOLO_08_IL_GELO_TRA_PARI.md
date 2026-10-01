@@ -1,22 +1,4 @@
-# 2026-09-30 — Capitolo 8 — Riscrittura integrale deep POV
-
-**Metodo:** skill `rewrite-deep-pov`, Fase 2 eseguita sulle prescrizioni vincolanti del Referto Forense del 2026-09-30 (`bozze_capitoli/CAPITOLO_08_IL_GELO_TRA_PARI.md`, branch `revisioni-deep-pov`).
-
-**Prescrizioni applicate:**
-1. *De-ventriloquizzazione radicale di Elena (P1-1, P1-2):* Bonifica integrale del colloquio a Quinzano; eliminazione totale di tutte le 6 occorrenze della parola «telecamera» e del neologismo «telecamerare»; cancellazione della citazione di Kahneman e dell'«errore fondamentale di attribuzione» dal dialogo; Elena parla come moglie e consulente esperta nella propria casa di notte, inchiodando Andrea ai fatti e alla salute di Luca.
-2. *Ricalibrazione del post-it di Luca nell'Atto I (P1-3):* Asciugatura del testo del biglietto adesivo (emicrania acuta, testa che scoppia, basket del figlio e caricamento delegato), rendendo psicologicamente credibile l'inferenza di tradimento di Andrea e riservando la gravità clinica (180/100, scotoma e rischio ischemia) allo scontro dell'Atto IV.
-3. *Espunzione del metalabeling e del telling concettuale in scena (P1-4, P1-5):* Cancellazione a R44 di «L'inferenza del Sistema 1 fu istantanea...», a R106 di «smantellando la fortezza della sua indignazione...» e a R197 di «la gravità della propria cecità narcisistica...»; sostituzione con pura azione fisica e propriocezione viscerale.
-4. *Scioglimento del blocco di pensiero virgolettato (P1-6):* A R42 eliminato il soliloquio teatrale di undici righe in corsivo («Se n'è andato...»); sciolto in discorso indiretto libero fuso nell'azione corporea (nocche sbiancate sul post-it, camminata furiosa, monitor al 78%).
-5. *De-retorizzazione dell'innesco somatico (P1-7):* Cancellate le formule intellettualistiche a R30-32 («sembrò svuotarsi», «prima che qualsiasi considerazione... affiorasse alla corteccia cerebrale»); la scarica acida e muscolare scatta a contatto immediato con la frase «fai tu stasera» sul post-it.
-6. *Purga dei verbi filtro e de-filtraggio radicale (P2-1):* Eliminati chirurgicamente tutti i filtri percettivi e cognitivi del narratore: R10 (*fissando*), R30 (*sembrò*), R95 (*visto*), R102 (*pulsò nelle orecchie*), R169 (*si udiva*), R185 (*guardò*), R191 (*fissando*), R197 (*sentì un brivido*), R217 (*guardando*), R225 (*guardò*), R227 (*sapevano che il gelo*).
-7. *Blindatura delle 4 battute GOLD (P3-1):* Preservate e valorizzate verbatim le battute di Andrea sullo sfogo del garage di via Tombetta (R78), di Elena a Quinzano (R84, R86), di Luca sulla crisi a 180/100 (R193) e di Andrea davanti al cestino (R189).
-8. *Adversarial Red-Teaming dell'Atto IV & Precisione Giuridico-Societaria (P3-2, P3-3):* Accordo a 4 pilastri (Revoca tombale ore 09:00, Diritto di veto operativo >15%, Check-in del venerdì 16:30-17:30, Riforma patti parasociali con perizia e Sabbatical medico di 90 giorni D&O); eliminata la metafora marinara finale; chiusura materica sui faldoni O.M.P. e sul caffè.
-9. *Titolazione Narrativa Organica:* Sostituite le etichette meccaniche da cantiere (`### ATTO I`, etc.) con dieci titoli di sezione narrativi ed eleganti.
-10. *Raccordi di Continuità Certificati:* Saldato il ponte con il Capitolo 1 (la frase di Luca sul controllo dei numeri), con il Capitolo 5 (la notte in bianco per il cash flow), con i Capitoli 3, 6 e 7 (i 180.000 € del Bando VR-2027-8891 per MES e Accademia di Marta) e con il Capitolo 9 (il disincanto e cinismo di reparto).
-
----
-
-# Capitolo 8 — Il gelo tra pari: la deriva tra soci fondatori
+﻿# Capitolo 8 — Il gelo tra pari: la deriva tra soci fondatori
 
 ## Il led arancione alle sei e mezza
 
