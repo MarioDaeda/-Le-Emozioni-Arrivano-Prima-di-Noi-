@@ -42,7 +42,7 @@ Quello che seguì conservò la forma di una discussione sui numeri e perse, scam
 
 La decisione slittò di quarantotto ore. Nessuno propose di votare.
 
-La responsabile commerciale raccolse i fogli con una lentezza da persona che non vuole essere ricordata. Sulla porta disse che avrebbe avvisato il cliente del ritardo, senza promettere una data. «Non c'è nessun ritardo. C'è un ultimo controllo.» La frase era falsa, e nella stanza lo era per tutti, Andrea compreso. Il consulente chiese se dovesse preparare una versione aggiornata. «Non c'è niente da aggiornare.» Due minuti prima accusava gli altri di scivolare via dai numeri; adesso i numeri era lui a non volerli più guardare.
+La responsabile commerciale raccolse i fogli con una lentezza da persona che non vuole essere ricordata. Sulla porta disse che avrebbe avvisato il cliente del ritardo, senza promettere una data. «Non c'è nessun ritardo. C'è un ultimo controllo.» La frase era falsa, e gli era uscita lo stesso. Il consulente chiese se dovesse preparare una versione aggiornata. «Non c'è niente da aggiornare.» Due minuti prima accusava gli altri di scivolare via dai numeri; adesso i numeri era lui a non volerli più guardare.
 
 Nel corridoio Luca si fermò a scambiare due parole con una collega. Andrea tirò dritto senza voltarsi. Due metri di linoleum, e la distanza diventò permafrost. Dietro le spalle partì il filmato, già montato: Luca che scuoteva la testa, la collega che annuiva sullo stesso tema — che era diventato impossibile, che non gli si poteva più dire niente. Dalla bocca di nessuno dei due era uscita una sillaba. La scena girava uguale a ogni passo, dentro, a ciclo continuo, costruita con materiali di scarto che la settimana aveva già pronti.
 
@@ -68,7 +68,7 @@ Elena si scrollò la farina dalle mani, sopra il lavello. «Luca non è mai stat
 
 «Lui, prima, dubbi ne aveva già messi sul tavolo?»
 
-«Due domande sui costi operativi.»
+Andrea alzò due dita, poi chiuse la mano. «Due domande sui costi operativi.»
 
 «A cui avevi risposto?»
 
@@ -94,7 +94,7 @@ Andrea ricostruì. Luca non aveva sorriso. Non aveva alzato la voce. Aveva parla
 
 «Su questo posso crederti.»
 
-Non era un'assoluzione per Luca, e nemmeno una smentita di Andrea. Era una piccola cesura tra due cose che nel racconto erano diventate una sola: le parole pronunciate, e il significato che Andrea ci aveva caricato sopra. L'intenzione di togliergli autorità non era un fatto osservato. Era una conclusione — e le conclusioni, prima di valere qualcosa, chiedono di essere verificate.
+Non era un'assoluzione per Luca, e nemmeno una smentita. Era un cuneo. Le parole di Luca da una parte, quello che lui ci aveva caricato sopra dall'altra: in sala erano arrivate incollate, una cosa sola, e adesso Elena ci stava infilando l'unghia in mezzo.
 
 ## Una telecamera nella stanza
 
@@ -104,25 +104,27 @@ Andrea sbuffò, le dita aperte a ventaglio sul piano della cucina. «Una telecam
 
 Elena affondò la lama nel tagliere di faggio, un colpo secco; i bicchieri tintinnarono nella credenza. Si girò a guardarlo negli occhi, le mani infarinate: «La telecamera sente se uno urla o se parla basso. Registra se ti ha dato del truffatore o se ha chiesto una seconda firma sui conti del secondo trimestre. Il resto — che voleva fotterti davanti alla commerciale, che non si fida, che ti considera un vecchio rincoglionito — ce lo stai mettendo tu. Perché hai la gastrite da tre settimane, non dormi per la firma con Mediocredito, e ti aspetti che Luca ti batta le mani a ogni preventivo.»
 
-La domanda pungeva perché era facile. Facile, detta da fuori. Una telecamera avrebbe mostrato un uomo che propone un controllo esterno e un altro che si irrigidisce. Avrebbe mostrato Luca arrivare a quella proposta dopo due domande. Avrebbe mostrato Andrea rispondere di rimbalzo, senza chiedere all'altro che cosa temesse, di preciso. Avrebbe mostrato la responsabile commerciale abbassare gli occhi — e sull'imbarazzo, sulla noia o sulla concentrazione di quegli occhi, la telecamera non apre inchieste.
+La domanda pungeva perché era facile. Facile, detta da fuori. Una telecamera avrebbe mostrato un uomo che propone un controllo esterno e un altro che si irrigidisce. Avrebbe mostrato Luca arrivare a quella proposta dopo due domande. Avrebbe mostrato Andrea rispondere di rimbalzo, senza chiedere all'altro che cosa temesse, di preciso. Avrebbe mostrato la responsabile commerciale abbassare gli occhi — e sull'imbarazzo, sulla noia o sulla concentrazione di quegli occhi, la telecamera non apriva inchieste.
 
-Una telecamera, naturalmente, non distribuisce la verità intera. Sceglie un'inquadratura, perde ciò che accade fuori campo, della storia delle persone non porta niente in scena. Vale però come disciplina: costringe a tenere separato ciò che si può osservare dalle intenzioni che attribuiamo, dai significati che costruiamo, dalle conclusioni che trattiamo come se fossero già dimostrate.
+Andrea prese il bicchiere e non bevve. La frase di Luca ce l'aveva tutta, parola per parola, buona da mettere a verbale. Il resto — la fiducia ritirata, la sedia tolta da sotto davanti alla commerciale — in sala non l'aveva pronunciato nessuno. Era una stima, come quelle del prospetto: un numero con il suo margine accanto. E quanto fosse largo il margine, stasera, non c'era modo di dirlo.
 
-La separazione si vede meglio cambiando registro ai verbi. Descrivere: Luca ha pronunciato una frase; è caduta una pausa; la responsabile commerciale ha abbassato gli occhi. Attribuire: Luca voleva umiliarlo; la collega, abbassando lo sguardo, si stava schierando. Il secondo registro non usciva dalla testa della collega, che Andrea non poteva aprire; usciva da ciò che lui ricordava, si aspettava e temeva in quel momento. La collega poteva essere davvero d'accordo con Luca. Poteva pensare alla lista della spesa. Andrea non lo aveva verificato. Confondere «ho visto che ha abbassato gli occhi» con «ho visto che era d'accordo con Luca» rende invisibile il passaggio in cui un indizio diventa una conclusione.
+«Secondo me voleva farmi le scarpe,» disse.
 
-Le parole di Luca erano un fatto. Il momento e il tono facevano parte del fatto, per quanto meno facili da inchiodare con precisione. Che Luca volesse proteggere l'azienda era una lettura possibile. Che volesse indebolire Andrea, un'altra. Entrambe compatibili con la scena; proprio per questo, non equivalenti e non ugualmente probabili. Servivano altre informazioni.
-
-Plausibile non significa ancora accertato.
-
-Andrea quella sera non cambiò idea. Il dubbio si aprì in un punto preciso: le parole pronunciate le aveva, parola per parola; l'intenzione no. Poteva raccontare la richiesta di un controllo esterno con la certezza di un verbale; del volere di Luca aveva in mano un'ipotesi, e basta. Non sostituì la prima interpretazione con una più comoda. Le assegnò un grado di certezza diverso.
-
-Il pensiero critico cominciava da lì: non dal pensare il contrario, ma dal distinguere ciò che si sa da ciò che si è concluso. E Andrea, quella sera, smise di raccontare l'intenzione di Luca con la stessa certezza con cui raccontava la frase pronunciata.
+Secondo me. Non aveva cambiato idea. Ma in sala, quelle due parole non gli erano venute.
 
 ## Il processo invisibile
 
 «Mi ha fatto arrabbiare» è una compressione. Dentro, piegati in tre parole, ci stanno settimane di lavoro, notti corte, un conto da firmare e la memoria di altre frasi capitate in altri momenti. Comprimere non è mentire: è una scorciatoia nel racconto. E a volte la scorciatoia del racconto ricalca una scorciatoia mentale: un'euristica, cioè un modo rapido di dare significato a una situazione usando pochi elementi, più ricordi, aspettative e conoscenze precedenti.
 
 Le euristiche non sono difetti. Permettono di orientarsi in fretta, e la fretta è spesso la risposta giusta. Ma una scorciatoia può far arrivare prima nel posto sbagliato. Producono in pochi istanti una prima lettura della realtà; non garantiscono che sia quella più fedele ai fatti. Il pensiero critico comincia quando la prima lettura smette di valere come verdetto e comincia a valere come ipotesi da verificare.
+
+La domanda di Elena — che cosa avrebbe registrato una telecamera? — serve a questo. Una telecamera, naturalmente, non distribuisce la verità intera. Sceglie un'inquadratura, perde ciò che accade fuori campo, della storia delle persone non porta niente in scena. Vale però come disciplina: costringe a tenere separato ciò che si può osservare dalle intenzioni che attribuiamo, dai significati che costruiamo, dalle conclusioni che trattiamo come se fossero già dimostrate.
+
+La separazione si vede meglio cambiando registro ai verbi. Descrivere: Luca ha pronunciato una frase; è caduta una pausa; la responsabile commerciale ha abbassato gli occhi. Attribuire: Luca voleva umiliarlo; la collega, abbassando lo sguardo, si stava schierando. Il secondo registro non usciva dalla testa della collega, che Andrea non poteva aprire; usciva da ciò che lui ricordava, si aspettava e temeva in quel momento. La collega poteva essere davvero d'accordo con Luca. Poteva pensare alla lista della spesa. Andrea non lo aveva verificato. Confondere «ho visto che ha abbassato gli occhi» con «ho visto che era d'accordo con Luca» rende invisibile il passaggio in cui un indizio diventa una conclusione.
+
+Le parole di Luca erano un fatto. Il momento e il tono facevano parte del fatto, per quanto meno facili da inchiodare con precisione. Che Luca volesse proteggere l'azienda era una lettura possibile. Che volesse indebolire Andrea, un'altra. Entrambe compatibili con la scena; proprio per questo, non equivalenti e non ugualmente probabili. Servivano altre informazioni.
+
+Plausibile non significa ancora accertato.
 
 La frase di Luca non era entrata in una stanza vuota. Era entrata in un piano costruito in settimane di lavoro, in una responsabilità economica concreta, nel timore di perdere il momento giusto, in poche ore di sonno e in una storia professionale costruita anche dimostrando di saper vedere ciò che altri non vedevano. Era entrata nel bisogno di restare alla guida e nella sensibilità a essere giudicati davanti ai collaboratori.
 
