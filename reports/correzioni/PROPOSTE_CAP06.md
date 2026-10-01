@@ -1,6 +1,6 @@
 # Proposte — Cap.06 «La guerra dei territori e i dati come armi»
 
-Stato: PROPOSTA — IN ATTESA DI APPROVAZIONE DELL'AUTORE. Nessuna modifica applicata al testo.
+Stato: APPROVATA DALL'AUTORE — APPLICATA
 
 File: `capitoli/CAPITOLO_06_LA_GUERRA_DEI_FOGLI_EXCEL.md` (righe verificate sul testo attuale, dopo le Fasi 4 e 5).
 
@@ -30,7 +30,7 @@ Il resto della catena regge: 78.400 − 92.650 = −14.250 € (L57, L128, L225,
 - Motivazione: il passo già distingueva due voci («sfrido fisiologico *e* tolleranza dimensionale a nostro carico»); la proposta rende esplicita la scomposizione (≈ 1.280 € di sfrido arrotondati a «circa milletrecento», più ≈ 200 € di riserva per scarti) e dichiara il 1.500 € come stima prudenziale, che è ciò che un ingegnere gestionale presenterebbe a verbale. Nessuna cifra canonica cambia.
 - Alternativa (soluzione B, prescrizione letterale del registro): «Dedotto lo 0,2% di sfrido fisiologico a nostro carico, pari a circa **€ 1.300** sul valore annuo della fornitura, il beneficio netto consolidato reale per l'azienda è di circa **€ 46.700 all'anno**.» In questo caso va modificata anche la riga 287: «Con quarantaseimila e cinquecento euro di risparmio netto certificato» → «Con quarantaseimilasettecento euro di risparmio netto certificato».
 - Rischi / impatti su altri capitoli: con la soluzione A nessun impatto. Con la soluzione B vanno riallineate le occorrenze di 1.500 € e 46.500 € in `capitoli/EPILOGO_E_TOOLKIT_OPERATIVO.md` (L64 «utile netto TCO di 46.500 euro»; L232 «sfrido allo 0,2% (1.500 €)»; L233 «48.000 € meno 1.500 € di sfrido = 46.500 €/anno»; L235 «46.500 euro all'anno»; L429 «+46.500€/anno») e la riga 287 di questo capitolo. Materia contabile: i valori sono ricostruiti per via aritmetica dal testo; non serve un parere professionale, salvo che l'autore voglia dichiarare una spesa annua diversa.
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
 
 ## P3-16-b — Barre «pelate» in classe h7
 
@@ -40,4 +40,4 @@ Il resto della catena regge: 78.400 − 92.650 = −14.250 € (L57, L128, L225,
 - Motivazione: modifica minima di una parola, coerente con la prescrizione del registro («barre rettificate h7») e con le righe 283 («Lavorano con tolleranza h7 senza sgarrare») e Toolkit L232 («barre calibrate h7»), che restano valide. Il contrasto con la Ferrometalli Sebina (Toolkit L232: «tolleranza h11», tipica di trafilato/pelato) diventa tecnicamente sensato.
 - Alternativa (facoltativa): «… con barre tonde rettificate in classe di tolleranza h7 e barre forate a tolleranza garantita da capitolato.» (Più prudente sulle barre forate in titanio, per le quali la classe h7 da rettifica è possibile ma meno corrente; allunga però la battuta.)
 - Rischi / impatti su altri capitoli: nessuno sulle tolleranze canoniche (Bibbia voce 4: 2 µm Kuka, 6 µm Hydac riguardano i pezzi finiti, non le barre grezze; h7 su un diametro di 30-50 mm vale 25 µm circa ed è coerente con un semilavorato da rilavorare). Nota collaterale, non oggetto della voce: alla stessa riga «tolleranze millimetriche garantite per i torni dell'officina» sottostima la precisione (h7 è nell'ordine dei centesimi); l'autore può valutare «tolleranze di barra garantite per i torni dell'officina». Dato tecnico di prassi siderurgica (EN 10278): grado di certezza alto; conferma facoltativa con un tecnico di trafileria.
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA

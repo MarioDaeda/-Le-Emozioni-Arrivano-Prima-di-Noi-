@@ -1,6 +1,6 @@
 # Proposte — Cap.03 «La cassa che brucia e il panico da anticipazione»
 
-Stato: PROPOSTA — IN ATTESA DI APPROVAZIONE DELL'AUTORE. Nessuna modifica applicata al testo.
+Stato: APPROVATA DALL'AUTORE — APPLICATA
 
 File: `capitoli/CAPITOLO_03_LA_CASSA_CHE_BRUCIA.md` (righe attuali, branch `bonifica/06-proposte`).
 
@@ -31,7 +31,7 @@ POV: Marco, Atto IV, Deep POV Grado 4. La percezione passa dal suo mestiere: pip
   - Apparati del Cap.03 (L247 «il fido è stato approvato 48 ore dopo»): invariati.
   - Il personaggio «il più anziano del backend» resta senza nome, per non introdurre un nome nuovo nella Bibbia.
   - Se si sceglie l'Alternativa, il numero dei dipendenti di NexSys (18) resta valido nel Cap.03, ma un eventuale riferimento successivo a «diciotto» andrebbe verificato. Oggi non ce ne sono.
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
 
 ## P2-11.Cap03-b — Esito non definitivo: togliere «per il resto della sua vita professionale»
 - Problema: la chiusa trasforma l'apprendimento di un episodio in una conversione permanente («per il resto della sua vita professionale»). È un esito consolatorio, contrario al Modello B, e la tesi stessa del capitolo lo contraddice: il corpo reagisce comunque, si può solo revocargli la delega di comando (L170).
@@ -40,4 +40,4 @@ POV: Marco, Atto IV, Deep POV Grado 4. La percezione passa dal suo mestiere: pip
 - Motivazione: elimina la conversione definitiva. Lascia il residuo somatico (la paura tornerà) e mostra un guadagno limitato e concreto, uno spazio di dieci secondi. Riprende la tesi di L170 («non elimina la paura: le revoca la delega di comando») e il gesto mancato di L55 (il tasto di invio della PEC). Il lessico (cron job) viene dal mestiere di Marco.
 - Alternativa (facoltativa): «… Aveva imparato, però, una cosa sola, e non era detto che la ricordasse alla prossima mail del venerdì sera: rileggere le parole scritte prima di rispondere a quelle immaginate.»
 - Rischi / impatti su altri capitoli: nessuno. L224 («Il suo cuore batteva a ritmo normale. Lo stomaco non bruciava più.») può restare: descrive il momento dell'accredito, non uno stato permanente. Se si approva -a, l'autore valuti se aggiungere a L224 un residuo («Lo stomaco non bruciava più, o quasi.»). Non è proposto come obbligatorio.
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA

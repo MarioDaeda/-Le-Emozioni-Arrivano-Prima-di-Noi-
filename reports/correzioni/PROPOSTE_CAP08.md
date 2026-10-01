@@ -1,6 +1,6 @@
 # Proposte — Cap.08 «Il gelo tra pari: la deriva tra soci fondatori»
 
-Stato: PROPOSTA — IN ATTESA DI APPROVAZIONE DELL'AUTORE. Nessuna modifica applicata al testo.
+Stato: APPROVATA DALL'AUTORE — APPLICATA
 
 File: `capitoli/CAPITOLO_08_IL_GELO_TRA_PARI.md` (righe verificate sul testo attuale, dopo le Fasi 4 e 5).
 
@@ -18,7 +18,7 @@ Nota di coordinamento: le sezioni P2-11.Cap08 e P2-18-a toccano la stessa scena 
 - Motivazione: il medico dà l'indicazione corretta; il rifiuto è di Luca, coerente con il suo tratto («la sua tendenza a chiudersi nel mutismo sotto carico», L81) e con la prescrizione del registro («Luca rifiuta e chiama la moglie per il figlio»). Il post-it di L27 resta invariato ma acquista un secondo fondo: Luca vi ha nascosto la paura, il che rafforza la tesi del capitolo (Andrea ha letto solo ciò che vedeva). Il rifiuto del pronto soccorso crea il residuo «visita medica in sospeso» usato in P2-11.Cap08-a.
 - Alternativa (facoltativa): «… Mi ha detto di andare subito al pronto soccorso. Ci sono andato due ore dopo, quando mia moglie ha preso Mattia al basket: mi hanno tenuto in osservazione fino a mezzanotte.» (Più prudente sul piano sanitario, ma elimina il residuo della visita in sospeso.)
 - Rischi / impatti su altri capitoli: la Mappa Minima (L151) e il protocollo (L289) descrivono correttamente il contenuto del post-it («l'impegno col figlio») e restano validi. Il Toolkit (`capitoli/EPILOGO_E_TOOLKIT_OPERATIVO.md` L59 «la vista sfocata», L283 «scotomi visivi») è compatibile con «mi si è spento l'occhio sinistro». Materia sanitaria: indicazione di prassi (grado di certezza alto); conferma facoltativa con un medico.
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
 
 ## P2-18-b — Comunicazione al Collegio Sindacale come «mero disguido tecnico» (L222)
 
@@ -28,7 +28,7 @@ Nota di coordinamento: le sezioni P2-11.Cap08 e P2-18-a toccano la stessa scena 
 - Motivazione: formula della prescrizione; la comunicazione resta veritiera (la contestazione è ritirata, non negata). Tolto «tombale», che con il residuo di P2-11.Cap08 (recesso non ancora ritirato) suonerebbe falso.
 - Alternativa (facoltativa): «… dichiarando ritirata la precedente comunicazione, scritta da Andrea senza un previo confronto con il socio, e confermando la collegialità della gestione;» (più esplicita sull'assunzione di responsabilità di Andrea).
 - Rischi / impatti su altri capitoli: nessuno. Materia societaria: da confermare con un professionista (commercialista o avvocato) se l'autore vuole dettagliare forma e destinatari.
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
 
 ## P2-18-c — «Sabbatical Medico» coperto da polizza D&O (L225)
 
@@ -38,7 +38,7 @@ Nota di coordinamento: le sezioni P2-11.Cap08 e P2-18-a toccano la stessa scena 
 - Motivazione: prescrizione del registro; il resto del punto 4 (clausola di riscatto paritetico, novanta giorni) resta invariato.
 - Alternativa (facoltativa): citare la sola polizza *key-man* («coperto da una polizza *key-man* stipulata dalla società»), più sobria.
 - Rischi / impatti su altri capitoli: vedi P2-18-d (riquadro del protocollo, stesso capitolo). Nessuna occorrenza di «D&O» negli altri capitoli. Materia assicurativa e statutaria: da confermare con un broker o un consulente societario (anche sull'opportunità di collocare la clausola nei patti parasociali anziché nello statuto).
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
 
 ## P2-18-d — Riquadro del protocollo: «clausole statutarie D&O» (L284)
 
@@ -47,7 +47,7 @@ Nota di coordinamento: le sezioni P2-11.Cap08 e P2-18-a toccano la stessa scena 
 - Proposta: «│    - Diritto di veto, check-in di salute, congedo e polizze key-man.   │»
 - Motivazione: coerenza con -c. La riga sostitutiva ha la stessa lunghezza (74 caratteri), quindi il riquadro ASCII resta allineato.
 - Rischi / impatti su altri capitoli: nessuno.
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
 
 ---
 
@@ -73,7 +73,7 @@ Nota di coordinamento: le sezioni P2-11.Cap08 e P2-18-a toccano la stessa scena 
 - Motivazione: sostituisce perdono e abbraccio con due gesti materiali (il foglio strappato, già presente a L192, e la telefonata per la visita fatta davanti ad Andrea) e lascia due residui espliciti indicati dal registro: il recesso non ancora ritirato e la visita medica in sospeso. Le scuse di L196 restano: sono un atto di responsabilità, non un perdono ricevuto. Ritmo e Deep POV invariati: frasi corte, gesti, nessun commento.
 - Alternativa (facoltativa): mantenere «Luca, perdonami» ma togliere l'afferrare le spalle e la foto rimessa sulla mensola, aggiungendo solo la battuta di Luca sul recesso.
 - Rischi / impatti su altri capitoli: presuppone P2-18-a (il rifiuto del pronto soccorso); se P2-18-a è respinta, sostituire la domanda «Al pronto soccorso non ci sei andato, vero?» con «Dal medico ci sei tornato?». Cap.09 L95 («Andrea e Luca si sono spaccati la salute…») resta coerente.
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
 
 ## P2-11.Cap08-b — L'accordo «definito punto per punto prima delle nove» (L218-220)
 
@@ -82,7 +82,7 @@ Nota di coordinamento: le sezioni P2-11.Cap08 e P2-18-a toccano la stessa scena 
 - Proposta: «Prima delle nove, su un foglio a quadretti, misero giù quattro punti: una bozza da girare all'avvocato e al commercialista, non un accordo firmato.»
 - Motivazione: l'elenco dei quattro punti (L222-225) resta, ma come proposta di lavoro; il recesso resta un tavolo aperto.
 - Rischi / impatti su altri capitoli: nessuno. Il punto 1 (mail congiunta ai sindaci, P2-18-b) resta compatibile: ritira la mail di Andrea, non il recesso di Luca.
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
 
 ## P2-11.Cap08-c — Chiusa: rigidità «scomparsa» e «ci siamo detti tutto» (L233-239)
 
@@ -94,7 +94,7 @@ Nota di coordinamento: le sezioni P2-11.Cap08 e P2-18-a toccano la stessa scena 
   - in coda alla riga 239, dopo «… mentre il vapore del caffè saliva dalle tazze calde.», aggiungere: «La scatola di cartone restò sul pavimento, accanto al cestino.»
 - Motivazione: residuo fisico (cappotto, scatola) e residuo pratico (la visita); la collaborazione sui faldoni resta come gesto materiale di ripresa, non come riconciliazione compiuta.
 - Rischi / impatti su altri capitoli: il ponte L317 («abbiamo salvato il patto fondativo») resta accettabile; l'autore può valutare «abbiamo rimesso in piedi il patto fondativo».
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
 
 ---
 
@@ -106,7 +106,7 @@ Nota di coordinamento: le sezioni P2-11.Cap08 e P2-18-a toccano la stessa scena 
 - Motivazione: parafrasi senza virgolette con rinvio bibliografico corretto (B19); conserva la funzione argomentativa del passo e il collegamento con Michotte (L127) e con la Mappa Minima.
 - Alternativa (facoltativa): aggiungere il rinvio diretto a Bloom: «(P. Bloom, *Descartes' Baby*, 2004)», se l'autore preferisce citare il libro anziché l'articolo; da verificare.
 - Rischi / impatti su altri capitoli: il protocollo (L292 «Michotte & Bloom») e la massima L307 («*Michotte & Bloom*») restano compatibili.
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
 
 ---
 
@@ -118,4 +118,4 @@ Nota di coordinamento: le sezioni P2-11.Cap08 e P2-18-a toccano la stessa scena 
 - Motivazione: attribuzioni standard, identiche a `CONTEXT.md` (sezione 1, voce «Carico Allostatico»); il rinvio a Feldman Barrett (2017, *How Emotions Are Made*, «bilancio corporeo») resta pertinente e coerente con Cap.03 L143.
 - Alternativa (facoltativa): mantenere «debito allostatico» come metafora narrativa ma correggere comunque la parentesi: «(*allostatic load*: McEwen & Stellar 1993; …)».
 - Rischi / impatti su altri capitoli: coerente con P3-22.Cap09 (file `PROPOSTE_CAP09.md`) e con P3-22.CONTEXT già implementata.
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA

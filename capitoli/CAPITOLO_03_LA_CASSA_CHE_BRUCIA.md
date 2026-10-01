@@ -217,13 +217,13 @@ Marangoni guardò la Bignami, poi annuì. «Con la firma digitale di Omnia come 
 
 Non ci fu nessun miracolo hollywoodiano: la liquidità non arrivò sul conto corrente quel martedì.
 
-Il 27 novembre Marco dovette riunire i suoi diciotto programmatori nell'open space: guardandoli negli occhi con trasparenza assoluta, spiegò che il fido era deliberato ma che l'erogazione materiale sarebbe avvenuta venerdì 28. Chiese a ciascuno di loro di accettare lo scaglionamento dello stipendio in due rate: il 50% quel giorno stesso (attraverso le ultime riserve di cassa) e il saldo il lunedì successivo. Diciotto mani si alzarono all'unisono in segno di fiducia. Nessuno si licenziò, nessun sindacato bloccò i tornelli, nessun server venne spento.
+Il 27 novembre Marco dovette riunire i suoi diciotto programmatori nell'open space: guardandoli negli occhi con trasparenza assoluta, spiegò che il fido era deliberato ma che l'erogazione materiale sarebbe avvenuta venerdì 28. Chiese a ciascuno di loro di accettare lo scaglionamento dello stipendio in due rate: il 50% quel giorno stesso (attraverso le ultime riserve di cassa) e il saldo il lunedì successivo. Le mani si alzarono a scatti, non insieme. Marco le contò come contava i test verdi della pipeline: quindici. Dal fondo, accanto al rack, il più anziano del backend parlò senza alzarsi. «Il primo mi parte la rata del mutuo, Marco. E "lunedì" me l'hanno già detto una volta, in un'altra azienda.» Altre due mani restarono giù, senza una parola, e pesarono di più. Quella sera, alle 21:40, partì un bonifico dal conto personale di Marco a quello di NexSys, causale *finanziamento soci*: la seconda metà dei tre stipendi, subito. Nessun server venne spento. Marco rimase a fissare la ricevuta più a lungo di quanto avesse fissato la mail della Bignami.
 
 Quando venerdì 28 alle 16:30 squillò il telefono e la Bignami confermò l'accredito dei trecentomila euro con valuta immediata, Marco era seduto al suo posto davanti al monitor a trentaquattro pollici.
 
 Il suo cuore batteva a ritmo normale. Lo stomaco non bruciava più.
 
-Non aveva smesso di essere un imprenditore consapevole che fare impresa significa camminare ogni giorno sull'orlo del baratro della liquidità. Aveva smesso, però, per il resto della sua vita professionale, di scambiare il panico biologico della propria immaginazione con la realtà dei fatti.
+Non aveva smesso di essere un imprenditore consapevole che fare impresa significa camminare ogni giorno sull'orlo del baratro della liquidità. Non aveva smesso nemmeno di avere paura: la fitta sarebbe tornata alla prossima mail del venerdì sera, puntuale come un cron job. Ma tra la fitta e il tasto di invio, adesso, c'era uno spazio di dieci secondi: il tempo di rileggere le parole scritte, non quelle immaginate, e di fare una domanda.
 
 ---
 

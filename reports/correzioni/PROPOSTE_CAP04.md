@@ -1,6 +1,6 @@
 # Proposte — Cap.04 «La promessa del commerciale e la macchina satura»
 
-Stato: PROPOSTA — IN ATTESA DI APPROVAZIONE DELL'AUTORE. Nessuna modifica applicata al testo.
+Stato: APPROVATA DALL'AUTORE — APPLICATA
 
 File: `capitoli/CAPITOLO_04_LA_PROMESSA_E_LA_MACCHINA.md` (righe attuali, branch `bonifica/06-proposte`).
 
@@ -23,7 +23,7 @@ POV: Silvano, Atto IV (martedì 2 dicembre, ore 10:30), Deep POV Grado 4. La per
 - Motivazione: è la modifica minima. Le scuse restano piene, ma Silvano non promette ciò che non può garantire. La secchezza («Non dovevo farlo.») è più nella sua voce (frasi corte, argomento rifugio: i dati).
 - Alternativa (facoltativa), con il residuo dichiarato: «Non dovevo farlo. Che io sia ancora arrabbiato è un altro discorso, e adesso non serve a nessuno.»
 - Rischi / impatti su altri capitoli: nessuno.
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
 
 ## P2-11.Cap04-b — Togliere «pacificato»: rabbia residua e rischio della riserva
 - Problema: «un ritmo antico, pacificato» chiude la scena in una quiete che i fatti non giustificano.
@@ -42,7 +42,7 @@ POV: Silvano, Atto IV (martedì 2 dicembre, ore 10:30), Deep POV Grado 4. La per
   - Cap.09 L125 («Silvano che ha rischiato l'infarto per coprire i ritardi dei tedeschi») è coerente con un rischio rimasto aperto.
   - Nessun capitolo successivo afferma l'esito della campionatura del 18/12. Questa proposta non lo decide.
   - Numeri Hydac invariati.
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
 
 ## P2-11.Cap04-c — Chiusa non definitiva: togliere «mai più» dalla diga
 - Problema: la frase finale chiude con una conversione totale: la rabbia trasformata «in una diga d'acciaio che nessun venditore avrebbe mai più potuto scavalcare». Il Feasibility Check è stato istituito da un'ora: è una regola di processo, non una garanzia eterna.
@@ -55,4 +55,4 @@ POV: Silvano, Atto IV (martedì 2 dicembre, ore 10:30), Deep POV Grado 4. La per
   - «Battere il pugno sul banco» riprende il titolo della prima scena («Il pugno sul banco di noce»).
 - Alternativa (facoltativa): «… Aveva provato, però, per una mattina, a non usarla per dare fuoco alla casa. La diga era firmata. Se avrebbe tenuto, lo avrebbe detto la prossima offerta di Fabio.»
 - Rischi / impatti su altri capitoli: nessuno sul piano dei fatti. Toolkit L64 (Silvano che «non insulta l'ufficio commerciale ma chiede…») resta coerente.
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA

@@ -1,6 +1,6 @@
 # Proposte — Cap.09 «Il cinismo di reparto e l'anestesia difensiva»
 
-Stato: PROPOSTA — IN ATTESA DI APPROVAZIONE DELL'AUTORE. Nessuna modifica applicata al testo.
+Stato: APPROVATA DALL'AUTORE — APPLICATA
 
 File: `capitoli/CAPITOLO_09_IL_CINISMO_DI_REPARTO.md` (righe verificate sul testo attuale, dopo le Fasi 4 e 5). Entrambe le voci cadono nella sezione teorica (Atto III, «L'anestetico omeostatico e il debito allostatico», L141-175): registro saggistico, nessun intervento sulle scene.
 
@@ -14,7 +14,7 @@ File: `capitoli/CAPITOLO_09_IL_CINISMO_DI_REPARTO.md` (righe verificate sul test
 - Motivazione: attribuzioni standard e identiche a `CONTEXT.md` (sezione 1) e alla proposta P3-22.Cap08; Damasio resta citato per ciò che gli è proprio (sentimenti come segnali omeostatici). Attenuata la chiusa neurofisiologica.
 - Alternativa (facoltativa): soluzione minima, senza ristrutturare il periodo: «La macchina biologica umana non può tollerare a lungo una condizione di **carico allostatico (*allostatic load*)** permanente (McEwen & Stellar, 1993): continuare a investire fiducia, speranza ed energia emotiva in un contesto sistematicamente sleale genera un costo metabolico devastante, che il corpo registra come minaccia e come dolore.» (elimina il richiamo a Damasio in questo punto).
 - Rischi / impatti su altri capitoli: il titoletto di L141 («L'anestetico omeostatico e il debito allostatico») può restare come metafora; se l'autore vuole uniformare, «… e il carico allostatico». La massima L309 («collasso allostatico») resta compatibile. Il protocollo L294 («Damasio & Lazarus») non è toccato. P3-22.CONTEXT è già implementata: questa proposta vi si allinea.
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
 
 ---
 
@@ -26,4 +26,4 @@ File: `capitoli/CAPITOLO_09_IL_CINISMO_DI_REPARTO.md` (righe verificate sul test
 - Motivazione: parafrasi senza virgolette con rinvio bibliografico (B19: R. S. Lazarus e S. Folkman, *Stress, Appraisal, and Coping*, 1984; S. M. Miller, 1980, studi su *monitoring* e *blunting*), senza pagine inventate. L'inciso «almeno nel breve periodo» prepara il paragrafo sul carattere auto-avverante del cinismo (L166), che resta invariato. La riga successiva (L162, «Il sarcasmo di Dario Meneghelli…») si aggancia senza modifiche.
 - Alternativa (facoltativa): conservare la citazione tra virgolette solo dopo verifica sull'edizione (con numero di pagina); in mancanza di verifica, la parafrasi è obbligatoria.
 - Rischi / impatti su altri capitoli: la Mappa Minima (L175, «Distanziamento cognitivo immediato (Lazarus & Folkman)») e la massima L309 restano compatibili: il distanziamento è una delle strategie di *coping* descritte dagli autori. La stessa voce padre riguarda Cap.05, Cap.07 e Cap.08 (trattate nei rispettivi file).
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA

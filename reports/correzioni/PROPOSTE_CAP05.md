@@ -1,6 +1,6 @@
 # Proposte — Cap.05 «La solitudine dell'accentratore e la trappola della prima delega»
 
-Stato: PROPOSTA — IN ATTESA DI APPROVAZIONE DELL'AUTORE. Nessuna modifica applicata al testo.
+Stato: APPROVATA DALL'AUTORE — APPLICATA
 
 File: `capitoli/CAPITOLO_05_LA_TRAPPOLA_DELLA_DELEGA.md` (righe attuali, branch `bonifica/06-proposte`).
 
@@ -34,7 +34,7 @@ Il passo è nell'Atto III (teoria, L142–188) e negli apparati (L276, L293): qu
 - Rischi / impatti su altri capitoli:
   - Lo stesso passo inglese (con la frase su vergogna e tradimento) è alla base di Cap.07 L128 (P2-19.Cap07). Conviene adottare la stessa forma di rinvio bibliografico nei due capitoli.
   - Il master `LIBRO_COMPLETO_…md` L1646 riporta la stessa citazione: andrà riallineato quando si rigenera il master. Non è oggetto di questa fase.
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
 
 ## P3-19.Cap05 — Pertinenza della voce C19 al Cap.05
 
@@ -52,7 +52,7 @@ Il libro estende il quadro omeostatico di Damasio al «ruolo professionale» e a
 - Proposta: «è una disfunzione sistemica innescata dalla collisione tra due dispositivi neurobiologici primari: la **difesa omeostatica del ruolo sociale**, un'estensione che questo libro ricava dal lavoro di **Antonio Damasio** sull'omeostasi, e la **neurocezione di pericolo** descritta da **Stephen W. Porges**, qui applicata alla perdita di controllo.»
 - Motivazione: distingue ciò che è degli autori (omeostasi, neurocezione) da ciò che è un'estensione del libro (ruolo sociale, perdita di controllo). Grado di certezza: alto.
 - Rischi / impatti su altri capitoli: nessuno.
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
 
 ### P3-19.Cap05-b — «Damasio dimostra che i circuiti … coincidono esattamente»
 - Problema: è una sovrapposizione presentata come identità, con un verbo, «dimostra», più forte delle fonti. Damasio sostiene che le situazioni psicologiche e sociali *accedono* ai meccanismi dell'omeostasi. Non afferma che i circuiti della sopravvivenza «coincidono esattamente» con quelli dello status e del «ruolo professionale», categoria che non usa. Il «ruolo professionale» è l'estensione del libro.
@@ -60,7 +60,7 @@ Il libro estende il quadro omeostatico di Damasio al «ruolo professionale» e a
 - Proposta: «Nelle sue opere — da *L'errore di Cartesio* (1994) a *Sentire e conoscere* (*Feeling & Knowing*, 2021) — Antonio Damasio sostiene che la regolazione della vita non dispone di un apparato separato per le faccende sociali: i meccanismi che valutano lo stato dell'organismo vengono reclutati, in parte, anche dalle situazioni psicologiche e sociali. Questo libro ne trae un'ipotesi di lavoro: lo status e il ruolo professionale possono attivare gli stessi allarmi corporei che segnalano un pericolo fisico.»
 - Motivazione: «sostiene» e «in parte» sostituiscono «dimostra» e «coincidono esattamente», secondo la formula prudente chiesta dal registro («circuiti in parte sovrapposti»). L'estensione al ruolo è dichiarata come ipotesi del libro. Il titolo italiano dell'edizione Adelphi è affiancato all'originale. La frase non termina più con i due punti, così da reggere la parafrasi di P2-19.Cap05. Grado di certezza: alto sulla correzione del verbo; medio-alto sulla sintesi della tesi di Damasio.
 - Rischi / impatti su altri capitoli: va applicata insieme a P2-19.Cap05 (vedi testo combinato).
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
 
 ### P3-19.Cap05-c — «codificati a livello dell'insula e della corteccia prefrontale ventromediana come indicatori primari di sopravvivenza biologica»
 - Problema: è una localizzazione neuroanatomica presentata come dato acquisito («sono codificati»), senza fonte e attribuita implicitamente a Damasio. Insula e corteccia prefrontale ventromediana hanno un ruolo nella rappresentazione degli stati corporei e nei marcatori somatici (Damasio 1994; Bechara e Damasio). Non esiste però un risultato che mostri che «controllo», «primato tecnico» e «reputazione» vi siano codificati «come indicatori primari di sopravvivenza biologica».
@@ -70,7 +70,7 @@ Il libro estende il quadro omeostatico di Damasio al «ruolo professionale» e a
 - Rischi / impatti su altri capitoli:
   - L154 («minaccia mortale alla sopravvivenza del Sé nel ruolo (*role survival threat*)») e L177 («*role survival threat*») usano un'etichetta inglese che sembra un termine tecnico della letteratura, mentre è del libro. Si suggerisce di togliere il corsivo inglese o di segnalarlo come etichetta propria, per esempio «(quella che qui chiamiamo minaccia al ruolo)». Non è proposto come obbligatorio.
   - L'Epilogo (Toolkit L431) e P3-19.Toolkit hanno un problema analogo di attribuzione a Damasio, da trattare nel rispettivo file.
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
 
 ### P3-19.Cap05-d — Massima: «Il cervello confonde la sopravvivenza biologica con la sopravvivenza nel ruolo (*Damasio*)»
 - Problema: la massima attribuisce a Damasio, con l'autore tra parentesi, l'estensione al ruolo. Afferma inoltre come fatto che i «circuiti prefrontali» decodificano l'errore del delegato come «minaccia mortale».
@@ -78,7 +78,7 @@ Il libro estende il quadro omeostatico di Damasio al «ruolo professionale» e a
 - Proposta: «* **Il corpo può trattare una minaccia al ruolo come una minaccia alla sopravvivenza (estensione da *Damasio*).** L'errore del delegato può essere vissuto come un pericolo grave per il proprio status e la propria autorevolezza, e scatenare reazioni somatiche difensive sproporzionate.»
 - Motivazione: «può» sostituisce «confonde», «estensione da» sostituisce l'attribuzione diretta, e cade la localizzazione «circuiti prefrontali». Il contenuto operativo della massima resta invariato. Grado di certezza: alto.
 - Rischi / impatti su altri capitoli: nessuno.
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
 
 ### P3-19.Cap05-e — (facoltativa) Intestazione del passaggio 3 del protocollo
 - Problema: è la stessa attribuzione diretta, nell'intestazione del protocollo operativo.
@@ -86,7 +86,7 @@ Il libro estende il quadro omeostatico di Damasio al «ruolo professionale» e a
 - Proposta: «3. **SIGNIFICATO ATTRIBUITO (La minaccia al ruolo - estensione da Damasio):**»
 - Motivazione: è la stessa formula di -a e -d, per coerenza interna.
 - Rischi / impatti su altri capitoli: nessuno.
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
 
 ---
 

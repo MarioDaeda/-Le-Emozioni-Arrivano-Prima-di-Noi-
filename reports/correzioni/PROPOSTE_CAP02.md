@@ -1,6 +1,6 @@
 # Proposte — Cap.02 «Il sollievo fittizio e il costo dell'evitamento»
 
-Stato: PROPOSTA — IN ATTESA DI APPROVAZIONE DELL'AUTORE. Nessuna modifica applicata al testo.
+Stato: APPROVATA DALL'AUTORE — APPLICATA
 
 File: `capitoli/CAPITOLO_02_IL_SOLLIEVO_FITTIZIO.md` (righe attuali, branch `bonifica/06-proposte`).
 
@@ -33,7 +33,7 @@ Nota specialistica generale (B17): i riferimenti normativi qui sotto sono quelli
   - **Cap.09 L274**: a marzo Davide lavora ancora in O.M.P. La Proposta è compatibile, perché la decisione sul contratto può essere una proroga o una trasformazione. Non contraddice nessun capitolo successivo.
   - **Apparati Cap.02 L275** («patto chiaro»): coerenti, nessuna modifica.
   - Le sezioni -b, -c, -d dipendono dalla scelta Proposta/Alternativa.
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
 
 ## P2-17-b — Orario dell'incontro di lunedì (Sara)
 - Problema: con il patto sul turno delle 14 (P2-17-a, Proposta), l'appuntamento di lunedì alle 07:30 obbliga Davide a presentarsi a un'ora in cui di regola accompagna il padre (L32).
@@ -41,7 +41,7 @@ Nota specialistica generale (B17): i riferimenti normativi qui sotto sono quelli
 - Proposta: «Lunedì all'una e mezza, prima del suo turno, Davide sarà qui,» disse Sara. «Non nel mio ufficio. Qui, davanti a questa macchina.»
 - Motivazione: è un orario compatibile con turno e oncologia. Resta il gesto chiave della scena: la macchina, non l'ufficio.
 - Rischi / impatti su altri capitoli: da applicare solo se si approva la Proposta di P2-17-a. Con l'Alternativa si lascia invariato.
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
 
 ## P2-17-c — Orario dell'incontro di lunedì (Marta)
 - Problema: è la stessa incoerenza di P2-17-b, nella battuta di risposta di Marta.
@@ -49,7 +49,7 @@ Nota specialistica generale (B17): i riferimenti normativi qui sotto sono quelli
 - Proposta: «L'indennità non mi interessa,» disse alla fine, anche se la piega amara sulla bocca si era addolcita. «Mi interessa non dover fare il lavoro degli altri di nascosto. Lunedì all'una e mezza sarò qui con gli strumenti azzerati.»
 - Motivazione: allinea la battuta a P2-17-b.
 - Rischi / impatti su altri capitoli: nessuno, oltre la dipendenza da P2-17-a.
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
 
 ## P2-17-d — (facoltativa) «Lunedì mattina … prima dell'inizio del turno» nel colloquio del venerdì
 - Problema: nell'Atto I Sara convoca Davide «lunedì mattina … dieci minuti prima dell'inizio del turno», ma il suo turno inizia alle 14 (L32). Si può leggere come un'altra svista di Sara nel momento del sollievo, ma è meglio renderla non ambigua.
@@ -57,4 +57,4 @@ Nota specialistica generale (B17): i riferimenti normativi qui sotto sono quelli
 - Proposta: «Lunedì vieni da me dieci minuti prima dell'inizio del turno e vediamo come riorganizzare i passaggi senza farti affondare.»
 - Motivazione: è il taglio minimo di «mattina». La convocazione diventa coerente con il turno delle 14 e con la nuova ora di P2-17-b (13:30, cioè prima del turno).
 - Rischi / impatti su altri capitoli: L76 («se ne parlava lunedì») resta coerente.
-- Decisione dell'autore: [ ] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA
+- Decisione dell'autore: [x] APPROVATA  [ ] APPROVATA CON MODIFICHE  [ ] RESPINTA

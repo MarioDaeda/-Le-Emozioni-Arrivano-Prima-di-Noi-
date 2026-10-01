@@ -9,7 +9,7 @@ Alle 07:14 di lunedì 1° dicembre, Silvano Spinelli chiuse a chiave lo sportell
 
 Aveva cinquantotto anni, le spalle larghe leggermente incurvate da quarant'anni di mestiere, trentaquattro in O.M.P., trascorsi tra torni paralleli e centri di lavoro multiasse, e due dita della mano sinistra segnate dalle cicatrici bianche di una fresa a tazza saltata nel 1997. Per tutti, in fabbrica, Silvano era la memoria biologica dell'officina: l'unico uomo capace di capire se un cuscinetto idrostatico stava cedendo semplicemente appoggiando il manico di un cacciavite da elettrauto contro il basamento di ghisa e accostando l'orecchio all'impugnatura di plastica.
 
-Entrò nella navata principale del capannone. Il capannone non era climatizzato, e d'inverno la temperatura scendeva verso i dieci gradi: solo la sala metrologica in fondo alla navata era stabilizzata a venti gradi centigradi esatti, perché le escursioni termiche non dilatassero l'acciaio e l'alluminio oltre le tolleranze di progetto durante le misure. Quarantaquattro macchine utensili collegate in anello ottico. Ventidue centri Mori Seiki a cinque assi, dodici torni motorizzati a fantina mobile e dieci rettifiche tangenziali. Sull'isola 4, Marta e Davide stavano già caricando i grezzi del secondo turno della commessa Kuka: la cooperazione concordata con Sara due settimane prima reggeva ancora, ma con il gioco di un foglio di carta velina.
+Entrò nella navata principale del capannone. Il capannone non era climatizzato, e d'inverno la temperatura scendeva verso i dieci gradi: solo la sala metrologica in fondo alla navata era stabilizzata a venti gradi centigradi esatti, perché le escursioni termiche non dilatassero l'acciaio e l'alluminio oltre le tolleranze di progetto durante le misure. Quarantaquattro macchine utensili collegate in anello ottico. Ventidue centri Mori Seiki a cinque assi, dodici torni motorizzati a fantina mobile e dieci rettifiche tangenziali. Sull'isola 4 Marta stava già preparando i grezzi che Davide avrebbe collaudato con lei nel pomeriggio: la cooperazione concordata con Sara due settimane prima reggeva ancora, ma con il gioco di un foglio di carta velina.
 
 Silvano salì la scaletta di ferro che portava al suo "box": un gabbiotto rettangolare con pareti in alluminio e doppi vetri blindati, sollevato di un metro e mezzo sopra il piano della fabbrica. Da lì dentro dominava l'intero reparto.
 
@@ -235,7 +235,7 @@ Il sangue pulsò alle orecchie di Silvano. Il vecchio impulso a urlare *«Dipend
 
 Trattenne il fiato per tre secondi. Espirò lentamente attraverso il naso, appoggiò gli avambracci sul piano di legno, guardò Fabio dritto negli occhi e, invece di replicare all'accusa di insubordinazione, fece una domanda sola, pulita, senza sarcasmo, tagliente come una fresa al diamante:
 
-«Fabio, ieri ho sbagliato i modi e ti chiedo scusa davanti a tutti per aver alzato la voce e aver buttato i fogli. Non dovevo farlo e non succederà mai più. Ma adesso lasciamo da parte me e te per cinque minuti e guardiamo questo pezzo di carta. **Quando venerdì scorso a Francoforte hai negoziato con la direzione acquisti di Hydac la data del 19 dicembre, quali erano i margini di flessibilità sui lotti parziali e sui tempi di collaudo che il cliente era disposto ad accettare prima che tu firmassi la clausola di penale fissa?**»
+«Fabio, ieri ho sbagliato i modi e ti chiedo scusa davanti a tutti per aver alzato la voce e aver buttato i fogli. Non dovevo farlo. Ma adesso lasciamo da parte me e te per cinque minuti e guardiamo questo pezzo di carta. **Quando venerdì scorso a Francoforte hai negoziato con la direzione acquisti di Hydac la data del 19 dicembre, quali erano i margini di flessibilità sui lotti parziali e sui tempi di collaudo che il cliente era disposto ad accettare prima che tu firmassi la clausola di penale fissa?**»
 
 La domanda piombò sul tavolo con il peso del piombo.
 
@@ -288,9 +288,9 @@ Silvano guardò la mano del commerciale. Esitò un battito di ciglia, poi strins
 
 Non si abbracciarono, non divennero amici per la pelle e non cancellarono le differenze abissali tra i loro mondi. Fabio continuava a essere un venditore spinto dai numeri di bilancio; Silvano continuava a essere un custode geloso e ruvido dei confini d'officina.
 
-Ma mentre scendeva la scaletta di ferro per tornare al suo gabbiotto, il cuore batteva con un ritmo antico, pacificato.
+Ma mentre risaliva la scaletta di ferro verso il gabbiotto, il cuore non aveva ritrovato il suo passo. Batteva pesante, a colpi lenti, e un fondo acido gli risaliva l'esofago ogni volta che rivedeva la stilografica di Fabio sopra la clausola di penale. Sul monitor lo aspettava il Gantt: trentaquattro ore di riserva, trentatré e venti già impegnate sulla carta. Quaranta minuti. Un inserto che si spezza, una fluttuazione sulla rete, un fermo sull'isola 3 o sulla 4, e la campionatura saltava. E alle due Fabio doveva ancora chiamare Stoccarda.
 
-Non aveva smesso di essere un uomo capace di infiammarsi per la giustizia del proprio lavoro. Aveva smesso, però, di usare la propria rabbia per dare fuoco alla casa, trasformandola in una diga d'acciaio che nessun venditore avrebbe mai più potuto scavalcare.
+Non aveva smesso di essere un uomo capace di infiammarsi per la giustizia del proprio lavoro, e la rabbia non se n'era andata: stava lì, sotto lo sterno, calda come un cuscinetto che ha girato tutta la notte. Stamattina, però, l'aveva messa sul tavolo in ore mandrino invece che in urla. Il Feasibility Check era una diga, sì. Di carta e di token, per ora: avrebbe tenuto finché qualcuno, dal gabbiotto, avesse avuto il fiato di fare una domanda invece di battere il pugno sul banco.
 
 ---
 
