@@ -210,7 +210,7 @@ Moretti si sporse in avanti sui gomiti, la faccia protesa oltre il bordo del tav
 
 Marta non batté ciglio. Sul bordo del ripiano dell'iPad, le dita di Moretti tremavano; sul bordo della palpebra sinistra scattava una contrazione involontaria, a scatti ritmici; sotto il piano della scrivania, la suola della scarpa destra riprese a battere contro la gamba metallica della poltroncina.
 
-La fitta somatica di venerdì sera rimase lì, una cicatrice fredda ancorata al tessuto retro-sternale, ma il veleno dell'amarezza era svanito. Il nemico non era Moretti: era l'illusione infantile che l'azienda vivesse di riconoscenza morale.
+La fitta di venerdì sera era ancora lì, sotto lo sterno, fredda come l'incudine di un micrometro, ma non tirava più. Moretti non c'entrava: era uno che non sapeva che rumore fa un mandrino quando l'utensile perde il filo. Il brindisi, le due pacche sulla clavicola, «una promozione morale»: fumo di ciminiera quando gira il vento. Quello che contava stava su un foglio, con una firma sotto.
 
 «Se vuoi che l'officina tagli il metallo, Gianluca, dobbiamo mettere per iscritto il patto su basi industriali.» Marta appoggiò entrambi i palmi sul piano laminato e spostò il baricentro verso Sara. «Io non farò il cane da guardia delle macchine per il vecchio stipendio mentre tu ti prendi il titolo da direttore. Le mie condizioni per salire sull'isola 4 prima delle nove sono tre, e non sono negoziabili:
 1. **Inquadramento formale a Livello Quadro:** nomina a Master Technical Specialist & Responsabile Metrologico di Filiera, con adeguamento retributivo del ventotto per cento per l'indennità di perimetro metrologico e funzione quadro legata alla responsabilità civile sulle tolleranze di fornitura;
