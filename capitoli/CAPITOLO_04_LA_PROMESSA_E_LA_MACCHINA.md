@@ -339,22 +339,3 @@ Perché un imprenditore straordinario, capace di creare dal nulla una realtà di
 Quale minaccia identitaria scatta nelle viscere dell'accentratore davanti al rischio dell'imperfezione altrui?
 
 Il Capitolo 5 affronta la crisi più solitaria della piccola e media impresa: **La solitudine dell'accentratore e la trappola della prima delega**.
-
----
-
-### 4. Note di Lavorazione e Registro di Continuità
-
-##### Verifiche Scientifiche e Fonti
-* **Richard S. Lazarus (1991):** Rigorosa applicazione della formula del *Core Relational Theme* della rabbia (*A demeaning offense against me and mine*) e della necessaria componente di *Blame* con controllo volontario attribuito (*imputed control*, pp. 222–226).
-* **James J. Gross (2014, 2015):** Modello esteso di regolazione emotiva; canalizzazione della spinta neurovegetativa simpatica da reattività punitiva cieca ad assertività negoziale di processo.
-* **Daniel Kahneman (2011):** Teoria del *punitive sentiment* del Sistema 1 e cecità ai costi differiti negli scambi economici (richiamo al Gioco dell'Ultimatum).
-
-##### Marcatori di Continuità e Intreccio di Filiera
-* **Codice Scena:** `SC-C4-01` (Gabbiotto Silvano / Lite con Fabio), `SC-C4-02` (Cucina Silvano e Luisa / Telecamera), `SC-C4-03` (Sala riunioni O.M.P. / Sara, Elena, Fabio e Silvano).
-* **Debiti di Filiera Intrecciati:**
-  - La commessa Hydac da 140.000 euro compensa parzialmente il trauma della revoca del committente Apex (ADR 0001);
-  - L'isola 4 menzionata all'inizio del capitolo mostra Marta e Davide che lavorano con disciplina al lotto Kuka, dimostrando la tenuta del patto di riqualificazione stabilito da Sara nel Capitolo 2;
-  - L'introduzione del *Feasibility Check vincolante* tra commerciale e officina rappresenta il presidio organizzativo che Elena utilizzerà come modello per la governance distrettuale.
-
-##### Scostamenti Narrativi Motivati
-* L'ambientazione dello scontro nel box vetrato rialzato di Silvano («il gabbiotto») e l'uso materiale del diagramma di Gantt dell'APS saturo al 98,39% garantiscono un ancoraggio materiale insuperabile alla realtà viva delle lavorazioni meccaniche d'alta precisione, bandendo ogni residuo di astrazione psicologizzante.

@@ -271,23 +271,3 @@ Cosa succede quando la promessa contrattuale firmata dal Direttore Commerciale p
 Quale logica biologica governa l'incendio della rabbia tra colleghi che dovrebbero cooperare per lo stesso obiettivo?
 
 Il Capitolo 4 entra nel cuore del conflitto di produzione: **La promessa del commerciale e la macchina satura**.
-
----
-
-### 4. Note di Lavorazione e Registro di Continuità
-
-##### Verifiche Scientifiche e Fonti
-* **Joseph LeDoux (1996, 2015):** Applicazione della duplice via di elaborazione della minaccia (subcorticale vs corticale) e separazione epistemica tra *circuito di sopravvivenza difensiva* ed esperienza soggettiva di paura.
-* **Lisa Feldman Barrett (2017):** Il concetto di *simulazione predittiva*, *body-budgeting* (allostasi) e soppressione degli errori di predizione in stati di esaurimento psicofisico.
-* **Antonio Damasio (1994, 2021):** Il marcatore somatico del "come se" (*as-if body loop*) generato dalle simulazioni prefrontali proiettate sull'insula e sulle mappe corporee.
-* **Paul Slovic & Daniel Kahneman (2011):** Sostituzione della domanda complessa e dominanza dell'euristica dell'affetto nell'analisi del rischio bancario.
-
-##### Marcatori di Continuità e Intreccio di Filiera
-* **Codice Scena:** `SC-C3-01` (Open space NexSys / Mail 18:47), `SC-C3-02` (Salotto di Marco / Bozza diffida), `SC-C3-03` (Parco dell'Adige / Giulia e la telecamera), `SC-C3-04` (Sede Banca Popolare / Sala Verde).
-* **Debiti di Filiera Intrecciati:**
-  - Il salvataggio del credito ponte da 300k€ di Marco è reso possibile dall'intervento di Andrea (Omnia Servizi, Cap. 1) come capofila garante di rete;
-  - L'errore del software MES sull'isola 4 di O.M.P. Precision (citato da Marco come fonte di terrore) è l'evento reale scaturito nel Capitolo 2 dalle omissioni di Davide e tamponato da Marta;
-  - La tenuta di NexSys prepara il tavolo dell'Audit plenario di Elena e apre la strada allo scontro tra commerciale e officina nel Capitolo 4.
-
-##### Scostamenti Narrativi Motivati
-* Rispetto alla traccia preliminare, la compagna di Marco viene battezzata **Giulia**, ricercatrice universitaria di biochimica, dotandola di un rigore epistemico e di una lucidità sperimentale che rendono l'esperimento della telecamera nel Parco dell'Adige una sequenza di straordinaria intensità drammatica e pedagogica, priva di qualsiasi sdolcinatura consolatoria.

@@ -331,20 +331,3 @@ Ora il viaggio narrativo ed epistemologico si compie, condensando l'intero impia
 Come può un imprenditore, un dirigente, un quadro tecnico o un delegato d'officina applicare queste scoperte neuroscientifiche nel mezzo del conflitto quotidiano, quando il battito sale a centoquaranta, la mascella si serra e restano solo centottanta secondi prima che un'incomprensione distrugga un legame di vent'anni?
 
 L'opera si chiude con il suo arsenale più operativo: l'**Epilogo e Toolkit Operativo di De-escalation**.
-
----
-
-### 4. Note di Lavorazione e Registro di Continuità
-
-#### Verifiche Scientifiche e Fonti Primarie
-* **James W. Dean, Pamela Brandes, & Ravi Dharwadkar (1998):** *Organizational Cynicism*, Academy of Management Review. Formalizzazione della natura tridimensionale del cinismo d'impresa (convinzione di mancanza di integrità, affetto negativo, comportamenti denigratori) e analisi del gap tra discorsi ufficiali e condotte materiali.
-* **Denise M. Rousseau (1995):** *Psychological Contracts in Organizations: Understanding Written and Unwritten Agreements*, SAGE Publications. Analisi della rottura del contratto psicologico come innesco del disingaggio operaio.
-* **Richard S. Lazarus & Susan Folkman (1984):** *Stress, Appraisal, and Coping*, Springer. Modelli di coping in condizioni incontrollabili; il distanziamento cognitivo ed emotivo palliativo (Miller 1980) per la riduzione dell'arousal nocivo (pp. 135–138).
-* **Antonio Damasio (2021):** *Feeling & Knowing: Making Minds Conscious*, Pantheon. La dinamica dell'omeostasi e il debito allostatico applicati alle patologie delle comunità umane.
-
-#### Marcatori di Continuità e Intreccio di Filiera
-* **Codici Scena:** `SC-C9-01` (Mensa aziendale O.M.P. / Convention e battuta di Dario Meneghelli), `SC-C9-02` (Cortile ferroviario / Sara, Dario ed Elena tra i fusti d'olio), `SC-C9-03` (Sala CdA spoglia / Il Patto di Trasparenza in quattro pilastri).
-* **Chiusura dei Fili Corali dell'Opera:**
-  - Si saldano definitivamente le vicende di tutti i protagonisti della rete: Andrea e Luca (Omnia), Sara, Marta, Silvano e Dario (O.M.P.), Marco (NexSys), Claudio (LogiDistretto) ed Elena (Studio & Governance);
-  - Il riconoscimento del debito pregresso di € 2.600 compensa il sacrificio notturno che aveva salvato le consegne Kuka nel Capitolo 2 e assorbe la tensione del titanio Hydac del Capitolo 4;
-  - L'Accademia Tecnica di Marta Bellamoli e i giovani periti (Davide ed Enrico) trovano un reparto liberato dal veleno del sarcasmo distruttivo, consentendo il ricambio generazionale a due micron di tolleranza.
