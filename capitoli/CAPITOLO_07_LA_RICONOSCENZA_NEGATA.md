@@ -4,11 +4,11 @@
 
 Alle 16:42 di venerdì 23 gennaio, l'odore di prosecco millesimato e tartine al salmone affumicato ristagnava nella sala conferenze principale della palazzina direzionale di O.M.P. Precision.
 
-I tavoli da riunione in noce canaletto erano stati spinti contro le pareti per fare spazio al buffet di inizio anno; un cameriere in livrea nera riempiva flûte di cristallo su un carrello d'acciaio satinato. C'erano tutti: i trentadue quadri intermedi del comprensorio, i periti dell'ufficio tecnico, i soci fondatori, Sara delle risorse umane, Silvano del reparto macchine e i delegati commerciali con i cartellini lucidi appesi al bavero. Sulla parete di fondo, il proiettore a soffitto rimandava contro un telo di quattro metri la nuova slide aziendale approvata dal consiglio d'amministrazione: `ORGANIGRAMMA OPERATIVO O.M.P. 2027 — IL NUOVO ASSETTO DI FILIERA`.
+I tavoli da riunione in noce canaletto erano stati spinti contro le pareti per fare spazio al buffet di inizio anno; un cameriere in livrea nera riempiva flûte di cristallo su un carrello d'acciaio satinato. C'erano tutti: i trentadue quadri intermedi del comprensorio, i periti dell'ufficio tecnico, i soci fondatori, Sara delle risorse umane, Silvano del reparto macchine e i delegati commerciali con i cartellini lucidi appesi al bavero. Sulla parete di fondo, il proiettore a soffitto rimandava contro un telo di quattro metri la nuova slide aziendale approvata dal consiglio d'amministrazione: `ORGANIGRAMMA OPERATIVO O.M.P. — IL NUOVO ASSETTO DI FILIERA`.
 
-Marta Bellamoli era in piedi vicino alla porta d'uscita, a sei metri dal buffet. Teneva le mani giunte davanti a sé, le dita ruvide e segnate da anni di grafite intrecciate sopra la sua camicia di cotone grigio da lavoro, pulita ma priva di vezzi. Aveva quarantotto anni, ventidue dei quali trascorsi dentro quel capannone. Aveva iniziato nel 2004 su una fresatrice manuale tradizionale; aveva attraversato la crescita dell'azienda da dieci a centoventi dipendenti; aveva trascorso sabati e domeniche invernali a calibrare a mano le guide prismatiche dei nuovi centri Mori Seiki; aveva salvato la fornitura urgente delle boccole per Kuka lavorando tre notti consecutive a dieci gradi nel capannone buio per azzerare i giochi termici e raddrizzare le quote sballate dal giovane Davide con la tenacia paziente della maestra di bottega.
+Marta Bellamoli era in piedi vicino alla porta d'uscita, a sei metri dal buffet. Teneva le mani giunte davanti a sé, le dita ruvide e segnate da anni di grafite intrecciate sopra la sua camicia di cotone grigio da lavoro, pulita ma priva di vezzi. Aveva quarantotto anni, ventidue dei quali trascorsi dentro quel capannone. Aveva iniziato nel 2004 su una fresatrice manuale tradizionale; aveva attraversato la crescita dell'azienda da dieci a centoventi dipendenti; aveva trascorso sabati e domeniche invernali a calibrare a mano le guide prismatiche dei nuovi centri Mori Seiki; aveva salvato la fornitura urgente delle boccole per Kuka lavorando una notte intera a dieci gradi nel capannone buio per azzerare i giochi termici e raddrizzare le quote sballate dal giovane Davide con la tenacia paziente della maestra di bottega.
 
-Con il pensionamento di Silvano, programmato per la primavera successiva dopo quarant'anni di officina, la successione naturale era una sola. Per tre anni, l'amministratore delegato e i soci di maggioranza le avevano ripetuto a mezza voce, a ogni consegna notturna, a ogni collaudo a zero scarti: *«Tieni duro, Marta, che tra poco la fabbrica la prendi in mano tu»*.
+Con il pensionamento di Silvano, programmato per la primavera successiva dopo quarant'anni di mestiere, trentaquattro in O.M.P., la successione naturale era una sola. Per tre anni, l'amministratore delegato e i soci di maggioranza le avevano ripetuto a mezza voce, a ogni consegna notturna, a ogni collaudo a zero scarti: *«Tieni duro, Marta, che tra poco la fabbrica la prendi in mano tu»*.
 
 Al centro dell'organigramma proiettato sul telo bianco, sotto il rettangolo della Direzione Generale, non c'era il suo nome. C'era una casella blu bordata d'oro con una dicitura in caratteri maiuscoli:
 
@@ -71,25 +71,25 @@ Lasciò lo sportello metallico spalancato a novanta gradi, con il tesserino magn
 
 Non salutò nessuno. Non passò dalla timbratrice all'ingresso.
 
-Uscì dal cancello carraio mentre una pioggia gelida e fitta cadeva di traverso sulla zona industriale di San Michele Extra, schiaffeggiando il parabrezza della sua utilitaria. Il motore si avviò con un sussulto sordo; Marta ingranò la prima marcia senza voltarsi indietro verso le insegne luminose di O.M.P. Precision riflesse nell'asfalto bagnato. L'officina se la facesse girare il dottor Moretti con le sue formule e le sue presentazioni a colori. Lunedì mattina quel cancello non lo avrebbe varcato. Il filo si era spezzato per sempre.
+Uscì dal cancello carraio mentre una pioggia gelida e fitta cadeva di traverso sulla zona industriale a nord di Cesena, schiaffeggiando il parabrezza della sua utilitaria. Il motore si avviò con un sussulto sordo; Marta ingranò la prima marcia senza voltarsi indietro verso le insegne luminose di O.M.P. Precision riflesse nell'asfalto bagnato. L'officina se la facesse girare il dottor Moretti con le sue formule e le sue presentazioni a colori. Lunedì mattina quel cancello non lo avrebbe varcato. Il filo si era spezzato per sempre.
 
 ---
 
-## La nebbia del Camuzzoni
+## La nebbia della Darsena
 
 Sabato pomeriggio, ore 15:20.
 
-L'argine sterrato del canale Camuzzoni, a valle della chiusa di Chievo e a ridosso dei bastioni di Verona sud, era una striscia di fango grigio battuta dal vento umido della pianura. L'acqua scura, profonda e pesante, scorreva a filo di sponda con un ronzio sordo, incanalata tra le sponde di cemento verso le turbine della centrale idroelettrica di Tombetta. I tronchi nudi dei platani sparivano a mezz'altezza dentro un banco di nebbia densa che cancellava le ciminiere delle acciaierie e i binari dello scalo merci.
+La banchina sterrata della vecchia Darsena, dove il Canale Candiano entra in città, era una striscia di fango grigio battuta dal vento umido che saliva dal mare. L'acqua scura, profonda e pesante, ristagnava a filo di sponda tra i muraglioni di cemento, sotto i silos vuoti dei vecchi stabilimenti. I tronchi nudi dei platani sparivano a mezz'altezza dentro un banco di nebbia densa che cancellava le ciminiere della zona portuale e i binari dello scalo merci.
 
-Su una vecchia panchina in blocchi di pietra calcarea e sostegni di ghisa arrugginita, Marta sedeva rannicchiata dentro un giaccone impermeabile verde muschio, il cappuccio calato fino alle sopracciglia e le mani affondate nelle tasche. L'umidità della pietra calcarea penetrava attraverso il panno pesante dei pantaloni da lavoro. Nel canale Camuzzoni, la corrente torbida trascinava rami marciti e scorie di canne verso le griglie d'acciaio della centrale.
+Su una vecchia panchina in blocchi di pietra calcarea e sostegni di ghisa arrugginita, Marta sedeva rannicchiata dentro un giaccone impermeabile verde muschio, il cappuccio calato fino alle sopracciglia e le mani affondate nelle tasche. L'umidità della pietra calcarea penetrava attraverso il panno pesante dei pantaloni da lavoro. Nella Darsena, l'acqua immobile trascinava appena, col respiro della marea, rami marciti e scorie di canne contro i pali della banchina.
 
-Accanto a lei, dritto sul sedile di pietra, c'era suo padre Gianni. Settantaquattro anni, un berretto di lana blu scuro calcato sul cranio rasato e un vecchio cappotto da ferroviere con i bottoni metallici d'ordinanza chiusi fino alla gola. Le dita delle sue mani, posate sulle ginocchia, avevano le nocche deformate dall'artrite reumatoide; la pelle delle palme era una mappa di cicatrici biancastre scavate da decenni di trucioli incandescenti; le lunette delle unghie conservavano un orlo nero, indelebile, di grafite e olio minerale penetrato nei pori durante trentasette anni di tornio parallelo alle Officine di Porta Vescovo. Da sotto i baffi ingialliti dal tabacco saliva a intervalli regolari una tosse secca, cavernosa, intrisa di polveri d'officina, che si scioglieva in sbuffi di vapore bianco nell'aria a zero gradi.
+Accanto a lei, dritto sul sedile di pietra, c'era suo padre Gianni. Settantaquattro anni, un berretto di lana blu scuro calcato sul cranio rasato e un vecchio cappotto da ferroviere con i bottoni metallici d'ordinanza chiusi fino alla gola. Le dita delle sue mani, posate sulle ginocchia, avevano le nocche deformate dall'artrite reumatoide; la pelle delle palme era una mappa di cicatrici biancastre scavate da decenni di trucioli incandescenti; le lunette delle unghie conservavano un orlo nero, indelebile, di grafite e olio minerale penetrato nei pori durante trentasette anni di tornio parallelo alle officine dello scalo ferroviario. Da sotto i baffi ingialliti dal tabacco saliva a intervalli regolari una tosse secca, cavernosa, intrisa di polveri d'officina, che si scioglieva in sbuffi di vapore bianco nell'aria a zero gradi.
 
 Marta piangeva senza fare rumore. Le lacrime le colavano lungo i solchi tra il naso e le labbra, scivolando sul bavero cerato senza che muovesse una mano per asciugarle.
 
 «Mi hanno buttata via come una scarpa rotta, papà.» La voce di Marta usciva raschiata, spogliata di ogni sicurezza. «Ventidue anni di vita dentro quel buco. I sabati a smontare le teste di fresatura per far partire i lotti del lunedì, il Natale di tre anni fa passato a raschiare a mano la tavola dell'isola 2 per non pagare la penale ai tedeschi... e hanno preso un ragazzino di Modena che parla inglese per metterlo sopra di me. 'Promozione morale', mi ha detto in faccia l'amministratore col bicchiere in mano! Mi hanno dato due pacche sulla spalla come si fa con i cani vecchi prima di portarli dal veterinario... Si arrangino a fare il titanio per la Germania con le formule del Politecnico! Voglio vedere come fanno senza di me quando le frese cominciano a vibrare!»
 
-Gianni rimase immobile. Il respiro del vecchio usciva denso nell'aria a zero gradi. Nel gorgo del canale, un tronco d'acacia ruotava prima di inabissarsi contro le paratoie.
+Gianni rimase immobile. Il respiro del vecchio usciva denso nell'aria a zero gradi. Nell'acqua ferma del canale, un tronco d'acacia ruotava piano prima di arenarsi contro i pali della banchina.
 
 Poi sollevò la mano destra, pesante come una morsa da banco, e afferrò il polso di Marta sopra il tessuto cerato della manica, stringendolo con una pressione decisa che non ammetteva cedimenti.
 
@@ -105,13 +105,13 @@ La tosse strappò a Gianni un rantolo roco prima che riprendesse: «Dico che sta
 
 «Me lo avevano promesso a voce dieci volte!» Le nocche di Marta sbiancarono contro la pietra umida della panchina; la voce si ruppe in un singhiozzo soffocato. «Mi hanno usata finché gli servivo e poi mi hanno calpestata!»
 
-L'indice calloso di Gianni puntò verso la sagoma scura delle turbine oltre l'acqua torbida: «Le parole nel vento dei padroni valgono quanto il fumo della centrale di Tombetta quando gira il vento. Tu hai scambiato il tuo sangue per un debito d'onore. Ma l'azienda è una macchina economica, Marta, non è tua madre. L'azienda compra ore di lavoro e vende pezzi al centesimo. E adesso che hai scoperto che il tuo credito morale non vale una riga di contratto, cosa vuoi fare? Vuoi fare il sabotaggio passivo? Vuoi startene a casa a guardare il soffitto mentre le frese sbattono per goderti il disastro? Se lunedì non vai a lavorare dimostri che eri solo un'operaia rancorosa che non sa reggere il peso della delusione. E l'unica che finisce sepolta sei tu.»
+L'indice calloso di Gianni puntò verso la sagoma scura dei silos oltre l'acqua torbida: «Le parole nel vento dei padroni valgono quanto il fumo delle ciminiere del porto quando gira il vento. Tu hai scambiato il tuo sangue per un debito d'onore. Ma l'azienda è una macchina economica, Marta, non è tua madre. L'azienda compra ore di lavoro e vende pezzi al centesimo. E adesso che hai scoperto che il tuo credito morale non vale una riga di contratto, cosa vuoi fare? Vuoi fare il sabotaggio passivo? Vuoi startene a casa a guardare il soffitto mentre le frese sbattono per goderti il disastro? Se lunedì non vai a lavorare dimostri che eri solo un'operaia rancorosa che non sa reggere il peso della delusione. E l'unica che finisce sepolta sei tu.»
 
 Il vecchio allentò la presa sul polso e le batté il palmo aperto sul ginocchio.
 
 «Il tuo mestiere è l'unica cosa che nessun padrone ti può rubare. Se distruggi il tuo lavoro per fare un dispetto a loro, ti togli la dignità con le tue stesse mani. Lunedì mattina alle sette tu entri da quel cancello a testa alta, con la tuta da lavoro pulita. Vai dritta da Sara del personale, e metti sul tavolo il prezzo del tuo mestiere per far camminare quel ragazzo di Modena. Da pari a pari. Non da serva offesa.»
 
-Marta appoggiò la fronte contro la lana ruvida del cappotto paterno. Il freddo dell'aria le pungeva le tempie, mentre l'odore antico di fumo di trinciato e ferro battuto che impregnava le fibre del panno le entrava nei polmoni. Pianse ancora, ma il tremito delle spalle andò spegnendosi; il gorgoglio sordo delle turbine nel canale continuò a scorrere sotto la nebbia, costante e indifferente come il tempo della produzione.
+Marta appoggiò la fronte contro la lana ruvida del cappotto paterno. Il freddo dell'aria le pungeva le tempie, mentre l'odore antico di fumo di trinciato e ferro battuto che impregnava le fibre del panno le entrava nei polmoni. Pianse ancora, ma il tremito delle spalle andò spegnendosi; lo sciabordio sordo della marea contro la banchina continuò sotto la nebbia, costante e indifferente come il tempo della produzione.
 
 ---
 
@@ -158,7 +158,7 @@ $$\mathbf{Fatto} \longrightarrow \mathbf{Significato\ Attribuito} \longrightarro
 * **Comportamento espresso:** Ritiro immediato dalla sala del rinfresco; recupero degli strumenti personali; chiusura totale a ogni contatto nel weekend.
 * **Conseguenze potenziali e sistemiche:**
   1. *Immediate:* Marta cade in uno stato di prostrazione fisica e pianto; rottura definitiva della lealtà verso la proprietà.
-  2. *Differite (se il sabotaggio fosse stato consumato):* Mancata calibrazione termica sulle commesse Kuka e Hydac; scarti seriali sulle boccole in titanio a sei micron; fallimento operativo del nuovo manager; fermo impianto della fabbrica e dimissioni della risorsa metrologica più avanzata del distretto.
+  2. *Differite (se il sabotaggio fosse stato consumato):* Mancata calibrazione termica sulle commesse Kuka e Hydac; scarti seriali sulle boccole in ergal per Kuka a due micron e sui distributori in titanio per Hydac a sei micron; fallimento operativo del nuovo manager; fermo impianto della fabbrica e dimissioni della risorsa metrologica più avanzata del distretto.
 
 Da questa presa d'atto biologica ed economica scaturisce la domanda di bivio che ogni professionista deve porsi quando sperimenta l'amarezza di una riconoscenza negata:
 
@@ -172,7 +172,7 @@ Comprendere che l'azienda è una macchina economica e non una madre affettiva co
 
 Lunedì 26 gennaio, ore 08:15 del mattino.
 
-L'ufficio del personale di O.M.P. Precision era immerso nella luce grigia e metallica del lunedì invernale. Attraverso i doppi vetri della palazzina arrivava il rombo sordo, basso e continuo dei motori ausiliari dell'officina: le pompe ad alta pressione dei refrigeranti e gli aspiratori fumi stavano compiendo i cicli di messa in pressione per il cambio turno delle nove.
+L'ufficio del personale di O.M.P. Precision era immerso nella luce grigia e metallica del lunedì invernale. Attraverso i doppi vetri della palazzina arrivava il rombo sordo, basso e continuo dei motori ausiliari dell'officina: le pompe ad alta pressione dei refrigeranti e gli aspiratori fumi stavano compiendo i cicli di messa in pressione per l'avvio dei cicli delle nove.
 
 Sulla scrivania in melaminico chiaro, accanto alla tazza di caffè intonsa, Sara teneva le mani ferme sopra la cartellina azzurra chiusa del fascicolo di matricola 042 e sull'angolo bianco del modulo di dimissioni non protocollato. Alla sua sinistra, seduto sulla poltroncina con il blocco note vergine e l'iPad posato sulle cosce, c'era l'ingegner Gianluca Moretti. Indossava un maglione a collo alto grigio grafite e occhiali con montatura sottile in titanio; la suola in gomma della scarpa destra batteva un ticchettio rapido e continuo contro la gamba metallica della sedia.
 
@@ -188,7 +188,7 @@ La mano tesa dell'ingegnere rimase sospesa a mezz'aria per un battito di ciglia.
 
 «Buongiorno.» Marta lasciò ricadere la mano e prese posto sulla poltroncina libera di fronte alla scrivania, appoggiando gli avambracci sul bordo laminato.
 
-Sara schiuse le dita: abbassò gli occhi sul fascicolo di matricola 042 e sulla scheda d'assunzione aperta sotto la cartellina, evitando di soffermarsi sui cerchi scuri sotto gli occhi di Marta. «Grazie di essere venuta, Marta. Volevamo vederci prima dell'avvio del turno delle nove per chiarire i flussi di riporto operativo con Gianluca.»
+Sara schiuse le dita: abbassò gli occhi sul fascicolo di matricola 042 e sulla scheda d'assunzione aperta sotto la cartellina, evitando di soffermarsi sui cerchi scuri sotto gli occhi di Marta. «Grazie di essere venuta, Marta. Volevamo vederci prima dell'avvio del ciclo delle nove per chiarire i flussi di riporto operativo con Gianluca.»
 
 ---
 
@@ -196,7 +196,7 @@ Sara schiuse le dita: abbassò gli occhi sul fascicolo di matricola 042 e sulla 
 
 Marta non mosse un muscolo. Non fece accenno al brindisi di venerdì, non nominò il bicchiere di vino né l'amministratore delegato. Mantenne lo sguardo fermo sul viso di Moretti per due secondi, poi voltò la testa verso Sara.
 
-«Andiamo al sodo.» La voce di Marta scese nella stanza con una calma pesante, priva di tremiti. «Venerdì è stato presentato un organigramma in cui io sono indicata come coordinatore dei turni e l'ingegner Moretti come responsabile di divisione. Lasciamo perdere le parole al vento. Io sono qui per fare una domanda tecnica precisa: **quando sull'isola 4 o sui centri a cinque assi si manifesta una deriva termica o una non conformità geometrica sul titanio delle boccole per Kuka e Hydac, chi ha l'autorità formale, scritta e insindacabile di premere il pulsante rosso d'emergenza e bloccare l'avanzamento dei lotti? La firmo io quella decisione a bordo macchina o deve firmarla l'ingegner Moretti dal suo ufficio al primo piano?**»
+«Andiamo al sodo.» La voce di Marta scese nella stanza con una calma pesante, priva di tremiti. «Venerdì è stato presentato un organigramma in cui io sono indicata come coordinatore dei turni e l'ingegner Moretti come responsabile di divisione. Lasciamo perdere le parole al vento. Io sono qui per fare una domanda tecnica precisa: **quando sull'isola 4 o sui centri a cinque assi si manifesta una deriva termica o una non conformità geometrica sull'ergal delle boccole per Kuka o sul titanio dei distributori per Hydac, chi ha l'autorità formale, scritta e insindacabile di premere il pulsante rosso d'emergenza e bloccare l'avanzamento dei lotti? La firmo io quella decisione a bordo macchina o deve firmarla l'ingegner Moretti dal suo ufficio al primo piano?**»
 
 La domanda piombò nella stanza con l'urto secco di un punzone d'acciaio su una lastra cruda.
 
@@ -215,21 +215,21 @@ La fitta somatica di venerdì sera rimase lì, una cicatrice fredda ancorata al 
 «Se vuoi che l'officina tagli il metallo, Gianluca, dobbiamo mettere per iscritto il patto su basi industriali.» Marta appoggiò entrambi i palmi sul piano laminato e spostò il baricentro verso Sara. «Io non farò il cane da guardia delle macchine per il vecchio stipendio mentre tu ti prendi il titolo da direttore. Le mie condizioni per salire sull'isola 4 prima delle nove sono tre, e non sono negoziabili:
 1. **Inquadramento formale a Livello Quadro:** nomina a Master Technical Specialist & Responsabile Metrologico di Filiera, con adeguamento retributivo del ventotto per cento per l'indennità di perimetro metrologico e funzione quadro legata alla responsabilità civile sulle tolleranze di fornitura;
 2. **Autorità tecnica esclusiva e vincolante di fermo impianto:** l'avvio e la sospensione dei lotti sulle leghe speciali richiedono la firma congiunta mia e dell'ingegner Moretti; ma sulle derive geometriche e termiche l'autorità di premere il pulsante rosso e fermare le frese è mia, esclusiva e insindacabile;
-3. **Direzione dell'Accademia Tecnica di Reparto:** venti ore al mese dedicate alla formazione dei giovani periti, con budget autonomo per l'acquisto e la taratura dei tastatori centesimali.»
+3. **Direzione dell'Accademia Tecnica di Reparto:** venti ore al mese dedicate alla formazione dei giovani periti, con budget autonomo per l'acquisto e la taratura dei tastatori millesimali.»
 
 Moretti rimase sospeso per un istante, poi voltò la testa verso Sara e annuì con un colpo secco. «Per me l'accordo regge. Senza questo presidio, io il mandato non lo accetto.»
 
 ---
 
-## Il tastatore a sei micron
+## Il tastatore a due micron
 
 Sara prese il telefono cellulare personale dalla scrivania, cercò il contatto dell'Amministratore Delegato, premette la chiamata e attivò il vivavoce, appoggiando l'apparecchio al centro del tavolo.
 
-Dall'altoparlante arrivò il rumore di fondo del rotolamento degli pneumatici sull'asfalto autostradale della A4 verso Milano. Tre squilli a vuoto.
+Dall'altoparlante arrivò il rumore di fondo del rotolamento degli pneumatici sull'asfalto autostradale della A1 verso Milano. Tre squilli a vuoto.
 
-Poi la voce dell'AD: «Sara? Sono all'altezza di Brescia. Dimmi, che sto guidando.»
+Poi la voce dell'AD: «Sara? Sono all'altezza di Parma. Dimmi, che sto guidando.»
 
-«Dottore, sono in ufficio con Marta Bellamoli e l'ingegner Moretti.» La voce di Sara entrò nel microfono ferma, asettica, burocratica. «Sull'isola 4 i mandrini dei centri a cinque assi sono entrati nel ciclo di riscaldamento a vuoto per la commessa Kuka. Per garantire la tolleranza a sei micron e chiudere l'audit tedesco senza rischiare la revoca della fornitura, abbiamo concordato l'assetto operativo definitivo di Marta: inquadramento Quadro come Master Technical Specialist con adeguamento del ventotto per cento, titolarità sovrana sul fermo impianto per derive termiche e direzione dell'Accademia Tecnica di Reparto per venti ore mensili con budget dedicato. L'ingegner Moretti condivide l'accordo. Se lo approva adesso al vivavoce, preparo l'addendum contrattuale per la sua firma al rientro e Marta scende ad azzerare le quote. Altrimenti alle nove l'isola 4 non avvia il ciclo.»
+«Dottore, sono in ufficio con Marta Bellamoli e l'ingegner Moretti.» La voce di Sara entrò nel microfono ferma, asettica, burocratica. «Sull'isola 4 i mandrini dei centri a cinque assi sono entrati nel ciclo di riscaldamento a vuoto per la commessa Kuka. Per garantire la tolleranza a due micron e chiudere l'audit tedesco senza rischiare la revoca della fornitura, abbiamo concordato l'assetto operativo definitivo di Marta: inquadramento Quadro come Master Technical Specialist con adeguamento del ventotto per cento, titolarità sovrana sul fermo impianto per derive termiche e direzione dell'Accademia Tecnica di Reparto per venti ore mensili con budget dedicato. L'ingegner Moretti condivide l'accordo. Se lo approva adesso al vivavoce, preparo l'addendum contrattuale per la sua firma al rientro e Marta scende ad azzerare le quote. Altrimenti alle nove l'isola 4 non avvia il ciclo.»
 
 Dall'altoparlante seguirono sei secondi di silenzio totale, interrotto solo dal sibilo dell'aria contro la carrozzeria e dal rombo sordo del motore dell'auto.
 
@@ -243,13 +243,13 @@ Sara aprì il cassetto della scrivania, inserì i parametri nel modulo integrati
 
 Marta si alzò, strinse la mano di Sara e si voltò verso il giovane ingegnere.
 
-«L'isola 4 ha iniziato il ciclo di riscaldamento mandrini... Venga giù con me in officina. Le faccio vedere come si azzera un tastatore Renishaw sul titanio a sei micron prima che arrivi la prima mail da Stoccarda.»
+«L'isola 4 ha iniziato il ciclo di riscaldamento mandrini... Venga giù con me in officina. Le faccio vedere come si azzera un tastatore Renishaw sull'ergal a due micron prima che arrivi la prima mail da Stoccarda.»
 
 Moretti prese la casacca da visita in cotone bianco appesa all'attaccapanni, infilò le scarpe con puntale metallico e seguì Marta fuori dalla porta, giù per la scaletta di ferro che portava al piano terra.
 
-Varcata la porta tagliafuoco, l'aria calda, densa e oleosa dell'emulsione a quaranta gradi investì il viso di Marta. Il rombo cupo dei mandrini dei cinque assi in rampa termica a dodicimila giri saturava il capannone; le spie verdi a colonna lampeggiavano sopra le cabine di fresatura.
+Varcata la porta tagliafuoco, l'aria calda, densa e oleosa dell'emulsione tiepida investì il viso di Marta. Il rombo cupo dei mandrini dei cinque assi in rampa termica a dodicimila giri saturava il capannone; le spie verdi a colonna lampeggiavano sopra le cabine di fresatura.
 
-Il calore dell'olio e dell'alluminio le riempì i polpastrelli mentre estraeva la chiave a brugola dalla tasca della tuta. Inserì il grano nel portautensili del tastatore elettronico: sul display digitale della macchina la coordinata Z si azzerò a sei micron con precisione centesimale. L'elettrovalvola del refrigerante scattò con un soffio pneumatico; la tavola a croce scivolò sulle guide prismatiche verso il punto di zero pezzo.
+Il calore dell'olio e dell'alluminio le riempì i polpastrelli mentre estraeva la chiave a brugola dalla tasca della tuta. Inserì il grano nel portautensili del tastatore elettronico: sul display digitale della macchina la coordinata Z si azzerò con precisione millesimale, dentro i due micron di tolleranza. L'elettrovalvola del refrigerante scattò con un soffio pneumatico; la tavola a croce scivolò sulle guide prismatiche verso il punto di zero pezzo.
 
 ---
 
