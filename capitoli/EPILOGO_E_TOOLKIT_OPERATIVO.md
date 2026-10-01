@@ -417,7 +417,7 @@ La matrice seguente costituisce la mappa diagnostica unificata per identificare,
 |    | rugosità (Ra 1.4) in O.M.P.   | distensione, respiro corto  | rinforzo negativo (Vervliet)       | turno notte con penale cliente     | il costo differito dell'omissione     |
 +----+-------------------------------+-----------------------------+------------------------------------+------------------------------------+---------------------------------------+
 | 3  | Fido ponte Mediocredito da    | Tachicardia >130 bpm, sudore| Paura anticipatoria amigdaloidea   | Catastrofizzazione, blocco delle   | Foglio di cassa a 14 giorni: isolare  |
-|    | 300.000€ rinviato (NexSys)    | freddo alle mani, vertigine | e marcatore somatico (Damasio)      | decisioni e fuga dei talenti       | i flussi certi escludendo le paure    |
+|    | 300.000€ rinviato (NexSys)    | freddo alle mani, vertigine | e marcatore somatico (Damasio)     | decisioni e fuga dei talenti       | i flussi certi escludendo le paure    |
 +----+-------------------------------+-----------------------------+------------------------------------+------------------------------------+---------------------------------------+
 | 4  | 250 ore mandrino titanio      | Visione a tunnel, pugni sul | Core Relational Theme rabbia       | Rottura frese 5 assi, scarti di    | Feasibility Check vincolante: tradurre|
 |    | Hydac vs macchine sature 98%  | piano, carotidi tese        | e bias di attribuzione (Kahneman)  | fornitura e penale da 3.000€/die   | la collera in ore mandrino e vincoli  |
