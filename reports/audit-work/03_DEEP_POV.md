@@ -1,0 +1,7 @@
+# 03 DEEP POV (scansioni deterministiche su Atti I/II/IV; dialoghi esclusi)
+- Filter words (sentì/vide/notò/provò/pensò/sembrò/sapeva/si accorse/udì/registrò…): C01 0 reali (registro=sostantivo) | C02 L24 Sembrava, L56 provato, L80 sembrava | C03 L33 sembrò, L178 sembravano, L182 registrarono | C04 L12 sembrava, L226 registrarono | C05 0 | C06 0 reali | C07 0 | C08 0 | C09 0 (L47 "sembra"). "guardò" = azione, non filtro (escluso).
+- Thought-tag ("pensò/si disse"): 0 occorrenze. Corsivi di pensiero non taggati: C02 L38, C03 L35, C04 L71, C05 L84 → ammessi (indiretto/diretto libero), nessuna anomalia.
+- Neurolessico/metalabel in Atti I/II/IV: C04 L59, 61, 69, 83, 85, 87, 95, 157, 226, 236, 242, 260 (cluster); C02 L38 (etichetta astratta), L213, L231, L235 (+ head-hop L225 Marta); C03 L97, L182, L212; C05 L62, L218; C09 L69; C07 L213. C01 Atto II L97, L107-119 commento saggistico del narratore.
+- Beat economy (>3 battute nude, attribuzioni non contano): C01 L67-73 (4); C04 L133-141 (5), L147-155 (5, solo attribuzioni). Altri capitoli ✓.
+- Kitchen test: Elena C01 ✓ (credibile), C05 L138 formula da formatore (lieve), C08 ✓, C09 ✓; Roberto C02 L146 attribuisce stati interni al "fatto"; Luisa C04 L155, L161 didattica; Paolo/Zantedeschi C06 ✓ (L122 lievemente analitico); Gianni C07 ✓; Giulia C03 ✓; Silvano ✓.
+- C09 tempo presente + focalizzazione esterna corale: SCELTA AUTORIALE DIFENDIBILE (ADR0002:11).
