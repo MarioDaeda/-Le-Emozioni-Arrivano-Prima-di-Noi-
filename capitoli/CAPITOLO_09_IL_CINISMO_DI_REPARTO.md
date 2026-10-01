@@ -7,7 +7,7 @@ Alle 10:28 di mercoledì 4 marzo, la sala mensa di O.M.P. Precision ha perso il 
 I tavoli lunghi in formica arancione sono stati ribaltati contro le pareti perimetrali, incastrati l'uno sull'altro come tavolame da cantiere. Centoventi sedie pieghevoli in polipropilene blu compongono un semicerchio perfetto davanti a una pedana modulare rivestita di moquette grigia a pelo corto. Sul fondo, due piantane telescopiche sostengono proiettori a led da cinquecento watt che inondano il centro della sala di una luce bianca, asettica, da sala operatoria. Il fascio luminoso sbatte contro un telo in pvc microforato largo cinque metri, dove campeggiano il marchio ridisegnato dell'azienda e le insegne dorate della nuova liturgia manageriale:
 
 ```
-[CONVENTION GENERALE O.M.P. PRECISION 2027-2030]
+[CONVENTION GENERALE DEL TRIENNIO O.M.P. PRECISION]
 • «PROGETTO FENICE: LA FABBRICA AGILE E IL BENESSERE CONDIVISO»
 • PAROLE CHIAVE: OWNERSHIP • RESILIENZA • TRASPARENZA • INNOVAZIONE CIRCOLARE
 ```
@@ -16,9 +16,9 @@ Alla sinistra del palco, un monitor professionale da ottantacinque pollici trasm
 
 Costo dell'allestimento, fatturato dall'agenzia due settimane prima: quindicimila euro netti.
 
-Sulle centoventi sedie di plastica siede l'intero turno di produzione.
+Sulle centoventi sedie di plastica siede l'intero organico dello stabilimento.
 
-Le tute blu scuro in tela di cotone pesante e i camici grigi degli addetti al controllo qualità emanano l'odore acre e denso dell'olio minerale emulsionato, del grasso per cuscinetti e del sapone abrasivo alla farina di legno con cui gli operai si sono sfregati i palmi dieci minuti prima della sirena delle dieci e mezzo. Sotto le unghie corte restano i bordi neri della polvere di ghisa; sui dorsi delle mani spiccano i microtagli orizzontali provocati dai trucioli d'acciaio al boro non ancora cicatrizzati. Dai diffusori elettrici a presa a muro, posizionati sopra i distributori automatici, sbuffano ogni novanta secondi nuvole artificiali di essenza al bergamotto e sandalo, scontrandosi con il puzzo di mandrino caldo e l'umidità delle tute madide di sudore.
+Le tute blu scuro in tela di cotone pesante e i camici grigi degli addetti al controllo qualità emanano l'odore acre e denso dell'olio minerale emulsionato, del grasso per cuscinetti e del sapone abrasivo alla farina di legno con cui gli operai si sono sfregati i palmi dieci minuti prima della sirena delle nove e mezzo. Sotto le unghie corte restano i bordi neri della polvere di ghisa; sui dorsi delle mani spiccano i microtagli orizzontali provocati dai trucioli d'acciaio al boro non ancora cicatrizzati. Dai diffusori elettrici a presa a muro, posizionati sopra i distributori automatici, sbuffano ogni novanta secondi nuvole artificiali di essenza al bergamotto e sandalo, scontrandosi con il puzzo di mandrino caldo e l'umidità delle tute madide di sudore.
 
 Sulla pedana in moquette, l'Amministratore Delegato di O.M.P. cammina da cinquanta minuti con un microfono ad archetto wireless color carne fissato dietro l'orecchio destro. Indossa una giacca sfoderata in lino blu aviazione sopra una camicia bianca aperta sul collo, senza cravatta. Al suo fianco, fermi come sentinelle ai bordi del telo, l'Head of Operations Gianluca Moretti stringe una cartelletta di plastica nera e il direttore commerciale Fabio Bressan controlla lo scorrimento dei fotogrammi sul tablet.
 
@@ -38,7 +38,7 @@ Dalla quarta fila del settore centrale stride una sedia pieghevole. Ferravecchia
 
 Un uomo si stacca dalla spalliera con una lentezza calcolata.
 
-È Dario Meneghelli. Cinquantadue anni compiuti a gennaio, ventotto passati davanti alle guide delle rettifiche tangenziali di O.M.P. Precision. Ha le spalle magre e quadrate di chi ha sollevato mandrini per trent'anni, i baffi spessi ingialliti dalla nicotina sopra il labbro superiore, la schiena dritta come una riga graduata e la montatura in celluloide degli occhiali da lettura tenuta insieme sul ponte nasale da tre giri stretti di nastro isolante nero. Sulle braccia scoperte dalla tuta estiva a maniche corte, vecchie cicatrici trasversali biancastre testimoniano i frammenti di pietra abrasiva esplosi quando le mole si ravvivavano a mano libera. Dario ha visto transitare quattro direttori generali, tre procedure di concordato preventivo, due fusioni societarie con cassa integrazione a zero ore e sei convention motivazionali con parole d'ordine sempre più astratte.
+È Dario Meneghelli. Cinquantadue anni compiuti a gennaio, ventotto passati davanti alle guide delle rettifiche tangenziali di O.M.P. Precision. Ha le spalle magre e quadrate di chi ha sollevato mandrini per trent'anni, i baffi spessi ingialliti dalla nicotina sopra il labbro superiore, la schiena dritta come una riga graduata e la montatura in celluloide degli occhiali da lettura tenuta insieme sul ponte nasale da tre giri stretti di nastro isolante nero. Sulle braccia scoperte dalle maniche della tuta rimboccate fino al gomito, vecchie cicatrici trasversali biancastre testimoniano i frammenti di pietra abrasiva esplosi quando le mole si ravvivavano a mano libera. Dario ha visto transitare quattro direttori generali, tre procedure di concordato preventivo, due fusioni societarie con cassa integrazione a zero ore e sei convention motivazionali con parole d'ordine sempre più astratte.
 
 L'addetta stampa gli allunga il microfono gelato; Dario non lo tocca. Non alza nemmeno la mano.
 
@@ -74,15 +74,15 @@ L'aria espulsa dai polmoni non torna indietro; sotto lo sterno cala una coltre d
 
 Mercoledì pomeriggio, ore 17:15.
 
-La striscia d'asfalto che corre sul retro del capannone rettifiche, compressa tra la parete cieca in prefabbricato e la massicciata ferroviaria dello scalo merci di Verona Porta Vescovo, è allagata da una pioggia sottile e sporca di fuliggine. Lungo la canalina di scolo arrugginita sono allineati i cassoni metallici degli sfridi di lavorazione e una fila di dodici fusti cilindrici blu da duecento litri di olio minerale emulsionabile esausto. Il cielo ha il colore della ghisa non lavorata; l'aria odora di bruciato, pioggia fredda e vapori di nafta dei locomotori in manovra.
+La striscia d'asfalto che corre sul retro del capannone rettifiche, compressa tra la parete cieca in prefabbricato e la massicciata di un raccordo ferroviario dismesso, è allagata da una pioggia sottile e sporca di fuliggine. Lungo la canalina di scolo arrugginita sono allineati i cassoni metallici degli sfridi di lavorazione e una fila di dodici fusti cilindrici blu da duecento litri di olio minerale emulsionabile esausto. Il cielo ha il colore della ghisa non lavorata; l'aria odora di bruciato, pioggia fredda e ferro arrugginito dei binari morti.
 
-Dario Meneghelli è fermo con le spalle piantate contro la lamiera incurvata di un fusto d'olio. Ha il colletto della tuta da lavoro rialzato fino ai lobi delle orecchie e un berretto di lana nera calcato sui capelli radi. Tra l'indice e il medio, anneriti dalla polvere di rettifica, stringe una sigaretta senza filtro; aspira boccate brevi e dense, soffiando il fumo azzurrognolo verso i vagoni merci che scivolano cigolando sui deviatoi bagnati.
+Dario Meneghelli è fermo con le spalle piantate contro la lamiera incurvata di un fusto d'olio. Ha il colletto della tuta da lavoro rialzato fino ai lobi delle orecchie e un berretto di lana nera calcato sui capelli radi. Tra l'indice e il medio, anneriti dalla polvere di rettifica, stringe una sigaretta senza filtro; aspira boccate brevi e dense, soffiando il fumo azzurrognolo verso un carro merci abbandonato sui deviatoi arrugginiti.
 
-Dall'angolo del capannone il rumore di suole di gomma che affondano nell'asfalto viscido rompe lo sferragliare dei treni.
+Dall'angolo del capannone il rumore di suole di gomma che affondano nell'asfalto viscido rompe il brusio lontano dell'autostrada.
 
 Sara avanza a passi rapidi, stringendosi dentro il cappotto di panno grigio scuro. Ha le guance sferzate dal vento gelato e un fascicolo cartaceo stretto sotto il braccio sinistro.
 
-La sua sagoma entra nel campo visivo periferico di Dario. L'operaio non gira la testa. Con un colpo secco dell'unghia fa cadere la brace ardente nell'intercapedine tra due bidoni, mantenendo gli occhi fissi sulla tradotta merci.
+La sua sagoma entra nel campo visivo periferico di Dario. L'operaio non gira la testa. Con un colpo secco dell'unghia fa cadere la brace ardente nell'intercapedine tra due bidoni, mantenendo gli occhi fissi sul carro merci abbandonato.
 
 «Dottoressa,» mormora Dario con voce piana, rivestita di una cortesia burocratica più tagliente di una bestemmia. «È scesa con la lettera di richiamo per insubordinazione? Ho la matita pronta sul colletto.»
 
@@ -122,9 +122,9 @@ Elena si ferma a fianco delle due pozzanghere che separano i cassoni dai fusti. 
 
 Dario socchiude gli occhi dietro le lenti riparate con il nastro isolante, spiazzato dall'attacco frontale privo di difese aziendali.
 
-«Ma c'è un rovescio della medaglia che la tua rabbia fa finta di non vedere,» riprende Elena, piantando i tacchi nel pietrisco umido. «Stamattina hai fatto ridere novanta compagni di reparto. Hai umiliato l'amministratore delegato e ti sei preso l'applauso da stadio. Ma a Marta Bellamoli, chi glielo spiega il tuo sarcasmo? Marta che ha passato tre notti in bianco per mettere in piedi l'accademia tecnica e insegnare ai ragazzi a non farsi tranciare le dita dai carrelli delle frese. E a Silvano Spinelli, chi glielo spiega? Silvano che ha rischiato l'infarto per coprire i ritardi dei tedeschi senza far toccare i vostri turni di riposo. E a Davide, che ha vent'anni e da stamattina guarda il tornio come se fosse una gabbia perché tanto 'sono tutti ladri e non cambierà mai niente'? Il tuo anestetico ti salva lo stomaco, Dario. Ma sta trasformando il tuo reparto in un dormitorio di disperati prima ancora della pensione.»
+«Ma c'è un rovescio della medaglia che la tua rabbia fa finta di non vedere,» riprende Elena, piantando i tacchi nel pietrisco umido. «Stamattina hai fatto ridere novanta compagni di reparto. Hai umiliato l'amministratore delegato e ti sei preso l'applauso da stadio. Ma a Marta Bellamoli, chi glielo spiega il tuo sarcasmo? Marta che ha passato tre notti in bianco per mettere in piedi l'accademia tecnica e insegnare ai ragazzi a non farsi tranciare le dita dai carrelli delle frese. E a Silvano Spinelli, chi glielo spiega? Silvano che ha rischiato l'infarto per coprire i ritardi dei tedeschi senza far toccare i vostri turni di riposo. E a Davide, che ha ventotto anni e da stamattina guarda il banco di collaudo come se fosse una gabbia perché tanto 'sono tutti ladri e non cambierà mai niente'? Il tuo anestetico ti salva lo stomaco, Dario. Ma sta trasformando il tuo reparto in un dormitorio di disperati prima ancora della pensione.»
 
-Dario non ribatte con la battuta pronta. Le spalle hanno un cedimento di due centimetri; le mani sprofondano nelle tasche della tuta di tela. Gli scambi ferroviari continuano a sferragliare nella nebbia bagnata. La ruga attorno alla bocca non è più una piega beffarda: è una cicatrice viva.
+Dario non ribatte con la battuta pronta. Le spalle hanno un cedimento di due centimetri; le mani sprofondano nelle tasche della tuta di tela. Il brusio dell'autostrada continua a scorrere nella nebbia bagnata. La ruga attorno alla bocca non è più una piega beffarda: è una cicatrice viva.
 
 «E cosa dovremmo fare, allora?» mormora l'operaio, e la voce scende di un'ottava, raschiata dal freddo. «Fingere che ci fidiamo ancora? Andare a fare i bravi scolari e farci fottere per la settima volta?»
 
@@ -142,7 +142,7 @@ Dario fissa la mota che ricopre le punte delle sue scarpe antinfortunistiche. So
 
 La dinamica del cinismo manifestatasi nella sala mensa di O.M.P. Precision non rappresenta una devianza caratteriale individuale, né un rigurgito di conflittualità ideologica d'altri tempi: costituisce la formalizzazione operativa della **più potente strategia di difesa omeostatica collettiva** indagata dalla psicologia delle organizzazioni e dalle neuroscienze cognitive.
 
-Il fondamento teorico di questa dinamica è stato codificato da **James W. Dean, Pamela Brandes e Ravi Dharwadkar** nella loro monografia cardine *Organizational Cynicism* (Academy of Management Review, 1998).
+Il fondamento teorico di questa dinamica è stato codificato da **James W. Dean, Pamela Brandes e Ravi Dharwadkar** nel loro articolo cardine *Organizational Cynicism* (Academy of Management Review, 1998).
 
 Gli studiosi scompongono il cinismo d'impresa in una matrice tridimensionale inscindibile:
 1. **La convinzione radicata che l'organizzazione sia priva di integrità (*a belief that the organization lacks integrity*):** la certezza empirica, maturata attraverso violazioni storiche reiterate, che le proclamazioni valoriali della dirigenza (i proclami sul "benessere", la "famiglia industriale", la "trasparenza") siano sistematicamente smentite dalle prassi materiali (tagli occulti, premi congelati, asimmetria tra i sacrifici del reparto e i compensi del vertice);
@@ -200,7 +200,7 @@ Dall'altro lato, con le scarpe antinfortunistiche spolverate dai trucioli prima 
 
 Dario ha gli occhiali da lettura con il nastro isolante infilati nel taschino superiore della casacca. Tiene le mani grandi e callose piatte sulle cosce; gli avambracci mostrano le vene ingrossate dalla fatica del turno mattutino. Non ostenta il sorriso sardonico della mensa, né l'ironia beffarda del cortile: ha la postura rigida, muta e pesantissima di un perito d'officina convocato per asseverare il cedimento strutturale di un basamento.
 
-Oltre i doppi vetri dell'ufficio, il cielo di Verona è solcato da stracci di nubi basse. Il silenzio della stanza è rotto soltanto dal sibilo del circuito di climatizzazione.
+Oltre i doppi vetri dell'ufficio, il cielo di Cesena è solcato da stracci di nubi basse. Il silenzio della stanza è rotto soltanto dal sibilo del circuito di climatizzazione.
 
 L'Amministratore Delegato fa scorrere le dita lungo il faldone dei numeri contabili. Non usa l'archetto; la voce è bassa, asciutta, ancorata alla ruvidità dei fatti:
 
@@ -220,18 +220,18 @@ Il documento porta il titolo:
 
 ```
 [PATTO DI TRASPARENZA, SOVRANITÀ OPERATIVA E RIPRISTINO DELLA FIDUCIA MATERIALE]
-SOTTOSCRITTO TRA DIREZIONE GENERALE, R.S.U. E RAPPRESENTANZE TECNICHE DI REPARTO
+SOTTOSCRITTO TRA DIREZIONE GENERALE E RAPPRESENTANZE TECNICHE DI REPARTO
 ```
 
 L'Amministratore riprende la parola, scandendo i quattro articoli del testo:
 
-«Primo punto: **Piano di rientro finanziario vincolante del premio di risultato 2025**. I duemilaseicento euro netti a lavoratore vengono sbloccati con garanzia irrevocabile a valere sulle rimesse certe delle commesse tedesche Kuka e Hydac: **il cinquanta per cento, pari a milletrecento euro netti a testa, sarà erogato nella busta paga di aprile 2027**; il saldo definitivo del restante cinquanta per cento sarà corrisposto nella busta paga di settembre 2027. Se una sola di queste scadenze salta, l'accordo decade e l'azienda si impegna a non contestare alcuna forma di mobilitazione sindacale.
+«Primo punto: **Piano di rientro finanziario vincolante del premio di risultato 2025**. I duemilaseicento euro netti a lavoratore vengono sbloccati con garanzia irrevocabile a valere sulle rimesse certe delle commesse tedesche Kuka e Hydac: **il cinquanta per cento, pari a milletrecento euro netti a testa, sarà erogato nella busta paga di aprile**; il saldo definitivo del restante cinquanta per cento sarà corrisposto nella busta paga di settembre. Se una sola di queste scadenze salta, l'accordo decade e l'azienda si impegna a non contestare alcuna forma di mobilitazione sindacale.
 
 Secondo punto: **Azzeramento totale delle spese futili e bonifica immediata del costo della vita in reparto**. Divieto assoluto di campagne motivazionali esterne, kit promozionali e video istituzionali per i prossimi tre esercizi; ripristino immediato da lunedì mattina del prezzo calmierato storico di **quaranta centesimi a gettone** per il caffè e le bevande calde su tutti i distributori dello stabilimento, con onere economico a carico diretto del fondo di presidenza.
 
 Terzo punto: **Istituzione del Comitato di Trasparenza a Bordo Macchina**. Ogni primo lunedì del mese, dalle sette alle sette e mezzo del mattino, la Direzione Generale e l'Ingegner Moretti si presenteranno davanti al terminale di collaudo con Dario Meneghelli, Marta Bellamoli e Silvano Spinelli per proiettare a schermo i numeri veri dell'officina: fatturato consuntivato, margini industriali, pezzi scartati e saldo di cassa disponibile, prima che i report vengano trasmessi agli istituti di credito.
 
-Quarto punto: **Destinazione del risparmio della convention alla salute del reparto**. I quindicimila euro risparmiati dall'azzeramento dei gadget e delle agenzie di comunicazione, integrati da altri tremila euro stanziati oggi dal fondo di sicurezza, vengono vincolati entro il trenta maggio alla **revisione integrale dell'impianto di aspirazione dei fumi d'olio delle rettifiche** e all'installazione di **due raffrescatori adiabatici industriali** per garantire che l'estate non si affronti a quaranta gradi con i finestroni chiusi.»
+Quarto punto: **Destinazione del risparmio della convention alla salute del reparto**. I quindicimila euro stanziati dal fondo di presidenza in sostituzione delle convention dei prossimi tre esercizi, integrati da altri tremila euro deliberati oggi sul fondo di sicurezza, vengono vincolati entro il trenta maggio alla **revisione integrale dell'impianto di aspirazione dei fumi d'olio delle rettifiche** e all'installazione di **due raffrescatori adiabatici industriali** per garantire che l'estate non si affronti a quaranta gradi con i finestroni chiusi.»
 
 Quando l'Amministratore tace, il respiro di Silvano si fa pesante. Marta alza gli occhi verso Moretti, che le risponde con un cenno netto del capo.
 
@@ -259,7 +259,7 @@ Nessun sorriso liberatorio. Nessun abbraccio riconciliatorio. La tregua dura e a
 
 ---
 
-## Due micron sul titanio
+## Sei micron sul titanio
 
 Venerdì pomeriggio, ore 15:10.
 
@@ -271,11 +271,11 @@ Nel corridoio che immette nella navata centrale, Silvano Spinelli cammina a fian
 
 Dario si arresta sulla soglia del reparto macchine.
 
-La luce gialla delle lampade a vapori di sodio taglia la nebbia sospesa dei refrigeranti; novantotto macchine utensili girano a regime con una percussione ritmica che fa tremare le solette di calcestruzzo. Al banco del collaudo dimensionale, Marta Bellamoli sta mostrando a Gianluca Moretti il tastatore micrometrico per i corpi valvola Hydac; due postazioni più in là, il giovane perito Davide carica una barra d'acciaio sul mandrino della fresa con movimenti attenti e puliti, privi dell'isteria beffarda di mercoledì mattina.
+La luce gialla delle lampade a vapori di sodio taglia la nebbia sospesa dei refrigeranti; quarantaquattro macchine utensili girano a regime con una percussione ritmica che fa tremare le solette di calcestruzzo. Al banco del collaudo dimensionale, Marta Bellamoli sta mostrando a Gianluca Moretti il tastatore micrometrico per i corpi valvola Hydac; due postazioni più in là, il giovane collaudatore Davide allinea un pezzo sotto il comparatore con movimenti attenti e puliti, privi dell'isteria beffarda di mercoledì mattina.
 
 Dario infila due dita nella casacca, toccando la piega ruvida della copia del patto custodita sul petto.
 
-«Torniamo al banco, Silvano,» risponde Dario, e per la prima volta i suoi occhi grigi si aprono a una limpidezza asciutta, svuotata dall'anestetico del sarcasmo. «Ma teniamo i pezzi a due micron. Che i tedeschi devono capire che qui dentro le macchine le facciamo cantare noi.»
+«Torniamo al banco, Silvano,» risponde Dario, e per la prima volta i suoi occhi grigi si aprono a una limpidezza asciutta, svuotata dall'anestetico del sarcasmo. «Ma teniamo le boccole a due micron e il titanio a sei. Che i tedeschi devono capire che qui dentro le macchine le facciamo cantare noi.»
 
 ---
 
