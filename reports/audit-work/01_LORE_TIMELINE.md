@@ -109,3 +109,18 @@
 - AIII fonti ✓ (Kahneman WYSIATI 2011; Dean, Brandes & Dharwadkar 1998; Rousseau 1995; Slovic; Watzlawick; Lakoff).
 - AIV: TCO, Scheda Unica di Fornitura, MBO ratificati dai CdA ✓ contrattuale; chiusura L306 lievemente consolatoria (P3).
 - Ponte L342-350 → Marta Bellamoli 22 anni, "pacca sulla spalla e una targa di ringraziamento" → verificare C07.
+## Note C07 canon (360 l.) POV Marta; AD OMP (senza nome), Moretti, Gianni Bellamoli, Sara, Silvano (cameo)
+- Struttura: AI 3-75 (ven 23/01 16:42 buffet) | AII 78-115 (sab 15:20 Camuzzoni, Gianni) | AIII 118-168 | AIV 171-253 (lun 26/01 08:15) | AV 256-338 | Note 342-361.
+- Date: 23/01/2026 venerdì ✓; 26/01 lunedì ✓. "ORGANIGRAMMA ... 2027" (L7) a gen. 2026 → cluster anni (P3).
+- Lore: Marta Bellamoli 48 ✓, 22 anni ✓, dal 2004 ✓ (L9,L66), due figli (L48,L66), padre Gianni 74, 37 anni tornio Officine Porta Vescovo; Moretti 36 ✓, ex Magneti Marelli Powertrain ✓, Master Black Belt, MBA Bocconi, "Head of Operations" (L154) ✓, da Modena/Emilia.
+- L9 Marta "salvato la fornitura ... lavorando tre notti consecutive a dieci gradi" vs C02: una sola sera/notte (ven→sab) → P3 continuità.
+- L11 pensione Silvano "primavera successiva dopo quarant'anni di officina" vs C04 "trentaquattro anni" (cluster anzianità Silvano P3); nota L355 "primavera 2027" vs "primavera successiva" (= 2026).
+- L74 OMP in "zona industriale di San Michele Extra" vs ADR0001 "Quinzano d'Oglio / Verona" (G3) → verificare altre localizzazioni OMP.
+- MATERIALE KUKA: C02 L12 boccole Kuka "in lega aeronautica 7075-T6" (ergal; L233 "l'ergal sul diametro da centotrenta") vs C07 L161 "boccole in titanio a sei micron", L199 "titanio delle boccole per Kuka e Hydac" (Hydac = distributori, non boccole) → P2 continuità tecnica. L252 "calore dell'olio e dell'alluminio" (coerente con ergal, incoerente con L199).
+- TOLLERANZE: L161/L199/L232/L246 "sei micron" (Kuka) vs C02 L10 "quattro millesimi", CONTEXT 2 µm (famiglia G1). L252 "coordinata Z si azzerò a sei micron con precisione centesimale" (0,01 mm non risolve 6 µm) → contraddizione tecnica P2.
+- L250 "emulsione a quaranta gradi" (gennaio, mattino; refrigerante tipicamente 20-30 °C; C02 emulsione a 10 °C) P3. L175 "cambio turno delle nove" vs turni C02 (14:00/notte) P3.
+- AIII: Eisenberger & Lieberman ✓ (2003); L122/L130 "medesima matrice neurale", "indistinguibile da una lacerazione muscolare" = overclaim (dibattito dACC) P3; L128 citazione virgolettata attribuita a Damasio (Feeling & Knowing) NON VERIFICABILE (come C05 L150) → candidato P2 "citazioni dirette non verificabili"; L134 "loss of an irrevocable commitment" (CRT tristezza Lazarus = "irrevocable loss") P3; L148 "quiet quitting" = "sabotaggio silenzioso" (improprio) P3.
+- AIV: L209 Moretti capitola subito; L215-218 3 condizioni; L232 Sara (HR) pone ultimatum all'AD ("Altrimenti alle nove l'isola 4 non avvia il ciclo"); L238 AD approva in 6 s +28%, Quadro, fermo esclusivo, Accademia con budget; L213 "il veleno dell'amarezza era svanito" → esito YES pieno senza costi residui per Marta, autorità "esclusiva e insindacabile" in conflitto con Head of Operations → P2 Atto IV (SKILL 4.1/4.3; Pref L195).
+- POV: buono; L213 enunciato-tesi autoriale (P3).
+- Ponte L332-338: "soci fondatori al 50% ... quindici anni di fatiche" (cluster anzianità Omnia); Marta chiamata "collaudatrice" (L332, Note L360) vs capotecnica (P3).
+- Note L353-356: Marta "presente nei Capitoli ... 4 (setup di sgrossatura sul titanio) e 6 (ricezione del lotto Ferrometalli)" (non in C06), "rifiuta l'emigrazione in Svizzera" (assente nel testo), percorso file "bozze_capitoli/CAPITOLO_08..." e "riga 14" → note interne inattendibili.
