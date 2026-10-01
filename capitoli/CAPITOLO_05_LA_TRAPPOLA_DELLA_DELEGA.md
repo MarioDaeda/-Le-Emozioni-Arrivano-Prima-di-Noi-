@@ -2,13 +2,13 @@
 
 ## La cella F148 alle sette e un quarto
 
-Alle 19:14 di giovedì 11 dicembre, la pioggia invernale batteva a raffiche contro i doppi vetri della palazzina di Omnia Servizi Direzionali in via Germania, spalmando i fari rossi della tangenziale sud in scie liquide e incandescenti lungo l'asfalto.
+Alle 19:14 di giovedì 11 dicembre, la pioggia invernale batteva a raffiche contro i doppi vetri della palazzina di Omnia, nella zona industriale di Bologna, spalmando i fari rossi della tangenziale in scie liquide e incandescenti lungo l'asfalto.
 
-I tre piani dell'edificio, costruito quindici anni prima sopra un magazzino di raccordi idraulici quando l'azienda era soltanto un tavolo di formica e quattro sedie di seconda mano, erano sprofondati nel silenzio dell'orario di chiusura. I sedici analisti junior e le impiegate dell'amministrazione avevano timbrato il cartellino delle diciotto e trenta; nell'intero piano direzionale filtravano unicamente due lame di luce: quella dell'ufficio d'angolo di Andrea Vettori e quella della postazione open space assegnata da tre mesi a Enrico De Marchi.
+I tre piani dell'edificio, costruito quindici anni prima sopra un magazzino di raccordi idraulici quando l'azienda era soltanto un tavolo di formica e quattro sedie di seconda mano in un garage della Bolognina, a Bologna, erano sprofondati nel silenzio dell'orario di chiusura. I sedici analisti junior e le impiegate dell'amministrazione avevano timbrato il cartellino delle diciotto e trenta; nell'intero piano direzionale filtravano unicamente due lame di luce: quella dell'ufficio d'angolo di Andrea Vettori e quella della postazione open space assegnata da tre mesi a Enrico De Marchi.
 
 Andrea, quarantacinque anni, fondatore e amministratore delegato, sedeva davanti a due monitor da ventiquattro pollici accesi a piena luminosità. Il nodo della cravatta pendeva allentato di tre centimetri sul terzo bottone della camicia; il colletto sbottonato raschiava contro la pelle umida del collo. La fronte poggiava pesante contro l'eminenza tenar della mano sinistra; a ogni battito cardiaco, una scarica sorda e tagliente partiva dalla vertebra cervicale C5, costeggiava il bordo interno della scapola destra e scendeva lungo l'avambraccio fino all'articolazione interfalangea del pollice, bloccandogli le dita in una rigidità legnosa.
 
-L'indomani mattina, alle 09:00 esatte, nella sala conferenze di LogiDistretto a Sommacampagna, era convocato il Comitato Plenario di Filiera. Attorno al tavolo ovale sedevano Luca (socio operativo al cinquanta per cento), Sara (responsabile del personale di O.M.P. Precision), Marco (amministratore delegato di NexSys Solutions), i rappresentanti del consorzio logistico e due funzionari della direzione crediti della Banca Popolare. All'ordine del giorno figurava un unico punto non rinviabile: l'approvazione del **Budget Consolidato di Rete 2027**, il piano economico-finanziario triennale destinato a dimostrare agli istituti di credito che il distretto meccatronico reggeva l'onda d'urto del crac Apex da 3,2 milioni di euro, integrando le nuove commesse tedesche Kuka e Hydac negoziate da O.M.P. e garantendo il circolante per le forniture di titanio.
+L'indomani mattina, alle 09:00 esatte, nella sala conferenze di LogiDistretto, nell'area portuale di Ravenna, era convocato il Comitato Plenario di Filiera. Attorno al tavolo ovale sedevano Luca (socio operativo al cinquanta per cento), Sara (responsabile del personale di O.M.P. Precision), Marco (amministratore delegato di NexSys Automation), i rappresentanti del consorzio logistico e due funzionari della direzione crediti del Mediocredito. All'ordine del giorno figurava un unico punto non rinviabile: l'approvazione del **Budget Consolidato di Rete**, il piano economico-finanziario triennale destinato a dimostrare agli istituti di credito che il distretto meccatronico reggeva l'onda d'urto del crac Apex da 3,2 milioni di euro, integrando le nuove commesse tedesche Kuka e Hydac negoziate da O.M.P. e garantendo il circolante per le forniture di titanio.
 
 Per la prima volta in quindici anni di gestione accentrata, Andrea aveva ceduto una parte del volante.
 
@@ -40,11 +40,11 @@ La rotellina del mouse si arrestò con uno scatto secco.
 
 Il silenzio piombò sulla stanza come una lastra di piombo calata dal soffitto. Sotto il palmo di Andrea, il mouse cigolò per la pressione delle dita; la fitta cervicale trapassò il muscolo trapezio, scaricando una pulsazione rovente sul polso.
 
-«Enrico... ma tu hai letto l'addendum contrattuale che abbiamo siglato venerdì scorso con la Banca Popolare per sbloccare il credito ponte di Marco?»
+«Enrico... ma tu hai letto l'addendum contrattuale che abbiamo siglato mercoledì 26 novembre con il Mediocredito per sbloccare il credito ponte di Marco?»
 
 «Io... ho consultato i parametri generali del database di Omnia...»
 
-«I parametri generali?» La voce di Andrea salì di tono, metallica, vibrante di una furia compressa che ruppe gli argini. «La Banca Popolare applica il tasso agevolato del Fondo Centrale solo sulla quota di R&D; sul resto del circolante lo spread territoriale è del 5,85%! E nel distretto manifatturiero veronese nessuno paga a sessanta giorni! Con la perdita di Apex, i clienti tedeschi hanno imposto pagamenti a novanta e centoventi giorni con perizia di collaudo rilasciata! Hai calcolato gli incassi a sessanta giorni con lo sconto al tre per cento!»
+«I parametri generali?» La voce di Andrea salì di tono, metallica, vibrante di una furia compressa che ruppe gli argini. «Il Mediocredito applica il tasso agevolato assistito dal Fondo di garanzia solo sulla quota di R&D; sul resto del circolante il tasso effettivo è del 5,85%! E nel distretto manifatturiero emiliano-romagnolo nessuno paga a sessanta giorni! Con la perdita di Apex, i clienti tedeschi hanno imposto pagamenti a novanta e centoventi giorni con perizia di collaudo rilasciata! Hai calcolato gli incassi a sessanta giorni con lo sconto al tre per cento!»
 
 Andrea batté due volte il tasto Invio, forzando i parametri della realtà di fabbrica dentro la cella `F148`:
 
@@ -57,7 +57,7 @@ Andrea batté due volte il tasto Invio, forzando i parametri della realtà di fa
 
 Sul monitor il grafico a cascata collassò all'istante: la colonna verde smeraldo del secondo trimestre sprofondò sotto l'asse dello zero, trasformandosi in una barra vermiglia che lampeggiava sul rosso pieno.
 
-Un buco di cassa da mezzo milione di euro. Se quel foglio fosse stato proiettato la mattina seguente davanti alla Banca Popolare, i crediti di rete sarebbero stati revocati all'istante; Luca avrebbe preteso la revoca delle deleghe; Marco non avrebbe potuto pagare le schede elettroniche e Sara avrebbe dovuto congelare gli acquisti di barre in titanio per le macchine di Silvano.
+Un buco di cassa da mezzo milione di euro. Se quel foglio fosse stato proiettato la mattina seguente davanti al Mediocredito, i crediti di rete sarebbero stati revocati all'istante; Luca avrebbe preteso la revoca delle deleghe; Marco non avrebbe potuto pagare le schede elettroniche e l'ufficio acquisti di O.M.P. avrebbe dovuto congelare gli acquisti di barre in titanio per le macchine di Silvano.
 
 Sotto la punta dello sterno il diaframma di Andrea si bloccò in una morsa dura; l'aria inspirata si arrestò a metà gola lasciandogli un sapore di ruggine e bile amara sulla lingua. Le dita persero sensibilità per la vasocostrizione periferica; il sangue martellò contro le tempie a centodieci battiti disordinati. Il terrore biologico dell'espropriazione territoriale azzerò ogni pazienza: se non governava lui ogni singola cifra, il distretto saltava per aria; fidarsi significava morire; cedere il controllo equivaleva a farsi sgozzare dalla banca. Faccio prima a farlo io da solo che a fidarmi di questi periti usciti dall'accademia.
 
@@ -81,7 +81,7 @@ I passi del ragazzo si spensero lungo la scala antincendio. L'open space rimase 
 
 Andrea rimase immobile al centro della luce bianca. Si passò le dita tra i capelli madidi di sudore freddo; sulla barra di sistema l'orologio digitale segnava le 19:35. Tredici ore e venticinque minuti all'apertura del tavolo di LogiDistretto.
 
-Si alzò a scatti, andò nella saletta ristoro, caricò la moka da sei con polvere di caffè scuro, accese la lampada da tavolo inclinando il paralume sui tasti del tastierino numerico e si sedette alla scrivania. Iniziò a riscrivere riga per riga, matrice per matrice, cella per cella, l'intero bilancio di rete di trentadue fogli, condannandosi a una notte solitaria di veglia feroce per confermare la condanna più tossica della sua vita d'impresa: *se vuoi che una cosa stia in piedi, devi farla da solo*.
+Si alzò a scatti, copiò i file su una chiavetta, spense le luci del piano e guidò fino a casa, sui colli. Nello studio al piano terra caricò la moka da sei con polvere di caffè scuro, accese la lampada da tavolo inclinando il paralume sui tasti del tastierino numerico e si sedette alla scrivania. Iniziò a riscrivere riga per riga, matrice per matrice, cella per cella, l'intero bilancio di rete di trentadue fogli, condannandosi a una notte solitaria di veglia feroce per confermare la condanna più tossica della sua vita d'impresa: *se vuoi che una cosa stia in piedi, devi farla da solo*.
 
 ---
 
@@ -89,7 +89,7 @@ Si alzò a scatti, andò nella saletta ristoro, caricò la moka da sei con polve
 
 Venerdì 12 dicembre, ore 05:42 del mattino.
 
-La cucina della casa di Quinzano, annidata sui terrazzamenti collinari sopra Verona, era immersa nella penombra bluastra dell'alba invernale. Fuori, il nevischio batteva contro i vetri delle finestre esposte a nord; sul fondo della valle i fanali della circonvallazione tracciavano un reticolo opaco nella nebbia gelata.
+La cucina della casa sui colli, annidata sui terrazzamenti collinari sopra Bologna, era immersa nella penombra bluastra dell'alba invernale. Fuori, il nevischio batteva contro i vetri delle finestre esposte a nord; sul fondo della valle i fanali della tangenziale tracciavano un reticolo opaco nella nebbia gelata.
 
 L'odore acre di caffè bruciato ristagnava lungo la corsia del corridoio.
 
@@ -99,7 +99,7 @@ Andrea era seduto sulla sedia con il cappotto di loden addosso, la sciarpa infil
 
 Andrea sollevò il mento con un movimento rigido del collo:
 
-«L'ho rifatto,» disse. La voce era un raschio sordo, simile a carta vetrata trascinata su pietra. «Ho ricostruito tutto da zero. Tassi Mediocredito, tempi di incasso a centoventi giorni per O.M.P., rimesse dei contratti tedeschi, scadenze dei lotti di Silvano, fido ponte di NexSys. È blindato. Non c'è una sola riga che Luca o la Banca Popolare possano contestare.»
+«L'ho rifatto,» disse. La voce era un raschio sordo, simile a carta vetrata trascinata su pietra. «Ho ricostruito tutto da zero. Tassi Mediocredito, tempi di incasso a centoventi giorni per O.M.P., rimesse dei contratti tedeschi, scadenze dei lotti di Silvano, fido ponte di NexSys. È blindato. Non c'è una sola riga che Luca o il Mediocredito possano contestare.»
 
 Elena non si avvicinò al monitor. Non toccò i tabulati. Si fermò a due passi dal tavolo, reggendo con entrambe le mani una tazza di tè bollente, gli occhi fermi sull'uomo con cui divideva il letto da undici anni:
 
@@ -121,21 +121,21 @@ Lo schermo collassò nel buio.
 
 «Ho evitato una catastrofe bancaria!»
 
-«Hai fatto il bullo con un ragazzo che ha la metà dei tuoi anni,» ribatté Elena, piantando i piedi nudi sul pavimento freddo. «Ieri sera Enrico ti ha portato una simulazione matematica con due parametri errati. E tu cosa hai fatto? Gli hai strappato il cavo dal computer, gli hai detto che il suo lavoro era spazzatura, hai rifiutato di mostrargli dove stava l'errore e ti sei chiuso qui dentro a rifare le matrici da solo. Adesso rispondimi guardandomi negli occhi: prima di dirgli di impostare il cruscotto, gli avevi consegnato l'addendum della Banca Popolare sullo spread al 5,85%? Gli avevi spiegato che i tedeschi non pagano prima di centoventi giorni perché pretendono il collaudo asseverato dei pezzi di Silvano?»
+«Hai fatto il bullo con un ragazzo che ha la metà dei tuoi anni,» ribatté Elena, piantando i piedi nudi sul pavimento freddo. «Ieri sera Enrico ti ha portato una simulazione matematica con due parametri errati. E tu cosa hai fatto? Gli hai strappato il cavo dal computer, gli hai detto che il suo lavoro era spazzatura, hai rifiutato di mostrargli dove stava l'errore e ti sei chiuso qui dentro a rifare le matrici da solo. Adesso rispondimi guardandomi negli occhi: prima di dirgli di impostare il cruscotto, gli avevi consegnato l'addendum del Mediocredito sul tasso effettivo al 5,85%? Gli avevi spiegato che i tedeschi non pagano prima di centoventi giorni perché pretendono il collaudo asseverato dei pezzi di Silvano?»
 
 Andrea aprì le labbra per ribattere, ma la risposta non salì alla bocca.
 
-Il ricordo delle istruzioni impartite a Enrico il martedì precedente gli riaffiorò nella memoria, nudo e impietoso: *«Enrico, impostami una simulazione dinamica della liquidità di filiera per il comitato di venerdì, fai qualcosa di moderno e pulito»*. Non gli aveva consegnato l'accordo con la Banca Popolare. Non gli aveva spiegato i meccanismi reali di anticipo fatture del Mediocredito. Aveva dato per scontato che ciò che per lui era un automatismo viscerale dopo quindici anni di officina e banche dovesse essere ovvio per un perito appena uscito dall'università.
+Il ricordo delle istruzioni impartite a Enrico il martedì precedente gli riaffiorò nella memoria, nudo e impietoso: *«Enrico, impostami una simulazione dinamica della liquidità di filiera per il comitato di venerdì, fai qualcosa di moderno e pulito»*. Non gli aveva consegnato l'accordo con il Mediocredito. Non gli aveva spiegato i meccanismi reali di anticipo fatture del Mediocredito. Aveva dato per scontato che ciò che per lui era un automatismo viscerale dopo quindici anni di officina e banche dovesse essere ovvio per un ingegnere appena uscito dall'università.
 
 Il mento di Andrea cedette verso lo sterno; le dita si aprirono sul piano in noce della scrivania. «No. Non gli avevo dato i fogli di vincolo.»
 
-«Vuoi la verità, Andrea?» incalzò Elena, senza alzare la voce di un decibel. «La verità è che tu non hai delegato un bel niente. Gli hai detto: 'Fammi un modello moderno'. Non gli hai dato i tassi reali, non gli hai detto che i tedeschi trattengono il saldo, non gli hai fatto vedere un solo estratto conto. L'hai buttato nella nebbia senza bussola. E quando il ragazzo ha fatto l'unica cosa che poteva fare — usare i manuali della Bocconi e del Politecnico — il tuo corpo ha visto rosso perché ti sei ricordato che Omnia non è più il garage di via Tombetta dove decidevi tutto tu con la pizza sul radiatore. Non hai passato la notte sveglio per salvare la baracca: l'hai passata qui per dimostrare che senza di te muoiono tutti.»
+«Vuoi la verità, Andrea?» incalzò Elena, senza alzare la voce di un decibel. «La verità è che tu non hai delegato un bel niente. Gli hai detto: 'Fammi un modello moderno'. Non gli hai dato i tassi reali, non gli hai detto che i tedeschi trattengono il saldo, non gli hai fatto vedere un solo estratto conto. L'hai buttato nella nebbia senza bussola. E quando il ragazzo ha fatto l'unica cosa che poteva fare — usare i manuali della Bocconi e del Politecnico — il tuo corpo ha visto rosso perché ti sei ricordato che Omnia non è più il garage della Bolognina dove decidevi tutto tu con la pizza sul radiatore. Non hai passato la notte sveglio per salvare la baracca: l'hai passata qui per dimostrare che senza di te muoiono tutti.»
 
 L'aria uscì dai polmoni di Andrea senza fare rumore. Sotto la clavicola il muscolo cardiaco rallentò di colpo, lasciandogli un vuoto freddo nella gabbia toracica.
 
 «Se non posso fidarmi dei loro numeri, Elena... cosa devo fare?» mormorò Andrea, e la voce perse la corazza dell'amministratore per farsi fragile come vetro sottile. «Se mollo il volante e loro sbagliano, la responsabilità civile e penale davanti ai creditori è mia. Solo mia.»
 
-«Fidarsi non significa buttare le chiavi della macchina a un neopatentato e poi prenderlo a calci se gratta la prima marcia,» rispose Elena, avvicinandosi e appoggiandogli il palmo caldo sulla nuca rigida. «Delegare non è un atto di fede mistica: è un metodo di ingegneria relazionale. Si delega il compito, si forniscono i parametri vincolanti prima di toccare la tastiera, si concordano i punti di controllo intermedi e si accetta che l'altro faccia errori di percorso senza trattarlo come un sabotatore. Se continui a fare tutto tu perché *fai prima*, tra due anni Omnia sarà ancora ferma a trentadue dipendenti, Enrico se ne andrà da un concorrente, e tu avrai un infarto su questa sedia prima di compiere cinquant'anni. Adesso fatti una doccia, cambiati la camicia e andiamo a Sommacampagna. Ma alle due del pomeriggio, appena rimetti piede in azienda, la prima cosa che fai è chiamare quel ragazzo nel tuo ufficio.»
+«Fidarsi non significa buttare le chiavi della macchina a un neopatentato e poi prenderlo a calci se gratta la prima marcia,» rispose Elena, avvicinandosi e appoggiandogli il palmo caldo sulla nuca rigida. «Delegare non è un atto di fede mistica: è un metodo di ingegneria relazionale. Si delega il compito, si forniscono i parametri vincolanti prima di toccare la tastiera, si concordano i punti di controllo intermedi e si accetta che l'altro faccia errori di percorso senza trattarlo come un sabotatore. Se continui a fare tutto tu perché *fai prima*, tra due anni Omnia sarà ancora ferma a trentadue dipendenti, Enrico se ne andrà da un concorrente, e tu avrai un infarto su questa sedia prima di compiere cinquant'anni. Adesso fatti una doccia, cambiati la camicia e andiamo a Ravenna. Ma alle due del pomeriggio, appena rimetti piede in azienda, la prima cosa che fai è chiamare quel ragazzo nel tuo ufficio.»
 
 ---
 
@@ -193,7 +193,7 @@ Se l'intervento è mosso dal bisogno di quietare la propria angoscia somatica, e
 
 Venerdì 12 dicembre, ore 15:45.
 
-La sala conferenze di LogiDistretto a Sommacampagna si era svuotata da due ore. Il Comitato Plenario di Filiera si era chiuso con un'approvazione unanime: i funzionari della Banca Popolare avevano confermato le linee di credito di rete, Luca aveva ringraziato pubblicamente la struttura per la tenuta del cash flow e Silvano aveva vidimato i cicli macchina per il titanio Hydac. Il Budget Consolidato 2027 era legge di distretto.
+La sala conferenze di LogiDistretto, a Ravenna, si era svuotata da due ore. Il Comitato Plenario di Filiera si era chiuso con un'approvazione unanime: i funzionari del Mediocredito avevano confermato le linee di credito di rete, Luca aveva ringraziato pubblicamente la struttura per la tenuta del cash flow e Silvano aveva vidimato i cicli macchina per il titanio Hydac. Il Budget Consolidato era legge di distretto.
 
 Andrea varcò la porta d'ingresso della sede di Omnia con una tazza di caffè bollente nella mano destra. Le occhiaie scure gli solcavano la pelle del viso e le gambe pesavano per le trentasei ore di veglia ininterrotta, ma il suo passo non cercava il riposo del comandante solitario.
 
@@ -209,7 +209,7 @@ Entrarono nella stanza d'angolo. Andrea chiuse la porta dietro di sé, indicò l
 
 Il ragazzo prese posto sulla punta estrema della seduta, la colonna vertebrale diritta come un asse, le ginocchia serrate. «Dottor Vettori, ho preparato il file con il passaggio di consegne per l'amministrazione, se ritiene che la mia presenza non sia più...»
 
-«Fermati un attimo,» lo interruppe Andrea, posando i palmi aperti sul legno. Sotto lo sterno il diaframma batté contro la gabbia toracica; ammettere il proprio fallimento metodologico bruciava come una bruciatura di mola sui polpastrelli, ma l'impegno preso all'alba a Quinzano resse l'urto dell'orgoglio. «Ieri sera ho commesso un errore pesante di comportamento e di metodo. Ti ho strappato il cavo di mano, ti ho detto che il tuo lavoro era spazzatura e ti ho trattato come un incompetente. Non dovevo farlo. Ti chiedo scusa per la violenza verbale e per i modi.»
+«Fermati un attimo,» lo interruppe Andrea, posando i palmi aperti sul legno. Sotto lo sterno il diaframma batté contro la gabbia toracica; ammettere il proprio fallimento metodologico bruciava come una bruciatura di mola sui polpastrelli, ma l'impegno preso all'alba, in collina, resse l'urto dell'orgoglio. «Ieri sera ho commesso un errore pesante di comportamento e di metodo. Ti ho strappato il cavo di mano, ti ho detto che il tuo lavoro era spazzatura e ti ho trattato come un incompetente. Non dovevo farlo. Ti chiedo scusa per la violenza verbale e per i modi.»
 
 Enrico batté le palpebre due volte, disorientato dalla totale assenza di sanzioni disciplinari. «Ma... i parametri erano sballati... ho rischiato di far saltare il comitato con le banche...»
 
@@ -217,11 +217,11 @@ Enrico batté le palpebre due volte, disorientato dalla totale assenza di sanzio
 
 La domanda disarmò la postura di difesa. Non chiedeva scuse morali: chiedeva il processo logico.
 
-Enrico allentò la presa sul blocco appunti; le dita smisero di sbiancare contro il cartoncino. «Al corso di Finanza Strategica del Politecnico abbiamo studiato che per le aziende con rating A2 che operano in filiere certificate, il modello standard prevede l'applicazione dell'Euribor a tre mesi più spread calmierato, assumendo i tempi medi della legge europea per evitare di sottostimare il valore dell'attivo circolante... Ho pensato che applicare quei criteri mostrasse alle banche che Omnia adotta i modelli internazionali più evoluti. Non sapevo che il Mediocredito applicasse lo spread territoriale del 5,85% e che i clienti pagassero a centoventi giorni. Nessuno me lo aveva mai detto.»
+Enrico allentò la presa sul blocco appunti; le dita smisero di sbiancare contro il cartoncino. «Al corso di Finanza Strategica del Politecnico abbiamo studiato che per le aziende con rating A2 che operano in filiere certificate, il modello standard prevede l'applicazione dell'Euribor a tre mesi più spread calmierato, assumendo i tempi medi della legge europea per evitare di sottostimare il valore dell'attivo circolante... Ho pensato che applicare quei criteri mostrasse alle banche che Omnia adotta i modelli internazionali più evoluti. Non sapevo che il Mediocredito applicasse un tasso effettivo del 5,85% e che i clienti pagassero a centoventi giorni. Nessuno me lo aveva mai detto.»
 
 Andrea chiuse gli occhi per due secondi, espirando a fondo l'aria pesante dei polmoni. L'omissione era lì, documentata e inconfutabile.
 
-«Nessuno te lo aveva detto perché io per primo ho dato per scontato che tu dovessi sapere ciò che io so dopo vent'anni di trincea,» disse Andrea riaprendo gli occhi. «Io ti ho chiesto un modello dinamico moderno, ma non ti ho consegnato la scheda dei vincoli non negoziabili. Ti ho lasciato indovinare le regole del gioco e poi ti ho aggredito perché hai applicato le regole che avevi imparato a scuola. La responsabilità di quel buco da mezzo milione di euro non era tua, Enrico: era della mia incapacità di delegare definendo i perimetri prima di pretendere i risultati.»
+«Nessuno te lo aveva detto perché io per primo ho dato per scontato che tu dovessi sapere ciò che io so dopo quindici anni di trincea,» disse Andrea riaprendo gli occhi. «Io ti ho chiesto un modello dinamico moderno, ma non ti ho consegnato la scheda dei vincoli non negoziabili. Ti ho lasciato indovinare le regole del gioco e poi ti ho aggredito perché hai applicato le regole che avevi imparato a scuola. La responsabilità di quel buco da mezzo milione di euro non era tua, Enrico: era della mia incapacità di delegare definendo i perimetri prima di pretendere i risultati.»
 
 Il ragazzo sciolse la tensione delle spalle; un respiro profondo gli riempì finalmente la parte bassa del torace.
 
@@ -233,11 +233,11 @@ Andrea aprì il cassetto laterale della scrivania, estrasse una cartella blu in 
 
 «Da lunedì mattina cambiamo protocollo. Firmiamo questo mandato a tre stadi:
 
-Primo stadio: **I Cinque Parametri di Vincolo Non Negoziabili**. Prima di toccare qualsiasi codice su Python o PowerBI, io formalizzo per iscritto lo Spread effettivo del Mediocredito al 5,85%, il DSO storico della meccatronica a 115 giorni con collaudo asseverato, il plafond fidi a 300.000 euro, la riserva tecnica di cassa intoccabile a 50.000 euro e il margine operativo lordo minimo del 35% su ogni commessa di rete. Tu progetti l'architettura matematica, ma dentro questo perimetro invalicabile.
+Primo stadio: **I Cinque Parametri di Vincolo Non Negoziabili**. Prima di toccare qualsiasi codice su Python o PowerBI, io formalizzo per iscritto il tasso effettivo del Mediocredito al 5,85%, il DSO storico della meccatronica a 115 giorni con collaudo asseverato, il plafond fidi a 300.000 euro, la riserva tecnica di cassa intoccabile a 50.000 euro e il margine operativo lordo minimo del 35% su ogni commessa di rete. Tu progetti l'architettura matematica, ma dentro questo perimetro invalicabile.
 
 Secondo stadio: **Il Checkpoint a 48 Ore**. Ogni quarantott'ore ci fermiamo quindici minuti sul log delle formule. Se c'è una discrepanza tra la teoria e la realtà del distretto, la correggi tu, non io. Io ti spiego l'attrito territoriale, tu ricalcoli i vettori.
 
-Terzo stadio: **La Piena Titolarità del Risultato**. Quando il modello supera il test del secondo trimestre, la firma sul prospetto è la tua. Al comitato di fine mese con la Banca Popolare, la presentazione del cruscotto a Luca e ai revisori la fai tu in prima persona.»
+Terzo stadio: **La Piena Titolarità del Risultato**. Quando il modello supera il test del secondo trimestre, la firma sul prospetto è la tua. Al comitato di fine mese con il Mediocredito, la presentazione del cruscotto a Luca e ai revisori la fai tu in prima persona.»
 
 Enrico lesse la scheda parametrica riga per riga. Lo sguardo non aveva più l'arroganza accademica del giorno prima, né il terrore della mattina; mostrava la concentrazione severa di un tecnico che riceve un mandato esigente, vincolato a parametri duri ma fondato sul rispetto della sua intelligenza.
 
@@ -253,11 +253,11 @@ Venerdì pomeriggio, ore 16:30.
 
 L'open space di Omnia si riempiva del brusio calmo del personale che completava i rendiconti prima del fine settimana.
 
-Oltre i doppi vetri dell'ufficio d'angolo, la pioggia sulla tangenziale sud si era attenuata in un velo d'acqua sottile che rifletteva le luci gialle dei magazzini industriali.
+Oltre i doppi vetri dell'ufficio d'angolo, la pioggia sulla tangenziale si era attenuata in un velo d'acqua sottile che rifletteva le luci gialle dei magazzini industriali.
 
 Andrea rimase in piedi davanti alla scrivania spenta. Il dolore sordo alla vertebra C5 pulsava ancora sotto la pelle del collo e le palpebre pesavano per la veglia forzata, ma sotto lo sterno il muscolo diaframmatico riprendeva a scendere senza incontrare resistenze.
 
-Sulla scrivania pulita, accanto alla cartella blu della Scheda Parametrica controfirmata da Enrico, poggiava la copia cartacea del Budget Consolidato 2027 approvato a Sommacampagna. Le commesse delle boccole per Kuka salvate da Marta e Silvano, il credito ponte di Marco e i corpi valvola in titanio negoziati con Hydac erano cuciti insieme dentro un unico saldo certo.
+Sulla scrivania pulita, accanto alla cartella blu della Scheda Parametrica controfirmata da Enrico, poggiava la copia cartacea del Budget Consolidato approvato a Ravenna. Le commesse delle boccole per Kuka salvate da Marta e Silvano, il credito ponte di Marco e i corpi valvola in titanio negoziati con Hydac erano cuciti insieme dentro un unico saldo certo.
 
 Andrea prese la borsa da lavoro in cuoio, spense la lampada da tavolo e chiuse la porta a vetri senza voltarsi indietro. Non aveva smesso di essere il custode inflessibile dei numeri di Omnia; aveva smesso, però, di considerare la solitudine dell'accentratore come una medaglia al valore, e aveva tracciato, sul confine ruvido della prima delega asseverata, il binario lungo cui far correre il futuro della rete.
 
