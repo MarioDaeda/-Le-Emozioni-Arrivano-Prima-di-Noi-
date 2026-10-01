@@ -4,7 +4,7 @@ Fonte delle voci: `reports/correzioni/REGISTRO_ANOMALIE.tsv`. Ogni voce fissa il
 
 **Precedenza provvisoria.** Fino al merge della fase Governance, questa Bibbia prevale su ADR 0001 e CONTEXT.md **solo** sui conflitti censiti: tolleranze (G1), sede e territorio (G3), parco macchine, attribuzioni a Damasio (G5). Su tutto il resto la governance resta vincolante.
 
-**Stato.** Le voci territoriali sono APPROVATE secondo `MAPPA_TERRITORIALE.md` (stato: MAPPA TERRITORIALE APPROVATA CON UNA DECISIONE RESIDUA). Resta sospesa una sola voce, «⏸ D1» (scena padre–figlia del Cap.07, voce T5). Tutte le altre voci sono APPROVATE.
+**Stato.** Le voci territoriali sono APPROVATE secondo `MAPPA_TERRITORIALE.md` (D1, D2 e D3 approvate). Tutte le voci sono APPROVATE, compresa T5 (D1).
 
 ## 1. Regola temporale
 
@@ -57,7 +57,7 @@ Timeline interna, non esplicitata nel testo: venerdì 14/11/2025 → venerdì 6/
 | T2 | Sede di Omnia S.r.l. | Bologna, zona industriale, palazzina sulla tangenziale; nessuna via reale | APPROVATA |
 | T3 | Abitazioni | Andrea ed Elena sui colli sopra Bologna; Marco e Giulia a Rimini; Sara alla periferia di Cesena (comune non specificato); Silvano in campagna tra Cesena e Forlì; Davide e Marta nell'area cesenate | APPROVATA |
 | T4 | Scena del Cap.03 | Parco XXV Aprile (Rimini); Marecchia, Piazza sull'Acqua e Ponte di Tiberio solo se percepibili dalla scena, senza infodump | APPROVATA |
-| T5 | Scena del Cap.07 e residenza di Gianni | ⏸ D1 aperta: Darsena di città (Ravenna) oppure argine del Savio (Cesena) | ⏸ D1 |
+| T5 | Scena del Cap.07 e residenza di Gianni | **Darsena di città, Ravenna**: banchina sul Canale Candiano, acqua ferma, ciminiere della zona portuale e binari dello scalo merci; Gianni (ex tornitore delle officine dello scalo ferroviario, fittizie) abita a Ravenna | APPROVATA (D1) |
 | T6 | Scala della rete | «Distretto» = filiera regionale Bologna–Romagna (circa 115 km), non distretto comunale | APPROVATA |
 | T7 | Regola Livello 2 | Nessun ospedale, banca, ente o impresa reale associato a eventi negativi; bando e portale restano generici («la Regione») | APPROVATA |
 | T8 | Gastronomia | Livello minimo: bollito con salsa verde, Sangiovese, mostarda; nessun repertorio turistico o folkloristico | APPROVATA |

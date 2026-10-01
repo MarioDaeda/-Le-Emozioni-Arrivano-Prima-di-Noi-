@@ -57,7 +57,7 @@ Decisioni già prese dall'autore e recepite come vincolo:
 |---|---|---|---|
 | **Bologna** | Direzione e governance: Omnia, Studio Colombo, filiale Mediocredito; casa di Andrea ed Elena sui colli | Il «centro» della rete: decisioni, banche, bandi, studio professionale | Tangenziale e zona industriale; centro storico in mattoni e arenaria, portici; colli a sud con vista sulla pianura e sulla città; nebbia e nevischio invernali |
 | **Cesena** | Produzione: O.M.P. Precision, Accademia Tecnica; case di Sara, Silvano, Davide, Marta | La fabbrica e il corpo del lavoro | Area industriale a nord della città, tra Via Emilia e A14; la Secante; campagna e frutteti verso Forlì; canali di scolo della pianura |
-| **Ravenna** | Logistica: LogiDistretto nell'area portuale; memoria ferroviaria e portuale di Gianni (se D1 = Ravenna) | Il collo di bottiglia materiale: baie, camion, banchine | Canale Candiano, area portuale, scalo ferroviario del porto; Darsena di città come archeologia industriale; vento e umidità dal mare |
+| **Ravenna** | Logistica: LogiDistretto nell'area portuale; memoria ferroviaria e portuale di Gianni (D1) | Il collo di bottiglia materiale: baie, camion, banchine | Canale Candiano, area portuale, scalo ferroviario del porto; Darsena di città come archeologia industriale; vento e umidità dal mare |
 | **Rimini** | Software: NexSys Automation; Marco e Giulia | L'impresa giovane e fragile, il codice, il credito | Casello di Rimini Nord; Parco XXV Aprile sull'antico alveo del Marecchia |
 
 **Distanze di riferimento** (dettaglio e plausibilità in «Matrice di mobilità»):
@@ -114,10 +114,10 @@ Decisioni già prese dall'autore e recepite come vincolo:
 
 | Classe | N | ID |
 |---|---|---|
-| DA SOSTITUIRE | 58 | tutte le voci con stato APPROVABILE, eccetto le 6 DA RIFORMULARE |
-| DA RIFORMULARE | 6 | TERR-002, TERR-020, TERR-025, TERR-037, TERR-078, TERR-083 (la frase cambia struttura, non solo il nome) |
+| DA SOSTITUIRE | 61 | tutte le voci con stato APPROVABILE, eccetto le 8 DA RIFORMULARE |
+| DA RIFORMULARE | 8 | TERR-002, TERR-020, TERR-025, TERR-037, TERR-064, TERR-065, TERR-078, TERR-083 (la frase cambia struttura, non solo il nome) |
 | DA MANTENERE | 24 | tutte le voci con stato DA MANTENERE |
-| DECISIONE AUTORIALE NECESSARIA | 5 | TERR-063, TERR-064, TERR-065, TERR-068, TERR-087 (tutte legate a D1) |
+| DECISIONE AUTORIALE NECESSARIA | 0 | — (D1 approvata) |
 | fuori classe (NON APPLICABILE) | 2 | TERR-004 (Cap.01 senza toponimi), TERR-011 (denominazione, Fase 4) |
 
 Totale: **95 voci TERR**, pari a **115 occorrenze testuali** (TERR-095 aggiunta dopo D3). Sei voci raggruppano occorrenze ripetute dello stesso riferimento esterno:
@@ -228,12 +228,12 @@ Le voci TERR-064 e TERR-065 (scena del Cap.07) contengono più toponimi nello st
 | TERR-060 | CAP.07 L34 | «dall'automotive strutturato dell'Emilia» | Moretti come estraneo | — | DA MANTENERE | Ora interno alla regione, ma regge come contrapposizione Emilia/Romagna (Modena contro officina cesenate) |
 | TERR-061 | CAP.07 L66 | «scogli di Marina di Ravenna» | Ricordo familiare di Marta | — | DA MANTENERE | Ora è locale: rafforza il radicamento |
 | TERR-062 | CAP.07 L74 | «zona industriale di San Michele Extra» | Uscita di Marta da O.M.P. | «zona industriale a nord di Cesena» | APPROVABILE | — |
-| TERR-063 | CAP.07 L78 | titolo «La nebbia del Camuzzoni» | Titolo della scena padre–figlia | «La nebbia della Darsena» (Ravenna) / «La nebbia del Savio» (Cesena) | DECISIONE AUTORIALE NECESSARIA | D1 |
-| TERR-064 | CAP.07 L82 | «canale Camuzzoni, a valle della chiusa di Chievo … bastioni di Verona sud … centrale idroelettrica di Tombetta … ciminiere delle acciaierie e … binari dello scalo merci» | Acqua industriale, memoria operaia, ferrovia | vedi sezione «Capitolo 7» | DECISIONE AUTORIALE NECESSARIA | D1; riformulazione |
-| TERR-065 | CAP.07 L84 | «Nel canale Camuzzoni, la corrente torbida … verso le griglie d'acciaio della centrale» | Corrente come tempo che trascina | vedi sezione «Capitolo 7» | DECISIONE AUTORIALE NECESSARIA | D1; con la Darsena l'acqua è ferma: si riformula |
+| TERR-063 | CAP.07 L78 | titolo «La nebbia del Camuzzoni» | Titolo della scena padre–figlia | «La nebbia della Darsena» | APPROVABILE | D1 approvata: Darsena di Ravenna |
+| TERR-064 | CAP.07 L82 | «canale Camuzzoni, a valle della chiusa di Chievo … bastioni di Verona sud … centrale idroelettrica di Tombetta … ciminiere delle acciaierie e … binari dello scalo merci» | Acqua industriale, memoria operaia, ferrovia | vedi sezione «Capitolo 7» (testo L82) | APPROVABILE | D1 approvata; riformulazione |
+| TERR-065 | CAP.07 L84 | «Nel canale Camuzzoni, la corrente torbida … verso le griglie d'acciaio della centrale» | Corrente come tempo che trascina | vedi sezione «Capitolo 7» (testo L84) | APPROVABILE | D1 approvata; l'acqua è ferma: si riformula |
 | TERR-066 | CAP.07 L86 | «trentasette anni di tornio parallelo alle Officine di Porta Vescovo» | Mestiere ferroviario di Gianni (cappotto da ferroviere) | «… alle officine dello scalo ferroviario» | APPROVABILE | Officine fittizie e senza nome: vale con entrambe le opzioni D1 |
 | TERR-067 | CAP.07 L90, L112 | «ragazzino di Modena», «ragazzo di Modena» | Moretti come estraneo | — | DA MANTENERE | Coerente con TERR-060 |
-| TERR-068 | CAP.07 L108 | «il fumo della centrale di Tombetta quando gira il vento» | Immagine di Gianni | «il fumo delle ciminiere del porto quando gira il vento» (Ravenna) / «il fumo delle ciminiere della zona industriale…» (Cesena) | DECISIONE AUTORIALE NECESSARIA | D1 |
+| TERR-068 | CAP.07 L108 | «il fumo della centrale di Tombetta quando gira il vento» | Immagine di Gianni | «il fumo delle ciminiere del porto quando gira il vento» | APPROVABILE | D1 approvata |
 | TERR-069 | CAP.07 L228 | «dell'asfalto autostradale della A4 verso Milano» | AD lontano, in viaggio | «… della A1 verso Milano» | APPROVABILE | Da Cesena: A14 poi A1 |
 | TERR-070 | CAP.07 L230 | «Sono all'altezza di Brescia.» | Posizione dell'AD | «Sono all'altezza di Parma.» | APPROVABILE | Qui Brescia è una posizione sul percorso, non un fornitore: la si sostituisce |
 
@@ -267,7 +267,7 @@ Le voci TERR-064 e TERR-065 (scena del Cap.07) contengono più toponimi nello st
 | ID | File | Riferimento attuale | Funzione narrativa | Sostituzione proposta | Stato | Note |
 |---|---|---|---|---|---|---|
 | TERR-086 | TOOLKIT L9 | «baie di carico di LogiDistretto all'Interporto Quadrante Europa» | Richiamo | «… di LogiDistretto, al porto di Ravenna» | APPROVABILE | — |
-| TERR-087 | TOOLKIT L52 | «sulla sponda del canale Camuzzoni» | Richiamo della scena del Cap.07 | «sulla banchina della Darsena» / «sull'argine del Savio» | DECISIONE AUTORIALE NECESSARIA | D1; da allineare in Fase 7 |
+| TERR-087 | TOOLKIT L52 | «sulla sponda del canale Camuzzoni» | Richiamo della scena del Cap.07 | «sulla banchina della Darsena» | APPROVABILE | D1 approvata; da applicare in Fase 7 |
 | TERR-088 | TOOLKIT L175 | «concorrente bresciano» | Concorrente esterno | — | DA MANTENERE | A9 |
 | TERR-089 | TOOLKIT L181 | «terzista certificato di Quinzano» | Subfornitore vicino | «terzista certificato del Forlivese» | APPROVABILE | «Quinzano» qui è ambiguo (Verona o Quinzano d'Oglio) |
 | TERR-090 | TOOLKIT L224 | «Claudio (Logistica/Magazzino all'Interporto)» | Ruolo | «… al porto» | APPROVABILE | — |
@@ -276,13 +276,13 @@ Le voci TERR-064 e TERR-065 (scena del Cap.07) contengono più toponimi nello st
 | TERR-093 | TOOLKIT L232 | «Trafilerie Venete di Vicenza» | Fornitore alternativo | — | DA MANTENERE | Esterno |
 | TERR-094 | TOOLKIT L455 | «sulle banchine battute dal vento all'Interporto» | Immagine finale | «sulle banchine battute dal vento del porto di Ravenna» | APPROVABILE | Il vento del mare rende l'immagine più letterale |
 
-**Riepilogo stati (95 voci, dopo le decisioni D2, D3 e facoltative):**
+**Riepilogo stati (95 voci, dopo le decisioni D1, D2, D3 e facoltative):**
 
 | Stato | N |
 |---|---|
-| APPROVABILE | 64 |
+| APPROVABILE | 69 |
 | ALTERNATIVA | 0 |
-| DECISIONE AUTORIALE NECESSARIA | 5 (solo D1) |
+| DECISIONE AUTORIALE NECESSARIA | 0 |
 | DA MANTENERE | 24 |
 | NON APPLICABILE | 2 |
 
@@ -301,7 +301,7 @@ Le voci TERR-064 e TERR-065 (scena del Cap.07) contengono più toponimi nello st
 | Luisa (moglie di Silvano) | ex caposala a Borgo Trento (Cap.04 L109) | Ex caposala in un grande ospedale della Romagna (non nominato) | — | APPROVABILE |
 | Davide | non dichiarata; padre in chemioterapia «al Borgo Trento» (Cap.02 L32) | Area cesenate; padre «in oncologia» | O.M.P. vicina; accompagna il padre (la madre non guida) | APPROVABILE |
 | Marta Bellamoli | non dichiarata | Area cesenate | O.M.P.; nel Cap.07 raggiunge il padre in auto | APPROVABILE |
-| Gianni Bellamoli | non dichiarata; ex tornitore alle «Officine di Porta Vescovo» | **Ravenna**, quartiere vicino alla Darsena (se D1 = Ravenna) / **Cesena** (se D1 = Cesena) | In pensione; la scena del Cap.07 è nel suo luogo | DECISIONE AUTORIALE NECESSARIA (D1) |
+| Gianni Bellamoli | non dichiarata; ex tornitore alle «Officine di Porta Vescovo» | **Ravenna**, vicino alla Darsena | In pensione; la scena del Cap.07 è nel suo luogo; Marta lo raggiunge da Cesena (circa 35 min) | APPROVABILE (D1) |
 | Luca Marangon | non dichiarata | Bologna | Omnia | APPROVABILE (nessuna modifica testuale) |
 | Claudio Marcolini | non dichiarata | Ravenna | LogiDistretto in porto | APPROVABILE (nessuna modifica testuale) |
 | Valerio | non dichiarata | Area cesenate | Ufficio Acquisti di O.M.P.; trattoria vicina | APPROVABILE (nessuna modifica testuale) |
@@ -318,7 +318,7 @@ Distanze e tempi: fonti nella sezione «Fonti verificate». Dove non c'è una fo
 | **Bologna ↔ Ravenna** (circa 78 km, 44–59 min, A14 + A14dir) | Cap.05: Andrea in casa alle 05:42 (L90), Comitato a Ravenna alle 09:00 (L11), rientro in Omnia «alle due del pomeriggio» (L138) e alle 15:45 (L194–198); Cap.06: rappresentanti di Omnia in sala alle 14:26, poi Omnia il giorno dopo alle 11:15 | Auto | 3 ore tra l'alba e il Comitato; circa 2 ore tra la fine del Comitato (circa 13:45) e le 15:45 | **Plausibile** | Nebbia sull'A14 in dicembre: il margine c'è |
 | **Bologna ↔ Cesena** (circa 84 km, circa 45 min, A14) | Cap.06: Zantedeschi (Bologna) a cena con Valerio a Cesena alle 20:38; Cap.05: Silvano al Comitato e poi in officina | Auto | Serale; nessun vincolo stretto | **Plausibile** | Nessuno |
 | **Bologna ↔ Rimini** (circa 115 km, circa 1 h 10, A14) | Cap.03: Marco da NexSys alla filiale Mediocredito, martedì alle 14:48 (L176); Toolkit L154: «filiale lunedì mattina alle 08:30» | Auto (o treno) | Partenza da Rimini intorno alle 13:15 / 07:00 | **Plausibile** | Pendolarismo bancario lungo ma realistico per una PMI; nebbia invernale |
-| **Cesena ↔ Ravenna** (stima 30–35 km, circa 35 min, E45) | Cap.02 L74: camion LogiDistretto alle 06:00 da O.M.P.; Cap.06: Valerio e Silvano al comitato delle 14:26; Cap.07: Marta da O.M.P. alla Darsena sabato alle 15:20 (se D1 = Ravenna) | Camion; auto | Ampie | **Plausibile** | E45 soggetta a cantieri (non narrativamente rilevante) |
+| **Cesena ↔ Ravenna** (stima 30–35 km, circa 35 min, E45) | Cap.02 L74: camion LogiDistretto alle 06:00 da O.M.P.; Cap.06: Valerio e Silvano al comitato delle 14:26; Cap.07: Marta da O.M.P. alla Darsena sabato alle 15:20 (D1) | Camion; auto | Ampie | **Plausibile** | E45 soggetta a cantieri (non narrativamente rilevante) |
 | **Cesena ↔ Rimini** (stima circa 30 km, circa 30 min, A14) | Cap.03 L10: il software NexSys collega le macchine di O.M.P.; interventi tecnici | Auto | Nessuna scena cronometrata | **Plausibile** | Nessuno |
 | **Ravenna ↔ Rimini** (stima circa 50 km, 50–60 min, SS16 Adriatica) | Cap.03 L10: NexSys collega la flotta di LogiDistretto; eventuale presenza di Marco al Comitato del Cap.05 | Auto | Nessuna scena cronometrata | **Plausibile** | Nessuno |
 
@@ -361,7 +361,7 @@ Servono spazio aperto, freddo e isolamento.
 
 Il paesaggio deve dire *lavoro operaio, acqua industriale, ferrovia, memoria*.
 
-**Opzione A, raccomandata — Darsena di città, Ravenna** → DECISIONE AUTORIALE NECESSARIA (D1)
+**Decisione dell'autore (D1) — Darsena di città, Ravenna** → APPROVABILE
 - **Coerenza:** la Darsena è la testata del Canale Candiano (scavato nel 1737). La stazione (1863) fu costruita accanto ad essa con un binario diretto al porto. Fu il porto della città fino agli anni Settanta; oggi è archeologia industriale con stabilimenti dismessi. Ferrovia e porto sono la memoria naturale di un ex ferroviere.
 - **Testo proposto per L82** (indicativo, Fase 4):
   > «La banchina sterrata della vecchia Darsena, dove il Canale Candiano entra in città, era una striscia di fango grigio battuta dal vento umido che saliva dal mare. L'acqua scura, profonda e pesante, ristagnava a filo di sponda tra i muraglioni di cemento, sotto i silos vuoti dei vecchi stabilimenti. I tronchi nudi dei platani sparivano a mezz'altezza dentro un banco di nebbia densa che cancellava le ciminiere della zona portuale e i binari dello scalo merci.»
@@ -370,7 +370,7 @@ Il paesaggio deve dire *lavoro operaio, acqua industriale, ferrovia, memoria*.
 - **Abitazione di Gianni:** Ravenna. Marta guida da Cesena per circa 35 minuti: plausibile.
 - **Rischio:** cambia l'immagine dell'acqua (da corrente a stasi). L'autore deve accettare il nuovo valore simbolico: il tempo fermo, non il tempo che scorre.
 
-**Opzione B — argine del Savio, Cesena** → ALTERNATIVA
+**Alternativa archiviata — argine del Savio, Cesena** (non adottata)
 - **Coerenza:** il Savio attraversa Cesena con acqua corrente. La linea ferroviaria Bologna–Ancona passa per la città. Gianni vivrebbe a Cesena, vicino alla figlia.
 - **Pro:** conserva la corrente (L82, L84) con modifiche minime: «L'argine sterrato del Savio, a valle del ponte ferroviario, …». Non serve spostare Marta.
 - **Contro:**
@@ -409,7 +409,7 @@ Il porto, l'A14, la Via Emilia e la nebbia bastano a radicare.
 
 ## Impatti sulla Bibbia
 
-Chiusura delle cinque voci «⏸ TERRITORIO» di `BIBBIA_CANONICA.md`. Dopo le decisioni del 2026-10-01 la Bibbia è stata aggiornata con questi valori: voci 2b, 3, 8, 12 e 13 più la sezione «2b. Dati territoriali», T1–T8. Resta sospesa solo T5 (D1).
+Chiusura delle cinque voci «⏸ TERRITORIO» di `BIBBIA_CANONICA.md`. Dopo le decisioni del 2026-10-01 la Bibbia è stata aggiornata con questi valori: voci 2b, 3, 8, 12 e 13 più la sezione «2b. Dati territoriali», T1–T8. Anche T5 è approvata (D1).
 
 | Voce Bibbia | Stato attuale | Decisione proposta | Stato proposta |
 |---|---|---|---|
@@ -427,7 +427,7 @@ Chiusura delle cinque voci «⏸ TERRITORIO» di `BIBBIA_CANONICA.md`. Dopo le d
 | N2 | Sede Omnia S.r.l. | Bologna, zona industriale, palazzina sulla tangenziale; nessuna via reale |
 | N3 | Abitazioni | Come nella «Matrice delle abitazioni» |
 | N4 | Scena del Cap.03 | Parco XXV Aprile (Rimini); Marecchia, Piazza sull'Acqua e Ponte di Tiberio solo se percepibili |
-| N5 | Scena del Cap.07 | ⏸ D1 aperta (Darsena di Ravenna oppure Savio a Cesena) |
+| N5 | Scena del Cap.07 | Darsena di città, Ravenna; Gianni abita a Ravenna (D1) |
 | N6 | Scala della rete | «Distretto» = filiera regionale Bologna–Romagna (circa 115 km); non distretto comunale |
 | N7 | Regola Livello 2 | Nessun ospedale, banca, ente o impresa reale associato a eventi negativi; il bando e il portale restano generici («la Regione») |
 | N8 | Trattoria «Da Gino» | Zona industriale di Cesena, presso la Secante; cucina come in «Gastronomia» |
@@ -460,22 +460,18 @@ Modifiche da eseguire nella **Fase 3** (governance), non ora.
 
 | ID | Oggetto | Stato |
 |---|---|---|
-| D1 | Scena padre–figlia del Cap.07 e residenza di Gianni | **APERTA** |
+| D1 | Scena padre–figlia del Cap.07: Darsena di città, Ravenna; Gianni abita a Ravenna | **APPROVATA** |
 | D2 | Origine di Omnia: «un garage della Bolognina, a Bologna» | **APPROVATA** |
 | D3 | «Mediocredito» banca narrativa; «Fondo di garanzia»; «gestore del Fondo di garanzia» | **APPROVATA** (opzione A) |
 
-Decisioni facoltative: **risolte**.
+Decisioni facoltative: **approvate**.
 - Cap.03: Parco XXV Aprile.
 - Gastronomia: livello minimo.
 - Comune di Sara: non specificato.
 
 ## Decisioni ancora necessarie
 
-| ID | Decisione | Voci collegate | Opzioni | Raccomandazione |
-|---|---|---|---|---|
-| **D1** | Ambientazione della scena padre–figlia del Cap.07 e residenza di Gianni | TERR-063, 064, 065, 068, 087; abitazione di Gianni | A) Darsena di città, Ravenna (porto e ferrovia; acqua ferma) · B) argine del Savio, Cesena (acqua corrente; nessun porto) | **A**, se l'autore accetta l'acqua ferma come nuova immagine; altrimenti B |
-
-Nessun'altra decisione è bloccante.
+Nessuna. Tutte le decisioni (D1, D2, D3 e facoltative) sono approvate.
 
 ---
 
@@ -520,21 +516,20 @@ Sono da confermare prima della Fase 4 se l'autore sceglie le opzioni che ne dipe
 
 ## Verdetto territoriale
 
-**MAPPA TERRITORIALE APPROVATA CON UNA DECISIONE RESIDUA**
+**MAPPA COERENTE — PRONTA PER APPROVAZIONE**, con tutte le decisioni autoriali approvate.
 
-**Stato delle decisioni:** D1 APERTA · D2 APPROVATA · D3 APPROVATA.
-
-La mappa **non** è dichiarata definitivamente approvata finché D1 resta aperta.
+**Stato delle decisioni:** D1, D2 e D3 APPROVATE; decisioni facoltative APPROVATE.
 
 **Motivazione:**
-- **Censimento completo.**
-  - Fonti: 11 file canonici, master (righe 1–53), governance.
-  - Risultato: 95 voci TERR (TERR-095 aggiunta con D3).
-- **Assetto delle entità approvato.** Le voci di Bibbia 2b, 3, 8, 12 e 13 hanno un valore definitivo.
-- **Mobilità:** tutte e sei le tratte sono plausibili; nessun orario va cambiato.
-- **Livello 2 rispettato:**
-  - nessun ospedale, ente, banca o impresa reale associato a eventi negativi;
-  - «Mediocredito Centrale» non indica mai la banca;
-  - la Bolognina è nominata senza caratterizzazioni non verificate.
-- **Residua solo D1** (scena del Cap.07: Darsena di Ravenna oppure argine del Savio). Ne dipendono TERR-063, 064, 065, 068, 087 e la residenza di Gianni.
-- **Denominazioni:** «NexSys Automation» adottata; «NexSys Solutions» non adottata. Brescia come fornitore o concorrente non sostituita.
+- **Censimento completo:** 95 voci TERR (11 file canonici, master righe 1–53, governance).
+- **Nessuna voce in attesa di decisione:**
+  - 69 APPROVABILE;
+  - 24 DA MANTENERE;
+  - 2 NON APPLICABILE.
+- **Assetto delle entità:** definitivo, con la Bibbia allineata (voci 2b, 3, 8, 12, 13, 16 e T1–T8).
+- **Mobilità:** sei tratte, tutte plausibili.
+- **Livello 2:** rispettato.
+- **Applicazione:**
+  - sostituzioni nei capitoli: Fase 4;
+  - Toolkit (TERR-086…094): Fase 7;
+  - ADR 0001: Fase 3.
