@@ -124,3 +124,19 @@
 - POV: buono; L213 enunciato-tesi autoriale (P3).
 - Ponte L332-338: "soci fondatori al 50% ... quindici anni di fatiche" (cluster anzianità Omnia); Marta chiamata "collaudatrice" (L332, Note L360) vs capotecnica (P3).
 - Note L353-356: Marta "presente nei Capitoli ... 4 (setup di sgrossatura sul titanio) e 6 (ricezione del lotto Ferrometalli)" (non in C06), "rifiuta l'emigrazione in Svizzera" (assente nel testo), percorso file "bozze_capitoli/CAPITOLO_08..." e "riga 14" → note interne inattendibili.
+## Note C08 canon (346 l., BOM iniziale) POV Andrea; Luca, Elena, Sara (cameo)
+- Struttura: AI 3-66 (lun 9/02 18:28 → 00:18) | AII 69-120 (mar 21:15 Quinzano) | AIII 123-165 | AIV 168-240 (mer 11/02 07:22) | AV 243-326 | Note 329-347.
+- Date: 9/02/2026 lunedì ✓; 18:28 + 5 h 31 min = 23:59 ✓; invio 23:44 ✓; 11/02 mercoledì ✓. Bando 180.000 € ✓, 23:59 ✓ (mandato).
+- ANZIANITÀ OMNIA: L37 "Quindici anni ... primi contratti firmati nel 2011 ... garage ... via Tombetta", L180 tazza "Omnia 2011", L81/L113 "soci da quindici" ⇒ canone maggioritario = fondazione 2011 (15 anni) vs Pref L45 "vent'anni prima" e C01 L29 "in vent'anni" → P2.
+- L39 "Da diciotto mesi" vs L83 "quindici mesi di disimpegno" (retorica, P3). L113 Elena "Avete cinquant'anni" (Andrea 45, Luca 43) P3.
+- ZANTEDESCHI: L59/L155/L222 "il dottor Zantedeschi, commercialista storico di Omnia" vs C06 L96 "per ventotto anni Direttore Amministrativo di O.M.P. ... in pensione tre anni prima" → P2 lore (profilo incompatibile).
+- L77 replica di Luca "messaggio di quattordici parole": conteggio reale = 15 parole (script) → P3 (ironia: il libro fa del conteggio parole un metodo in C03).
+- Casa Quinzano: C05 L96 "stufa a pellet" nello studio vs C08 L73/L115 "stufa in maiolica" con legna → P3.
+- L109 moglie di Luca "Claudia" = stesso nome della funzionaria Bignami (C03) P3 omonimia; figlio Mattia (L27).
+- L119 Elena sa che Luca "alle sette e mezza sarà in ufficio a svuotare i cassetti": fonte non preparata (P3).
+- AIII: Michotte 1946 ✓; L131 citazione virgolettata attribuita a Kahneman/Bloom: prima frase = parafrasi di TFS cap. 6 (Bloom), seconda frase ("Il Sistema 1 non vede eventi neutri...") non presente nell'originale → cluster citazioni non verificabili (P2); L139 "allostatic load, Sterling & Eyer 1988" (allostasi = Sterling & Eyer 1988; carico allostatico = McEwen & Stellar 1993) P3; Ross 1977 ✓; art. 2484 c.c. ✓.
+- AIV medico: L200 crisi ipertensiva 180/100 con perdita del visus monoculare, "medico di base ... andare subito a casa al buio" → prassi: invio urgente in PS; inoltre Luca va "a prendere Mattia al basket" (guida con amaurosi) → plausibilità P2.
+- AIV legale: L222 comunicare al Collegio Sindacale la mail come "mero disguido tecnico d'ufficio" (dichiarazione non veritiera all'organo di controllo) P3; L225 "Sabbatical Medico ... coperto da polizza assicurativa D&O" (D&O = responsabilità amministratori, non copertura sanitaria/reddito; serve polizza key-man/LTC/income protection) → P2 tecnico-giuridico.
+- AIV registro: L196, L208 ("perdonami... sono solo un uomo solo"), L206 abbraccio delle spalle, L233-235 "La rigidità ... era scomparsa", "Ci siamo detti quello che dovevamo dirci da due anni" → riconciliazione emotiva in 24 h contro Pref L184/L195 ("nessuna riconciliazione emotiva, abbracci consolatori") → cluster ATTO IV (P2; valutare sistematicità).
+- Grassetto dentro i dialoghi (L83, L93, L97, L196, L200: battute "GOLD" non domande di processo) → artefatto di revisione (P3 formale).
+- Note L341 cita C01 come "sussurro esausto di Luca ... «Forse dovremmo far controllare i numeri ad altri»" (C01 L15: frase diversa, tono non esausto) → note inattendibili.
