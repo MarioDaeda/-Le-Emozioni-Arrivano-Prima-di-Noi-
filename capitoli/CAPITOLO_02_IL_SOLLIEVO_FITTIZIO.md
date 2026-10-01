@@ -21,7 +21,7 @@ Davide spinse la porta tenendola per il bordo metallico, come se temesse di far 
 
 Sara indicò la poltroncina nera davanti alla scrivania. «Siediti, Davide. Per favore.»
 
-Davide si sedette solo sull'orlo della seduta, le ginocchia serrate, le mani intrecciate con le nocche sbiancate dalla pressione reciproca. Non appoggiò la schiena. Sembrava pronto a scattare in piedi al primo segnale d'allarme, come un animale braccato finito in una strettoia.
+Davide si sedette solo sull'orlo della seduta, le ginocchia serrate, le mani intrecciate con le nocche sbiancate dalla pressione reciproca. Non appoggiò la schiena. I talloni staccati dal pavimento, il peso tutto sulle punte delle scarpe: al primo segnale d'allarme sarebbe scattato in piedi, come un animale braccato finito in una strettoia.
 
 Sara aprì la cartellina arancione. Aveva preparato l'apertura mentale fin dal mattino, provandola mentre guidava lungo la Secante: *Davide, i dati delle ultime due settimane non sono conformi agli standard minimi di reparto. Ci sono tre controlli saltati e un lotto rovinato. Questa è una contestazione formale di processo: dobbiamo mettere a verbale cosa non ha funzionato e stabilire un piano di rientro tassativo.* Era una formulazione asciutta, corretta, prescritta dal protocollo aziendale di qualità. Una formulazione che tutelava l'azienda e richiamava il collaboratore alle sue responsabilità contrattuali.
 
@@ -35,7 +35,7 @@ Una lacrima, pesante e densa, gli scivolò lungo la guancia sinistra senza che l
 
 In quell'istante, prima di qualunque pensiero articolato, il corpo di Sara fu attraversato da una detonazione somatica violenta.
 
-Uno spasmo sordo le serrò lo stomaco, come se un pugno invisibile avesse compresso il plesso solare spingendolo contro la colonna vertebrale. Il respiro le si bloccò all'altezza della laringe in un'apnea istintiva; le tempie presero a pulsare a ritmo accelerato, mentre una morsa gelida le saliva lungo la schiena, irrigidendole i muscoli trapezi fino alla base del collo. Era la sensazione fisiologica intollerabile della crudeltà: la percezione immediata, viscerale, di essere a un millimetro dal vibrare un fendente distruttivo su un essere umano già in ginocchio. La sua identità interiore — costruita in quindici anni di gestione delle risorse umane sul principio inderogabile dell'ascolto, dell'umanità, della vicinanza alla sofferenza dei lavoratori contro l'aridità dei numeri contabili — venne investita da un allarme di incoerenza devastante. *Se tiro fuori la contestazione adesso, lo ammazzo. Se gli impongo la procedura, sono un boia aziendale. Non posso essere io quella che gli toglie il futuro.*
+Uno spasmo sordo le serrò lo stomaco, come se un pugno invisibile avesse compresso il plesso solare spingendolo contro la colonna vertebrale. Il respiro le si bloccò all'altezza della laringe in un'apnea istintiva; le tempie presero a pulsare a ritmo accelerato, mentre una morsa gelida le saliva lungo la schiena, irrigidendole i muscoli trapezi fino alla base del collo. La sua identità interiore — costruita in quindici anni di gestione delle risorse umane sul principio inderogabile dell'ascolto, dell'umanità, della vicinanza alla sofferenza dei lavoratori contro l'aridità dei numeri contabili — venne investita da un allarme di incoerenza devastante. *Se tiro fuori la contestazione adesso, lo ammazzo. Se gli impongo la procedura, sono un boia aziendale. Non posso essere io quella che gli toglie il futuro.*
 
 Il campo visivo di Sara si restrinse drasticamente. I millesimi di millimetro delle boccole e la rugosità Ra 0.8 prescritta, le penali del cliente tedesco, il costo del metallo rovinato, l'accordo di filiera con Omnia e NexSys: tutto svanì nello sfondo sfocato. Rimase soltanto il volto contratto di Davide e la necessità viscerale, assoluta, indifferibile di far cessare quel dolore nella stanza. Di spegnere quella stretta intollerabile che le toglieva il fiato.
 
@@ -143,7 +143,7 @@ Il silenzio calò nella cucina, rotto solo dal gorgoglio leggero del sugo sul fo
 
 «Non ne abbiamo parlato,» sussurrò. «Gli ho detto di andare a casa e di riposarsi fino a lunedì.»
 
-«Ecco,» disse Roberto, abbassando la voce, senza un filo di trionfalismo, con una precisione quasi pietosa. «Un responsabile delle risorse umane si trova davanti a un inadempimento operativo grave, vede la sofferenza di un collaboratore, prova una stretta acuta allo stomaco, chiude il dossier senza toccare la produzione, e manda a casa la persona dicendole che è tutto a posto. E subito dopo sul tuo viso compare un'espressione di immenso, totale sollievo.»
+«Ecco,» disse Roberto, abbassando la voce, senza un filo di trionfalismo, con una precisione quasi pietosa. «Un responsabile delle risorse umane ha sul tavolo un inadempimento operativo grave e davanti un ragazzo che piange. Chiude il dossier, lo spinge di lato senza toccare la produzione e manda a casa la persona dicendole che è tutto a posto. Alle cinque e mezza mi telefona dall'auto per dirmi che è serena.»
 
 «Volevo aiutarlo!»
 
@@ -210,7 +210,7 @@ La zona industriale di O.M.P. Precision era immersa in una foschia umida che sal
 
 Sara spense il motore. Non era in camicia da ufficio: indossava un maglione pesante a collo alto, pantaloni di velluto e scarpe comode. Aveva dormito meno di quattro ore. Quando scese dall'auto, l'odore metallico dell'aria e il sibilo dei compressori del reparto centrale le strinsero il plesso solare nella stessa, identica contrazione muscolare che l'aveva bloccata il giorno prima.
 
-La comprensione raggiunta la sera prima al tavolo di cucina con Roberto non aveva resettato per incanto la sua fisiologia. Il corpo non risponde alle riflessioni razionali con una guarigione automatica: la sua memoria biologica continuava a segnalare allarme, fatica, timore dell'aggressione verbale. Le dita erano gelate e il cuore batteva a vuoto contro lo sterno. Ma questa volta quel segnale corporeo misurava solo la sua attivazione, non l'impossibilità di agire.
+Quello che aveva capito la sera prima al tavolo di cucina, con Roberto, non le aveva sciolto il nodo. Le dita erano gelate e il cuore batteva a vuoto contro lo sterno. Ma questa volta le gambe la portavano avanti lo stesso.
 
 Varcò la porta dell'officina. Le luci al neon illuminavano solo la navata centrale. Sull'isola 4, Marta era in piedi sopra la pedana di legno, con il grembiule di cuoio sopra la tuta, intenta a soffiare con la pistola ad aria compressa sui trucioli di alluminio incastrati tra le morse pneumatiche. Accanto a lei c'era una cassetta metallica con centottanta boccole finite e già certificate in sala metrologica, impilate con cura geometrica dentro fogli di carta oleata.
 
@@ -222,17 +222,15 @@ Sara si avvicinò fino a fermarsi a due passi dalla pedana. Non abbozzò alcun s
 
 «Marta, ieri pomeriggio ho commesso un errore grave di gestione,» disse. Le parole uscirono ferme, prive di tremore, ancorate a una cadenza bassa. «Ho lasciato che il mio disagio davanti a Davide decidesse al posto della realtà. Ho cercato il mio sollievo personale rimandando una conversazione difficile e ho scaricato su di te tre ore di lavoro e una responsabilità che non ti spettava. Sono venuta qui per dirti questo, prima di tutto.»
 
-Marta batté le palpebre due volte. L'espressione di dura corazza che aveva preparato per accogliere la solita predica manageriale ebbe un'esitazione impercettibile. Ma l'amarezza di ventidue anni di officina non si scioglieva con una frase onesta.
+Marta batté le palpebre due volte. La mascella le si allentò per un istante, il mento scese di un niente, come davanti a una quota che non torna. Poi la bocca tornò a serrarsi nella piega che ventidue anni di officina le avevano scavato ai lati delle labbra.
 
 «Le scuse non mi tolgono il freddo di ieri notte dalle mani, Sara,» replicò, asciugandosi le dita unte su uno straccio. «Davide è un bravo ragazzo, ma se non sa usare il MES sui cinque assi deve dirlo. E se ha la testa da un'altra parte, le macchine non aspettano che suo padre guarisca. Qui dentro i pezzi girano a due millesimi. Se sbaglio io, l'azienda mi chiede i danni. Se sbaglia lui, voi dell'ufficio gli date una carezza e io faccio la notte.»
 
 «Hai perfettamente ragione,» rispose Sara, guardandola dritta negli occhi. «Ed è esattamente per questo che non sono venuta a chiederti di perdonarlo, né di perdonare me. Sono venuta a farti una domanda tecnica di processo: **quando ieri sera ti sei trovata davanti al blocco dell'isola 4, qual è stato il punto esatto di fallimento della procedura che ha reso inevitabile il tuo intervento manuale?**»
 
-La domanda disarmò l'escalation. Non c'era psicologismo, non c'era richiesta di empatia forzata. Era una domanda di pura ingegneria organizzativa.
-
 Marta scese dalla pedana, prese la cartellina con i fogli macchina e la sbatté sul banco di calibrazione. «Il punto è che Davide non sa azzerare la sonda wireless Renishaw sul pezzo grezzo quando il materiale non è alla temperatura di riferimento. Ieri il capannone era a dieci gradi, l'ergal sul diametro da centotrenta millimetri si contrae di tre centesimi. Lui non era in grado di correggere l'offset a pannello, ha visto che il MES andava in blocco, si è spaventato, ha avuto paura di fare danni e non ha inserito i dati per non lasciare la traccia del suo errore. Se tu lo richiami per la chemio del padre, lui si chiude e ti dice quello che vuoi sentire. Ma il problema non è suo padre: il problema è che sui cinque assi non ha ancora la mano e si vergogna a farsi vedere insicuro.»
 
-Un clic scattò nella mente di Sara: il punto cieco era finalmente visibile. La cecità era stata reciproca: Sara aveva trattato Davide come un caso puramente umano da proteggere con l'indulgenza, Davide aveva usato la tragedia familiare per nascondere la propria inadeguatezza tecnica sui nuovi macchinari per paura di perdere il lavoro, e Marta aveva trasformato il proprio sovraccarico in un giudizio morale di disprezzo verso l'intera linea gerarchica.
+Sara abbassò gli occhi sui fogli macchina: le caselle delle quote vuote, la firma che mancava. Ieri, nel suo ufficio, Davide le aveva parlato del padre, della chemio, del mutuo. Della sonda, nemmeno una parola. E lei non gliel'aveva chiesto. Marta teneva il palmo piatto sulla cartellina, le nocche bianche, come se dentro ci fosse la prova a carico di tutti quelli dell'ufficio.
 
 «Lunedì mattina alle 07:30 Davide sarà qui,» disse Sara. «Non nel mio ufficio. Qui, davanti a questa macchina.»
 
