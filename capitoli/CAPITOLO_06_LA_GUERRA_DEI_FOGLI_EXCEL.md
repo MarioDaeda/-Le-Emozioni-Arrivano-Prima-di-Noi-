@@ -276,7 +276,7 @@ Nella stanza il silenzio divenne pesante. Valerio fissava la colonna dei costi l
 
 Enrico passò alla seconda schermata del modello:
 
-«Abbiamo fatto una simulazione alternativa inserendo un trafilatore industriale certificato di Vicenza, le Trafilerie Venete. Il suo prezzo d'acquisto è più alto del **5%** rispetto a Brescia, riducendo il risparmio teorico lordo a **€ 48.000**. Tuttavia, l'indice di conformità dimensionale è del 99,8% con barre pelate e forate in classe di tolleranza h7. Dedotto lo 0,2% di sfrido fisiologico e tolleranza dimensionale a nostro carico pari a **€ 1.500**, il beneficio netto consolidato reale per l'azienda è di **€ 46.500 all'anno**. Risultato materiale: zero bancali in quarantena, zero soste passive degli autisti, e tolleranze millimetriche garantite per i torni dell'officina.»
+«Abbiamo fatto una simulazione alternativa inserendo un trafilatore industriale certificato di Vicenza, le Trafilerie Venete. Il suo prezzo d'acquisto è più alto del **5%** rispetto a Brescia, riducendo il risparmio teorico lordo a **€ 48.000**. Tuttavia, l'indice di conformità dimensionale è del 99,8% con barre rettificate e forate in classe di tolleranza h7. Dedotti lo sfrido fisiologico dello 0,2%, circa milletrecento euro sul valore annuo della fornitura, e una riserva per gli scarti dimensionali a nostro carico, in tutto una stima prudenziale di **€ 1.500**, il beneficio netto consolidato reale per l'azienda è di **€ 46.500 all'anno**. Risultato materiale: zero bancali in quarantena, zero soste passive degli autisti, e tolleranze millimetriche garantite per i torni dell'officina.»
 
 Claudio fissò le specifiche tecniche della schermata. Si passò la mano ruvida sulla barba ispida, poi guardò Valerio dall'altro lato del tavolo:
 

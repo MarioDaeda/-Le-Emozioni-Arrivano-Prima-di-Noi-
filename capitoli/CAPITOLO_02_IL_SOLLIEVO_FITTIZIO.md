@@ -45,7 +45,7 @@ Chiuse la cartellina arancione con un movimento lento, deliberato, spingendola l
 
 Davide sollevò il capo, sgranando gli occhi con un'incredulità che cercava conferma. «Davvero?»
 
-«Davvero,» proseguì Sara. La tensione alla gola le si allentava già di colpo. «Non ci sarà nessuna lettera di contestazione per oggi. Non inserisco il verbale nel fascicolo disciplinare. Però mi serve che tu ti riprenda, che ritrovi la concentrazione. Adesso prenditi il fine settimana per stare vicino a tuo padre. Lunedì mattina vieni da me dieci minuti prima dell'inizio del turno e vediamo come riorganizzare i passaggi senza farti affondare. Ce la facciamo, d'accordo?»
+«Davvero,» proseguì Sara. La tensione alla gola le si allentava già di colpo. «Non ci sarà nessuna lettera di contestazione per oggi. Non inserisco il verbale nel fascicolo disciplinare. Però mi serve che tu ti riprenda, che ritrovi la concentrazione. Adesso prenditi il fine settimana per stare vicino a tuo padre. Lunedì vieni da me dieci minuti prima dell'inizio del turno e vediamo come riorganizzare i passaggi senza farti affondare. Ce la facciamo, d'accordo?»
 
 Davide si portò entrambe le mani alla bocca. Trattenne un singhiozzo, poi si alzò in piedi, sporgendosi verso la scrivania come se volesse abbracciarla. «Grazie, Sara. Grazie dal profondo del cuore. Non lo dimenticherò mai. Lunedì recupero tutto, promesso. Qualsiasi cosa serva.»
 
@@ -232,15 +232,15 @@ Marta scese dalla pedana, prese la cartellina con i fogli macchina e la sbatté 
 
 Sara abbassò gli occhi sui fogli macchina: le caselle delle quote vuote, la firma che mancava. Ieri, nel suo ufficio, Davide le aveva parlato del padre, della chemio, del mutuo. Della sonda, nemmeno una parola. E lei non gliel'aveva chiesto. Marta teneva il palmo piatto sulla cartellina, le nocche bianche, come se dentro ci fosse la prova a carico di tutti quelli dell'ufficio.
 
-«Lunedì mattina alle 07:30 Davide sarà qui,» disse Sara. «Non nel mio ufficio. Qui, davanti a questa macchina.»
+«Lunedì all'una e mezza, prima del suo turno, Davide sarà qui,» disse Sara. «Non nel mio ufficio. Qui, davanti a questa macchina.»
 
 «E cosa gli diciamo?» chiese Marta con scetticismo.
 
-«Gli diciamo la verità oggettiva. La cartellina con le contestazioni disciplinari non verrà stracciata: resterà aperta con una sospensione di trenta giorni vincolata alla firma di un Addendum Formale di Addestramento Tecnico al CCNL Metalmeccanico. Per due ore al giorno, sul turno del mattino, Davide farà il collaudo dimensionale affiancato da te sull'isola 4. Tu sarai formalmente nominata sua tutor di linea con un'indennità specifica di funzione di trecentocinquanta euro lordi riconosciuta in busta paga da questo mese. E alle ore 15:00 di ogni giorno ci sarà un checkpoint informatico obbligatorio sul MES: se alle 15:00 le schede non sono validate a sistema, scatta un alert automatico a me e a Silvano prima dell'uscita del turno, con riassegnazione immediata del pezzo senza fermo mandrino. Se Davide accetta questo patto, dimostra che vuole imparare e O.M.P. lo aspetterà fino alla guarigione di suo padre. Se rifiuta o salta un altro controllo senza segnalarlo entro le 15:00, la contestazione formale va dritta all'ufficio legale per il licenziamento per giusta causa.»
+«Gli diciamo la verità oggettiva. La contestazione non la straccio e non la tengo in un cassetto: lunedì gliela consegno per iscritto, perché i fatti sono questi. Avrà cinque giorni per dare le sue giustificazioni, anche con il delegato sindacale accanto, se vuole. Intanto firma con noi un patto formativo individuale: quattro settimane, due ore al giorno all'inizio del suo turno, dalle due alle quattro, collaudo dimensionale sull'isola 4 affiancato da te. Tu sarai formalmente nominata sua tutor di linea, con un'indennità di funzione di trecentocinquanta euro lordi in busta paga da questo mese. E alle 19:00 di ogni giorno ci sarà un checkpoint obbligatorio sul MES: se le schede non sono validate a sistema, scatta un alert a me e a Silvano prima che tu stacchi, con riassegnazione immediata del pezzo senza fermo mandrino. Quando deciderò sulla contestazione, nei tempi del contratto, terrò conto di suo padre e di come avrà cominciato il patto: per mancanze come queste si parla di un'ammonizione scritta o di una multa, non di licenziamento. Se salta un altro controllo senza segnalarlo entro le 19:00, la sanzione sale di un gradino, come prevede il contratto, e lui lo saprà prima di firmare. Il suo contratto a termine scade a inizio gennaio: entro il 15 dicembre io e Silvano mettiamo per iscritto la decisione su proroga o trasformazione, e la prendiamo sui dati del MES di queste quattro settimane, non sulla cartellina.»
 
 Marta rimase a fissare il banco per alcuni secondi, facendo scorrere il pollice sul profilo lucido di una boccola collaudata. Il respiro le si era fatto più lento, regolare.
 
-«L'indennità non mi interessa,» disse alla fine, anche se la piega amara sulla bocca si era addolcita. «Mi interessa non dover fare il lavoro degli altri di nascosto. Alle 07:30 sarò qui con gli strumenti azzerati.»
+«L'indennità non mi interessa,» disse alla fine, anche se la piega amara sulla bocca si era addolcita. «Mi interessa non dover fare il lavoro degli altri di nascosto. Lunedì all'una e mezza sarò qui con gli strumenti azzerati.»
 
 Due ore dopo, Sara rientrò a casa.
 

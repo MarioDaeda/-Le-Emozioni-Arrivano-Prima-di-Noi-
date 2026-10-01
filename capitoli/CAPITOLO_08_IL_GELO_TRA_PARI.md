@@ -126,9 +126,7 @@ La frattura relazionale che ha spinto Andrea Vettori e Luca Marangon a un passo 
 
 Nei suoi studi pionieristici sulla percezione fenomenologica della causalità (*La perception de la causalité*, 1946), lo psicologo belga **Albert Michotte** ha dimostrato un principio fondamentale per l'epistemologia decisionale: **l'apparato cognitivo umano non deduce la causalità attraverso un'analisi logica o un calcolo probabilistico; la mente percepisce la causalità in modo diretto, istantaneo e automatico, con la medesima immediatezza visiva con cui registra il movimento dei corpi o i colori dello spettro visibile**. Quando un oggetto in movimento ne tocca un secondo che si mette in marcia, il percipiente non costruisce un'ipotesi probabilistica: *vede* direttamente la forza che passa dall'uno all'altro come un dato fenomenico irrefutabile.
 
-Come argomentato da **Daniel Kahneman** in *Thinking, Fast and Slow* (2011) e ripreso dallo scienziato cognitivo **Paul Bloom**, questa predisposizione biologica subisce una traslazione distruttiva quando passa dalla fisica degli urti meccanici alle relazioni umane e professionali:
-
-> *«La nostra prontezza congenita a separare la causalità fisica da quella intenzionale ci predispone ad attribuire intenzioni, scopi e volontà morali a ogni minima perturbazione del nostro campo sociale. Il Sistema 1 non vede eventi neutri: vede agenti, colpevoli e trame deliberate.»*
+**Daniel Kahneman**, in *Thinking, Fast and Slow* (2011), riprende una tesi dello psicologo **Paul Bloom**: veniamo al mondo pronti a distinguere la causalità fisica, quella degli oggetti che si urtano, dalla causalità intenzionale, quella degli agenti che vogliono qualcosa. È la seconda a rendersi pericolosa quando passa dalla fisica degli urti alle relazioni professionali: la mente rapida tende a vedere intenzioni, scopi e colpe là dove ci sono soltanto eventi e vincoli.
 
 Quando Andrea è entrato nell'ufficio vuoto di Luca alle 18:28 e ha letto il post-it accanto al monitor spento, il suo apparato percettivo non ha registrato una sequenza di elementi fattuali disgiunti (dieci ore di lavoro pregresse, una cefalea acuta, un'assenza fisica, un bando da completare). La mente associativa ha compiuto un salto inferenziale istantaneo: **ha visto la causalità intenzionale maligna**. L'assenza di Luca è stata decodificata come un atto premeditato orientato a danneggiarlo (*«vuole scaricare il lavoro su di me per umiliarmi e godersi gli utili»*).
 
@@ -136,7 +134,7 @@ Su questa distorsione percettiva primaria si innesta il meccanismo formalizzato 
 - Quando valutiamo i **nostri comportamenti omissivi o le nostre mancanze**, noi possediamo una mappa interiore completa del contesto: conosciamo il peso della fatica, le notti insonni, i vincoli e le paure; pertanto, attribuiamo le nostre durezze a **cause situazionali transitorie** (*«sono stato aggressivo perché sono esausto per la banca; non ho risposto perché dovevo chiudere il bando»*);
 - Quando valutiamo i **comportamenti del socio**, noi non abbiamo accesso alla sua enterocezione; vediamo unicamente l'effetto esteriore (la sedia vuota, il biglietto) e attribuiamo quell'omissione a **tratti disposizionali stabili della sua personalità morale** (*«è un disimpegnato, è un approfittatore, è un traditore»*).
 
-Questa asimmetria computazionale determina il collasso della **Teoria della Mente (*Theory of Mind failure*)**. Sotto la morsa del debito allostatico cronico (*allostatic load*, Sterling & Eyer 1988; Feldman Barrett 2017), la corteccia prefrontale perde la plasticità necessaria per simulare fedelmente lo stato interno dell'altro: il socio cessa di essere un alleato provato dal carico e diventa lo schermo su cui proiettare il proprio terrore arcaico di solitudine e rovina.
+Questa asimmetria computazionale determina il collasso della **Teoria della Mente (*Theory of Mind failure*)**. Sotto la morsa del carico allostatico cronico (*allostatic load*: McEwen & Stellar 1993, sul concetto di allostasi di Sterling & Eyer 1988; Feldman Barrett 2017), la corteccia prefrontale perde la plasticità necessaria per simulare fedelmente lo stato interno dell'altro: il socio cessa di essere un alleato provato dal carico e diventa lo schermo su cui proiettare il proprio terrore arcaico di solitudine e rovina.
 
 Qui si salda la dinamica dell'appraisal formalizzata da **Richard S. Lazarus** (*Emotion and Adaptation*, 1991).
 
@@ -197,19 +195,25 @@ Poi scostò la scatola di cartone e si sedette sul bordo del tavolo, a mezzo met
 
 Luca non mosse un muscolo; il mento rimase puntato verso il fondo del cestino. Le palpebre batterono a vuoto due volte; la gola compì una deglutizione a scatti, ma la postura rimase contratta.
 
-«Non è solo quella mail, Andrea,» disse Luca, e la voce gli tremò contro il bavero del cappotto. «Tu non mi vedi più da due anni. Per te io sono diventato il contabile noioso che ti frena i sogni, quello che fa i problemi quando vuoi espanderti, quello che deve pulire i casini burocratici dopo che tu sei andato in giro a fare il fenomeno dell'innovazione. Lunedì non avevo un semplice mal di testa. Lunedì alle quattro del pomeriggio ho avuto una crisi ipertensiva a centottanta su cento: ho perso la vista dall'occhio sinistro mentre guardavo i bilanci di O.M.P. e mi sono dovuto aggrappare al lavandino per non svenire. Il medico di base mi ha detto che se non andavo subito a casa al buio rischiavo un'ischemia transitoria. E tu mi hai mandato una diffida con in copia il collegio sindacale dandomi del parassita disimpegnato.»
+«Non è solo quella mail, Andrea,» disse Luca, e la voce gli tremò contro il bavero del cappotto. «Tu non mi vedi più da due anni. Per te io sono diventato il contabile noioso che ti frena i sogni, quello che fa i problemi quando vuoi espanderti, quello che deve pulire i casini burocratici dopo che tu sei andato in giro a fare il fenomeno dell'innovazione. Lunedì non avevo un semplice mal di testa. Lunedì alle quattro del pomeriggio ho avuto una crisi ipertensiva a centottanta su cento: mi si è spento l'occhio sinistro mentre guardavo i bilanci di O.M.P. e mi sono dovuto aggrappare al lavandino per non svenire. Ho chiamato il medico di base. Mi ha detto di andare subito al pronto soccorso, e di non mettermi al volante. Non ci sono andato. Ho chiamato mia moglie perché andasse lei a prendere Mattia al basket, e mi sono chiuso in casa al buio con il telefono spento. Sul biglietto ho scritto il basket perché non volevo scriverti che avevo paura. E tu mi hai mandato una diffida con in copia il collegio sindacale dandomi del parassita disimpegnato.»
 
 Una goccia densa scivolò lungo la guancia ruvida di Luca, fermandosi all'angolo della bocca.
 
 Una scossa gelata discese la spina dorsale di Andrea fino ai lombi; l'aria gli mancò nella gola. La visione del lavandino del bagno al piano terra, della ceramica bianca bagnata a cui Luca si era aggrappato con la vista spenta mentre lui sedeva a dieci metri di distanza a inveire contro le tabelle, gli cancellò ogni difesa.
 
-Andrea allungò le braccia, afferrò le spalle del cappotto di Luca e strinse la stoffa pesante tra le dita.
+Andrea non lo toccò. Le mani gli restarono aperte sulle ginocchia.
 
-«Luca, perdonami,» disse Andrea, e la voce scese di un'ottava. «Ero cieco. Ero schiacciato dal terrore di fallire dopo il disastro di Apex e ho trasformato la mia ansia in una pretesa oscena su di te. Ho preteso che tu fossi una macchina indistruttibile per non ammettere che stavo affondando. Ma senza di te io non sono un amministratore delegato: sono solo un uomo solo che grida dentro una stanza vuota.»
+«Non ti chiedo di perdonarmi stamattina,» disse Andrea, e la voce scese di un'ottava. «Ero schiacciato dal terrore di fallire dopo Apex e ho trasformato la mia ansia in una pretesa su di te. Ho preteso che tu fossi una macchina, per non ammettere che stavo affondando.» Si fermò. «Al pronto soccorso non ci sei andato, vero?»
 
-Andrea allungò la mano destra dentro la scatola di cartone, prese la cornice con la fotografia della fiera di Hannover e la rimise al suo posto sulla mensola della libreria.
+Luca non rispose. Scosse appena la testa.
 
-«Quella scatola non va da nessuna parte,» disse Andrea. «E tu non vai da nessuna parte. Da stamattina riscriviamo le regole del patto su basi umane.»
+Andrea prese il cellulare di Luca dal ripiano in faggio e glielo mise davanti, accanto alla scatola. «Chiama il tuo medico. Adesso. Poi ti accompagno io, se vuoi.»
+
+Luca fissò il telefono a lungo. Poi lo prese e compose il numero. La visita fu fissata per le undici.
+
+«La bozza di recesso il mio avvocato la manda lo stesso,» disse Luca, posando il telefono. «Non la ritiro perché hai strappato un foglio.»
+
+«Lo so.» Andrea guardò la scatola di cartone, la cornice di Hannover dentro, e non la toccò. «La scatola resta dov'è finché decidi tu.»
 
 ---
 
@@ -217,12 +221,12 @@ Andrea allungò la mano destra dentro la scatola di cartone, prese la cornice co
 
 Rimasero seduti insieme per un'ora, mentre il buio della stanza cedeva il passo alla luce bianca del mattino e nei corridoi cominciavano a risuonare i passi dei primi collaboratori dell'amministrazione.
 
-L'accordo di ricostruzione della governance fu definito punto per punto prima delle nove:
+Prima delle nove, su un foglio a quadretti, misero giù quattro punti: una bozza da girare all'avvocato e al commercialista, non un accordo firmato.
 
-1. **Ritiro formale e tombale della contestazione:** alle ore 09:00, Andrea e Luca avrebbero inviato una mail congiunta al commercialista Zantedeschi, all'avvocato societario e ai tre membri del Collegio Sindacale, dichiarando formalmente superata la precedente comunicazione quale mero disguido tecnico d'ufficio e confermando la piena collegialità della gestione;
+1. **Ritiro formale della contestazione:** alle ore 09:00, Andrea e Luca avrebbero inviato una mail congiunta al commercialista Zantedeschi, all'avvocato societario e ai tre membri del Collegio Sindacale, dichiarando superata la precedente comunicazione e confermando la collegialità della gestione;
 2. **Diritto di Veto Strategico Operativo:** a Luca veniva riconosciuto formalmente il diritto di veto preventivo e vincolante su qualsiasi nuova commessa di consulenza, bando o ampliamento di rete proposto da Andrea che comportasse un incremento di carico operativo superiore al quindici per cento della capacità della struttura;
 3. **Istituzione del Check-in Paritetico del Venerdì:** ogni venerdì, dalle 16:30 alle 17:30, i due fondatori si sarebbero incontrati a porte chiuse nello studio di presidenza, senza computer, senza telefoni accesi e senza dipendenti, al solo fine di verificare il proprio livello di fatica fisica, il carico biologico individuale e la tenuta della trasparenza reciproca;
-4. **Riforma dei Patti Parasociali e Sabbatical Tutelato:** mandato immediato allo studio legale per integrare nello statuto societario una clausola di riscatto paritetico regolata con perizia asseverata di terzo livello neutrale per prevenire lo stallo assembleare al cinquanta per cento, unita alla clausola statutaria di *Sabbatical Medico Tutelato*, che garantiva a ciascun socio il diritto a un congedo sanitario fino a novanta giorni consecutivi coperto da polizza assicurativa D&O, senza alcuna decurtazione delle quote societarie o dei compensi di funzione.
+4. **Riforma dei Patti Parasociali e Sabbatical Tutelato:** mandato immediato allo studio legale per integrare nello statuto societario una clausola di riscatto paritetico regolata con perizia asseverata di terzo livello neutrale per prevenire lo stallo assembleare al cinquanta per cento, unita alla clausola statutaria di *Sabbatical Medico Tutelato*, che garantiva a ciascun socio il diritto a un congedo sanitario fino a novanta giorni consecutivi, coperto da una polizza *key-man* stipulata dalla società e da una polizza *income protection* per ciascun fondatore, senza alcuna decurtazione delle quote societarie o dei compensi di funzione.
 
 Alle 08:45 due colpi discreti risuonarono sul legno della porta.
 
@@ -230,13 +234,13 @@ Sara si arrestò sulla soglia con i faldoni di cartone delle commesse O.M.P. str
 
 «Interrompo?» chiese Sara, abbassando la voce.
 
-Luca sollevò la testa. La rigidità attorno alle labbra era scomparsa; la postura sulla sedia aveva ritrovato equilibrio.
+Luca sollevò la testa. La rigidità attorno alle labbra si era allentata, non sciolta; il cappotto era ancora addosso.
 
-«Avanti, Sara,» disse Luca, allungando le braccia sul ripiano per accogliere le pratiche. «Ci siamo detti quello che dovevamo dirci da due anni. Lascia pure i faldoni qui sul tavolo: ce ne occupiamo insieme.»
+«Avanti, Sara,» disse Luca, allungando le braccia sul ripiano per accogliere le pratiche. «Lascia pure i faldoni qui sul tavolo. Fino alle dieci e mezza li guardiamo insieme; poi esco, ho una visita.»
 
 Andrea incrociò gli occhi di Luca e chinò il capo in un assenso millimetrico.
 
-I faldoni vennero aperti al centro della scrivania; la matita copiativa tracciò la prima riga di verifica sulle ore di officina mentre il vapore del caffè saliva dalle tazze calde.
+I faldoni vennero aperti al centro della scrivania; la matita copiativa tracciò la prima riga di verifica sulle ore di officina mentre il vapore del caffè saliva dalle tazze calde. La scatola di cartone restò sul pavimento, accanto al cestino.
 
 ---
 
@@ -281,7 +285,7 @@ PROTOCOLLO DEL PATTO DI VETRO:
                                     │
 ┌───────────────────────────────────▼────────────────────────────────────┐
 │ 7. ACCORDO DI SALVAGUARDIA (Patti espliciti sui limiti umani)          │
-│    - Diritto di veto, check-in di salute e clausole statutarie D&O.    │
+│    - Diritto di veto, check-in di salute, congedo e polizze key-man.   │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
