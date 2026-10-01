@@ -7,9 +7,9 @@
 
 Alle 07:14 di lunedì 1° dicembre, Silvano Spinelli chiuse a chiave lo sportello del suo armadietto di metallo grigio nello spogliatoio capireparto di O.M.P. Precision.
 
-Aveva cinquantotto anni, le spalle larghe leggermente incurvate da trentaquattro anni trascorsi tra torni paralleli e centri di lavoro multiasse, e due dita della mano sinistra segnate dalle cicatrici bianche di una fresa a tazza saltata nel 1997. Per tutti, in fabbrica, Silvano era la memoria biologica dell'officina: l'unico uomo capace di capire se un cuscinetto idrostatico stava cedendo semplicemente appoggiando il manico di un cacciavite da elettrauto contro il basamento di ghisa e accostando l'orecchio all'impugnatura di plastica.
+Aveva cinquantotto anni, le spalle larghe leggermente incurvate da quarant'anni di mestiere, trentaquattro in O.M.P., trascorsi tra torni paralleli e centri di lavoro multiasse, e due dita della mano sinistra segnate dalle cicatrici bianche di una fresa a tazza saltata nel 1997. Per tutti, in fabbrica, Silvano era la memoria biologica dell'officina: l'unico uomo capace di capire se un cuscinetto idrostatico stava cedendo semplicemente appoggiando il manico di un cacciavite da elettrauto contro il basamento di ghisa e accostando l'orecchio all'impugnatura di plastica.
 
-Entrò nella navata principale del capannone. La temperatura interna era stabilizzata a venti gradi centigradi esatti, controllata da quattro torri di climatizzazione a soffitto per evitare che le escursioni termiche dilatassero l'acciaio e l'alluminio oltre le tolleranze di progetto. Quarantaquattro macchine utensili collegate in anello ottico. Ventidue centri Mori Seiki a cinque assi, dodici torni motorizzati a fantina mobile e dieci rettifiche tangenziali. Sull'isola 4, Marta e Davide stavano già caricando i grezzi del secondo turno della commessa Kuka: la cooperazione concordata con Sara due settimane prima sembrava reggere, ma l'equilibrio era sottile come un foglio di carta velina.
+Entrò nella navata principale del capannone. Il capannone non era climatizzato, e d'inverno la temperatura scendeva verso i dieci gradi: solo la sala metrologica in fondo alla navata era stabilizzata a venti gradi centigradi esatti, perché le escursioni termiche non dilatassero l'acciaio e l'alluminio oltre le tolleranze di progetto durante le misure. Quarantaquattro macchine utensili collegate in anello ottico. Ventidue centri Mori Seiki a cinque assi, dodici torni motorizzati a fantina mobile e dieci rettifiche tangenziali. Sull'isola 4, Marta e Davide stavano già caricando i grezzi del secondo turno della commessa Kuka: la cooperazione concordata con Sara due settimane prima sembrava reggere, ma l'equilibrio era sottile come un foglio di carta velina.
 
 Silvano salì la scaletta di ferro che portava al suo "box": un gabbiotto rettangolare con pareti in alluminio e doppi vetri blindati, sollevato di un metro e mezzo sopra il piano della fabbrica. Da lì dentro dominava l'intero reparto.
 
@@ -24,7 +24,7 @@ Accese il terminale del sistema di pianificazione della produzione (APS). Sul mo
 • MANUTENZIONI PROGRAMMATE MANDRINI: SOSPESE PER ECCESSO CARICO
 ```
 
-Le macchine stavano girando su tre turni continui, ventiquattr'ore su ventiquattro, sabati inclusi. Un solo utensile spezzato, una sola fluttuazione di tensione sulla rete Enel o un solo ritardo nei collaudi dimensionali avrebbe fatto crollare a catena le consegne dei clienti storici, innescando penali contrattuali devastanti.
+Le macchine stavano girando su tre turni continui, ventiquattr'ore su ventiquattro, sabati inclusi. Un solo utensile spezzato, una sola fluttuazione di tensione sulla rete elettrica o un solo ritardo nei collaudi dimensionali avrebbe fatto crollare a catena le consegne dei clienti storici, innescando penali contrattuali devastanti.
 
 Alle 07:22 la porta del box si spalancò senza che nessuno avesse bussato.
 
@@ -48,7 +48,7 @@ Silvano puntò l'indice verso il diagramma di Gantt illuminato di rosso sul moni
 
 Fabio estrasse dalla tasca una stilografica d'oro, la fece roteare tra le dita con disinvoltura e indicò una riga stampata a pagina 4 del contratto.
 
-«Tassativa: venerdì 19 dicembre. Consegna completa di tutti i trecento distributori franco fabbrica a Stoccarda. C'è una penale contrattuale di tremila euro per ogni giorno solare di ritardo. Ma non ci saranno ritardi, vero Silvano? Ho garantito io personalmente con il loro Vicepresidente Acquisti che O.M.P. è in grado di fare il miracolo. Dai, aumentiamo l'avanzamento al dente, mettiamo gli operai a fare quattro ore di straordinario la domenica e portiamo a casa il risultato. A Capodanno il bonus di reparto lo brindiamo insieme!»
+«Tassativa: venerdì 19 dicembre. Consegna completa di tutti i trecento distributori reso franco destino Stoccarda. C'è una penale contrattuale di tremila euro per ogni giorno solare di ritardo. Ma non ci saranno ritardi, vero Silvano? Ho garantito io personalmente con il loro Vicepresidente Acquisti che O.M.P. è in grado di fare il miracolo. Dai, aumentiamo l'avanzamento al dente, mettiamo gli operai a fare quattro ore di straordinario la domenica e portiamo a casa il risultato. A Capodanno il bonus di reparto lo brindiamo insieme!»
 
 Nella stanza, per tre secondi interminabili, scese un silenzio di piombo fuso.
 
@@ -74,7 +74,7 @@ Nella mente di Silvano non comparve un problema di pianificazione: comparve la c
 
 Fabio fece un passo indietro, sbattendo la schiena contro la porta del box, gli occhi sgranati per lo stupore e il disappunto. «Silvano, modera i termini! Come ti permetti?»
 
-«Come mi permetto?» Silvano si alzò in piedi di scatto, torreggiando sopra la scrivania, il busto proteso in avanti, le dita unte di grafite puntate a tre centimetri dal naso del commerciale. «Millecinquecento blocchi di titanio in diciotto giorni? Tu non sai nemmeno che cazzo sia il titanio grado 5! Non sai che se acceleri l'avanzamento su quella lega il mandrino va in risonanza e bruci quattromila euro di frese integrali in venti minuti! Tu sei andato a Stoccarda a fare il fenomeno, hai firmato una penale da duemila euro al giorno per prenderti la provvigione a dicembre, e adesso vieni qui a pretendere che io dica agli operai di fare la notte di Natale a sputare sangue sulle macchine?»
+«Come mi permetto?» Silvano si alzò in piedi di scatto, torreggiando sopra la scrivania, il busto proteso in avanti, le dita unte di grafite puntate a tre centimetri dal naso del commerciale. «Trecento blocchi di titanio in diciotto giorni? Tu non sai nemmeno che cazzo sia il titanio grado 5! Non sai che se acceleri l'avanzamento su quella lega il mandrino va in risonanza e bruci quattromila euro di frese integrali in venti minuti! Tu sei andato a Francoforte a fare il fenomeno, hai firmato una penale da tremila euro al giorno per prenderti la provvigione a dicembre, e adesso vieni qui a pretendere che io dica agli operai di fare la notte di Natale a sputare sangue sulle macchine?»
 
 «Io porto il lavoro che paga gli stipendi a tutti voi!» replicò Fabio, la voce che si incrinava sull'arroganza difensiva, il viso che passava dal pallore a chiazze violacee di collera. «Se non fosse per i contratti che chiudo io all'estero, a quest'ora eravate tutti a casa in cassa integrazione dopo il disastro di Apex! Tu sei pagato per far girare le macchine, non per fare il filosofo della produzione. Se sei troppo vecchio e stanco per gestire i picchi di carico dillo alla proprietà, che troviamo subito un responsabile d'officina capace di organizzare i turni senza piangere ogni volta che arriva un ordine vero!»
 
@@ -100,13 +100,13 @@ Nessun mandrino ripartì per dieci minuti. Gli operai si scambiavano sguardi sgo
 
 Lunedì sera, ore 20:45.
 
-La cucina di Silvano a Zevio, in una villetta a schiera edificata nei primi anni novanta tra i frutteti della pianura, profumava di minestrone di verdure e alloro.
+La cucina di Silvano, in una villetta a schiera edificata nei primi anni novanta tra i frutteti della campagna fra Cesena e Forlì, profumava di minestrone di verdure e alloro.
 
 Sulla tavola rotonda ricoperta da una tovaglia a quadri cerata c'era una ciotola di terracotta fumante con i crostini di pane tostato, ma il cucchiaio di Silvano era rimasto rovesciato accanto al tovagliolo. Indossava una vecchia maglietta grigia scolorita e pantaloni di tuta; le braccia, scure e segnate da peli bruciacchiati dalle scintille di saldatura, erano appoggiate pesantemente sul piano di formica.
 
 Tra l'indice e il medio della mano destra teneva una sigaretta accesa: un'abitudine che aveva abbandonato da sette anni, dopo l'infarto del fratello minore, e che aveva ripreso quella sera stessa comprando un pacchetto di nascosto al distributore automatico della farmacia.
 
-Davanti a lui, appoggiata con le braccia conserte al bordo della cucina economica a legna, c'era Luisa. Cinquantasei anni, per trent'anni infermiera professionale caposala nel reparto di terapia intensiva neurochirurgica dell'ospedale di Borgo Trento, adesso in pensione da quattordici mesi. Luisa aveva visto corpi spezzati da incidenti sulla statale, primari universitari perdere la testa durante emorragie massive non controllabili e famiglie lacerarsi davanti a elettroencefalogrammi piatti. Non c'era tempesta emotiva che potesse scalfire la sua calma asciutta, levigata da decenni di trincea biologica.
+Davanti a lui, appoggiata con le braccia conserte al bordo della cucina economica a legna, c'era Luisa. Cinquantasei anni, per trent'anni infermiera professionale caposala nel reparto di terapia intensiva neurochirurgica di un grande ospedale della Romagna, adesso in pensione da quattordici mesi. Luisa aveva visto corpi spezzati da incidenti sulla statale, primari universitari perdere la testa durante emorragie massive non controllabili e famiglie lacerarsi davanti a elettroencefalogrammi piatti. Non c'era tempesta emotiva che potesse scalfire la sua calma asciutta, levigata da decenni di trincea biologica.
 
 «Spegni quella porcheria, Silvano,» disse Luisa, con un tono che non ammetteva repliche. «Hai cinquantotto anni e la pressione minima a novantacinque. Non ti metti a fumare in cucina per un venditore di macchine.»
 
@@ -192,7 +192,7 @@ L'errore tragico di Silvano non è stato provare rabbia: la sua rabbia era un in
 
 A questo cortocircuito si affianca la trappola cognitiva identificata da **Daniel Kahneman**: il **bias del sentimento punitivo (*punitive sentiment*)** del Sistema 1.
 
-Negli esperimenti di economia comportamentale basati sul *Gioco dell'Ultimatum*, gli individui scelgono massicciamente di punire una controparte percepita come ingiusta o avida rifiutando l'accordo economico, anche quando tale punizione comporta un danno finanziario gravissimo per se stessi. Il Sistema 1 è guidato da un imperativo morale arcaico: *il trasgressore deve pagare, costi quel che costi*. Nella mente di Silvano, la pulsione a punire Fabio e fargli perdere la commessa ha completamente oscurato la consapevolezza delle conseguenze sistemiche differite: far saltare il contratto Hydac avrebbe significato un danno economico da 140.000 euro per l'intera fabbrica, accelerando proprio quel licenziamento collettivo che lui voleva scongiurare.
+Negli esperimenti di economia comportamentale basati sul *Gioco dell'Ultimatum*, gli individui scelgono massicciamente di punire una controparte percepita come ingiusta o avida rifiutando l'accordo economico, anche quando tale punizione comporta un danno finanziario gravissimo per se stessi. Il Sistema 1 è guidato da un imperativo morale arcaico: *il trasgressore deve pagare, costi quel che costi*. Nella mente di Silvano, la pulsione a punire Fabio e fargli perdere la commessa ha completamente oscurato la consapevolezza delle conseguenze sistemiche differite: far saltare il contratto Hydac avrebbe significato una perdita di 140.000 euro di fatturato per l'intera fabbrica, accelerando proprio quel licenziamento collettivo che lui voleva scongiurare.
 
 La sequenza dell'episodio trova la sua formalizzazione scientifica nella **Mappa Minima**:
 
@@ -221,7 +221,7 @@ Martedì 2 dicembre, ore 10:30.
 
 La sala riunioni della palazzina direzionale di O.M.P. Precision era immersa in una luce bianca e fredda.
 
-Attorno al tavolo rettangolare in rovere chiaro sedevano quattro persone. Al centro, Sara, responsabile delle risorse umane, con davanti a sé il verbale dell'incidente del giorno prima e il regolamento aziendale disciplinare. Alla sua sinistra Fabio, con lo stesso abito sartoriale impeccabile, le braccia conserte e la mascella serrata, che evitava accuratamente di incrociare lo sguardo altrui. Alla destra di Sara sedeva Silvano, che si era tolto la tuta da lavoro e indossava una camicia di flanella a quadri pulita, i capelli grigi pettinati all'indietro con cura. Di fronte a loro sedeva Elena, la consulente di governance di rete, chiamata d'urgenza da Sara per evitare che lo scontro degenerasse in una denuncia formale per aggressione sul luogo di lavoro.
+Attorno al tavolo rettangolare in rovere chiaro sedevano quattro persone. Al centro, Sara, responsabile delle risorse umane, con davanti a sé il verbale dell'incidente del giorno prima e il regolamento aziendale disciplinare. Alla sua sinistra Fabio, con lo stesso abito sartoriale impeccabile, le braccia conserte e la mascella serrata, che evitava accuratamente di incrociare lo sguardo altrui. Alla destra di Sara sedeva Silvano, che si era tolto la tuta da lavoro e indossava una camicia di flanella a quadri pulita, i capelli grigi pettinati all'indietro con cura. Di fronte a loro sedeva Elena, che guidava lo Studio Colombo & Associati, consulenza del lavoro e di rete, chiamata d'urgenza da Sara per evitare che lo scontro degenerasse in una denuncia formale per aggressione sul luogo di lavoro.
 
 L'aria nella stanza era densa di elettricità statica. Quando Fabio mosse la poltroncina facendola cigolare sul pavimento, la solita fitta acida risalì lungo l'esofago di Silvano; le tempie registrarono una pulsazione accelerata e i palmi presero a pizzicare. La conversazione della sera prima con Luisa non aveva cancellato la sua fisiologia animale: la presenza di Fabio continuava a essere codificata come una violazione territoriale inaccettabile.
 
@@ -255,13 +255,13 @@ Silvano non arretrò di un millimetro. Spostò il foglio di tre centimetri verso
 
 Fabio deglutì a vuoto. Le dita strinsero la stilografica fino a sbiancare. Guardò Sara, poi Elena. L'arroganza commerciale si incrinò davanti alla ghisa e all'acciaio.
 
-«Loro... loro hanno la presentazione dei nuovi escavatori alla fiera Bauma di Monaco a fine gennaio,» confessò infine a voce più bassa. «Gli servivano cinquanta distributori entro Natale per allestire i primi prototipi dimostrativi nello stabilimento di Stoccarda. I restanti duecentocinquanta pezzi sono destinati alla produzione di serie che parte a fine gennaio.»
+«Loro... loro hanno la presentazione dei nuovi escavatori a una fiera di settore a fine gennaio,» confessò infine a voce più bassa. «Gli servivano cinquanta distributori entro Natale per allestire i primi prototipi dimostrativi nello stabilimento di Stoccarda. I restanti duecentocinquanta pezzi sono destinati alla produzione di serie che parte a fine gennaio.»
 
 Silvano chiuse gli occhi per un secondo. Il punto cieco dell'intero distretto si spalancò nella stanza.
 
 «E perché hai firmato per trecento pezzi entro il 19 con la penale di tremila euro al giorno?» chiese Sara, la voce incredula.
 
-Fabio arrossì violentemente. «Perché il loro buyer mi ha detto che se chiudevamo il lotto intero entro il budget 2026 ci avrebbero riconosciuto il prezzo pieno senza sconti di volume. E perché... perché pensavo che se vi avessi detto che ne bastavano cinquanta, in officina avreste fatto i comodi vostri rimandando il lavoro a dopo le feste! Ho pensato che mettere la pressione della penale totale fosse l'unico modo per costringervi a prendere la commessa sul serio!»
+Fabio arrossì violentemente. «Perché il loro buyer mi ha detto che se chiudevamo il lotto intero entro il budget dell'anno prossimo ci avrebbero riconosciuto il prezzo pieno senza sconti di volume. E perché... perché pensavo che se vi avessi detto che ne bastavano cinquanta, in officina avreste fatto i comodi vostri rimandando il lavoro a dopo le feste! Ho pensato che mettere la pressione della penale totale fosse l'unico modo per costringervi a prendere la commessa sul serio!»
 
 Silvano non urlò. Scosse la testa con una mestizia infinita.
 
@@ -284,7 +284,7 @@ Allungò la mano destra verso Silvano. Non c'era il sorriso sfacciato del giorno
 
 Silvano guardò la mano del commerciale. Esitò un battito di ciglia, poi strinse la mano con la sua presa solida, ruvida di ruggine e metallo.
 
-«Fagli capire che il titanio a Verona lo sappiamo lavorare meglio che a Stoccarda, Fabio. Ma i miracoli lasciamoli fare a quelli che non usano le macchine.»
+«Fagli capire che il titanio in Romagna lo sappiamo lavorare meglio che a Stoccarda, Fabio. Ma i miracoli lasciamoli fare a quelli che non usano le macchine.»
 
 Non si abbracciarono, non divennero amici per la pelle e non cancellarono le differenze abissali tra i loro mondi. Fabio continuava a essere un venditore spinto dai numeri di bilancio; Silvano continuava a essere un custode geloso e ruvido dei confini d'officina.
 
@@ -303,7 +303,7 @@ Questo protocollo va applicato entro dodici ore da qualsiasi scontro aziendale o
 1. **FATTO (La registrazione asettica della telecamera):**  
    Trascrivi unicamente ciò che un registratore audiovisivo avrebbe immortalato: parole testuali esatte, decibel, oggetti spostati, documenti consegnati, tempi e scadenze numeriche (es. *«Lunedì ore 07:22: il commerciale deposita una commessa da 300 distributori in titanio con consegna al 19 dicembre e penale di 3.000 euro al giorno, dicendo che a Capodanno brinderemo tutti col bonus»*).
 2. **ELEMENTO NOTATO (Il detonatore dell'offesa):**  
-   Isola il dettaglio specifico che ha acceso l'incendio della collera (es. *«Il sorriso a trentadue denti associato alla cravatta bordeaux mentre io guardavo il tabellone Kanban saturo al 98,4%»*).
+   Isola il dettaglio specifico che ha acceso l'incendio della collera (es. *«Il sorriso a trentadue denti associato alla cravatta bordeaux mentre io guardavo il Gantt dell'APS saturo al 98,4%»*).
 3. **SIGNIFICATO ATTRIBUITO (L'inferenza di colpa e svalutazione - Lazarus):**  
    Metti a nudo il verdetto morale istantaneo del Sistema 1 (es. *«È un parassita che mi disprezza; ha venduto la pelle dei miei operai per prendersi il premio personale; vuole umiliarmi e dimostrare che sono vecchio da rottamare»*).
 4. **EMOZIONE E IMPULSO SOMATICO (La mobilitazione d'attacco):**  

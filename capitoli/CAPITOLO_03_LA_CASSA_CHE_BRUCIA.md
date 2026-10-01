@@ -7,13 +7,13 @@
 
 Alle 18:47 di venerdì 21 novembre, il salvaschermo del monitor principale di Marco — un display ultrawide da trentaquattro pollici montato su un braccio d'acciaio satinato — passò dal nero al codice sorgente di un microservizio in linguaggio Rust.
 
-Nell'open space di NexSys Solutions, al terzo piano della stecca direzionale Archimede a ridosso del casello di Verona Sud, il silenzio era rotto soltanto dal sibilo del sistema di areazione e dal ticchettio discontinuo di due sviluppatori che completavano gli ultimi commit prima del fine settimana. C'era odore di caffè lungo riscaldato nel microonde e plastica calda di schede madri. Diciotto postazioni ergonomiche, ventiquattro chilometri di cavi in fibra cablati nei pavimenti galleggianti, server blade che pulsavano con piccole luci verdi all'interno del vano rack condizionato. Per chi entrava dall'esterno, NexSys era l'avanguardia del distretto: la fabbrica del codice che collegava i centri di lavoro a cinque assi di O.M.P. Precision con la flotta di autocarri intermodali di LogiDistretto.
+Nell'open space di NexSys Automation, al terzo piano della stecca direzionale Archimede a ridosso del casello di Rimini Nord, il silenzio era rotto soltanto dal sibilo del sistema di areazione e dal ticchettio discontinuo di due sviluppatori che completavano gli ultimi commit prima del fine settimana. C'era odore di caffè lungo riscaldato nel microonde e plastica calda di schede madri. Diciotto postazioni ergonomiche, ventiquattro chilometri di cavi in fibra cablati nei pavimenti galleggianti, server blade che pulsavano con piccole luci verdi all'interno del vano rack condizionato. Per chi entrava dall'esterno, NexSys era l'avanguardia del distretto: la fabbrica del codice che collegava i centri di lavoro a cinque assi di O.M.P. Precision con la flotta di autocarri intermodali di LogiDistretto.
 
 Ma per Marco — trent'anni, fondatore, amministratore unico e azionista al 72% della società — quell'infrastruttura immateriale aveva una consistenza termica brutale: bruciava quarantaduemiladuecentocinquanta euro di liquidità viva ogni trenta giorni solari. Il *burn rate* operativo, asfittico e implacabile.
 
 I committenti del manifatturiero pagavano a novanta giorni data fattura fine mese, se andava bene; a centoventi quando le perizie di collaudo accumulavano ritardi, come nel caso del blocco software avvenuto la settimana precedente sull'isola 4 di O.M.P. Precision. Il 27 del mese corrente, giovedì successivo, il conto corrente aziendale aperto presso la filiale grandi imprese di Mediocredito avrebbe dovuto far fronte a uscite improrogabili per centotrentottomila euro: gli stipendi netti dei diciotto programmatori, le ritenute fiscali, i contributi Inps e la rata leasing dei server. Sul saldo disponibile, quella sera, figuravano esattamente dodicimilasettecentoquaranta euro e ventidue centesimi.
 
-Tutto il castello poggiava su una trave portante: un fido ponte per anticipo contratti e R&D da trecentomila euro, assistito dal Fondo Centrale di Garanzia, deliberato in via preliminare dal gestore territoriale tre settimane prima e destinato all'approvazione finale del Comitato Rischi entro le ore 18:00 di quel maledetto venerdì. Senza quel credito, il 27 novembre NexSys sarebbe andata a protesto tecnico, innescando la revoca immediata di tutti gli affidamenti e la segnalazione alla Centrale dei Rischi di Banca d'Italia.
+Tutto il castello poggiava su una trave portante: un fido ponte per anticipo contratti e R&D da trecentomila euro, assistito dal Fondo di garanzia, deliberato in via preliminare dal gestore territoriale tre settimane prima e destinato all'approvazione finale del Comitato Rischi entro le ore 18:00 di quel maledetto venerdì. Senza quel credito, il 27 novembre NexSys sarebbe andata a protesto tecnico, innescando la revoca immediata di tutti gli affidamenti e la segnalazione alla Centrale dei Rischi di Banca d'Italia.
 
 Alle 18:47 squillò la notifica push dell'app di posta elettronica sullo smartphone appoggiato accanto alla tastiera.
 
@@ -36,7 +36,7 @@ In quella frazione di secondo non ci fu alcuna deliberazione logica. Ci fu un ve
 
 Il cervello di Marco non lesse la mail come una richiesta procedurale di documenti integrativi: la visse come la detonazione nucleare della propria esistenza.
 
-Tutto ciò che aveva costruito nei sette anni successivi alla laurea — le notti trascorse su una brandina da campo accanto ai server quando erano in due in un garage a San Massimo; i diciotto ragazzi assunti uno per uno guardando i loro genitori negli occhi e promettendo che NexSys non sarebbe mai stata un'agenzia interinale di sfruttamento; i brevetti registrati all'ufficio europeo di Monaco; la stima conquistata a fatica davanti a capitani d'industria ruvidi come Andrea di Omnia e Silvano di O.M.P. — tutto venne istantaneamente cancellato, dissolto in una voragine di disonore e catastrofe.
+Tutto ciò che aveva costruito nei sette anni successivi alla laurea — le notti trascorse su una brandina da campo accanto ai server quando erano in due in un garage a Rimini; i diciotto ragazzi assunti uno per uno guardando i loro genitori negli occhi e promettendo che NexSys non sarebbe mai stata un'agenzia interinale di sfruttamento; i brevetti registrati all'ufficio europeo di Monaco; la stima conquistata a fatica davanti a capitani d'industria ruvidi come Andrea di Omnia e Silvano di O.M.P. — tutto venne istantaneamente cancellato, dissolto in una voragine di disonore e catastrofe.
 
 Non c'era nessun supplemento istruttorio. I denti gli battevano l'uno contro l'altro con un crepitio udibile nel silenzio dell'ufficio vuoto. Era la formula standard usata quando una pratica veniva respinta per non dare spiegazioni al telefono il venerdì sera. Si erano accorti del blocco sulla linea di O.M.P. della settimana prima. Qualcuno aveva parlato. Andrea di Omnia doveva aver ritirato la firma di garanzia di filiera. Martedì non ci sarebbe stato nessun comitato: ci sarebbe stata la revoca degli scoperti per giusta causa. Il 27 novembre niente stipendi. Il mercoledì successivo i sindacati avrebbero bloccato i cancelli, i fornitori di cloud avrebbero staccato le macchine virtuali. La sua vita professionale finiva lì, a trent'anni, davanti a uno schermo azzurrognolo.
 
@@ -48,7 +48,7 @@ Sdraiato nel letto accanto a Giulia, che dormiva con il respiro quieto e profond
 
 Alle quattro e mezza del mattino, non riuscendo più a sopportare l'immobilità del materasso, scese in salotto. Accese il computer portatile e si mise al lavoro con una reattività convulsa, furiosa, disperata.
 
-Iniziò a redigere una memoria difensiva di quattordici pagine indirizzata al Direttore Generale della banca, al Responsabile Compliance e per conoscenza allo studio legale di filiera di Elena: una requisitoria infuocata, piena di citazioni normative sul dovere di correttezza e buona fede nelle trattative creditizie bancarie (art. 1337 del Codice Civile), minacciando richieste di risarcimento danni milionarie per responsabilità precontrattuale e interruzione arbitraria del credito a una scale-up ad alto valore tecnologico. Rilesse la bozza: suonava come una dichiarazione di guerra isterica.
+Iniziò a redigere una memoria difensiva di quattordici pagine indirizzata al Direttore Generale della banca, al Responsabile Compliance e per conoscenza allo Studio Colombo & Associati, lo studio di consulenza del lavoro e di rete di Elena: una requisitoria infuocata, piena di citazioni normative sul dovere di correttezza e buona fede nelle trattative creditizie bancarie (art. 1337 del Codice Civile), minacciando richieste di risarcimento danni milionarie per responsabilità precontrattuale e interruzione arbitraria del credito a una scale-up ad alto valore tecnologico. Rilesse la bozza: suonava come una dichiarazione di guerra isterica.
 
 Non pago, aprì un foglio di calcolo intitolato `PIANO_EMERGENZA_LIQUIDAZIONE_NOVEMBRE.xlsx`. Inserì l'elenco dei diciotto dipendenti in ordine decrescente di costo aziendale e iniziò a simulare scenari di taglio selettivo: licenziare i cinque periti assunti negli ultimi sei mesi per ridurre il debito TFR; sospendere i contratti di manutenzione server; inviare una PEC ad Andrea di Omnia e a Sara di O.M.P. annunciando la sospensione cautelativa di tutti i rilasci software sul MES a causa del "comportamento scorretto degli istituti di credito del consorzio".
 
@@ -56,23 +56,23 @@ Alle otto del mattino di sabato aveva le dita bianche, gli occhi iniettati di sa
 
 ---
 
-## L'aria gelata sul lungadige
+## L'aria gelata del Parco XXV Aprile
 
 Domenica mattina, ore 08:32.
 
-Il Parco dell'Adige a valle di San Zeno era una distesa d'erba brinata e pioppi scheletriti che emergevano da una coltre densa di nebbia fluviale. La ghiaia del sentiero scricchiolava sotto le suole delle scarpe da corsa. La temperatura non superava i tre gradi centigradi; l'umidità penetrava attraverso i tessuti tecnici gelando la pelle del viso.
+Il Parco XXV Aprile, sull'antico alveo del Marecchia, era una distesa d'erba brinata e pioppi scheletriti che emergevano da una coltre densa di nebbia fluviale. La ghiaia del sentiero scricchiolava sotto le suole delle scarpe da corsa. La temperatura non superava i tre gradi centigradi; l'umidità penetrava attraverso i tessuti tecnici gelando la pelle del viso.
 
 Marco camminava a scatti, la schiena curva dentro una giacca a vento nera chiusa fino al mento, le mani cacciate nelle tasche. Più che camminare, marciava con l'andatura frenetica di chi sta scappando da un'esplosione imminente. Nella tasca destra, la mano stringeva lo smartphone come un'arma da fuoco; ogni trenta passi estraeva il dispositivo, sbloccava lo schermo con l'impronta digitale e fissava la casella di posta elettronica, benché sapesse perfettamente che gli uffici della banca sarebbero rimasti sprangati fino a lunedì mattina.
 
-Accanto a lui, Giulia — trentuno anni, ricercatrice post-dottorato in biochimica cellulare all'Università di Verona, i capelli ramati legati con un elastico e il respiro ritmico di chi correva tre mezze maratone all'anno — manteneva un passo lungo e costante. Per i primi due chilometri aveva ascoltato in silenzio il monologo torrenziale del compagno.
+Accanto a lui, Giulia — trentuno anni, ricercatrice post-dottorato in biochimica cellulare all'Università di Bologna, i capelli ramati legati con un elastico e il respiro ritmico di chi correva tre mezze maratone all'anno — manteneva un passo lungo e costante. Per i primi due chilometri aveva ascoltato in silenzio il monologo torrenziale del compagno.
 
-«Se la Bignami mi avesse voluto dare i soldi, mi avrebbe chiamato alle cinque!» urlava Marco nel vuoto della golena, gesticolando con la mano libera. «I banchieri non mandano una mail di tre righe il venerdì sera alle sette meno dieci se la pratica è approvata! Quello è il tipico calcio d'angolo per non dover gestire l'imprenditore che urla in filiale. Martedì mi presentano la delibera negativa. Lo so già. È una condanna a morte. Ieri notte ho preparato la diffida per danni. Se credono di poter calpestare NexSys senza pagare pegno, hanno sbagliato persona. Lunedì alle otto la deposito tramite avvocato!»
+«Se la Bignami mi avesse voluto dare i soldi, mi avrebbe chiamato alle cinque!» urlava Marco nel vuoto del parco, gesticolando con la mano libera. «I banchieri non mandano una mail di tre righe il venerdì sera alle sette meno dieci se la pratica è approvata! Quello è il tipico calcio d'angolo per non dover gestire l'imprenditore che urla in filiale. Martedì mi presentano la delibera negativa. Lo so già. È una condanna a morte. Ieri notte ho preparato la diffida per danni. Se credono di poter calpestare NexSys senza pagare pegno, hanno sbagliato persona. Lunedì alle otto la deposito tramite avvocato!»
 
-Giulia si fermò di colpo sul ciglio del sentiero, dove un vecchio pontile di legno marcito si affacciava sull'acqua grigia e limacciosa dell'Adige.
+Giulia si fermò di colpo sul ciglio del sentiero, dove un vecchio pontile di legno marcito si affacciava sull'acqua grigia e ferma.
 
 «Marco, fermati,» disse con voce ferma, priva di enfasi.
 
-«Non posso fermarmi, Giulia! Tu non capisci la gravità sistemica. Mancano novantasei ore al 27 novembre. Se non incasso quel fido, mercoledì mattina io sono tecnicamente fallito!»
+«Non posso fermarmi, Giulia! Tu non capisci la gravità sistemica. Mancano novantasei ore al 27 novembre. Se non incasso quel fido, giovedì mattina io sono tecnicamente fallito!»
 
 Giulia non arretrò. Si piantò davanti a lui a mezzo metro di distanza. Gli bloccò entrambe le spalle con le mani guantate, costringendolo a guardarla. Poi, con un movimento calmo e inesorabile, gli sfilò lo smartphone dalla mano destra, lo infilò nella tasca interna del proprio piumino termico e tirò la cerniera fino a fine corsa con uno scatto secco.
 
@@ -110,7 +110,7 @@ Marco scosse il capo, stringendo i denti fino a indolenzire la mandibola.
 
 «Giulia, non lo dicono in quel modo!» sbottò lui, pestando il tacco sul fango secco della riva. «Te lo fanno capire!»
 
-«C'è scritto quello che c'è scritto, Marco, non il film dell'orrore che ti sei montato tu!» scandì Giulia, alzando appena il tono per sovrastare lo scroscio della corrente dell'acqua. «Che cosa è accaduto sul piano materiale subito dopo che hai letto quella comunicazione? Un ragazzo di trent'anni è sbiancato come un cencio, gli sono tremate le mani, ha cominciato a iperventilare e nei successivi due giorni ha steso una lettera di insulti legali alla banca e una tabella per licenziare cinque ragazzi che fino a giovedì considerava fratelli. Questo è accaduto nella realtà: una risposta biologica da panico terminale a fronte di un testo asettico che chiede un controllo documentale sui brevetti.»
+«C'è scritto quello che c'è scritto, Marco, non il film dell'orrore che ti sei montato tu!» scandì Giulia, alzando appena il tono per sovrastare il vento. «Che cosa è accaduto sul piano materiale subito dopo che hai letto quella comunicazione? Un ragazzo di trent'anni è sbiancato come un cencio, gli sono tremate le mani, ha cominciato a iperventilare e nei successivi due giorni ha steso una lettera di insulti legali alla banca e una tabella per licenziare cinque ragazzi che fino a giovedì considerava fratelli. Questo è accaduto nella realtà: una risposta biologica da panico terminale a fronte di un testo asettico che chiede un controllo documentale sui brevetti.»
 
 Marco abbassò le braccia lungo i fianchi. Il vento umido gli pungeva la fronte sudata.
 
@@ -171,15 +171,15 @@ Riconoscere che il corpo reagisce con violenza reale a pericoli che esistono uni
 
 ---
 
-## La Sala Verde di Corso Cavour
+## La Sala Verde di Mediocredito
 
 Martedì 25 novembre, ore 14:48.
 
-La sede direzionale della Banca Popolare del Distretto in Corso Cavour occupava un austero palazzo ottocentesco in pietra d'Avesa. All'interno, il silenzio felpato della moquette color piombo e l'odore metallico dell'aria filtrata dai climatizzatori centralizzati creavano un'atmosfera ovattata, quasi sacrale, dove persino i passi sembravano cancellati dal protocollo.
+La filiale grandi imprese di Mediocredito, nel centro storico di Bologna, occupava un austero palazzo ottocentesco in mattoni e arenaria. All'interno, il silenzio felpato della moquette color piombo e l'odore metallico dell'aria filtrata dai climatizzatori centralizzati creavano un'atmosfera ovattata, quasi sacrale, dove persino i passi sembravano cancellati dal protocollo.
 
 Marco salì i tre gradini che portavano al piano dell'Area Crediti Imprese. Indossava un abito blu scuro, una camicia stirata di fresco e una cravatta sobria. Nella mano sinistra teneva una borsa portadocumenti in pelle nera contenente il bilancio previsionale, i contratti in essere con O.M.P. e LogiDistretto, e la perizia tecnica sui brevetti.
 
-Quando la bussola a vetri scorrevoli si aprì con un sibilo pneumatico, la fitta acida riaffiorò puntuale alla bocca dello stomaco. I battiti accelerarono con colpi sordi contro le costole; le dita registrarono il consueto brivido freddo attorno all'impugnatura di pelle della borsa. L'organismo animale continuava a leggere quell'atrio in pietra d'Avesa come un mattatoio potenziale, scaricando noradrenalina nel sangue prima di qualsiasi calcolo logico.
+Quando la bussola a vetri scorrevoli si aprì con un sibilo pneumatico, la fitta acida riaffiorò puntuale alla bocca dello stomaco. I battiti accelerarono con colpi sordi contro le costole; le dita registrarono il consueto brivido freddo attorno all'impugnatura di pelle della borsa. L'organismo animale continuava a leggere quell'atrio in arenaria come un mattatoio potenziale, scaricando noradrenalina nel sangue prima di qualsiasi calcolo logico.
 
 Ma questa volta Marco non scambiò la contrazione viscerale per un presagio di sventura. Si fermò un secondo davanti alla reception, appoggiò la mano libera sul legno freddo del bancone, inspirò lentamente contando fino a quattro, espirò fino a sei. *Il segnale è reale, la causa è da accertare.*
 
@@ -203,15 +203,15 @@ La domanda, asciutta e priva di recriminazioni, creò un micro-silenzio nella st
 
 Marangoni aprì la cartella ed estrasse la perizia asseverata presentata da NexSys venti giorni prima.
 
-«Vede, ingegner Vantini, la questione è puramente formale e normativa, ma vincolante per noi,» spiegò il capo analista rischi, indicando con la penna la pagina delle firme. «La vostra perizia assevera il valore immateriale dell'architettura MES e dei protocolli IoT in seicentoventimila euro. La perizia è firmata da un eccellente ingegnere meccanico iscritto all'ordine. Tuttavia, per poter accedere alla garanzia pubblica speciale del Fondo Centrale PMI all'80% per investimenti 4.0, la circolare ministeriale di settembre esige che l'asseverazione per software embedded complessi sia controfirmata da un ente certificatore accreditato di terzo livello, oppure da un capofila di contratto di rete industriale che certifichi l'interoperabilità di filiera.»
+«Vede, ingegner Vantini, la questione è puramente formale e normativa, ma vincolante per noi,» spiegò il capo analista rischi, indicando con la penna la pagina delle firme. «La vostra perizia assevera il valore immateriale dell'architettura MES e dei protocolli IoT in seicentoventimila euro. La perizia è firmata da un eccellente ingegnere meccanico iscritto all'ordine. Tuttavia, per poter accedere alla garanzia pubblica del Fondo di garanzia all'80% per investimenti 4.0, la circolare ministeriale di settembre esige che l'asseverazione per software embedded complessi sia controfirmata da un ente certificatore accreditato di terzo livello, oppure da un capofila di contratto di rete industriale che certifichi l'interoperabilità di filiera.»
 
 Il sangue defluì dalla testa verso il petto in una vampata liberatoria: non era un rifiuto di credito. Nessun giudizio di inaffidabilità gravava sull'azienda.
 
-«Il Comitato non mette affatto in discussione la solidità della vostra scale-up né il valore del software,» aggiunse la Bignami con un sorriso professionale che dissipò l'ultimo residuo di nebbia. «I numeri del conto economico sono eccellenti. Ma se noi deliberiamo il fido da trecentomila euro oggi con questa perizia monca, in caso di audit della Corte dei Conti o del Mediocredito Centrale la garanzia statale decade e la banca si trova scoperta per l'intero importo. Per questo venerdì abbiamo sospeso la delibera: stavamo cercando il modo tecnico di blindare la pratica senza farvi bocciare l'operazione.»
+«Il Comitato non mette affatto in discussione la solidità della vostra scale-up né il valore del software,» aggiunse la Bignami con un sorriso professionale che dissipò l'ultimo residuo di nebbia. «I numeri del conto economico sono eccellenti. Ma se noi deliberiamo il fido da trecentomila euro oggi con questa perizia monca, in caso di controllo della Corte dei Conti o del gestore del Fondo di garanzia, la garanzia pubblica decade e la banca si trova scoperta per l'intero importo. Per questo venerdì abbiamo sospeso la delibera: stavamo cercando il modo tecnico di blindare la pratica senza farvi bocciare l'operazione.»
 
 Il punto cieco di Marco si spalancò con una chiarezza abbagliante. La banca non era il nemico crudele che voleva distruggerlo: era un'istituzione sottoposta a vincoli normativi severissimi che cercava di difendere la propria conformità procedurale.
 
-«Se il vincolo è l'asseverazione di filiera,» disse Marco posando la cartella sul cristallo del tavolo con calma ferma, «Omnia Servizi, nella persona di Andrea Vettori, è il nostro capofila di distretto accreditato presso la Regione. Ho qui con me la bozza dell'Addendum all'Accordo di Rete Meccatronica — Fascicolo FCG-2026-B. Se convoco Andrea adesso in conference call con lo studio legale di Elena Colombo, carichiamo la controfirma asseverata con marca temporale entro le ore dieci di domani mattina.»
+«Se il vincolo è l'asseverazione di filiera,» disse Marco posando la cartella sul cristallo del tavolo con calma ferma, «Omnia, nella persona di Andrea Vettori, è il nostro capofila di distretto accreditato presso la Regione. Ho qui con me la bozza dell'Addendum all'Accordo di Rete Meccatronica — Fascicolo FCG-B. Se convoco Andrea adesso in conference call con lo Studio Colombo & Associati di Elena Colombo, carichiamo la controfirma asseverata con marca temporale entro le ore dieci di domani mattina.»
 
 Marangoni guardò la Bignami, poi annuì. «Con la firma digitale di Omnia come garante della conformità di rete, la pratica rispetta al centesimo i requisiti del Fondo. La porto in approvazione domani pomeriggio alle 16:00 come pratica d'urgenza fuori sacco. La delibera sarà esecutiva giovedì mattina.»
 
@@ -219,7 +219,7 @@ Non ci fu nessun miracolo hollywoodiano: la liquidità non arrivò sul conto cor
 
 Il 27 novembre Marco dovette riunire i suoi diciotto programmatori nell'open space: guardandoli negli occhi con trasparenza assoluta, spiegò che il fido era deliberato ma che l'erogazione materiale sarebbe avvenuta venerdì 28. Chiese a ciascuno di loro di accettare lo scaglionamento dello stipendio in due rate: il 50% quel giorno stesso (attraverso le ultime riserve di cassa) e il saldo il lunedì successivo. Diciotto mani si alzarono all'unisono in segno di fiducia. Nessuno si licenziò, nessun sindacato bloccò i tornelli, nessun server venne spento.
 
-Quando giovedì 27 alle 16:30 squillò il telefono e la Bignami confermò l'accredito dei trecentomila euro con valuta immediata, Marco era seduto al suo posto davanti al monitor a trentaquattro pollici.
+Quando venerdì 28 alle 16:30 squillò il telefono e la Bignami confermò l'accredito dei trecentomila euro con valuta immediata, Marco era seduto al suo posto davanti al monitor a trentaquattro pollici.
 
 Il suo cuore batteva a ritmo normale. Lo stomaco non bruciava più.
 
@@ -244,7 +244,7 @@ Questo strumento va attivato istantaneamente ogni volta che una notizia ambigua,
 5. **COMPORTAMENTO ESPRESSO O EVITATO (La disciplina del freno):**  
    Quale azione concreta hai compiuto? (es. *«Ho trattenuto la diffida; ho spento il monitor; ho camminato all'aperto; ho vietato a me stesso di mandare comunicazioni fino al lunedì»*).
 6. **CONSEGUENZE ACCERTATE (La verifica della realtà):**  
-   Cosa è accaduto nel mondo materiale reale? (es. *«Il Comitato non voleva revocare il credito: chiedeva una controfirma tecnica per accedere alla garanzia statale 4.0; il fido è stato approvato 48 ore dopo»*).
+   Cosa è accaduto nel mondo materiale reale? (es. *«Il Comitato non voleva revocare il credito: chiedeva una controfirma tecnica per accedere alla garanzia pubblica 4.0; il fido è stato approvato 48 ore dopo»*).
 7. **LA SPIEGAZIONE ALTERNATIVA PLAUSIBILE & LA DOMANDA DI PROCESSO:**  
    Formula l'ipotesi tecnica neutrale alternativa e la domanda da portare nella stanza (es. *«La banca è vincolata a normative di conformità e ha bisogno di tutelarsi documentalmente; Domanda: 'Qual è il parametro tecnico di conformità che dobbiamo integrare per superare il rilievo?'»*).
 
