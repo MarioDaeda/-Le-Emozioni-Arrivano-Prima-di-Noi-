@@ -1,4 +1,4 @@
-# Assemble Master Book: Le Emozioni Arrivano Prima di Noi
+﻿# Assemble Master Book: Le Emozioni Arrivano Prima di Noi
 $ErrorActionPreference = "Stop"
 
 $baseDir = "C:\Users\MARIO\Libro Emozioni"
@@ -73,13 +73,10 @@ $prefContent = [System.IO.File]::ReadAllText($prefPath, [System.Text.Encoding]::
 [void]$sb.AppendLine("`n---`n")
 
 # 3. CAPITOLO 1
-Write-Host "Extracting Chapter 1 from manuscript..."
-$manuscriptPath = Join-Path $baseDir "10-14_CAPITOLO_1_E_MANOSCRITTO.md"
-$allLines = [System.IO.File]::ReadAllLines($manuscriptPath, [System.Text.Encoding]::UTF8)
-# Lines 528 to 806 (0-indexed) correspond to lines 529 to 807
-$ch1Lines = $allLines[528..806]
-$ch1Content = $ch1Lines -join "`n"
-# Normalizza i titoli di Atto V a livello H2 per coerenza strutturale
+Write-Host "Appending CAPITOLO_01_LE_EMOZIONI_NON_ARRIVANO_A_CASO.md..."
+$ch1Path = Join-Path $bozzeDir "CAPITOLO_01_LE_EMOZIONI_NON_ARRIVANO_A_CASO.md"
+$ch1Content = [System.IO.File]::ReadAllText($ch1Path, [System.Text.Encoding]::UTF8)
+# Normalizza i titoli di Atto V a livello H2 se necessario
 $ch1Content = $ch1Content -replace "(?m)^# Mettilo in pratica", "## Mettilo in pratica"
 $ch1Content = $ch1Content -replace "(?m)^# Da ricordare", "## Da ricordare"
 [void]$sb.AppendLine($ch1Content)

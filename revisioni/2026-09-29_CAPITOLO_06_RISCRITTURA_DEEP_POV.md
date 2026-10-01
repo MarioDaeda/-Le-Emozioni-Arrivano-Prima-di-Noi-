@@ -1,3 +1,21 @@
+# 2026-09-29 — Capitolo 6 — Riscrittura integrale deep POV
+
+**Metodo:** skill 
+ewrite-deep-pov, Fase 3 eseguita sulle prescrizioni vincolanti del Referto Forense del 2026-09-29 (audit di ozze_capitoli/CAPITOLO_06_LA_GUERRA_DEI_FOGLI_EXCEL.md, branch 
+evisioni-deep-pov).
+
+**Prescrizioni applicate:**
+1. **Espunzione metalabeling clinico e telling accademico (P1-1, P1-2):** eliminata «deflagrazione neurovegetativa primordiale» a R65 e l'etichetta «Sistema 1» a R69; sostituiti con il sequestro somatico viscerale puro (laringe, carotidi, unghie nelle cosce sotto il tavolo) e l'impulso motorio rabbioso di contrattacco.
+2. **Paolo Zantedeschi de-ventriloquizzato (P1-3, P1-4):** bonificato il Kitchen Test alla trattoria 'Da Gino'; cancellata la quintupla ripetizione pedagogica di «telecamera»; rimosso l'artefatto a R111; Paolo parla la lingua dei mastrini, bolle doganali, verifiche tributarie e calibri centesimali; metronomo del disincanto sul cotechino che si fredda nel piatto.
+3. **Espunzione del telling concettuale della risoluzione (P1-5):** cancellata la sintesi autoriale («lasciando emergere la natura sistemica...»); la presa di coscienza poggia sull'algebrica constatazione della perdita reale di € 14.250.
+4. **Rettifica algebrica Trafilerie Venete (P1-6):** corretta la percentuale al +5% su Brescia (eliminato il disavanzo del +8%); risparmio lordo esatto a € 48.000, dedotto sfrido fisiologico 0,2% pari a € 1.500, utile netto consolidato reale a € 46.500 all'anno con tolleranza h7.
+5. **Corporate Governance MBO (P1-7):** riformulata la delibera come Accordo Quadro di Filiera Interaziendale deliberato dal Comitato di Rete sotto la regia di Omnia Servizi e ratificato dai CdA di O.M.P. Precision e LogiDistretto.
+6. **Taglio dell'infiltrazione saggistica in scena (P1-8):** espunto totalmente il capoverso autoriale a R218.
+7. **De-filtraggio e de-didatticizzazione (P2):** azzerati i verbi filtro percettivi; Luca interrogatore da COO operativo d'officina; aggiunto round di attrito negoziale tra Valerio e Claudio prima del compromesso.
+8. **Precisione materica e filiera (P3):** camion a 5 assi da 44 t; rischio penali SLA Kuka/Hydac integrato nel TCO; blindate le 5 battute GOLD; gancio continuo verso il Cap. 7 (Marta Bellamoli e la ferita della riconoscenza negata).
+
+---
+
 # Capitolo 6 — La guerra dei territori e i dati come armi
 
 ## Il raggio laser sul totale
