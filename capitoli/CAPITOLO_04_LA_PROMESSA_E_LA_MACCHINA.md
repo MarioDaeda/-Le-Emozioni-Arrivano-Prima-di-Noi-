@@ -9,7 +9,7 @@ Alle 07:14 di lunedì 1° dicembre, Silvano Spinelli chiuse a chiave lo sportell
 
 Aveva cinquantotto anni, le spalle larghe leggermente incurvate da quarant'anni di mestiere, trentaquattro in O.M.P., trascorsi tra torni paralleli e centri di lavoro multiasse, e due dita della mano sinistra segnate dalle cicatrici bianche di una fresa a tazza saltata nel 1997. Per tutti, in fabbrica, Silvano era la memoria biologica dell'officina: l'unico uomo capace di capire se un cuscinetto idrostatico stava cedendo semplicemente appoggiando il manico di un cacciavite da elettrauto contro il basamento di ghisa e accostando l'orecchio all'impugnatura di plastica.
 
-Entrò nella navata principale del capannone. Il capannone non era climatizzato, e d'inverno la temperatura scendeva verso i dieci gradi: solo la sala metrologica in fondo alla navata era stabilizzata a venti gradi centigradi esatti, perché le escursioni termiche non dilatassero l'acciaio e l'alluminio oltre le tolleranze di progetto durante le misure. Quarantaquattro macchine utensili collegate in anello ottico. Ventidue centri Mori Seiki a cinque assi, dodici torni motorizzati a fantina mobile e dieci rettifiche tangenziali. Sull'isola 4, Marta e Davide stavano già caricando i grezzi del secondo turno della commessa Kuka: la cooperazione concordata con Sara due settimane prima sembrava reggere, ma l'equilibrio era sottile come un foglio di carta velina.
+Entrò nella navata principale del capannone. Il capannone non era climatizzato, e d'inverno la temperatura scendeva verso i dieci gradi: solo la sala metrologica in fondo alla navata era stabilizzata a venti gradi centigradi esatti, perché le escursioni termiche non dilatassero l'acciaio e l'alluminio oltre le tolleranze di progetto durante le misure. Quarantaquattro macchine utensili collegate in anello ottico. Ventidue centri Mori Seiki a cinque assi, dodici torni motorizzati a fantina mobile e dieci rettifiche tangenziali. Sull'isola 4, Marta e Davide stavano già caricando i grezzi del secondo turno della commessa Kuka: la cooperazione concordata con Sara due settimane prima reggeva ancora, ma con il gioco di un foglio di carta velina.
 
 Silvano salì la scaletta di ferro che portava al suo "box": un gabbiotto rettangolare con pareti in alluminio e doppi vetri blindati, sollevato di un metro e mezzo sopra il piano della fabbrica. Da lì dentro dominava l'intero reparto.
 
@@ -56,9 +56,9 @@ Il cervello di Silvano compì un calcolo matematico istantaneo e inesorabile: fr
 
 Non era un miracolo industriale: era una truffa fisica. Una scommessa suicida venduta da un commerciale irresponsabile per centrare il proprio target di budget annuale e incassare la provvigione del 4% sul fatturato acquisito prima della chiusura dell'esercizio contabile.
 
-In quel millisecondo, prima che qualsiasi parola potesse prendere forma logica nella mente, il corpo di Silvano fu squassato da una detonazione neurosimpatica violentissima.
+Non fece in tempo a trovare una parola. Il colpo arrivò da dentro, secco, come un utensile che si pianta nel pezzo a pieno avanzamento.
 
-Il sangue gli refluì dalla testa con un boato sordo, lasciandogli le orecchie intasate da un fischio acuto a tremila hertz. Il cuore sferrò tre colpi devastanti contro la cassa toracica, salendo istantaneamente a oltre centoventi pulsazioni. I muscoli masseteri della mandibola si serrarono con una ferocia tale che i molari scricchiolarono; i tendini del collo divennero due corde tese come cavi d'acciaio, mentre un'ondata di calore ustionante gli incendiò la schiena, le spalle e la gola.
+Il sangue gli refluì dalla testa con un boato sordo, lasciandogli nelle orecchie un fischio acuto, lo stesso di un mandrino che va in risonanza. Il cuore sferrò tre colpi devastanti contro la cassa toracica e poi prese a picchiare fitto, irregolare, come una fresa che scheggia. Le mascelle si serrarono con una ferocia tale che i molari scricchiolarono; i tendini del collo divennero due corde tese come cavi d'acciaio, mentre un'ondata di calore ustionante gli incendiò la schiena, le spalle e la gola.
 
 La mano destra si chiuse a pugno, sollevandosi involontariamente di venti centimetri dal piano di laminato per poi abbattersi con tutta la forza dei suoi ottantotto chili sulla scrivania.
 
@@ -66,7 +66,7 @@ La mano destra si chiuse a pugno, sollevandosi involontariamente di venti centim
 
 La tazza di caffè balzò in aria, rovesciando il liquido nero sui fogli del contratto tedesco; il calibro a corsoio centesimale cadde sul pavimento con un tintinnio metallico lacerante.
 
-La vista di Silvano collassò in un tunnel scuro, infuocato ai bordi. Nel cono percettivo rimase accesa un'unica immagine: il nodo della cravatta bordeaux di Fabio, il suo sorriso impeccabile, la sua perfetta, assoluta, ripugnante immunità materiale rispetto alla fatica della fabbrica.
+Il box si strinse in un tunnel scuro, infuocato ai bordi. In fondo restò acceso soltanto il nodo della cravatta bordeaux di Fabio, il suo sorriso impeccabile, le sue mani lisce, senza un taglio, senza un filo di grafite sotto le unghie: mani che un pezzo di titanio non l'avevano mai tenuto.
 
 Nella mente di Silvano non comparve un problema di pianificazione: comparve la certezza assoluta dell'oltraggio morale. *Questo parassita ha venduto la pelle dei miei ragazzi per intascarsi il premio di produzione. Ci considera carne da cannone. Pensa che qui dentro siamo schiavi senza dignità a cui si può calpestare la vita per comprarsi il suv nuovo.*
 
@@ -80,11 +80,11 @@ Fabio fece un passo indietro, sbattendo la schiena contro la porta del box, gli 
 
 Quella frase fu la scintilla che fece detonare la dinamite.
 
-L'accusa di incapacità e l'allusione alla vecchiaia colpirono Silvano al cuore della sua identità professionale: trentaquattro anni di lealtà aziendale, domeniche trascorse a riparare guide lineari per non fermare i turni del lunedì, polmoni intrisi di nebbie oleose, liquidati come la pigrizia di un vecchio da rottamare da un venditore arrivato l'altro ieri.
+Troppo vecchio. Troppo stanco. Trentaquattro anni in quel capannone, domeniche passate sdraiato sotto le macchine a riparare guide lineari per non fermare i turni del lunedì, polmoni intrisi di nebbie oleose: tutto liquidato come la pigrizia di un vecchio da rottamare, da un venditore arrivato l'altro ieri.
 
-L'impulso motorio fu istantaneo: afferrare Fabio per il bavero del cappotto in cachemire, trascinarlo giù per la scaletta di ferro e sbattergli la faccia contro la dima di titanio dell'isola 4 per fargli vedere cosa significavano sei micron di tolleranza.
+Le mani lo volevano già: afferrare Fabio per il bavero del cappotto in cachemire, trascinarlo giù per la scaletta di ferro e sbattergli la faccia contro la dima di titanio dell'isola 4 per fargli vedere cosa significavano sei micron di tolleranza.
 
-Silvano avanzò di mezzo passo, le mani artigliate. Poi, con uno sforzo di inibizione sovrumano che gli provocò una fitta lancinante dietro lo sterno, afferrò la cartellina intrisa di caffè di Hydac, la scaraventò fuori dalla porta aperta del gabbiotto facendola volare giù nel corridoio della fabbrica, e urlò con quanto fiato aveva in gola:
+Silvano avanzò di mezzo passo, le mani artigliate. Poi qualcosa dentro di lui batté il fungo rosso dell'arresto d'emergenza, e la frenata gli piantò una fitta lancinante dietro lo sterno. Afferrò la cartellina intrisa di caffè di Hydac, la scaraventò fuori dalla porta aperta del gabbiotto facendola volare giù nel corridoio della fabbrica, e urlò con quanto fiato aveva in gola:
 
 «Fuori dal mio reparto! Prendi le tue carte di merda e vattene prima che ti metta le mani addosso! Questa commessa io non la metto in macchina neanche se viene il Presidente della Repubblica in persona! Vattene!»
 
@@ -92,7 +92,7 @@ Fabio indietreggiò sul ballatoio di ferro, scese i gradini a due a due con il v
 
 Quando la porta tagliafuoco della palazzina uffici si richiuse dietro le spalle di Fabio, nel capannone calò un silenzio tombale.
 
-Nessun mandrino ripartì per dieci minuti. Gli operai si scambiavano sguardi sgomenti da dietro le barriere fotoelettriche; Marta rimase immobile sull'isola 4 con il calibro a mezz'aria, mentre Silvano, solo dentro il box con le mani che tremavano in modo incontrollabile, si accasciò sulla sedia girevole, il cuore che batteva a vuoto, convinto fino all'ultimo neurone di aver difeso la giustizia contro il male assoluto.
+Nessun mandrino ripartì per dieci minuti. Gli operai si scambiavano sguardi sgomenti da dietro le barriere fotoelettriche; Marta rimase immobile sull'isola 4 con il calibro a mezz'aria, mentre Silvano, solo dentro il box con le mani che tremavano in modo incontrollabile, si accasciò sulla sedia girevole, il cuore che batteva a vuoto. Aveva difeso i suoi ragazzi da un ladro. Ne era certo come di una misura presa in sala metrologica.
 
 ---
 
@@ -134,7 +134,7 @@ Silvano serrò i pugni sopra il tavolo, costringendosi a riavvolgere la memoria 
 
 «Bene. Poi?»
 
-«Ha sbattuto la cartellina sulla mia scrivania rovesciandomi quasi il caffè e ha detto che aveva chiuso un ordine da centoquarantamila euro con Hydac per trecento distributori in titanio da consegnare il 19 dicembre con tremila euro di penale al giorno.»
+Silvano prese il pacchetto di sigarette, lo rigirò tra le dita e lo rimise sulla tovaglia senza aprirlo. «Ha sbattuto la cartellina sulla mia scrivania rovesciandomi quasi il caffè e ha detto che aveva chiuso un ordine da centoquarantamila euro con Hydac per trecento distributori in titanio da consegnare il 19 dicembre con tremila euro di penale al giorno.»
 
 «E poi?»
 
@@ -146,19 +146,19 @@ Silvano distolse lo sguardo, fissando il muro intonacato di giallo. «No. Ovvio 
 
 «Fabio conosceva a che punto fosse il carico delle frese a cinque assi all'ottantotto per cento?»
 
-«Non all'ottantotto, al novantotto virgola quattro!» la corresse Silvano per riflesso d'officina.
+«Non all'ottantotto, al novantotto virgola quattro!» L'indice di Silvano batté due volte sul piano di formica, come sul vetro del monitor quando correggeva un apprendista.
 
-«Appunto. Fabio aveva aperto il software di pianificazione prima di partire per Francoforte?»
+Luisa prese il piattino con il mozzicone sbriciolato e lo posò sul lavello, fuori dalla sua portata. «Appunto. Fabio aveva aperto il software di pianificazione prima di partire per Francoforte?»
 
-«Quello non sa nemmeno che password serve per entrare nell'APS!» ringhiò Silvano.
+«Quello non sa nemmeno che password serve per entrare nell'APS!» Silvano diede una manata alla tovaglia cerata e il cucchiaio rovesciato andò a sbattere contro la ciotola.
 
-«E allora vedi che la tua testa sta inventando la trama di un film?» scandì Luisa con implacabile fermezza. «La realtà è molto più banale: un commerciale ambizioso, incompetente sui tempi tecnici del titanio, che ha visto l'opportunità di portare a casa un cliente colossale dopo il disastro di Apex, ha firmato una scadenza senza verificare la capacità produttiva perché il suo contratto lo premia sui volumi venduti, ed è venuto da te credendo davvero, nella sua totale ignoranza meccanica, che con un po' di straordinario e di buona volontà l'officina potesse farcela. Questa è la realtà dei fatti: ignoranza, incentivi aziendali sbagliati e superficialità.»
+«E allora vedi che ti stai montando un film?» Luisa non alzò la voce. «Sai quante volte il pronto soccorso mi ha chiamato alle tre di notte per scaricarmi un politrauma, con tutti i letti occupati e un'infermiera in malattia? Il medico di guardia i miei letti non li aveva mai contati. Aveva le barelle in corridoio e il primario che gli chiedeva di svuotarle, e per lui un posto in rianimazione si trovava sempre, bastava un po' di buona volontà. Non voleva ammazzare nessuno: non sapeva. Fabio è uguale. Ha visto un cliente grosso dopo il disastro di Apex, ha firmato la data senza guardare le tue ore macchina, perché la provvigione gliela pagano su quello che vende, mica su quello che riuscite a fare voi. E stamattina è salito da te convinto davvero che con un po' di straordinario ce la facevi. Del titanio e delle tue macchine non sa niente.»
 
-A Silvano mancò la terra sotto i piedi. L'edificio monumentale del complotto personale, su cui aveva alimentato la propria furia per dodici ore consecutive, cominciava a scricchiolare pericolosamente.
+Silvano aprì la bocca e la richiuse. Il complotto che aveva montato per dodici ore consecutive, pezzo su pezzo, adesso gli ballava in mano come un grezzo serrato male in morsa.
 
 «Ma mi ha dato dell'incapace e del vecchio!» protestò, con una voce che cercava disperatamente di rianimare l'oltraggio.
 
-«Ti ha dato dell'incapace dopo che tu hai tirato un pugno sul tavolo da spaccare il legno, gli hai dato del criminale e gli hai buttato il contratto da centoquarantamila euro giù dalle scale davanti a tutta la fabbrica!» ribatté Luisa, implacabile. «La realtà è che due uomini adulti si sono aggrediti a vicenda come due cani per strada. Tu non sei arrabbiato perché Fabio voleva distruggerti, Silvano. Tu sei arrabbiato perché il tuo mestiere è sacro, perché sai che trecento distributori in titanio in diciotto giorni con tremila euro di penale al giorno sono un'assurdità che mette a rischio le macchine e le persone, e hai vissuto la sua leggerezza come uno sputo sulla tua vita. È comprensibile. La tua rabbia è sacrosanta nel merito. Ma l'hai trasformata in una guerra personale tra te e lui, e adesso l'unica cosa che hai ottenuto è che domani la fabbrica è ferma, Fabio andrà dalla direzione a denunciare l'aggressione, e tu passi dalla parte del torto marcio.»
+«Ti ha dato dell'incapace dopo che tu hai tirato un pugno sul tavolo da spaccare il legno, gli hai dato del criminale e gli hai buttato il contratto da centoquarantamila euro giù dalle scale davanti a tutta la fabbrica!» ribatté Luisa, implacabile. «Due uomini adulti che si azzannano come due cani per strada. In reparto, quando il pronto soccorso mi mandava su un paziente che non potevo prendere, avevo ragione io nove volte su dieci. Ma se urlavo in faccia al medico davanti ai parenti, la mattina dopo dal primario ci andava lui, e alla consegna si parlava di me, non del letto che mancava. Tu hai ragione sui numeri, Silvano: trecento distributori in titanio in diciotto giorni, con tremila euro di penale al giorno, ti spaccano le macchine e i ragazzi. Ma la ragione l'hai buttata giù dalle scale insieme alla cartellina. Adesso domani la fabbrica è ferma, Fabio va in direzione a denunciare l'aggressione, e il torto marcio ce l'hai tu.»
 
 Silvano affondò il viso tra le mani. I muscoli del collo si sciolsero lentamente, lasciando il posto a una stanchezza immensa, plumbea, che gli svuotava le ossa.
 
@@ -223,7 +223,7 @@ La sala riunioni della palazzina direzionale di O.M.P. Precision era immersa in 
 
 Attorno al tavolo rettangolare in rovere chiaro sedevano quattro persone. Al centro, Sara, responsabile delle risorse umane, con davanti a sé il verbale dell'incidente del giorno prima e il regolamento aziendale disciplinare. Alla sua sinistra Fabio, con lo stesso abito sartoriale impeccabile, le braccia conserte e la mascella serrata, che evitava accuratamente di incrociare lo sguardo altrui. Alla destra di Sara sedeva Silvano, che si era tolto la tuta da lavoro e indossava una camicia di flanella a quadri pulita, i capelli grigi pettinati all'indietro con cura. Di fronte a loro sedeva Elena, che guidava lo Studio Colombo & Associati, consulenza del lavoro e di rete, chiamata d'urgenza da Sara per evitare che lo scontro degenerasse in una denuncia formale per aggressione sul luogo di lavoro.
 
-L'aria nella stanza era densa di elettricità statica. Quando Fabio mosse la poltroncina facendola cigolare sul pavimento, la solita fitta acida risalì lungo l'esofago di Silvano; le tempie registrarono una pulsazione accelerata e i palmi presero a pizzicare. La conversazione della sera prima con Luisa non aveva cancellato la sua fisiologia animale: la presenza di Fabio continuava a essere codificata come una violazione territoriale inaccettabile.
+L'aria nella stanza era densa di elettricità statica. Quando Fabio mosse la poltroncina facendola cigolare sul pavimento, la solita fitta acida risalì lungo l'esofago di Silvano; le tempie presero a battere e i palmi a pizzicare. La minestra della sera prima e le parole di Luisa non gli avevano cambiato il sangue: Fabio seduto a un metro da lui restava quello che gli era entrato nel box senza bussare.
 
 Ma questa volta Silvano teneva a mente i dati nudi della produzione. Teneva le mani piatte sul tavolo, aperte, a custodire quattro copie cartacee stampate del diagramma di Gantt e della scheda tecnica di lavorazione del titanio grado 5.
 
@@ -233,13 +233,13 @@ Fabio prese subito la parola, la voce carica di sdegno risentito: «Il problema 
 
 Il sangue pulsò alle orecchie di Silvano. Il vecchio impulso a urlare *«Dipendente a chi, pagliaccio?»* premette contro i suoi denti.
 
-Trattenne il fiato per tre secondi. Espirò lentamente attraverso il naso, appoggiò gli avambracci sul piano di legno, guardò Fabio dritto negli occhi e, invece di replicare all'accusa di insubordinazione, pose una domanda di processo pulita, priva di sarcasmo, tagliente come una fresa al diamante:
+Trattenne il fiato per tre secondi. Espirò lentamente attraverso il naso, appoggiò gli avambracci sul piano di legno, guardò Fabio dritto negli occhi e, invece di replicare all'accusa di insubordinazione, fece una domanda sola, pulita, senza sarcasmo, tagliente come una fresa al diamante:
 
 «Fabio, ieri ho sbagliato i modi e ti chiedo scusa davanti a tutti per aver alzato la voce e aver buttato i fogli. Non dovevo farlo e non succederà mai più. Ma adesso lasciamo da parte me e te per cinque minuti e guardiamo questo pezzo di carta. **Quando venerdì scorso a Francoforte hai negoziato con la direzione acquisti di Hydac la data del 19 dicembre, quali erano i margini di flessibilità sui lotti parziali e sui tempi di collaudo che il cliente era disposto ad accettare prima che tu firmassi la clausola di penale fissa?**»
 
 La domanda piombò sul tavolo con il peso del piombo.
 
-Non c'era giudizio morale. Non c'era accusa di avidità sul bonus. C'era unicamente l'interrogativo tecnico sulla dinamica della negoziazione.
+Niente parassita, niente provvigione, niente bonus. Solo date, lotti e collaudi, come su un foglio di lavorazione.
 
 Fabio sbatté le palpebre. La maschera di sicura superiorità commerciale ebbe un'esitazione visibile. Si schiarì la voce, prese la penna stilografica dal taschino, la posò sul tavolo senza aprirla.
 
@@ -257,7 +257,7 @@ Fabio deglutì a vuoto. Le dita strinsero la stilografica fino a sbiancare. Guar
 
 «Loro... loro hanno la presentazione dei nuovi escavatori a una fiera di settore a fine gennaio,» confessò infine a voce più bassa. «Gli servivano cinquanta distributori entro Natale per allestire i primi prototipi dimostrativi nello stabilimento di Stoccarda. I restanti duecentocinquanta pezzi sono destinati alla produzione di serie che parte a fine gennaio.»
 
-Silvano chiuse gli occhi per un secondo. Il punto cieco dell'intero distretto si spalancò nella stanza.
+Silvano chiuse gli occhi per un secondo. Cinquanta pezzi. Non trecento: cinquanta. Lui e Fabio si erano sbranati per un carico che il cliente non aveva mai chiesto entro Natale.
 
 «E perché hai firmato per trecento pezzi entro il 19 con la penale di tremila euro al giorno?» chiese Sara, la voce incredula.
 
