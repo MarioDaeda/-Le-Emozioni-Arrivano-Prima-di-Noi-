@@ -66,7 +66,7 @@ L'Amministratore scende i due gradini di moquette con falcate rigide, la testa b
 
 Contro il muro posteriore della mensa, la schiena di Sara perde aderenza dall'intonaco.
 
-L'aria espulsa dai polmoni non torna indietro; sotto lo sterno cala una coltre di ghiaccio che svuota la forza dai quadricipiti. La laringe si contrae in un nodo secco che blocca la saliva; le dita dentro le tasche del cappotto diventano istantaneamente fredde e umide di sudore vischioso. Davanti a lei il video sul plasma continua a mostrare giovani ingegneri sorridenti che alzano pollici verso il cielo, mentre l'odore nauseante dell'essenza al sandalo si mescola al fumo dell'olio da taglio e alla ritirata muta dei reparti. Non c'è rabbia nella sala: c'è l'anestesia assoluta di un corpo collettivo che ha spento ogni reazione per non esporsi al dolore.
+L'aria espulsa dai polmoni non torna indietro; sotto lo sterno cala una coltre di ghiaccio che svuota la forza dai quadricipiti. La laringe si contrae in un nodo secco che blocca la saliva; le dita dentro le tasche del cappotto diventano istantaneamente fredde e umide di sudore vischioso. Davanti a lei il video sul plasma continua a mostrare giovani ingegneri sorridenti che alzano pollici verso il cielo, mentre l'odore nauseante dell'essenza al sandalo si mescola al fumo dell'olio da taglio e alla ritirata muta dei reparti. Nessuno sbatte una sedia, nessuno si volta verso la pedana. Sara conosce quelle facce per nome e matricola; adesso le sfilano davanti in fila, gli occhi asciutti, con il passo di un cambio turno qualsiasi.
 
 ---
 
