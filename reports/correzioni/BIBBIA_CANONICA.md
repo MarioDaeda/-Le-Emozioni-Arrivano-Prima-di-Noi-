@@ -2,7 +2,7 @@
 
 Fonte delle voci: `reports/correzioni/REGISTRO_ANOMALIE.tsv`. Ogni voce fissa il valore che tutti i file di `capitoli/` devono adottare nelle fasi di correzione.
 
-**Precedenza provvisoria.** Fino al merge della fase Governance, questa Bibbia prevale su ADR 0001 e CONTEXT.md **solo** sui conflitti censiti: tolleranze (G1), sede e territorio (G3), parco macchine, attribuzioni a Damasio (G5). Su tutto il resto la governance resta vincolante.
+**Precedenza.** Con la fase Governance (branch `bonifica/03-governance`) ADR 0001, ADR 0002 e CONTEXT.md sono allineati a questa Bibbia su tolleranze (G1), sede e territorio (G3), parco macchine e attribuzioni a Damasio (G5). La precedenza provvisoria decade: Bibbia e governance coincidono. Per i conflitti residui vale la governance aggiornata.
 
 **Stato.** Le voci territoriali sono APPROVATE secondo `MAPPA_TERRITORIALE.md` (D1, D2 e D3 approvate). Tutte le voci sono APPROVATE, compresa T5 (D1).
 

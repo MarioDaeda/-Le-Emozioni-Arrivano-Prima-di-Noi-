@@ -15,7 +15,7 @@ La doppia valutazione cognitiva automatica (Lazarus): l'appraisal primario valut
 _Avoid_: Giudizio soggettivo, impressione personale.
 
 **Carico Allostatico (Allostatic Load)**:
-Il costo biologico e metabolico cumulativo che l'organismo paga per mantenere l'omeostasi sotto stress cronico o in ambienti percepiti come ostili (Damasio).
+Il costo biologico e metabolico cumulativo che l'organismo paga per adattarsi allo stress cronico o ad ambienti percepiti come ostili (McEwen & Stellar, 1993; il concetto di allostasi risale a Sterling & Eyer, 1988).
 _Avoid_: Stress da lavoro, fatica mentale, stanchezza generica.
 
 **Complesso Vagale Ventrale (VVC)**:
@@ -31,7 +31,7 @@ La scansione continua, autonoma e pre-conscia dell'ambiente relazionale da parte
 _Avoid_: Percezione conscia, sesto senso, intuito.
 
 **Sopravvivenza nel Ruolo (Role Survival Threat)**:
-L'attivazione viscerale di allarme somatico identico alla minaccia di morte biologica, innescata dal rischio di perdita di status, reputazione o controllo aziendale (Damasio).
+L'attivazione viscerale di allarme somatico identico alla minaccia di morte biologica, innescata dal rischio di perdita di status, reputazione o controllo aziendale (costrutto operativo dell'opera, non attribuito a un autore).
 _Avoid_: Orgoglio ferito, vanità, suscettibilità.
 
 **Rottura del Contratto Psicologico**:
@@ -90,8 +90,8 @@ _Avoid_: Patto della fiducia, accordo morale, carta dei valori.
 I tempi medi effettivi di incasso delle fatture industriali nel territorio (115–120 giorni), condizionati dal rilascio della perizia di collaudo dimensionale.
 _Avoid_: Termini di legge europei a 60 giorni (applicati solo in astratto).
 
-**Tolleranza Micrometrica a 2 Micron**:
-Precisione geometrica e dimensionale (0,002 mm) richiesta sui componenti medicali (Kuka) e idraulici (Hydac) in leghe nobili (titanio Grado 5, ergal 7075-T6).
+**Tolleranza Micrometrica Critica**:
+Precisione dimensionale richiesta sui pezzi critici: 0,002 mm (2 µm) sulle boccole Kuka in ergal 7075-T6 per bracci robotici; 0,006 mm (6 µm) sui distributori Hydac in titanio grado 5. Si certifica in sala metrologica a 20 °C con strumenti adeguati (micrometro millesimale, comparatore, CMM), mai con strumenti centesimali. La rugosità (Ra) è una grandezza distinta.
 _Avoid_: Lavorazione precisa, tolleranza centesimale generica.
 
 **Ravvivatura della Mola**:
