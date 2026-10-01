@@ -26,7 +26,7 @@ Luca sollevò una spalla. «Un professionista esterno. È una cifra importante.�
 
 «Lo so che è importante. I numeri li ho seguiti io.»
 
-Non urlava. Le frasi gli uscivano più rapide, col filo che prendeva quando una discussione, per lui, era finita — il registro con cui, in vent'anni, aveva chiuso più riunioni di quante ne avesse aperte. E per lui non stava chiudendo proprio niente: stava rimettendo ordine.
+Non urlava. Le frasi gli uscivano più rapide, col filo che prendeva quando una discussione, per lui, era finita — il registro con cui, in quindici anni, aveva chiuso più riunioni di quante ne avesse aperte. E per lui non stava chiudendo proprio niente: stava rimettendo ordine.
 
 Luca guardò lo schermo. «Non ho detto che non li hai seguiti.»
 
@@ -38,7 +38,7 @@ Luca inspirò dal naso. «Ho detto che prima di impegnare questa cifra, un paio 
 
 «E io ti dico che la verifica è fatta.» I palmi premevano ancora sul rovere. «Se c'è un errore, avanti: riga, colonna, numero. Indicalo adesso. Se non c'è, la chiudiamo io e te nel mio ufficio, e restituiamo questa sala a chi deve lavorare.»
 
-Quello che seguì conservò la forma di una discussione sui numeri e perse, scambio dopo scambio, la sostanza. Luca chiese quali costi entrassero nel secondo trimestre; Andrea proiettò una colonna che tutti avevano davanti da una settimana. Il consulente tentò di distinguere il controllo tecnico dalla responsabilità decisionale, Zucchero sull'offesa. Luca smise di insistere. Prese appunti. Da lì in poi parlò solo quando qualcuno gli rivolse una domanda diretta.
+Quello che seguì conservò la forma di una discussione sui numeri e perse, scambio dopo scambio, la sostanza. Luca chiese quali costi entrassero nel secondo trimestre; Andrea proiettò una colonna che tutti avevano davanti da una settimana. Il consulente tentò di distinguere il controllo tecnico dalla responsabilità decisionale: zucchero sull'offesa. Luca smise di insistere. Prese appunti. Da lì in poi parlò solo quando qualcuno gli rivolse una domanda diretta.
 
 La decisione slittò di quarantotto ore. Nessuno propose di votare.
 
@@ -78,15 +78,15 @@ Elena si appoggiò con i fianchi al bordo del tavolo. «Può esserlo. Può anche
 
 «Male.»
 
-Elena scosse la testa, il coltello fermo a mezz'aria. «Male come? Alto, basso, tagliente, strascicato?»
+Elena scosse la testa e riprese il coltello. «Male come? Alto, basso, tagliente, strascicato?»
 
 «Non sono ingenuo, Elena.»
 
 «Non l'ho detto. Ho chiesto com'era il tono.»
 
-Andrea la guardò. Anche lei, adesso, sceglieva la postazione comoda: quella di chi nella stanza non c'era mai stato e le sfumature poteva permettersele tutte. «Avresti dovuto sentire il tono.»
+Andrea la guardò. Anche lei, adesso, sceglieva la postazione comoda: quella di chi nella stanza non c'era mai stato e le sfumature poteva permettersele tutte. «Avresti dovuto sentire il tono. Sprezzante.»
 
-«Probabile.» Elena riprese il coltello, poi lo posò di nuovo nel tagliere. «Io però stasera ero in cucina, non in sala riunioni. Sprezzante come? Parole, volume, faccia — dimmela con la faccia.»
+«Probabile.» Elena posò di nuovo il coltello nel tagliere. «Io però stasera ero in cucina, non in sala riunioni. Sprezzante come? Parole, volume, faccia — dimmela con la faccia.»
 
 Andrea ricostruì. Luca non aveva sorriso. Non aveva alzato la voce. Aveva parlato dopo una pausa, con la mandibola tirata, diretto forse più del necessario. Dell'irritazione propria ricordava tutto, al centimetro: il calore su per il collo, i palmi sul rovere, il sapore di metallo in fondo alla lingua. Dell'espressione di Luca, niente. Il volto dell'altro era già sbiadito.
 
@@ -244,7 +244,7 @@ La replica c'era già in bocca — nessuno conosce il progetto quanto lui, nessu
 
 Ne parlarono venti minuti, in piedi davanti alla parete di vetro, col marker. Dal piano emersero due voci da controllare. Non errori certi: due voci.
 
-Luca cerchiò le due voci in rosso, le nocche bianche attorno al marker. «Fasoli non aspetta il nostro comizio. L'ordine che ci ha mandato vale fino al quindici, e l'allegato tecnico che i tuoi commerciali hanno firmato prevede penali di ritardo: due per mille al giorno sull'importo non erogato. Quindi niente audit lungo. Zantedeschi entra venerdì, prende le due voci, solo quelle, e chiude lunedì. Tetto di spesa: quattromiladuecento euro.»
+Luca cerchiò le due voci in rosso, le nocche bianche attorno al marker. «Fasoli non aspetta il nostro comizio. L'ordine che ci ha mandato vale fino al quindici, e l'allegato tecnico che i tuoi commerciali hanno firmato prevede penali di ritardo: due per mille al giorno sull'importo non consegnato. Quindi niente audit lungo. Zantedeschi entra venerdì, prende le due voci, solo quelle, e chiude lunedì. Tetto di spesa: quattromiladuecento euro.»
 
 «Sopra i tremila la matrice delle firme vuole due firme elettroniche. Oggi.»
 
@@ -264,7 +264,9 @@ Non si strinsero la mano. Non si dissero che andava tutto bene. Non ci fu nessun
 
 Andrea non aveva smesso di essere irritato. Aveva smesso, fino alla relazione di lunedì, di trattare la propria irritazione come una prova giuridica di tradimento.
 
-## Mettilo in pratica
+## Apparati operativi e continuità
+
+### 1. Mettilo in Pratica
 
 Scegli un episodio recente in cui hai reagito in fretta a una frase, un silenzio, un gesto. Non partire dall'episodio più doloroso della tua vita: ti serve una situazione sufficientemente rilevante da essere reale e delimitata da poterla osservare.
 
@@ -280,7 +282,7 @@ Scrivi sette righe:
 
 L'ultima spiegazione non deve essere positiva, rassicurante o indulgente. Deve soltanto rispettare ciò che sai. Se non ne trovi una credibile, scrivi quali informazioni servirebbero per verificare la prima lettura. Lo scopo non è convincerti di avere torto. È riconoscere dove finiscono i dati e dove comincia l'ipotesi.
 
-## Da ricordare
+### 2. Da Ricordare
 
 - Le emozioni possono sembrare improvvise senza essere prive di una logica.
 - Non reagiamo soltanto ai fatti: contano ciò che notiamo e il significato che la situazione assume per noi.
