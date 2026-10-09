@@ -105,7 +105,7 @@ La tosse strappò a Gianni un rantolo roco prima che riprendesse: «Dico che sta
 
 «Me lo avevano promesso a voce 10 volte!» Le nocche di Marta sbiancarono contro la pietra umida della panchina; la voce si ruppe in un singhiozzo soffocato. «Mi hanno usata finché gli servivo e poi mi hanno calpestata!»
 
-L'indice calloso di Gianni puntò verso la sagoma scura delle turbine oltre l'acqua torbida: «Le parole nel vento dei padroni valgono quanto il fumo della centrale di Tombetta quando gira il vento. Tu hai scambiato il tuo sangue per un debito d'onore. Ma l'azienda è una macchina economica, Marta, non è tua madre. L'azienda compra ore di lavoro e vende pezzi al centesimo. E adesso che hai scoperto che il tuo credito morale non vale una riga di contratto, cosa vuoi fare? Vuoi fare il sabotaggio passivo? Vuoi startene a casa a guardare il soffitto mentre le frese sbattono per goderti il disastro? Se lunedì non vai a lavorare dimostri che eri solo un'operaia rancorosa che non sa reggere il peso della delusione. E l'unica che finisce sepolta sei tu.»
+L'indice calloso di Gianni puntò verso la sagoma scura delle turbine oltre l'acqua torbida: «Le parole nel vento dei padroni valgono quanto la nebbia sulle turbine di Tombetta quando gira il vento. Tu hai scambiato il tuo sangue per un debito d'onore. Ma l'azienda è una macchina economica, Marta, non è tua madre. L'azienda compra ore di lavoro e vende pezzi al centesimo. E adesso che hai scoperto che il tuo credito morale non vale una riga di contratto, cosa vuoi fare? Vuoi fare il sabotaggio passivo? Vuoi startene a casa a guardare il soffitto mentre le frese sbattono per goderti il disastro? Se lunedì non vai a lavorare dimostri che eri solo un'operaia rancorosa che non sa reggere il peso della delusione. E l'unica che finisce sepolta sei tu.»
 
 Il vecchio allentò la presa sul polso e le batté il palmo aperto sul ginocchio.
 
@@ -119,17 +119,13 @@ Marta appoggiò la fronte contro la lana ruvida del cappotto paterno. Il freddo 
 
 La devastazione somatica che ha investito Marta Bellamoli davanti all'organigramma aziendale non costituisce un cedimento caratteriale né una banale reazione d'orgoglio ferito: è la manifestazione clinica della più dolorosa frattura neurobiologica che un essere umano possa sperimentare all'interno di una comunità di lavoro: **il dolore somatico dell'esclusione sociale e il collasso da rottura del contratto psicologico**.
 
-La ricerca neurobiologica contemporanea ha dimostrato una verità che l'ideologia aziendale convenzionale tende a rimuovere: **il sistema nervoso umano processa l'esclusione sociale, la riconoscenza negata e il tradimento fiduciario attraverso la medesima matrice neurale deputata al dolore fisico reale**.
+La ricerca neurobiologica contemporanea ha messo in luce una verità che l'ideologia aziendale convenzionale tende a rimuovere: **il sistema nervoso umano elabora l'esclusione sociale, la riconoscenza negata e il tradimento fiduciario con reti in parte condivise con il dolore fisico**.
 
-Come documentato dagli studi neuroscientifici di **Naomi I. Eisenberger e Matthew D. Lieberman** e integrato da **Antonio Damasio** in *Feeling & Knowing* (2021), l'evoluzione non ha progettato un circuito fisiologico separato per la sofferenza relazionale. Quando un individuo subisce un'amputazione del proprio status sociale all'interno del gruppo di appartenenza, l'organismo attiva le identiche stazioni corticali e sottocorticali che elaborano la dimensione spiacevole e allarmante del danno tissutale acuto: nello specifico, la **corteccia cingolata anteriore dorsale (dACC)** e l'**insula anteriore**.
+Gli studi di **Naomi I. Eisenberger e Matthew D. Lieberman** (2003; 2004) hanno mostrato che l'esclusione sociale attiva regioni coinvolte anche nella componente spiacevole del dolore fisico, in particolare la **corteccia cingolata anteriore dorsale (dACC)** e l'**insula anteriore**. Ricerche successive (Woo e colleghi, 2014) indicano che i due tipi di dolore restano distinguibili, ma la sovrapposizione basta a spiegare perché un'esclusione possa fare male come una ferita. **Antonio Damasio**, da parte sua, ha mostrato come le emozioni sociali si appoggino sui meccanismi dell'omeostasi biologica.
 
-Damasio descrive questa sovrapposizione in termini netti:
+Quando l'Amministratore Delegato ha pronunciato l'espressione *«promozione morale»* degradando Marta a figura di supporto subordinata al manager esterno, il suo sistema nervoso non ha decodificato un mutamento astratto di mansione: ha registrato una **violazione letale del patto fiduciario primario**. La dACC e l'insula hanno tradotto l'esclusione nella fitta toracica retro-sternale, nel blocco laringeo e nel gelo agli arti: un dolore che il corpo vive con l'urgenza di una ferita fisica.
 
-> Il dolore dell'esclusione sociale o del tradimento fiduciario viene elaborato come un danno tissutale severo: il cervello usa gli stessi meccanismi omeostatici per segnalare che la posizione sociale è in grave pericolo.
-
-Quando l'Amministratore Delegato ha pronunciato l'espressione *«promozione morale»* degradando Marta a figura di supporto subordinata al manager esterno, il suo sistema nervoso non ha decodificato un mutamento astratto di mansione: ha registrato una **violazione letale del patto fiduciario primario**. La dACC e l'insula hanno tradotto l'esclusione nella fitta toracica retro-sternale, nel blocco laringeo e nel gelo agli arti: un dolore biologicamente e chimicamente indistinguibile da una lacerazione muscolare.
-
-A questo sequestro somatico primario si salda la reazione neurovegetativa descritta da **Stephen W. Porges** ne *The Polyvagal Theory* (2011): l'attivazione del **Complesso Vagale Dorsale (Dorsal Vagal Complex - DVC)** e la conseguente transizione nel **collasso metabolico e comportamentale (spegnimento comportamentale)**.
+A questo sequestro somatico primario si salda la reazione neurovegetativa descritta da **Stephen W. Porges** ne *The Polyvagal Theory* (2011; una teoria discussa e non unanimemente accettata): l'attivazione del **Complesso Vagale Dorsale (Dorsal Vagal Complex - DVC)** e la conseguente transizione nel **collasso metabolico e comportamentale (spegnimento comportamentale)**.
 
 Marta non ha reagito con la mobilitazione simpatica (lotta, urla, pugno sul tavolo come Silvano nel Capitolo 4). La teoria del *Cognitive Appraisal* di **Richard S. Lazarus** (*Emotion and Adaptation*, 1991) chiarisce le ragioni di questa divergenza: la rabbia esige la percezione di poter modificare la realtà attraverso l'attacco frontale (potenziale di fronteggiamento). Quando l'organismo valuta invece che l'evento costituisce una **perdita irreparabile (*irrevocable loss*)** contro cui la lotta è totalmente vana, il sistema affettivo transita istantaneamente dalla rabbia alla **tristezza profonda**.
 
@@ -145,7 +141,7 @@ Su questa matrice corporea si innesta la dinamica organizzativa formalizzata da 
 
 Il contratto psicologico definisce l'insieme dei doveri e dei diritti impliciti, mai protocollati per iscritto, che vincolano il professionista all'impresa: *«Io ti dono la mia dedizione totale, le mie notti e la mia giovinezza; tu in cambio mi garantisci protezione, dignità, rispetto e riconoscimento del mio valore quando si apriranno i vertici»*. Quando la governance tradisce questo patto non scritto — promuovendo un profilo esterno sulla base di titoli accademici asettici e derubricando 22 anni di dedizione a "promozione morale" — il lavoratore sprofonda in un autentico **lutto organizzativo**.
 
-Se questo lutto non viene attraversato fino in fondo attraverso l'esame crudo della realtà, esso degenera nella patologia sistemica più letale per l'industria: il **disimpegno morale passivo** (concetto formulato da Albert Bandura) e il **sabotaggio silenzioso**. Il tecnico ritira la propria intelligenza dal reparto, smette di correggere le derive prima che diventino scarti, tace quando vede un utensile montato fuori quota e lascia che la fabbrica collassi per godere della vendetta sul padrone.
+Se questo lutto non viene attraversato fino in fondo attraverso l'esame crudo della realtà, esso degenera nella patologia sistemica più letale per l'industria: il **ritiro dell'impegno**, sostenuto dai meccanismi di disimpegno morale descritti da Albert Bandura (le giustificazioni che rendono accettabile il danno), e il **sabotaggio silenzioso**. Il tecnico ritira la propria intelligenza dal reparto, smette di correggere le derive prima che diventino scarti, tace quando vede un utensile montato fuori quota e lascia che la fabbrica collassi per godere della vendetta sul padrone.
 
 La dinamica si formalizza nella sequenza della **Mappa Minima**:
 
@@ -278,7 +274,7 @@ PROTOCOLLO DEL VALORE RICONQUISTATO:
 └───────────────────────────────────┬────────────────────────────────────┘
                                     │
 ┌───────────────────────────────────▼────────────────────────────────────┐
-│ 4. MAPPA SOMATICA (Dolore sociale e collasso vagale — Damasio/Porges)  │
+│ 4. MAPPA SOMATICA (Dolore sociale, blocco vagale — Eisenberger/Porges) │
 │    - Riconoscere la fitta toracica (dACC), la bradicardia e il blocco. │
 └───────────────────────────────────┬────────────────────────────────────┘
                                     │
@@ -317,7 +313,7 @@ PROTOCOLLO DEL VALORE RICONQUISTATO:
 
 ### 2. Da Ricordare: Massime di Sintesi Epistemica
 
-* **Il dolore dell'esclusione sociale è dolore somatico reale (*Damasio, Eisenberger & Lieberman*).** L'organismo umano non possiede un apparato neurale separato per le ferite relazionali: il tradimento e la riconoscenza negata reclutano la corteccia cingolata anteriore dorsale e l'insula anteriore, producendo una sofferenza fisica equivalente a una lesione corporea acuta.
+* **Il dolore dell'esclusione sociale è dolore somatico reale (*Eisenberger & Lieberman*).** Le ferite relazionali usano in parte le stesse reti del dolore fisico: il tradimento e la riconoscenza negata reclutano la corteccia cingolata anteriore dorsale e l'insula anteriore, producendo una sofferenza che il corpo vive come una ferita.
 * **Il mutismo e la pesantezza sono risposte biologiche di collasso metabolico (*Porges*).** Davanti a una sconfitta sociale valutata come insormontabile, il sistema nervoso autonomo disinnesta il vago ventrale e il simpatico, rifugiandosi nel Complesso Vagale Dorsale. Non è rassegnazione morale, ma un freno evolutivo per proteggere le risorse energetiche vitali.
 * **L'azienda è una macchina economica, non una madre (*contratto psicologico*).** Confondere la dedizione professionale con un credito affettivo eterno è la trappola cognitiva che genera la disperazione del lavoratore storico. I contratti psicologici impliciti non reggono alla prova della successione aziendale: il valore deve essere scritto nei patti formali.
 * **Il sabotaggio passivo svilisce la dignità di chi lo compie prima di colpire l'impresa.** Ritirarsi nel silenzio rancoroso o godere degli scarti del nuovo manager conferma i pregiudizi della direzione e svilisce l'arte dell'operatore. Il mestiere è un patrimonio personale inalienabile che va speso al tavolo delle trattative, non immolato nella vendetta.

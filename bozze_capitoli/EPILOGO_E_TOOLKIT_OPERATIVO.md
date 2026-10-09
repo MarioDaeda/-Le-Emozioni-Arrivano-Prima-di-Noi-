@@ -12,8 +12,8 @@ La scelta fondativa di quest'opera — formalizzata come **Modello B (Fratture O
 
 Il Modello B assume come dato di realtà la frammentazione strutturale dell'impresa: organizzazioni tese tra asimmetrie informative radicali, incentivi disallineati tra reparti, debiti di cassa non dichiarati e la fisiologia vulnerabile di persone che consumano il proprio corpo sul lavoro. Le neuroscienze cognitive contemporanee (da Antonio Damasio a Joseph LeDoux, da Stephen Porges a Daniel Kahneman) e l'epistemologia dei sistemi complessi consegnano a chi guida persone 3 assiomi non negoziabili:
 
-1. **Le emozioni arrivano prima di noi perché sono dispositivi di sopravvivenza omeostatica calibrati da milioni di anni di evoluzione biologica.** Quando un fornitore estero ritarda un componente strategico mandando in crisi una linea di montaggio, quando una banca aggiorna un'istruttoria di fido a venerdì sera senza concedere tiraggi, quando un socio spegne il monitor alle 18:28 lasciando un post-it prima della scadenza di un bando da 180.000 euro, o quando un maestro d'officina con 28 anni di reparto si vede scavalcato da un giovane manager esterno, il corpo non aspetta il calcolo logico della corteccia prefrontale. Mobilita all'istante l'asse ipotalamo-ipofisi-surrene: accelera la frequenza cardiaca, contrae i visceri, serra i muscoli della mascella in un blocco mandibolare, inonda il sangue di ormoni dello stress come adrenalina e cortisolo, e prepara l'organismo all'attacco o alla fuga. L'emozione non chiede il permesso alla pianificazione strategica: interviene prima.
-2. **Il cervello umano non possiede un apparato neurale distinto per il bilancio economico e per l'omeostasi biologica.** Come ha dimostrato Antonio Damasio attraverso l'evidenza dei marcatori somatici, la minaccia di fallimento di una commessa, la perdita di reputazione professionale, l'esclusione da una decisione strategica o la violazione di un confine paritetico attivano le medesime reti corticali — in particolare la corteccia cingolata anteriore dorsale (dACC) e l'insula anteriore — che processano il dolore fisico reale provocato da una bruciatura o da una ferita tissutale. Chi guida un'organizzazione non guida "risorse umane" intese come fattori produttivi intercambiabili: governa organismi biologici complessi che cercano disperatamente sicurezza neurocettiva, orientamento operativo e rispetto materiale.
+1. **Le emozioni arrivano prima di noi perché sono dispositivi di sopravvivenza omeostatica calibrati da milioni di anni di evoluzione biologica.** Quando un fornitore estero ritarda un componente strategico mandando in crisi una linea di montaggio, quando una banca aggiorna un'istruttoria di fido a venerdì sera senza concedere tiraggi, quando un socio spegne il monitor alle 18:28 lasciando un post-it prima della scadenza di un bando da 180.000 euro, o quando un maestro d'officina con 28 anni di reparto si vede scavalcato da un giovane manager esterno, il corpo non aspetta il calcolo logico della corteccia prefrontale. Mobilita all'istante il sistema simpatico e l'asse ipotalamo-ipofisi-surrene: accelera la frequenza cardiaca, contrae i visceri, serra i muscoli della mascella in un blocco mandibolare, inonda il sangue di ormoni dello stress come adrenalina e cortisolo, e prepara l'organismo all'attacco o alla fuga. L'emozione non chiede il permesso alla pianificazione strategica: interviene prima.
+2. **Il cervello umano non possiede un apparato neurale distinto per il bilancio economico e per l'omeostasi biologica.** Come mostrano i marcatori somatici di Antonio Damasio e gli studi sul dolore sociale di Naomi Eisenberger e Matthew Lieberman, la minaccia di fallimento di una commessa, la perdita di reputazione professionale, l'esclusione da una decisione strategica o la violazione di un confine paritetico attivano reti — tra cui la corteccia cingolata anteriore dorsale (dACC) e l'insula anteriore — coinvolte anche nella componente spiacevole del dolore fisico. Chi guida un'organizzazione non guida "risorse umane" intese come fattori produttivi intercambiabili: governa organismi biologici complessi che cercano disperatamente sicurezza neurocettiva, orientamento operativo e rispetto materiale.
 3. **L'emozione è reale al 100%; la causa che le attribuiamo è un'ipotesi da verificare.** Questo è il principio cardine che attraversa l'intera filiera meccatronica analizzata nel libro. Il nodo alla gola, la scarica acida all'esofago, la tachicardia a 130 battiti al minuto o il gelo intorpidito delle dita non mentono mai: certificano con precisione millimetrica che l'organismo ha registrato una minaccia alla propria sopravvivenza o al proprio ruolo. Tuttavia, il significato causale che la mente cosciente costruisce all'istante (la distorsione di attribuzione che vede intenzioni malevole: «vuole fregarmi», «è un incompetente», «mi sta boicottando», «lo fa per disprezzo») è quasi sempre una distorsione cognitiva guidata dal Sistema 1 (il pensiero rapido e automatico). Confondere l'intensità della propria sofferenza viscerale con la prova giuridica della malafede altrui è la scintilla che innesca ogni guerra civile aziendale.
 
 Guidare un'impresa nell'attrito materiale non significa non avere paura, non serrare i pugni per la rabbia o non sperimentare il vuoto della delusione. Significa **imparare ad abitare lo spazio tra il marcatore somatico e la risposta comportamentale**. Quello spazio di lucidità peritale in cui il leader disinnesca l'automatismo di attacco o di fuga, attiva la disciplina della telecamera interiore, decodifica il sovraccarico invisibile del proprio interlocutore e formula la domanda di processo che riporta l'interazione sul terreno solido dei vincoli materiali.
@@ -33,8 +33,9 @@ Quando in una riunione infuocata, in un corridoio di produzione o davanti al mon
   ══════════════════════════  ══════════════════════════  ══════════════════════════  ══════════════════════════
   • Piedi piatti              • Audio/video grezzo        • Quale vincolo manca?      • Zero verdetti
   • Espirazione lunga         • Espungi aggettivi         • Sovraccarico altrui?      • Zero sarcasmo
-  • Mani aperte sul piano     • «Plausibile non è ancora  • Dov'è il disallineo       • Focus su vincolo, tempi
-  • Silenzio verbale            accertato»                  degli incentivi?            e parametri
+  • Mani aperte sul piano     • «Plausibile non           • Dov'è il disallineo       • Focus su vincolo, tempi
+  • Silenzio verbale            significa ancora            degli incentivi?            e parametri
+                                accertato»
 ```
 
 #### FASE 1 (0–30 Secondi) — Il Freno Somatico e l'Apnea Inversa (Disinnesco Neurovegetativo)
@@ -50,7 +51,7 @@ Quando in una riunione infuocata, in un corridoio di produzione o davanti al mon
   - *Inferenza del Sistema 1:* «lo fa per screditarmi davanti a tutti», «mi sta ricattando», «non gliene frega nulla dell'azienda», «è un incapace pigro», «è un tradimento premeditato».
 * **Espunzione degli Aggettivi:** Cancella dalla mente ogni qualifica morale (*arrogante, negligente, sleale, incompetente, disonesto*). Riconduci l'evento al dato alfanumerico, alla traiettoria fisica o all'orario solare.
 * **Micro-richiamo Situato:** Dario Meneghelli che fa ruotare la borraccia d'alluminio sul tavolo della saletta sindacale senza alzare la voce: non urla contro il management, ma separa i 2.600 euro di premio di produzione congelati dalle parole dorate della convention aziendale (Capitolo 9); Gianni Bellamoli che sulla sponda del canale Camuzzoni rifiuta il melodramma della figlia e chiede: «Dov'è il foglio con la firma? Chi ha approvato il cambio di procedura?» (Capitolo 7).
-* **Assioma di Lucidità:** Ripeti mentalmente: **«Plausibile non è ancora accertato»**. L'ipotesi maligna è la più rapida e meno faticosa per il cervello primordiale, ma quasi mai coincide con la dinamica dei fatti.
+* **Assioma di Lucidità:** Ripeti mentalmente: **«Plausibile non significa ancora accertato»**. L'ipotesi maligna è la più rapida e meno faticosa per il cervello primordiale, ma quasi mai coincide con la dinamica dei fatti.
 
 #### FASE 3 (90–150 Secondi) — Il Decentramento Cognitivo e la Ricerca del Punto Cieco Sistemico
 * **Disattivazione della distorsione WYSIATI (*What You See Is All There Is*, cioè «quello che vedo è tutto ciò che c'è»):** Poniti la domanda diagnostica: *«Che cosa non sto vedendo in questo istante? Quale vincolo operativo, quale asimmetria informativa o quale paura invisibile sta guidando il comportamento dell'altro?»*
@@ -61,7 +62,7 @@ Quando in una riunione infuocata, in un corridoio di produzione o davanti al mon
 #### FASE 4 (150–180 Secondi) — La Formulazione della Domanda di Processo (Il Rientro Pulito)
 * **Divieto Assoluto di Inquisizione Morale:** È severamente vietato rientrare nella conversazione con domande che contengono un verdetto implicito (*«Perché mi hai nascosto i dati?»*, *«Ti sembra questo il modo di lavorare?»*, *«Vuoi forse distruggere l'azienda?»*, *«Sei sempre il solito disorganizzato»*). Queste frasi stimolano il sistema di difesa dell'interlocutore, innescando all'istante una controffensiva o un mutismo ostile.
 * **La Sintassi della Domanda di Processo:** La domanda deve essere aperta, ancorata ai parametri oggettivi, orientata alla ricostruzione della sequenza temporale e focalizzata sui vincoli materiali dell'organizzazione.
-* **Micro-richiamo Situato:** Silvano Spinelli che, fermando la mano di Fabio sul piano di lavoro della fresa, non insulta l'ufficio commerciale ma chiede: «Quanti pezzi all'ora pensi che possa buttare fuori questa fresa con l'emulsione a 10 gradi e il tagliente che si scalda in 12 minuti?» (Capitolo 4); Marta Bellamoli che, dopo 20 anni di officina e la delusione della promozione mancata, non sbatte la porta ma esige da Moretti: «Chi ha l'autorità formale di spingere il pulsante rosso di emergenza quando una commessa sgarra di 2 micron sui 35 gradi di temperatura ambiente?» (Capitolo 7); Valerio e Claudio che abbandonano le rispettive barricate contabili per confrontare il risparmio nominale dell'11,4% di Ferrometalli Sebina con le 114 ore di penali sosta autisti a 70 euro l'ora e il passaggio a Trafilerie Venete con un utile netto di 46.500 euro calcolato sul costo totale di possesso (TCO) (Capitolo 6).
+* **Micro-richiamo Situato:** Silvano Spinelli che, fermando la mano di Fabio sul piano di lavoro della fresa, non insulta l'ufficio commerciale ma chiede: «Quanti pezzi all'ora pensi che possa buttare fuori questa fresa con l'emulsione a 10 gradi e il tagliente che si scalda in 12 minuti?» (Capitolo 4); Marta Bellamoli che, dopo 22 anni di officina e la delusione della promozione mancata, non sbatte la porta ma esige da Moretti: «Chi ha l'autorità formale di spingere il pulsante rosso di emergenza quando una commessa sgarra di 2 micron sui 35 gradi di temperatura ambiente?» (Capitolo 7); Valerio e Claudio che abbandonano le rispettive barricate contabili per confrontare il risparmio nominale dell'11,4% di Ferrometalli Sebina con le 114 ore di penali sosta autisti a 70 euro l'ora e il passaggio a Trafilerie Venete con un utile netto di 46.500 euro calcolato sul costo totale di possesso (TCO) (Capitolo 6).
 * **Formulazione Standard Autorizzata:**  
   *«Ricostruiamo insieme i passaggi: quando si è manifestato questo scostamento rispetto al piano, qual è stato il vincolo operativo o il dato che ha imposto questa scelta? Mettiamo i tabulati sul tavolo e verifichiamo dove la procedura non ha retto.»*
 
@@ -129,7 +130,7 @@ Le seguenti schede costituiscono il prontuario operativo per ciascuno dei 9 arch
 ---
 
 #### SCHEDA 3 — IL PANICO DA ANTICIPAZIONE E IL ROGO DELLA CASSA
-*(Caso di Riferimento: Capitolo 3 — Marco di NexSys davanti alla mail di Mediocredito e al buco Apex da 3,2 milioni di euro)*
+*(Caso di Riferimento: Capitolo 3 — Marco di NexSys davanti alla mail della Banca Popolare del Distretto e al fido da 300.000 euro in sospeso)*
 
 ```
        ┌─────────────────────────────────────────────────────────────┐
@@ -148,7 +149,7 @@ Le seguenti schede costituiscono il prontuario operativo per ciascuno dei 9 arch
   - *Protezione della Rete Umana:* Non entrare nella stanza degli sviluppatori o in officina urlando che l'azienda sta affondando. La paura contagiosa del vertice paralizza l'operatività e spinge i talenti migliori all'autoconservazione e alla fuga.
   - *Patto di Verità Operativa:* Mostra lucidità sobria con i collaboratori chiave: l'emergenza finanziaria esiste, ma c'è un piano di contenimento orario che tutela la produzione.
 * **ALTRO (Gestione del Contesto Sistemico / Materiale / di Processo):**
-  - *Fatti della Telecamera:* La banca non ha revocato gli affidamenti in essere; ha semplicemente chiesto un'integrazione di bilancio prima di deliberare l'estensione del fido di 150.000 euro.
+  - *Fatti della Telecamera:* La banca non ha revocato gli affidamenti in essere; ha semplicemente chiesto un supplemento istruttorio prima di deliberare il fido da 300.000 euro.
   - *Vincolo Non Negoziabile:* Il fabbisogno di liquidità a 14 giorni per coprire stipendi e contributi F24.
   - *Domanda di Processo Autorizzata:*  
     *«Apriamo il foglio di cassa a 14 giorni. Quali sono gli incassi certi esigibili entro martedì prossimo? Quali forniture strategiche possiamo dilazionare a 30 giorni senza bloccare le linee? Prepariamo il prospetto dei crediti certificati e chiediamo un incontro urgente al direttore di filiale lunedì mattina alle 8:30.»*
@@ -248,7 +249,7 @@ Le seguenti schede costituiscono il prontuario operativo per ciascuno dei 9 arch
   [ALTRO: Processo]   → Documento integrativo contrattuale, Accademia Tecnica, stop d'impianto
 ```
 
-* **Contesto Narrativo e Frattura:** Una colonna tecnica storica dell'azienda, con 20 anni di fedeltà e sacrifici operativi, viene scartata per una promozione a favore di un manager esterno assunto per implementare nuovi sistemi gestionali. La direzione cerca di liquidare la delusione con lodi generiche e la formula ipocrita della «promozione morale». Il collaboratore storico sperimenta una ferita da tradimento che spegne ogni entusiasmo, inducendolo al disimpegno passivo o al sabotaggio silenzioso.
+* **Contesto Narrativo e Frattura:** Una colonna tecnica storica dell'azienda, con 22 anni di fedeltà e sacrifici operativi, viene scartata per una promozione a favore di un manager esterno assunto per implementare nuovi sistemi gestionali. La direzione cerca di liquidare la delusione con lodi generiche e la formula ipocrita della «promozione morale». Il collaboratore storico sperimenta una ferita da tradimento che spegne ogni entusiasmo, inducendolo al disimpegno passivo o al sabotaggio silenzioso.
 * **IO (Gestione Somatica / Interna):**
   - *Segnale Corporeo:* Fitta sorda dietro lo sterno, sensazione di freddo glaciale alle estremità, postura che collassa in avanti, mutismo da blocco vagale dorsale (la risposta di immobilità del corpo).
   - *Intervento Neurovegetativo:* Riconosci che l'esclusione sociale e la riconoscenza negata attivano le medesime aree del dolore fisico reale nel cervello (corteccia cingolata anteriore dorsale). Non vergognarti della sofferenza; respira profondamente per non scivolare nella dissociazione difensiva. Non rassegnarti al ruolo della vittima sacrificale.
@@ -286,7 +287,7 @@ Le seguenti schede costituiscono il prontuario operativo per ciascuno dei 9 arch
   - *Fatti della Telecamera:* Il bando regionale Reti Meccatroniche scadeva alle 23:59 ed è stato inviato; la contabilità interna è arretrata di 4 mesi per saturazione della capacità personale di Luca.
   - *Vincolo Non Negoziabile:* Una società al 50% non può funzionare per decreto di maggioranza o diffide legali: o ritrova un patto paritetico basato sulla sostenibilità biologica o deve essere sciolta con la vendita delle quote.
   - *Domanda di Processo Autorizzata (La Verifica Paritetica del Venerdì):*  
-    *«Luca, strappo davanti a te la bozza di diffida dell'avvocato. Non siamo più nel 2011 e non possiamo più gestire un'azienda da 10 milioni di fatturato come 2 periti in uno scantinato. Qual è il perimetro operativo che il tuo corpo può sostenere senza ammalarsi? Esternalizziamo la gestione ordinaria dei registri contabili a una società di revisione e ridefiniamo i nostri compiti con una chiara separazione delle aree operative.»*
+    *«Luca, strappo davanti a te la bozza di diffida dell'avvocato. Non siamo più nel 2011 e non possiamo più gestire un'azienda da 10 milioni di fatturato come quando eravamo in 2 nel garage di via Tombetta. Qual è il perimetro operativo che il tuo corpo può sostenere senza ammalarsi? Esternalizziamo la gestione ordinaria dei registri contabili a una società di revisione e ridefiniamo i nostri compiti con una chiara separazione delle aree operative.»*
 
 ---
 
@@ -422,32 +423,33 @@ La matrice seguente costituisce la mappa diagnostica unificata per identificare,
 |      | Precision                    |                              |                              | con penale cliente           | quantificare il costo        |
 |      |                              |                              |                              |                              | differito dell'omissione     |
 +------+------------------------------+------------------------------+------------------------------+------------------------------+------------------------------+
-| 3    | Blocco fidi Mediocredito e   | Frequenza cardiaca oltre 130 | Paura anticipatoria          | Catastrofizzazione, blocco   | Foglio di cassa a 14 giorni: |
-|      | buco Apex da 3,2 milioni di  | battiti al minuto, sudore    | amigdaloidea e marcatore     | delle decisioni e fuga dei   | isolare i flussi certi       |
-|      | euro in NexSys               | freddo alle mani, vertigine  | somatico (LeDoux)            | talenti                      | escludendo le paure          |
+| 3    | Fido da 300.000 euro della   | Frequenza cardiaca oltre 130 | Paura anticipatoria (LeDoux) | Catastrofizzazione, blocco   | Foglio di cassa a 14 giorni: |
+|      | Banca Popolare in sospeso in | battiti al minuto, sudore    | e marcatore somatico         | delle decisioni e fuga dei   | isolare i flussi certi       |
+|      | NexSys                       | freddo alle mani, vertigine  | (Damasio)                    | talenti                      | escludendo le paure          |
 +------+------------------------------+------------------------------+------------------------------+------------------------------+------------------------------+
-| 4    | 250 ore mandrino di titanio  | Visione a tunnel, pugni sul  | Tema relazionale centrale:   | Rottura delle frese a 5      | Verifica di fattibilità      |
-|      | Hydac contro macchine sature | piano, carotidi tese         | rabbia e distorsione di      | assi, scarti di fornitura e  | vincolante: tradurre la      |
-|      | al 99%                       |                              | attribuzione (Kahneman)      | penale da 3.000 euro al      | collera in ore mandrino e    |
-|      |                              |                              |                              | giorno                       | vincoli                      |
+| 4    | 250 ore mandrino di titanio  | Visione a tunnel, pugni sul  | Tema relazionale centrale    | Rottura delle frese a 5      | Verifica di fattibilità      |
+|      | Hydac contro macchine sature | piano, carotidi tese         | della rabbia (Lazarus) e     | assi, scarti di fornitura e  | vincolante: tradurre la      |
+|      | al 99%                       |                              | distorsione di attribuzione  | penale da 3.000 euro al      | collera in ore mandrino e    |
+|      |                              |                              | (Ross)                       | giorno                       | vincoli                      |
 +------+------------------------------+------------------------------+------------------------------+------------------------------+------------------------------+
 | 5    | Errore di flusso di cassa da | Fitta acida allo stomaco,    | Neurocezione di insicurezza  | Esaurimento del leader,      | Protocollo a 3 Stadi:        |
 |      | 498.700 euro («faccio prima  | nausea, impulso di strappare | (Porges) e riflesso di       | isolamento e blocco della    | assegnazione con scheda dei  |
 |      | a farlo io»)                 |                              | dominanza                    | crescita aziendale           | vincoli non negoziabili      |
 +------+------------------------------+------------------------------+------------------------------+------------------------------+------------------------------+
-| 6    | Ferrometalli Sebina (prezzo  | Rigidità carotidea, tremore  | Euristica WYSIATI e cinismo  | Camion fermi per 114 ore,    | Passaggio a Trafilerie       |
-|      | più basso) contro Trafilerie | alle dita, furia d'attacco   | generato da incentivi ciechi | sfrido e penali per 7.980    | Venete (+5% sull'acquisto):  |
-|      | Venete (TCO, tolleranza h7)  |                              | (Dean)                       | euro, frese a 5 assi         | calcolo TCO, utile netto di  |
-|      |                              |                              |                              | spaccate                     | 46.500 euro all'anno         |
+| 6    | Ferrometalli Sebina (prezzo  | Rigidità carotidea, tremore  | Euristica WYSIATI (Kahneman) | Camion fermi per 114 ore,    | Passaggio a Trafilerie       |
+|      | più basso) contro Trafilerie | alle dita, furia d'attacco   | e cinismo generato da        | sfrido e penali per 7.980    | Venete (+5% sull'acquisto):  |
+|      | Venete (TCO, tolleranza h7)  |                              | incentivi ciechi (Dean e     | euro, frese a 5 assi         | calcolo TCO, utile netto di  |
+|      |                              |                              | colleghi)                    | spaccate                     | 46.500 euro all'anno         |
 +------+------------------------------+------------------------------+------------------------------+------------------------------+------------------------------+
-| 7    | Promozione mancata a Moretti | Fitta retrosternale, freddo  | Dolore sociale dACC          | Sabotaggio silenzioso,       | Documento integrativo di     |
-|      | («promozione morale» a       | agli arti, collasso          | (Damasio) e blocco dorsale   | sciopero bianco e perdita    | perimetro: Accademia e       |
-|      | Marta)                       | posturale                    | (Porges)                     | della memoria del mestiere   | diritto di stop su           |
+| 7    | Promozione mancata a Moretti | Fitta retrosternale, freddo  | Dolore sociale nella dACC    | Sabotaggio silenzioso,       | Documento integrativo di     |
+|      | («promozione morale» a       | agli arti, collasso          | (Eisenberger e Lieberman) e  | sciopero bianco e perdita    | perimetro: Accademia e       |
+|      | Marta)                       | posturale                    | blocco dorsale (Porges)      | della memoria del mestiere   | diritto di stop su           |
 |      |                              |                              |                              |                              | tolleranze da 2 micron       |
 +------+------------------------------+------------------------------+------------------------------+------------------------------+------------------------------+
 | 8    | Stanchezza del socio al 50%  | Nausea da tradimento, gola   | Causalità intenzionale       | Diffide giudiziarie,         | Verifica Paritetica del      |
-|      | prima del bando da 180.000   | chiusa, trapezi a corda      | spontanea e distorsione di   | distruzione del patrimonio e | Venerdì: stralcio della PEC  |
-|      | euro                         |                              | attribuzione (Kahneman)      | liquidazione                 | e riequilibrio delle aree    |
+|      | prima del bando da 180.000   | chiusa, trapezi a corda      | spontanea (Michotte;         | distruzione del patrimonio e | Venerdì: stralcio della PEC  |
+|      | euro                         |                              | Kahneman) e distorsione di   | liquidazione                 | e riequilibrio delle aree    |
+|      |                              |                              | attribuzione (Ross)          |                              |                              |
 +------+------------------------------+------------------------------+------------------------------+------------------------------+------------------------------+
 | 9    | Borracce del Progetto Fenice | Rigidità mandibolare, risata | Distanziamento palliativo e  | Anestesia operativa, rifiuto | Bonifica della Verità        |
 |      | con 2.600 euro di premi      | amara, sguardo spento        | anestesia omeostatica        | della qualità e scollamento  | Materiale: saldo dei debiti  |

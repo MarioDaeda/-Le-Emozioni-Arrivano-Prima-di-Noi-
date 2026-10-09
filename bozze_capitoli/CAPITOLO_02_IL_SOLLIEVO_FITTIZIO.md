@@ -177,7 +177,7 @@ Perché questa trappola è così potente da piegare anche professionisti esperti
 
 Nel trattato fondamentale *Emotion and Adaptation*, Lazarus definisce il sollievo come un'emozione unica nel suo genere: essa non nasce dalla conquista attiva di un bene nuovo, ma dal **brusco passaggio da una condizione di incongruenza rispetto agli scopi (*goal incongruence*, la minaccia acuta di infliggere un trauma a Davide ed essere considerata un carnefice) a una condizione di momentanea congruenza (*goal congruence*) generata dalla scomparsa o rimozione dello stimolo minaccioso**. Quando Sara ha chiuso la cartellina e ha pronunciato le parole di assoluzione, la minaccia di conflitto è svanita dalla sua percezione immediata.
 
-Come dimostrato sperimentalmente dai protocolli di condizionamento di **Bram Vervliet, Iris Lange e Mohammed Milad**, l'omissione dell'evento aversivo atteso attiva uno stato neurofisiologico appetitivo di sollievo che funziona come un formidabile **rinforzo negativo (*negative reinforcement*)**. Il cervello umano registra l'abbattimento immediato della frequenza cardiaca e il rilascio del diaframma come una potente ricompensa biologica. Si stabilisce così un circuito di apprendimento implicito: *quando mi sottraggo al confronto duro, il mio corpo riceve una scarica di benessere.* Questo meccanismo consolida l'evitamento, trasformando una fuga momentanea in una routine comportamentale automatica.
+Negli esperimenti di condizionamento di **Bram Vervliet, Iris Lange e Mohammed Milad** (2017), il sollievo provato quando l'evento temuto non arriva è più intenso alla prima omissione e, nelle persone che tollerano poco il disagio, resta alto a lungo. Quel sollievo funziona come un formidabile **rinforzo negativo (*negative reinforcement*)**: il corpo vive il calo improvviso della tensione come una ricompensa. Si stabilisce così un circuito di apprendimento implicito: *quando mi sottraggo al confronto duro, il mio corpo riceve una scarica di benessere.* Questo meccanismo consolida l'evitamento, trasformando una fuga momentanea in una routine comportamentale automatica.
 
 A questa dinamica somatica si sovrappone l'architettura decisionale decodificata da **Daniel Kahneman**. Sotto la pressione di una sofferenza empatica acuta, il Sistema 1 compie una rapida **sostituzione euristica**: azzera la domanda complessa e differita del Sistema 2 (*«Quale assetto di turni e collaudi garantisce che il reparto Kuka non si blocchi stanotte tutelando al contempo la salute di Davide?»*) e la sostituisce con la domanda immediata, emotivamente accessibile ed economica (*«Che cosa posso dire in questo preciso istante affinché Davide smetta di piangere e io smetta di sentirmi un mostro?»*). È la declinazione perfetta dell'**euristica dell'affetto** descritta da Paul Slovic: la valutazione oggettiva del rischio industriale viene interamente colonizzata dal bisogno imperativo di ripristinare il comfort interiore.
 
@@ -297,24 +297,3 @@ Resta tuttavia un paradosso ancora più profondo e vertiginoso che minaccia quot
 Perché un imprenditore o un manager può sperimentare un collasso somatico devastante — tachicardia, sudorazione fredda, nausea e panico paralizzante — leggendo una semplice riga di testo interlocutoria inviata da una banca o da un cliente in un venerdì sera d'autunno?
 
 Il Capitolo 3 entra nella fucina dell'ansia predittiva: **La cassa che brucia e il panico da anticipazione**.
-
----
-
-### 4. Note di Lavorazione e Registro di Continuità
-
-##### Verifiche Scientifiche e Fonti
-* **Lazarus & Folkman (1984):** Distinzione applicata tra *problem-focused coping* ed *emotion-focused coping* (pp. 135–138); il sollievo da evitamento rispetta i canoni del coping palliativo in contesti modificabili.
-* **Lazarus (1991):** Definizione teorica del sollievo (*Relief*) come transizione da *goal incongruence* a *goal congruence* (pp. 280–282).
-* **Vervliet, Lange, & Milad (2017) / Pittig et al. (2020):** Validazione del sollievo come rinforzo appetitivo negativo che consolida i comportamenti di evitamento.
-* **Kahneman (2011):** Sostituzione euristica e *Affect Heuristic* di Slovic (pp. 121–128 e 172–173).
-* **Maya Tamir (2009):** Principio di ortogonalità tra utilità edonica e utilità strumentale delle emozioni.
-
-##### Marcatori di Continuità e Intreccio di Filiera
-* **Codice Scena:** `SC-C2-01` (Ufficio HR Sara / Davide), `SC-C2-02` (Fermo isola 4 / Marta), `SC-C2-03` (Cucina Sara e Roberto), `SC-C2-04` (Ritorno in officina / Sabato mattina).
-* **Debiti di Filiera Aperti:**
-  - Il software MES di Marco (NexSys) si blocca sul codice errore `#MES-4091`; questa rigidità software genererà lo scontro plenario con Luca al Capitolo 4 e motiverà l'ansia finanziaria di Marco al Capitolo 3.
-  - Marta accetta il tutoraggio per Davide, ma la fatica accumulata e il cinismo verso la direzione preparano la sua decisione di dimettersi nel Capitolo 7.
-  - La commessa tedesca Kuka salvata in extremis garantisce il flusso di cassa che Andrea e Luca avevano stimato nel piano di riposizionamento del Capitolo 1.
-
-##### Scostamenti Narrativi Motivati
-* Rispetto alla bozza preliminare del brief, si è scelto di ambientare il confronto tra Sara e Marta non in un freddo lunedì mattina, ma in un drammatico sabato mattina d'officina (`07:48`), rendendo visibile la materia viva del metallo nobile e l'odore dell'emulsione a 10 gradi. Questa scelta aumenta la tensione morale e impedisce qualsiasi riassunto astratto.

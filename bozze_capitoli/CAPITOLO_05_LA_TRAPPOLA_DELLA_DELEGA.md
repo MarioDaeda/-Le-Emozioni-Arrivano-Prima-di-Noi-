@@ -145,9 +145,7 @@ La patologia dell'accentratore — condensata nella massima tossica del manageme
 
 Non si tratta di un deficit di organizzazione del tempo, né di una lacuna nella formazione manageriale: è una disfunzione sistemica innescata dalla collisione tra 2 dispositivi neurobiologici primari: la **salvaguardia omeostatica del ruolo sociale** teorizzata da **Antonio Damasio** e la **neurocezione di pericolo da perdita di controllo** (la rilevazione automatica del rischio, senza passare dalla coscienza) formalizzata da **Stephen W. Porges**.
 
-Nelle sue opere seminali — da *L'errore di Cartesio* (1994) a *Feeling & Knowing* (2021) — Antonio Damasio dimostra che i circuiti neurali responsabili della sopravvivenza biologica dell'organismo coincidono esattamente con quelli deputati alla conservazione dello status sociale e del ruolo professionale:
-
-> *«La natura, nella sua implacabile spinta all'economia, non si è data la pena di creare nuovi dispositivi neurali per gestire la bontà o la cattiveria della nostra condizione psicologica o sociale. Fa uso degli stessi meccanismi arcaici dell'omeostasi...»*
+Nelle sue opere — da *L'errore di Cartesio* (1994) a *Sentire e conoscere* (2021) — Antonio Damasio sostiene che i meccanismi della regolazione sociale si sono evoluti a partire da quelli dell'omeostasi biologica e li riutilizzano: per questo una minaccia al ruolo professionale può essere vissuta con l'urgenza di una minaccia fisica.
 
 Per un fondatore che ha dedicato 15 anni a edificare un'azienda partendo dal nulla, l'identità personale e l'infrastruttura d'impresa sono fuse a livello somatico. Il controllo totale sulle decisioni, il primato tecnico e la reputazione di infallibilità di fronte alla comunità territoriale non rappresentano fattori accessori di prestigio: sono codificati a livello dell'insula e della corteccia prefrontale ventromediana come **indicatori primari di sopravvivenza biologica**.
 
@@ -291,7 +289,7 @@ Questo strumento operativo va applicato ogni volta che ti sorprendi a pronunciar
 
 * **«Faccio prima a farlo io» non è un calcolo di efficienza: è una fuga istintiva dalla vulnerabilità della delega.** Il sollievo provato nel riprendere il controllo solitario placa l'ansia immediata del fondatore, ma condanna l'organizzazione a un arresto della crescita.
 * **Il cervello confonde la sopravvivenza biologica con la sopravvivenza nel ruolo (*Damasio*).** L'errore del delegato viene decodificato dai circuiti prefrontali come una minaccia mortale al proprio status e alla propria autorevolezza, scatenando reazioni somatiche difensive sproporzionate.
-* **Non esiste cooperazione senza sicurezza neurocettiva (*Porges*).** Se il leader opera in costante attivazione simpatica di attacco (micro-management, sarcasmo, controllo soffocante), il collaboratore retrocede nel immobilità difensiva, azzera l'iniziativa e nasconde gli errori per evitare la punizione.
+* **Non esiste cooperazione senza sicurezza neurocettiva (*Porges*).** Se il leader opera in costante attivazione simpatica di attacco (micro-management, sarcasmo, controllo soffocante), il collaboratore retrocede nell'immobilità difensiva, azzera l'iniziativa e nasconde gli errori per evitare la punizione.
 * **Delegare senza parametri di contesto non è delega: è abbandono.** Chi affida un obiettivo strategico senza formalizzare per iscritto i vincoli non negoziabili (spread, DSO reali, riserve di cassa) getta il collaboratore nella nebbia e si rende corresponsabile dell'errore finale.
 * **L'infallibilità dell'accentratore è il fattore di massima fragilità dell'impresa.** Un'azienda in cui tutte le decisioni critiche devono transitare attraverso un unico cervello biologico è un'organizzazione fragile, esposta al collasso al primo cedimento fisico o cognitivo del fondatore.
 

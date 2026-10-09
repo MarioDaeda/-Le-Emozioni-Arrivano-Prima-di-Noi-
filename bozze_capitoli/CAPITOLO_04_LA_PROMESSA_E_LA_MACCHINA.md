@@ -186,13 +186,13 @@ La rabbia non nasce dalla mera frustrazione per un obiettivo mancato. Un ritardo
 
 Quando queste 3 condizioni si saldano, scatta la neurobiologia della mobilitazione: l'organismo animale inonda il sistema cardiovascolare di ormoni dello stress (adrenalina e noradrenalina), restringe i vasi dei visceri per portare glucosio ed emoglobina ai muscoli degli arti, e orienta la cognizione verso un'unica tendenza all'azione (*action tendency*): **l'attacco (*attack*)**. L'impulso biologico della rabbia è distruggere la barriera, annientare la fonte dell'offesa e ripristinare il confine violato con la forza.
 
-Tuttavia, come dimostrato da **James J. Gross** nel suo modello esteso di regolazione emozionale (*Extended Process Model of Emotion Regulation*), **la tendenza all'azione biologica non coincide obbligatoriamente con il comportamento manifesto**.
+Tuttavia, come mostra **James J. Gross** nel suo modello esteso di regolazione emozionale (*Extended Process Model of Emotion Regulation*, 2015), **la tendenza all'azione biologica non coincide obbligatoriamente con il comportamento manifesto**.
 
 L'errore tragico di Silvano non è stato provare rabbia: la sua rabbia era un indicatore fisiologico fedele ed esatto che un confine operativo vitale (la saturazione fisica dei mandrini e la sostenibilità biologica degli operai) era stato violentemente violato da una promessa contrattuale insostenibile. L'errore risiede nel fallimento del **controllo della reazione**: invece di incanalare l'energia della rabbia in **fermezza negoziale sistemica** (mostrare i dati, esigere la rinegoziazione, imporre una procedura di salvaguardia), Silvano ha lasciato che l'impulso all'attacco si scaricasse in un'aggressione distruttiva verbale e fisica (il pugno, gli insulti, il lancio del contratto).
 
-A questo cortocircuito si affianca la trappola cognitiva identificata da **Daniel Kahneman**: il **bias del sentimento punitivo (*punitive sentiment*)** del Sistema 1.
+A questo cortocircuito si affianca la **punizione altruistica** discussa da **Daniel Kahneman** in *Pensieri lenti e veloci* (2011, cap. 28): il bisogno di punire chi ci sembra ingiusto, anche a nostre spese.
 
-Negli esperimenti di economia comportamentale basati sul *Gioco dell'Ultimatum*, gli individui scelgono massicciamente di punire una controparte percepita come ingiusta o avida rifiutando l'accordo economico, anche quando tale punizione comporta un danno finanziario gravissimo per se stessi. Il Sistema 1 è guidato da un imperativo morale arcaico: *il trasgressore deve pagare, costi quel che costi*. Nella mente di Silvano, la pulsione a punire Fabio e fargli perdere la commessa ha completamente oscurato la consapevolezza delle conseguenze sistemiche differite: far saltare il contratto Hydac avrebbe significato un danno economico da 140.000 euro per l'intera fabbrica, accelerando proprio quel licenziamento collettivo che lui voleva scongiurare.
+Negli esperimenti di economia comportamentale basati sul *Gioco dell'Ultimatum* (Güth e colleghi, 1982), molte persone scelgono di punire una controparte percepita come ingiusta o avida rifiutando l'accordo economico, anche quando tale punizione comporta un danno finanziario gravissimo per se stessi. Il Sistema 1 è guidato da un imperativo morale arcaico: *il trasgressore deve pagare, costi quel che costi*. Nella mente di Silvano, la pulsione a punire Fabio e fargli perdere la commessa ha completamente oscurato la consapevolezza delle conseguenze sistemiche differite: far saltare il contratto Hydac avrebbe significato un danno economico da 140.000 euro per l'intera fabbrica, accelerando proprio quel licenziamento collettivo che lui voleva scongiurare.
 
 La sequenza dell'episodio trova la sua formalizzazione scientifica nella **Mappa Minima**:
 
@@ -255,7 +255,7 @@ Silvano non arretrò di un millimetro. Spostò il foglio di 3 centimetri verso i
 
 Fabio deglutì a vuoto. Le dita strinsero la stilografica fino a sbiancare. Guardò Sara, poi Elena. L'arroganza commerciale si incrinò davanti alla ghisa e all'acciaio.
 
-«Loro... loro hanno la presentazione dei nuovi escavatori alla fiera Bauma di Monaco a fine gennaio,» confessò infine a voce più bassa. «Gli servivano 50 distributori entro Natale per allestire i primi prototipi dimostrativi nello stabilimento di Stoccarda. I restanti 250 pezzi sono destinati alla produzione di serie che parte a fine gennaio.»
+«Loro... loro hanno la presentazione dei nuovi escavatori alla fiera ConExpo di Las Vegas a inizio marzo,» confessò infine a voce più bassa. «Gli servivano 50 distributori entro Natale per allestire i primi prototipi dimostrativi nello stabilimento di Stoccarda. I restanti 250 pezzi sono destinati alla produzione di serie che parte a fine gennaio.»
 
 Silvano chiuse gli occhi per un secondo. Il problema che nessuno aveva visto era finalmente sul tavolo.
 
@@ -322,7 +322,7 @@ Questo protocollo va applicato entro 12 ore da qualsiasi scontro aziendale o rel
 
 * **La rabbia non nasce dalla frustrazione: nasce dalla percezione di un'offesa denigratoria contro il proprio valore (*Core Relational Theme*).** Non ci arrabbiamo perché un compito è difficile, ma perché valutiamo che l'altro stia calpestando ingiustamente un confine vitale con piena volontarietà lesiva.
 * **La componente di colpa (*blame*) è un'interpretazione interna, non una prova oggettiva.** Chi prova rabbia è intimamente certo della malafede altrui; nella quasi totalità dei contesti aziendali, l'attrito deriva da ignoranza tecnica, asimmetria informativa e incentivi economici mal disegnati.
-* **Il Sistema 1 preferisce distruggere l'azienda pur di punire il trasgressore (*punitive sentiment*).** La pulsione arcaica alla vendetta morale acceca il decisore rispetto ai costi differiti della rottura contrattuale.
+* **Il Sistema 1 preferisce distruggere l'azienda pur di punire il trasgressore (*punizione altruistica, Kahneman*).** La pulsione arcaica alla vendetta morale acceca il decisore rispetto ai costi differiti della rottura contrattuale.
 * **L'energia della rabbia è sacrosanta; l'attacco distruttivo è un errore sistemico.** La rabbia è una sentinella biologica indispensabile: serve a fornire la forza del sistema nervoso simpatico per tracciare limiti, dire di no a carichi impossibili e difendere la dignità del lavoro.
 * **Non negoziare mai sull'offesa morale: negozia sempre sui dati telemetrici di processo.** Quando sposti il confronto dalle intenzioni alle ore mandrino, ai micron e ai tempi ciclo, l'avversario cessa di essere un nemico da abbattere e torna a essere una funzione con cui stabilire un patto tecnico.
 

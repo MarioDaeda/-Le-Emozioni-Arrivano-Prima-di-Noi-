@@ -163,7 +163,7 @@ Quando una grandezza contabile assume questa valenza protettiva o punitiva, il d
 
 Sarebbe un errore comodo e sbrigativo liquidare la guerra dei fogli Excel come una banale questione di immaturità caratteriale o di narcisismo manageriale. La causa prima affonda le radici nell'architettura dei sistemi di controllo.
 
-Nello studio fondativo sul cinismo organizzativo, James W. Dean, Pamela Brandes e Ravi Dharwadkar (1998) analizzano la genesi della disillusione sistemica: il cinismo aziendale non nasce da un difetto morale innato dei lavoratori, ma come reazione diretta alla **rottura del contratto psicologico (*psychological contract breach*)**, formalizzata da Denise Rousseau (1995).
+Nello studio fondativo sul cinismo organizzativo, James W. Dean, Pamela Brandes e Ravi Dharwadkar (1998) definiscono il cinismo aziendale come un atteggiamento fatto di convinzioni, emozioni e comportamenti, non come un difetto morale innato dei lavoratori. Altri studi (Andersson, 1996; Johnson e O'Leary-Kelly, 2003) lo collegano alla **rottura del contratto psicologico (*psychological contract breach*)**, il concetto formalizzato da Denise Rousseau (1995).
 
 Il contratto psicologico è l'insieme di aspettative implicite di lealtà, reciprocità ed equità che legano il collaboratore all'organizzazione. Quando un'impresa struttura i propri sistemi di valutazione del personale su **obiettivi strutturalmente disallineati e confliggenti** — premiando l'Ufficio Acquisti unicamente sull'abbattimento del prezzo contrattuale a tonnellata e premiando la Logistica unicamente sull'indice di rotazione e sullo svuotamento delle baie — essa programma matematicamente la guerra civile interna.
 

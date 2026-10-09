@@ -142,7 +142,7 @@ Dario fissa la mota che ricopre le punte delle sue scarpe antinfortunistiche. So
 
 La dinamica del cinismo manifestatasi nella sala mensa di O.M.P. Precision non rappresenta una devianza caratteriale individuale, né un rigurgito di conflittualità ideologica d'altri tempi: costituisce la formalizzazione operativa della **più potente strategia di difesa omeostatica collettiva** indagata dalla psicologia delle organizzazioni e dalle neuroscienze cognitive.
 
-Il fondamento teorico di questa dinamica è stato codificato da **James W. Dean, Pamela Brandes e Ravi Dharwadkar** nella loro monografia cardine *Organizational Cynicism* (Academy of Management Review, 1998).
+Il fondamento teorico di questa dinamica è stato codificato da **James W. Dean, Pamela Brandes e Ravi Dharwadkar** nel loro articolo cardine *Organizational Cynicism* (Academy of Management Review, 23(2), 341–352, 1998).
 
 Gli studiosi scompongono il cinismo d'impresa in una matrice tridimensionale inscindibile:
 1. **La convinzione radicata che l'organizzazione sia priva di integrità:** la certezza empirica, maturata attraverso violazioni storiche reiterate, che le proclamazioni valoriali della dirigenza (i proclami sul "benessere", la "famiglia industriale", la "trasparenza") siano sistematicamente smentite dalle prassi materiali (tagli occulti, premi congelati, asimmetria tra i sacrifici del reparto e i compensi del vertice);
@@ -151,13 +151,13 @@ Gli studiosi scompongono il cinismo d'impresa in una matrice tridimensionale ins
 
 L'innesco biologico di questa patologia organizzativa trova la sua radice nella **rottura seriale del contratto psicologico (Denise M. Rousseau, 1995)**.
 
-Quando un'azienda pretende dai propri dipendenti un investimento soggettivo totalizzante — flessibilità di orario, straordinari del sabato, dedizione acritica, "ownership" — e successivamente cancella con un atto unilaterale gli impegni retributivi ed etici sottoscritti, l'organismo umano sperimenta una perturbazione interocettiva insostenibile. Come evidenziato da **Antonio Damasio** in *Feeling & Knowing* (2021), la macchina biologica umana non può reggere a lungo un **carico allostatico permanente (*allostatic load*)**: continuare a investire fiducia, speranza ed energia emotiva in un contesto sistematicamente sleale genera un costo metabolico devastante, che i centri sottocorticali decodificano come minaccia vitale e dolore somatico acuto.
+Quando un'azienda pretende dai propri dipendenti un investimento soggettivo totalizzante — flessibilità di orario, straordinari del sabato, dedizione acritica, "ownership" — e successivamente cancella con un atto unilaterale gli impegni retributivi ed etici sottoscritti, l'organismo umano sperimenta una perturbazione interocettiva insostenibile. Come mostrano gli studi di **Bruce McEwen** sul **carico allostatico** (*allostatic load*; McEwen e Stellar, 1993), la macchina biologica umana non può reggere a lungo un'attivazione da stress cronica: continuare a investire fiducia, speranza ed energia emotiva in un contesto sistematicamente sleale genera un costo metabolico devastante, che i centri sottocorticali decodificano come minaccia vitale e dolore somatico acuto.
 
 A questo livello neurofisiologico si raccorda la teoria transazionale dello stress di **Richard S. Lazarus e Susan Folkman** (*Stress, Appraisal, and Coping*, 1984).
 
-Riprendendo i modelli di Miller (1980) sull'adattamento dell'organismo in ambienti avversi, Lazarus e Folkman formulano un principio clinico ineludibile:
+In linea con le ricerche di Suzanne M. Miller (1980) sullo stile di coping detto *blunting* (distogliere l'attenzione dalla minaccia), Lazarus e Folkman descrivono un principio clinico:
 
-In situazioni percepite come cronicamente incontrollabili e immutabili, la strategia biologica dell'organismo è abbattere insieme l'attivazione fisiologica e l'elaborazione degli stimoli provenienti dall'ambiente.
+In situazioni percepite come cronicamente incontrollabili e immutabili prevalgono strategie centrate sull'emozione, come il distanziamento, che riducono insieme l'attivazione fisiologica e l'attenzione agli stimoli provenienti dall'ambiente.
 
 Il sarcasmo di Dario Meneghelli e la risata corale dei 90 operai non sono espressione di leggerezza: **sono una manovra di anestesia metabolica difensiva**.
 
@@ -291,7 +291,7 @@ Questo strumento operativo va attivato ogni volta che, di fronte a una nuova ini
    Individua il micro-dettaglio materiale che ha risvegliato la memoria delle promesse tradite (es. *«Il contrasto intollerabile tra i 15.000 euro sprecati per l'evento e il rincaro meschino sul caffè mentre mancano i riconoscimenti economici dovuti»*).
 3. **SIGNIFICATO ATTRIBUITO (La corazza del cinismo omeostatico - Dean & Brandes):**  
    Riconosci l'inferenza difensiva automatica (es. *«La dirigenza è strutturalmente ipocrita; chi crede ai valori aziendali è una vittima designata; l'unica via per salvare l'autostima è ridicolizzare il potere»*).
-4. **EMOZIONE E IMPULSO SOMATICO (L'anestesia viscerale - Damasio & Lazarus):**  
+4. **EMOZIONE E IMPULSO SOMATICO (L'anestesia viscerale - McEwen e Lazarus):**  
    Mappa la reazione neurovegetativa senza reprimerla (es. *«Nodo rigido allo stomaco; deglutizione a vuoto; impulso compulsivo a lanciare una battuta sferzante per distruggere l'autorità dell'interlocutore e anestetizzare il dolore della delusione»*).
 5. **COMPORTAMENTO ESPRESSO O RETTIFICATO (Dallo sberleffo alla rivendicazione di merito):**  
    Converti il sarcasmo sterile in un vincolo operativo formale (es. *«Ho smascherato l'incoerenza con la battuta della borraccia; ma poi ho abbandonato il sarcasmo per sedermi al tavolo della direzione, esigendo date e cifre scritte a garanzia del lavoro»*).
@@ -305,7 +305,7 @@ Questo strumento operativo va attivato ogni volta che, di fronte a una nuova ini
 
 ### 2. Da Ricordare: Massime di Sintesi Epistemica
 
-* **Il cinismo di fabbrica non è un vizio morale: è una cicatrice omeostatica (*Dean, Brandes & Dharwadkar*).** L'atteggiamento cinico insorge a seguito della violazione seriale del contratto psicologico: quando l'impresa pretende coinvolgimento valoriale negando i diritti economici, il lavoratore si anestetizza per non morire di disillusione.
+* **Il cinismo di fabbrica non è un vizio morale: è una cicatrice omeostatica (*Dean, Brandes e Dharwadkar; Andersson*).** L'atteggiamento cinico insorge a seguito della violazione seriale del contratto psicologico: quando l'impresa pretende coinvolgimento valoriale negando i diritti economici, il lavoratore si anestetizza per non morire di disillusione.
 * **In contesti percepiti come immutabili, il distacco emotivo è una strategia vitale di sopravvivenza (*Lazarus & Folkman*).** Deridere i proclami del management e de-investire dalla missione aziendale serve ad abbattere l'arousal viscerale nocivo e a proteggere il bilancio corporeo dal collasso allostatico.
 * **La retorica motivazionale astratta alimenta il risentimento della base.** Regalare gadget ecologici o proclamare l'azienda come "una grande famiglia" a persone a cui mancano risorse materiali o salari congelati costituisce una violenza psicologica che moltiplica il disprezzo.
 * **Il sarcasmo protegge l'individuo nel presente, ma condanna la comunità nel futuro.** L'anestesia cinica preserva l'organismo dal bruciore dell'ennesima beffa, ma desertifica le relazioni, impedisce il passaggio generazionale del mestiere e prepara la rovina materiale del sistema.
