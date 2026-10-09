@@ -8,29 +8,29 @@ Stato: **prima stesura completata; da sottoporre a revisione editoriale e scient
 
 ## Il colloquio che non avviene
 
-Alle quattro e venti Sara aveva già spostato tre volte la cartellina azzurra da un lato all’altro della scrivania.
+Alle 16:20 Sara aveva già spostato 3 volte la cartellina azzurra da un lato all’altro della scrivania.
 
-Dentro c’erano poche pagine. Due scadenze non rispettate, tre passaggi di consegne incompleti e l’elenco delle attività che Marta e gli altri avevano assorbito per evitare che il lavoro si fermasse. Non era un dossier contro qualcuno. Erano fatti che Sara aveva controllato prima di convocare Davide.
+Dentro c’erano poche pagine. 2 scadenze non rispettate, 3 passaggi di consegne incompleti e l’elenco delle attività che Marta e gli altri avevano assorbito per evitare che il lavoro si fermasse. Non era un dossier contro qualcuno. Erano fatti che Sara aveva controllato prima di convocare Davide.
 
-Alle quattro e mezza lui bussò al vetro dell’ufficio.
+Alle 16:30 lui bussò al vetro dell’ufficio.
 
 «Posso?»
 
 «Certo.»
 
-Davide entrò con il portatile sotto il braccio e si sedette davanti a lei. Lavorava nel gruppo risorse umane da quasi due anni. Era attento con le persone, conosceva bene le procedure e, quando un collega gli chiedeva aiuto, raramente rispondeva di no. Nell’ultimo mese, però, due materiali necessari per l’avvio dei nuovi assunti erano arrivati tardi e incompleti. Il gruppo aveva rimediato entrambe le volte. La prima senza protestare. La seconda con meno disponibilità.
+Davide entrò con il portatile sotto il braccio e si sedette davanti a lei. Lavorava nel gruppo risorse umane da quasi 2 anni. Era attento con le persone, conosceva bene le procedure e, quando un collega gli chiedeva aiuto, raramente rispondeva di no. Nell’ultimo mese, però, 2 materiali necessari per l’avvio dei nuovi assunti erano arrivati tardi e incompleti. Il gruppo aveva rimediato entrambe le volte. La prima senza protestare. La seconda con meno disponibilità.
 
 Sara appoggiò una mano sulla cartellina. «Volevo tornare sulle ultime consegne.»
 
 Davide abbassò lo sguardo. «Sì.»
 
-La risposta fu quasi un soffio. Sara notò le occhiaie, la barba cresciuta male e il modo in cui teneva le spalle, come se cercasse di occupare meno spazio. Due giorni prima lo aveva visto uscire dall’ufficio del direttore commerciale con una pila di fogli. Sapeva anche che a casa aveva un padre anziano da accompagnare ad alcune visite. Non conosceva i dettagli e non voleva costringerlo a raccontarli.
+La risposta fu quasi un soffio. Sara notò le occhiaie, la barba cresciuta male e il modo in cui teneva le spalle, come se cercasse di occupare meno spazio. Lo aveva visto uscire 2 giorni prima dall’ufficio del direttore commerciale con una pila di fogli. Sapeva anche che a casa aveva un padre anziano da accompagnare ad alcune visite. Non conosceva i dettagli e non voleva costringerlo a raccontarli.
 
 «Immagino sia stato un periodo pesante,» disse.
 
 Davide sollevò appena gli occhi. «Abbastanza.»
 
-Sara sentì il peso allo stomaco che l’aveva accompagnata per tutta la giornata. Aveva preparato una frase semplice: *Le ultime due consegne non hanno rispettato gli accordi e il lavoro è ricaduto sul gruppo. Dobbiamo capire che cosa sta succedendo e definire come procedere.* Adesso le sembrava rigida. Non falsa, ma insufficiente. Temeva che, pronunciandola in quel momento, avrebbe aggiunto un peso a una persona che ne portava già troppi.
+Sara avvertì il peso allo stomaco che l’aveva accompagnata per tutta la giornata. Aveva preparato una frase semplice: *Le ultime 2 consegne non hanno rispettato gli accordi e il lavoro è ricaduto sul gruppo. Dobbiamo capire che cosa sta succedendo e definire come procedere.* Adesso le sembrava rigida. Non falsa, ma insufficiente. Temeva che, pronunciandola in quel momento, avrebbe aggiunto un peso a una persona che ne portava già troppi.
 
 «Non è una contestazione,» disse. «Volevo solo capire come stai.»
 
@@ -38,7 +38,7 @@ Davide espirò. «Sto cercando di tenere insieme tutto.»
 
 «Si vede.»
 
-Lui accennò un sorriso. Fu un gesto breve, ma bastò a cambiare il clima della stanza. Sara sentì le spalle abbassarsi di qualche millimetro.
+Lui accennò un sorriso. Fu un gesto breve, ma bastò a cambiare il clima della stanza. Sara avvertì le spalle abbassarsi di qualche millimetro.
 
 «Ci sono state un po’ di difficoltà con i materiali,» continuò. «Niente che non si possa sistemare. Forse dobbiamo rivedere qualche passaggio.»
 
@@ -72,7 +72,7 @@ Marta rimase in silenzio. «Devo finire io anche la scheda di domani?»
 
 Sara posò la mano sulle pagine che non aveva usato. «Domattina.»
 
-Marta annuì, ma non sembrò rassicurata. Tornando alla propria scrivania, disse soltanto: «Mi serve saperlo entro le dieci.»
+Marta annuì, ma non sembrò rassicurata. Tornando alla propria scrivania, disse soltanto: «Mi serve saperlo entro le 10:00.»
 
 Sara riaprì la cartellina. I dati erano gli stessi di mezz’ora prima. Era cambiata soltanto la sensazione con cui li guardava.
 
@@ -88,11 +88,11 @@ La conversazione aveva ridotto la tensione tra lei e Davide, ma non aveva chiari
 
 Questa distinzione è semplice quando la osserviamo da lontano. Lo è meno quando il corpo smette di tendersi e una parte di noi pensa: *Ecco, adesso va meglio.* In quel momento il miglioramento è vero. È il significato che gli attribuiamo a poter essere incompleto.
 
-Nelle ricerche sull’evitamento, il sollievo che segue la scomparsa o l’allontanamento di qualcosa di avversivo è considerato uno dei processi che, in alcune condizioni, possono rendere più probabile una risposta simile in futuro. Non significa che ogni rinvio diventi un’abitudine, né che la scena di Sara sia stata riprodotta in laboratorio. Significa che una conseguenza immediata può insegnarci qualcosa anche quando non ce ne accorgiamo: *quando faccio questo, la tensione scende.*
+Nelle ricerche sull’evitamento, il sollievo che segue la scomparsa di qualcosa di spiacevole è considerato uno dei processi che possono, in alcune condizioni, rendere più probabile una risposta simile in futuro. Non significa che ogni rinvio diventi un’abitudine, né che la scena di Sara sia stata riprodotta in laboratorio. Significa che una conseguenza immediata può insegnarci qualcosa anche quando non ce ne accorgiamo: *quando faccio questo, la tensione scende.*
 
 Il giorno dopo, davanti a una situazione simile, non avremo bisogno di formulare una teoria. Ricorderemo soprattutto la via breve che ci ha fatto respirare.
 
-## Due domande diverse
+## 2 domande diverse
 
 Nel linguaggio quotidiano usiamo spesso una sola misura. Se un’esperienza ci fa stare bene, diciamo che ci fa bene. Se ci fa stare male, pensiamo che sia dannosa. Questa sovrapposizione contiene una parte di verità: il piacere e il dolore sono informazioni importanti. Sarebbe assurdo trattarli come dettagli irrilevanti.
 
@@ -100,7 +100,7 @@ Non sono però l’unico criterio.
 
 La piacevolezza descrive una qualità dell’esperienza: come ci sentiamo. L’utilità richiede una seconda domanda: che cosa rende possibile quella risposta, in quella situazione, e quali conseguenze produce nel tempo? Una stessa emozione può offrire qualcosa e togliere qualcos’altro. Una stessa scelta può proteggere nel breve e restringere nel lungo periodo.
 
-La psicologa Maya Tamir ha proposto di osservare le emozioni anche in rapporto agli obiettivi e alle azioni che possono sostenere. È una prospettiva strumentale, non una regola secondo cui dovremmo cercare emozioni spiacevoli o usare la sofferenza come prova di maturità. Serve soprattutto a separare due domande che tendiamo a confondere:
+La psicologa Maya Tamir ha proposto di osservare le emozioni anche rispetto agli obiettivi e alle azioni che possono sostenere. È una prospettiva orientata agli scopi, non una regola secondo cui dovremmo cercare emozioni spiacevoli o usare la sofferenza come prova di maturità. Serve soprattutto a separare 2 domande che tendiamo a confondere:
 
 **Questa emozione mi fa stare meglio adesso o mi sta aiutando davvero?**
 
@@ -110,13 +110,13 @@ Le risposte possono anche divergere. Dire sì a una richiesta per non deludere q
 
 Anche il disagio richiede la stessa cautela. Una conversazione difficile può essere utile e lasciare entrambe le persone turbate. Un limite necessario può produrre colpa. Una decisione responsabile può non offrire alcuna sensazione di chiarezza nel momento in cui viene presa. Questo non rende il disagio una prova di valore: soffrire non dimostra che stiamo crescendo, e scegliere la strada più dura non è automaticamente più saggio. Indica soltanto che il criterio “mi fa stare bene adesso” non basta a descrivere l’intera scelta.
 
-Per giudicarne l’utilità serve anche stabilire l’orizzonte. Utile per chi? Per ottenere che cosa? Per quanto tempo? Una risposta può aiutare Sara a superare il pomeriggio e danneggiare il gruppo nella settimana. Può proteggere Davide da un confronto prematuro e lasciarlo senza indicazioni. Le conseguenze non cancellano il beneficio immediato; lo collocano dentro un quadro più ampio.
+Per giudicarne l’utilità serve anche stabilire un orizzonte temporale. Utile per chi? Per ottenere che cosa? Per quanto tempo? Una risposta può aiutare Sara a superare il pomeriggio e danneggiare il gruppo nella settimana. Può proteggere Davide da un confronto prematuro e lasciarlo senza indicazioni. Le conseguenze non cancellano il beneficio immediato; lo collocano dentro un quadro più ampio.
 
-Non esiste quindi un dizionario nel quale ogni emozione possieda un valore fisso. Piacevole non significa automaticamente utile. Spiacevole non significa automaticamente dannoso. E utile non significa moralmente buono, vero o adatto in ogni contesto.
+Non esiste quindi un elenco in cui ogni emozione abbia un valore fisso. Piacevole non significa automaticamente utile. Spiacevole non significa automaticamente dannoso. E utile non significa moralmente buono, vero o adatto in ogni contesto.
 
-Richard Lazarus distingueva l’esistenza di un’emozione dal giudizio che essa fosse sana, proporzionata o adattiva. La distinzione conta: provare qualcosa non certifica la qualità della risposta che seguirà. Allo stesso modo, riconoscere una possibile funzione non significa approvare ogni comportamento compiuto sotto la sua spinta.
+Richard Lazarus distingueva l’esistenza di un’emozione dal giudizio sul fatto che fosse sana, proporzionata o utile per adattarsi. La distinzione conta: provare qualcosa non certifica la qualità della risposta che seguirà. Allo stesso modo, riconoscere una possibile funzione non significa approvare ogni comportamento compiuto sotto la sua spinta.
 
-Sara provava sollievo. Quel sollievo era reale e comprensibile. Non era una prova che avesse risolto il problema, né una condanna della sua scelta. Era un dato da leggere insieme agli altri.
+Sara provava sollievo. Quel sollievo era autentico e comprensibile. Non era una prova che avesse risolto il problema, né una condanna della sua scelta. Era un dato da leggere insieme agli altri.
 
 ## Dove porta una risposta
 
@@ -128,11 +128,11 @@ Una tendenza all’azione non è ancora un ordine. La paura può orientarci ad a
 
 Per Sara la direzione era stata chiara: abbassare il livello del conflitto. Aveva scelto parole vaghe, tolto peso ai fatti e rimandato la definizione delle responsabilità. Il comportamento aveva prodotto una conseguenza immediata piacevole: Davide si era rilassato e anche lei. Aveva prodotto anche una conseguenza differita: Marta non sapeva se avrebbe dovuto coprire un’altra attività.
 
-Alle nove e venti della sera, mentre Sara sparecchiava, arrivò un messaggio.
+Alle 21:20 della sera, mentre Sara sparecchiava, arrivò un messaggio.
 
 *Ho completato io la scheda. Domani però dobbiamo parlarne.*
 
-Era Marta. Sara lesse due volte. Suo marito, dall’altra parte del tavolo, stava aiutando il figlio più piccolo a cercare il quaderno di matematica. La figlia raccontava qualcosa che era successo a scuola. Sara digitò *Grazie, domani sistemiamo*, poi cancellò la frase. Scrisse *Mi dispiace, non doveva ricadere su di te*. Cancellò anche quella.
+Era Marta. Sara lesse 2 volte. Suo marito, dall’altra parte del tavolo, stava aiutando il figlio più piccolo a cercare il quaderno di matematica. La figlia raccontava qualcosa che era successo a scuola. Sara digitò *Grazie, domani sistemiamo*, poi cancellò la frase. Scrisse *Mi dispiace, non doveva ricadere su di te*. Cancellò anche quella.
 
 «Tutto bene?» chiese suo marito.
 
@@ -144,29 +144,29 @@ Sara si accorse di ricordare soltanto le prime parole. «Scusami. Ripeti?»
 
 Il messaggio di Marta non dimostrava che la scelta di Sara fosse stata sbagliata in ogni suo aspetto. Forse Davide aveva davvero bisogno di qualche ora. Forse una conversazione più netta, in quel pomeriggio, avrebbe prodotto soltanto difesa. Ma rendeva visibile un elemento che il sollievo aveva nascosto: quando una responsabilità resta indefinita, spesso non scompare. Si trasferisce.
 
-Il rinvio può essere utile. Possiamo aver bisogno di informazioni, tempo, sostegno o sicurezza. Interrompere una discussione quando siamo troppo attivati può impedire di ferire qualcuno. Allontanarsi da una persona violenta non è evitamento disfunzionale: è protezione. Non ogni paura deve essere sfidata, non ogni conflitto deve essere affrontato subito e non ogni disagio merita di essere sopportato.
+Il rinvio può essere utile. Possiamo aver bisogno di informazioni, tempo, sostegno o sicurezza. Interrompere una discussione quando siamo troppo agitati può impedire di ferire qualcuno. Allontanarsi da una persona violenta non è evitamento dannoso: è protezione. Non ogni paura deve essere sfidata, non ogni conflitto deve essere affrontato subito e non ogni disagio merita di essere sopportato.
 
 La differenza non sta nel gesto isolato — restare, uscire, rimandare — ma nella relazione tra situazione, scopo e conseguenze. Il rinvio di Sara non aveva una durata definita, non raccoglieva nuove informazioni e non proteggeva il gruppo. Aveva soprattutto ridotto il disagio del momento. Per questo rischiava di trasformarsi da pausa in modello.
 
-Le ricerche distinguono forme di evitamento guidate da uno scopo concreto da risposte divenute più automatiche e rigide. I confini non sono sempre netti, e molto di ciò che sappiamo deriva da paradigmi sperimentali o da contesti clinici che non possono essere trasferiti senza cautela a una riunione di lavoro. Il principio operativo resta però utile: una risposta protettiva mantiene o aumenta le possibilità di agire; una risposta rigida tende a restringerle e a conservare il problema che la attiva.
+Le ricerche distinguono forme di evitamento guidate da uno scopo concreto da risposte divenute più automatiche e rigide. I confini non sono sempre netti. Molto di ciò che sappiamo deriva da esperimenti o da contesti clinici, che non si possono trasferire senza cautela a una riunione di lavoro. Il principio operativo resta però utile: una risposta protettiva mantiene o aumenta le possibilità di agire; una risposta rigida tende a restringerle e a conservare il problema che la attiva.
 
 Marta aveva trovato una soluzione per la scheda. Davide non aveva ancora compreso con precisione che cosa dovesse cambiare. Sara aveva protetto il clima della conversazione, ma ora possedeva meno tempo, non più informazioni.
 
 ## Il problema è ancora lì
 
-La mattina successiva Sara arrivò alle otto e dieci. Sulla scrivania trovò la versione completata da Marta e una mail di Davide inviata poco dopo mezzanotte. Conteneva un elenco di attività, alcune previste e altre no. Tra queste c’era la revisione urgente di un progetto che il direttore commerciale gli aveva affidato direttamente.
+La mattina successiva Sara arrivò alle 8:10. Sulla scrivania trovò la versione completata da Marta e una mail di Davide inviata poco dopo mezzanotte. Conteneva un elenco di attività, alcune previste e altre no. Tra queste c’era la revisione urgente di un progetto che il direttore commerciale gli aveva affidato direttamente.
 
-Sara sentì comparire due letture opposte. La prima: *Ecco perché non ce l’ha fatta; ieri ho fatto bene a non insistere.* La seconda: *Avrebbe dovuto avvertirmi; mi ha lasciato scoprire tutto dagli altri.*
+Comparvero 2 letture opposte. La prima: *Ecco perché non ce l’ha fatta; ieri ho fatto bene a non insistere.* La seconda: *Avrebbe dovuto avvertirmi; mi ha lasciato scoprire tutto dagli altri.*
 
 Entrambe contenevano qualcosa. Nessuna bastava.
 
-Aprì la cartellina azzurra e, su un foglio, tracciò due colonne. Nella prima scrisse ciò che sapeva: due scadenze saltate; materiali incompleti; lavoro trasferito al gruppo; incarico urgente ricevuto dal direttore commerciale; nessuna richiesta esplicita di ridefinire le priorità. Nella seconda scrisse ciò che stava prevedendo: Davide si sentirà accusato; tirerà fuori i problemi familiari; penserà che non mi importa di lui; il colloquio peggiorerà la situazione.
+Aprì la cartellina azzurra e, su un foglio, tracciò 2 colonne. Nella prima scrisse ciò che sapeva: 2 scadenze saltate; materiali incompleti; lavoro trasferito al gruppo; incarico urgente ricevuto dal direttore commerciale; nessuna richiesta esplicita di ridefinire le priorità. Nella seconda scrisse ciò che stava prevedendo: Davide si sentirà accusato; tirerà fuori i problemi familiari; penserà che non mi importa di lui; il colloquio peggiorerà la situazione.
 
 La seconda colonna non era assurda. Era il futuro che la sua mente stava cercando di evitarle. Ma non era ancora accaduto.
 
 Regolare un’emozione non significa soltanto reprimerla o sostituirla con qualcosa di piacevole. A volte significa creare condizioni nelle quali possa informarci senza decidere da sola. Le ricerche sulle strategie di regolazione mostrano risultati diversi a seconda di come una strategia viene definita e usata; non autorizzano una classifica universale in cui esista sempre una tecnica migliore. Per Sara, in quel momento, regolare non voleva dire smettere di temere il conflitto. Voleva impedire che quel timore cancellasse i fatti o la spingesse ancora una volta a parlare senza dire.
 
-Alle nove Marta entrò con il cappotto ancora addosso.
+Alle 9:00 Marta entrò con il cappotto ancora addosso.
 
 «Posso chiederti una cosa?»
 
@@ -184,13 +184,13 @@ Marta rimase ferma. «Non voglio che sembri che ce l’abbiamo con lui.»
 
 Marta la guardò, sorpresa. «Va bene.»
 
-Dopo che uscì, Sara sentì di nuovo il peso allo stomaco. Questa volta non cercò una frase che lo facesse sparire. Scrisse a Davide: *Possiamo riprendere il confronto di ieri alle dieci? Ho bisogno che chiariamo carichi, responsabilità e prossime consegne.*
+Dopo che uscì, Sara avvertì di nuovo il peso allo stomaco. Questa volta non cercò una frase che lo facesse sparire. Scrisse a Davide: *Possiamo riprendere il confronto di ieri alle 10:00? Ho bisogno che chiariamo carichi, responsabilità e prossime consegne.*
 
 Rilesse il messaggio. Non era caldo come avrebbe voluto. Non era aggressivo. Lo inviò.
 
 ## La conversazione necessaria
 
-Davide arrivò alle dieci con la mascella tesa.
+Davide arrivò alle 10:00 con la mascella tesa.
 
 «È successo qualcosa?» chiese.
 
@@ -200,7 +200,7 @@ Sara gli indicò la sedia. La cartellina era aperta, ma non la mise tra loro com
 
 Davide incrociò le braccia. «Pensavo avessimo deciso di rivedere i passaggi.»
 
-«Lo abbiamo detto, ma non abbiamo deciso niente. Le ultime due consegne sono arrivate tardi e incomplete. Marta e altre due persone hanno coperto il lavoro. Ieri sera Marta ha finito la scheda che spettava a te.»
+«Lo abbiamo detto, ma non abbiamo deciso niente. Le ultime 2 consegne sono arrivate tardi e incomplete. Marta e altre 2 persone hanno coperto il lavoro. Ieri sera Marta ha finito la scheda che spettava a te.»
 
 Il volto di Davide cambiò. «Non le ho chiesto di farlo.»
 
@@ -230,7 +230,7 @@ Sara indicò la mail. «Ho visto il progetto che ti ha affidato il direttore com
 
 Davide si passò una mano sul viso. «Perché ogni volta che dico che non riesco a tenere tutto sembra che stia chiedendo un trattamento speciale.»
 
-Sara sentì la frase arrivare nel punto in cui temeva di più: l’idea che una sua richiesta di chiarezza potesse diventare una mancanza di cura. «È successo qui?»
+Sara avvertì la frase arrivare nel punto in cui temeva di più: l’idea che una sua richiesta di chiarezza potesse diventare una mancanza di cura. «È successo qui?»
 
 «Non con te, forse. Ma succede.»
 
@@ -250,7 +250,7 @@ Per la prima volta la conversazione non offriva un colpevole unico. Il direttore
 
 «Grazie per avermelo detto. Non devi raccontarmi più di quanto vuoi. Dobbiamo però capire quale carico è realistico.»
 
-Sara gli chiese di aprire il calendario delle consegne. Non gli domandò di giustificare ogni ora. Scorsero le attività della settimana, separarono quelle essenziali da quelle rinviabili e identificarono due passaggi che potevano essere riassegnati senza scaricarli informalmente sugli altri. Davide avrebbe completato entro il pomeriggio la parte che soltanto lui poteva chiudere. Sara avrebbe parlato con il direttore commerciale e con Marta. Il giorno seguente avrebbero verificato insieme il piano.
+Sara gli chiese di aprire il calendario delle consegne. Non gli domandò di giustificare ogni ora. Scorsero le attività della settimana, separarono quelle essenziali da quelle rinviabili e identificarono 2 passaggi che potevano essere riassegnati senza scaricarli informalmente sugli altri. Davide avrebbe completato entro il pomeriggio la parte che soltanto lui poteva chiudere. Sara avrebbe parlato con il direttore commerciale e con Marta. Il giorno seguente avrebbero verificato insieme il piano.
 
 «Marta è arrabbiata?» chiese Davide.
 
@@ -262,7 +262,7 @@ Sara gli chiese di aprire il calendario delle consegne. Non gli domandò di gius
 
 Davide annuì, senza convinzione. «Mi sembra comunque che passi l’idea che non sono affidabile.»
 
-Sara sentì il desiderio di rispondere che nessuno lo pensava. Non poteva saperlo. «Passa l’idea che due consegne non hanno funzionato. L’affidabilità si ricostruisce anche rendendo visibili i problemi prima della scadenza.»
+Sara avvertì il desiderio di rispondere che nessuno lo pensava. Non poteva saperlo. «Passa l’idea che 2 consegne non hanno funzionato. L’affidabilità si ricostruisce anche rendendo visibili i problemi prima della scadenza.»
 
 La frase lasciò nella stanza un silenzio scomodo. Davide chiuse il portatile più lentamente del necessario.
 
@@ -270,11 +270,11 @@ La frase lasciò nella stanza un silenzio scomodo. Davide chiuse il portatile pi
 
 Non era sollevato. Nemmeno Sara lo era. La tensione non si era trasformata in armonia e nessuno dei due aveva trovato la frase capace di proteggere tutto: il carico di Davide, la fiducia di Marta, le esigenze del gruppo e il bisogno di Sara di essere percepita come una responsabile attenta.
 
-Avevano però prodotto qualcosa che il colloquio del giorno precedente non aveva lasciato: informazioni, responsabilità distinguibili, una scadenza e un punto di verifica.
+Avevano però prodotto qualcosa che il colloquio del giorno prima non aveva prodotto: informazioni, responsabilità distinguibili, una scadenza e un punto di verifica.
 
 **Il disagio non era scomparso. Questa volta, però, non aveva deciso da solo che cosa rimandare.**
 
-Nel pomeriggio Davide consegnò la parte concordata con venti minuti di ritardo e un messaggio: *Mi manca ancora un allegato. Te lo mando entro le cinque.* Alle cinque meno dieci l’allegato arrivò. Non era la prova che il problema fosse risolto. Era un primo comportamento diverso: aveva segnalato il ritardo prima che qualcun altro dovesse scoprirlo.
+Nel pomeriggio Davide consegnò la parte concordata con 20 minuti di ritardo e un messaggio: *Mi manca ancora un allegato. Te lo mando entro le 17:00.* Alle 16:50 l’allegato arrivò. Non era la prova che il problema fosse risolto. Era un primo comportamento diverso: aveva segnalato il ritardo prima che qualcun altro dovesse scoprirlo.
 
 Sara rispose soltanto: *Ricevuto. Domani verifichiamo il resto.*
 
@@ -286,17 +286,17 @@ Pensa a una scelta recente che ti ha fatto stare meglio nell’immediato: hai ri
 
 Non scegliere una situazione pericolosa, violenta o troppo dolorosa da osservare senza sostegno. L’esercizio non serve a convincerti che avresti dovuto affrontare qualunque cosa.
 
-Ricostruisci **i due tempi della stessa scelta**:
+Ricostruisci **i 2 tempi della stessa scelta**:
 
 1. **Situazione.** Che cosa stava accadendo?
 2. **Emozione e tendenza.** Che cosa provavi e verso quale risposta ti sentivi spinto?
 3. **Comportamento.** Che cosa hai fatto davvero?
 4. **Beneficio immediato.** Che cosa è migliorato, si è ridotto o si è allontanato subito?
-5. **Conseguenza differita.** Che cosa è accaduto dopo alcune ore, alcuni giorni o alla persona successiva?
+5. **Conseguenza a distanza.** Che cosa è accaduto dopo alcune ore, alcuni giorni o alla persona successiva?
 6. **Funzione protettiva.** Da che cosa ti ha protetto quella scelta?
 7. **Parte irrisolta.** Che cosa è rimasto aperto o è stato trasferito altrove?
 
-Alla fine, prova a rispondere a due domande separate:
+Alla fine, prova a rispondere a 2 domande separate:
 
 **È stato piacevole? È stato utile?**
 
@@ -313,7 +313,7 @@ L’obiettivo non è premiare il disagio. È evitare che il sollievo sia l’uni
 - Riconoscere la funzione di un’emozione non significa approvare automaticamente il comportamento che segue.
 - Una conversazione utile non deve eliminare ogni disagio: deve produrre informazioni, responsabilità e possibilità di azione più chiare.
 
-Nel capitolo precedente abbiamo separato ciò che accade dal significato che gli attribuiamo. In questo abbiamo seguito quella lettura fino al comportamento e alle conseguenze. Resta un passaggio ancora più difficile: a volte il corpo reagisce con forza non a ciò che sta accadendo, ma a ciò che immaginiamo, ricordiamo o prevediamo.
+Nel capitolo precedente abbiamo separato ciò che accade dal significato che gli attribuiamo. Qui abbiamo seguito quella lettura fino al comportamento e alle conseguenze. Resta un passaggio ancora più difficile: a volte il corpo reagisce con forza non a ciò che sta accadendo, ma a ciò che immaginiamo, ricordiamo o prevediamo.
 
 **Un’emozione può essere utile anche quando nasce da qualcosa che non sta accadendo realmente?**
 
@@ -351,11 +351,11 @@ Il Capitolo 3 parte da qui: *Il corpo reagisce anche a ciò che non è ancora ac
 ## Decisioni narrative registrate
 
 - Sara ha 39 anni ed è responsabile delle risorse umane; i segnali ricorrenti usati sono peso allo stomaco, tensione alle spalle, respiro corto e controllo dei messaggi.
-- Il collaboratore si chiama Davide ed è nel gruppo da quasi due anni; è competente e disponibile, ma ha mancato due consegne e non ha segnalato un conflitto di priorità.
+- Il collaboratore si chiama Davide ed è nel gruppo da quasi 2 anni; è competente e disponibile, ma ha mancato 2 consegne e non ha segnalato un conflitto di priorità.
 - Marta rappresenta il costo sul gruppo senza diventare antagonista: copre una scheda e chiede chiarezza.
 - La causa organizzativa concorrente è un incarico urgente assegnato direttamente dal direttore commerciale senza informare Sara.
 - Davide vive anche un carico familiare legato ai controlli medici del padre, senza che questo diventi assoluzione o dettaglio melodrammatico.
-- Il marito e i due figli di Sara compaiono durante la cena; il telefono interrompe il racconto della figlia e apre il conflitto disponibilità-presenza.
+- Il marito e i 2 figli di Sara compaiono durante la cena; il telefono interrompe il racconto della figlia e apre il conflitto disponibilità-presenza.
 - Il secondo colloquio produce un piano, una scadenza e un check-in, non una riconciliazione completa.
 
 ## Elementi da riportare nel registro della continuità
@@ -366,4 +366,4 @@ Il Capitolo 3 parte da qui: *Il corpo reagisce anche a ciò che non è ancora ac
 - Sara ammette di non essere stata chiara e distingue fatti, previsioni e reazioni che non può controllare.
 - Viene concordato un piano con compiti essenziali, riallocazioni esplicite e verifica il giorno successivo.
 - `CF-003` viene aperto mediante la distrazione di Sara durante la cena; non viene risolto.
-- Formule già utilizzate: le quattro elencate nella sezione precedente.
+- Formule già utilizzate: le 4 elencate nella sezione precedente.
