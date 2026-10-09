@@ -8,7 +8,7 @@ I 3 piani dell'edificio, costruito 15 anni prima sopra un magazzino di raccordi 
 
 Andrea, 45 anni, fondatore e amministratore delegato, sedeva davanti a 2 monitor da 24 pollici accesi a piena luminosità. Il nodo della cravatta pendeva allentato di 3 centimetri sul terzo bottone della camicia; il colletto sbottonato raschiava contro la pelle umida del collo. La fronte poggiava pesante contro la base del pollice della mano sinistra; a ogni battito cardiaco, una scarica sorda e tagliente partiva dalla vertebra cervicale C5, costeggiava il bordo interno della scapola destra e scendeva lungo l'avambraccio fino all'articolazione del pollice, bloccandogli le dita in una rigidità legnosa.
 
-L'indomani mattina, alle 9:00 esatte, nella sala conferenze di LogiDistretto a Sommacampagna, era convocato il Comitato Plenario di Filiera. Attorno al tavolo ovale sedevano Luca (socio operativo al 50 per 100), Sara (responsabile del personale di O.M.P. Precision), Marco (amministratore unico di NexSys Solutions), i rappresentanti del consorzio logistico e 2 funzionari della direzione crediti della Banca Popolare. All'ordine del giorno figurava un unico punto non rinviabile: l'approvazione del **Budget Consolidato di Rete 2027**, il piano economico-finanziario triennale destinato a dimostrare agli istituti di credito che il distretto meccatronico reggeva l'onda d'urto del crac Apex da 3,2 milioni di euro, integrando le nuove commesse tedesche Kuka e Hydac negoziate da O.M.P. e garantendo il circolante per le forniture di titanio.
+L'indomani mattina, alle 9:00 esatte, nella sala conferenze di LogiDistretto a Sommacampagna, era convocato il Comitato Plenario di Filiera. Attorno al tavolo ovale sedevano Luca (socio operativo al 50%), Sara (responsabile del personale di O.M.P. Precision), Marco (amministratore unico di NexSys Solutions), i rappresentanti del consorzio logistico e 2 funzionari della direzione crediti della Banca Popolare. All'ordine del giorno figurava un unico punto non rinviabile: l'approvazione del **Budget Consolidato di Rete 2027**, il piano economico-finanziario triennale destinato a dimostrare agli istituti di credito che il distretto meccatronico reggeva l'onda d'urto del crac Apex da 3,2 milioni di euro, integrando le nuove commesse tedesche Kuka e Hydac negoziate da O.M.P. e garantendo il circolante per le forniture di titanio.
 
 Per la prima volta in 15 anni di gestione accentrata, Andrea aveva ceduto una parte del volante.
 
@@ -32,7 +32,7 @@ La rotellina del mouse si arrestò con uno scatto secco.
 
 «Enrico,» disse Andrea. Il timbro vocale perse ogni sfumatura di accoglienza, scendendo di un'ottava fino a farsi piatto e tagliente. «Che tasso di sconto hai applicato sulla linea di anticipo contratti per il secondo trimestre?»
 
-«Il 3 per 100, dottore,» rispose il ragazzo, senza smettere di sorridere. «È il tasso medio interbancario Euribor a 3 mesi (il tasso di riferimento tra banche) maggiorato dello spread raccomandato dalle linee guida ABI per le imprese in classe di merito A2.»
+«Il 3%, dottore,» rispose il ragazzo, senza smettere di sorridere. «È il tasso medio interbancario Euribor a 3 mesi (il tasso di riferimento tra banche) maggiorato dello spread raccomandato dalle linee guida ABI per le imprese in classe di merito A2.»
 
 «E i tempi di incasso delle forniture meccaniche di O.M.P.?»
 
@@ -44,7 +44,7 @@ Il silenzio piombò sulla stanza come una lastra di metallo calata dal soffitto.
 
 «Io... ho consultato i parametri generali del database di Omnia...»
 
-«I parametri generali?» La voce di Andrea salì di tono, metallica, vibrante di una furia compressa che ruppe gli argini. «La Banca Popolare applica il tasso agevolato del Fondo Centrale solo sulla quota di R&D; sul resto del circolante lo spread territoriale è del 5,85%! E nel distretto manifatturiero veronese nessuno paga a 60 giorni! Con la perdita di Apex, i clienti tedeschi hanno imposto pagamenti a 90 e 120 giorni con perizia di collaudo rilasciata! Hai calcolato gli incassi a 60 giorni con lo sconto al 3 per 100!»
+«I parametri generali?» La voce di Andrea salì di tono, metallica, vibrante di una furia compressa che ruppe gli argini. «La Banca Popolare applica il tasso agevolato del Fondo Centrale solo sulla quota di R&D; sul resto del circolante lo spread territoriale è del 5,85%! E nel distretto manifatturiero veronese nessuno paga a 60 giorni! Con la perdita di Apex, i clienti tedeschi hanno imposto pagamenti a 90 e 120 giorni con perizia di collaudo rilasciata! Hai calcolato gli incassi a 60 giorni con lo sconto al 3%!»
 
 Andrea batté 2 volte il tasto Invio, forzando i parametri della realtà di fabbrica dentro la cella `F148`:
 
@@ -213,7 +213,7 @@ Il ragazzo prese posto sulla punta estrema della seduta, la colonna vertebrale d
 
 Enrico batté le palpebre 2 volte, disorientato dalla totale assenza di sanzioni disciplinari. «Ma... i parametri erano sballati... ho rischiato di far saltare il comitato con le banche...»
 
-«I parametri erano sballati, sì,» continuò Andrea, mantenendo le mani piatte sul noce. «Ma non erano sballati perché tu non sai fare i conti. Erano sballati perché io non ti ho messo nella condizione di conoscere i vincoli materiali di questo distretto. **Quando ieri sera hai applicato il tasso al 3 per 100 e gli incassi a 60 giorni, su quale presupposto logico hai costruito quella scelta?**»
+«I parametri erano sballati, sì,» continuò Andrea, mantenendo le mani piatte sul noce. «Ma non erano sballati perché tu non sai fare i conti. Erano sballati perché io non ti ho messo nella condizione di conoscere i vincoli materiali di questo distretto. **Quando ieri sera hai applicato il tasso al 3% e gli incassi a 60 giorni, su quale presupposto logico hai costruito quella scelta?**»
 
 La domanda disarmò la postura di difesa. Non chiedeva scuse morali: chiedeva il processo logico.
 

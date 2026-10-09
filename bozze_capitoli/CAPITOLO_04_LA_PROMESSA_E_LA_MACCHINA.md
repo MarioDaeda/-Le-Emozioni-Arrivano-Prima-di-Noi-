@@ -44,7 +44,7 @@ Un muscolo sotto la palpebra sinistra di Silvano prese a contrarsi a scatti rapi
 
 «Con le 5 assi, ovvio! Le Mori Seiki dell'isola 3 e 4. Hanno la rigidità dinamica perfetta per quel profilo.»
 
-Silvano puntò l'indice verso il diagramma di Gantt illuminato di rosso sul monitor. «Fabio, guardi mai il gestionale prima di andare in Germania a vendere l'aria? Le isole 3 e 4 sono sature al 99 per 100 fino al 22 dicembre per le boccole medicali Kuka e i supporti Apex rimasti in coda. Non ho un minuto libero neanche per cambiare l'olio ai mandrini. A quanto è fissata la prima consegna?»
+Silvano puntò l'indice verso il diagramma di Gantt illuminato di rosso sul monitor. «Fabio, guardi mai il gestionale prima di andare in Germania a vendere l'aria? Le isole 3 e 4 sono sature al 99% fino al 22 dicembre per le boccole medicali Kuka e i supporti Apex rimasti in coda. Non ho un minuto libero neanche per cambiare l'olio ai mandrini. A quanto è fissata la prima consegna?»
 
 Fabio estrasse dalla tasca una stilografica d'oro, la fece roteare tra le dita con disinvoltura e indicò una riga stampata a pagina 4 del contratto.
 
@@ -144,7 +144,7 @@ Silvano serrò i pugni sopra il tavolo, costringendosi a riavvolgere la memoria 
 
 Silvano distolse lo sguardo, fissando il muro intonacato di giallo. «No. Ovvio che non l'ha detto.»
 
-«Fabio conosceva a che punto fosse il carico delle frese a 5 assi all'88 per 100?»
+«Fabio conosceva a che punto fosse il carico delle frese a 5 assi all'88%?»
 
 «Non all'88, al 98,4!» la corresse Silvano per riflesso d'officina.
 
