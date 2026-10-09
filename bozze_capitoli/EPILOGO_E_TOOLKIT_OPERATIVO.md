@@ -50,7 +50,7 @@ Può succedere in una riunione infuocata, in un corridoio di produzione o davant
   - *Fatto Oggettivo:* il collega ha detto «questo numero non torna»; la mail è arrivata alle 17:45 senza l'allegato firmato; la rettifica ha sforato di 4 micron la tolleranza sul diametro interno; il socio ha abbandonato la stanza prima delle 19:00.
   - *Inferenza del Sistema 1:* «lo fa per screditarmi davanti a tutti», «mi sta ricattando», «non gliene frega nulla dell'azienda», «è un incapace pigro», «è un tradimento premeditato».
 * **Espunzione degli Aggettivi:** Cancella dalla mente ogni qualifica morale (*arrogante, negligente, sleale, incompetente, disonesto*). Riconduci l'evento al dato alfanumerico, alla traiettoria fisica o all'orario solare.
-* **Micro-richiamo Situato:** Dario Meneghelli fa ruotare la borraccia d'alluminio sul tavolo della saletta sindacale, senza alzare la voce. Non urla contro il management: separa i 2.600 euro di premio di produzione congelati dalle parole dorate della convention aziendale (Capitolo 9). Gianni Bellamoli, sulla sponda del canale Camuzzoni, rifiuta il melodramma della figlia e chiede: «Dov'è il foglio con la firma? Chi ha approvato il cambio di procedura?» (Capitolo 7).
+* **Micro-richiamo Situato:** Dario Meneghelli, nella mensa, fa ruotare tra le dita la borraccia d'alluminio, senza alzare la voce. Non urla contro il management: separa i 2.600 euro di premio di produzione congelati dalle parole dorate della convention aziendale (Capitolo 9). Gianni Bellamoli, sulla sponda del canale Camuzzoni, rifiuta il melodramma della figlia e chiede: «Dov'è il foglio con la firma? Chi ha approvato il cambio di procedura?» (Capitolo 7).
 * **Assioma di Lucidità:** Ripeti mentalmente: **«Plausibile non significa ancora accertato»**. L'ipotesi maligna è la più rapida e meno faticosa per il cervello primordiale, ma quasi mai coincide con la dinamica dei fatti.
 
 #### FASE 3 (90–150 Secondi) — Il Decentramento Cognitivo e la Ricerca del Punto Cieco Sistemico
@@ -114,7 +114,7 @@ Le seguenti schede costituiscono il prontuario operativo per ciascuno dei 9 arch
   [ALTRO: Processo]   → Report di collaudo, rugosità Ra 0,8, tracciamento scarto
 ```
 
-* **Contesto Narrativo e Frattura:** Un responsabile o un addetto HR rileva un errore operativo grave di un giovane collaboratore fragile o affaticato. È il caso delle boccole robotizzate Kuka con rugosità fuori tolleranza a fine turno. Per non vederlo crollare, o per timore della sua reazione emotiva, si è tentati di non contestare l'errore. Si archivia il pezzo difettoso in silenzio e si rimanda il discorso a data da destinarsi, godendosi un breve sollievo (*rinforzo negativo da evitamento*).
+* **Contesto Narrativo e Frattura:** Un responsabile o un addetto HR rileva un errore operativo grave di un giovane collaboratore fragile o affaticato. È il caso delle boccole Kuka per i bracci robotici con rugosità fuori tolleranza a fine turno. Per non vederlo crollare, o per timore della sua reazione emotiva, si è tentati di non contestare l'errore. Si archivia il pezzo difettoso in silenzio e si rimanda il discorso a data da destinarsi, godendosi un breve sollievo (*rinforzo negativo da evitamento*).
 * **IO (Gestione Somatica / Interna):**
   - *Segnale Corporeo:* Tensione viscerale al plesso solare, ansia da compiacimento sociale («non voglio fare la figura del mostro insensibile»), respiro corto trattenuto nella parte alta del petto.
   - *Intervento Neurovegetativo:* Il sollievo che provi nel chiudere la porta senza aver parlato è una droga biologica a breve termine. Riconoscilo: nel tempo comporterà un costo moltiplicato. Fai 3 cicli di espirazione profonda, appoggia entrambi i piedi a terra ed entra nella postazione di lavoro.
@@ -276,7 +276,7 @@ Le seguenti schede costituiscono il prontuario operativo per ciascuno dei 9 arch
   [ALTRO: Processo]   → Ristrutturazione quote operative, delega peritale esterna
 ```
 
-* **Contesto Narrativo e Frattura:** 2 soci fondatori al 50%, dopo anni di simbiosi operativa, si ritrovano bloccati da un gelo rancoroso. Andrea ha continuato a spingere sull'acceleratore commerciale e sui bandi di finanziamento. Luca è crollato sotto il carico somatico della contabilità, delle banche e delle responsabilità legali. Alla fine ha spento il monitor e se n'è andato, lasciando un post-it prima di una scadenza da 180.000 euro. Il primo interpreta la stanchezza dell'altro come tradimento e prepara la diffida formale dell'avvocato.
+* **Contesto Narrativo e Frattura:** Due soci fondatori al 50%, dopo anni di simbiosi operativa, si ritrovano bloccati da un gelo rancoroso. Andrea ha continuato a spingere sull'acceleratore commerciale e sui bandi di finanziamento. Luca è crollato sotto il carico somatico della contabilità, delle banche e delle responsabilità legali. Alla fine ha spento il monitor e se n'è andato, lasciando un post-it prima di una scadenza da 180.000 euro. Il primo interpreta la stanchezza dell'altro come tradimento e prepara la diffida formale dell'avvocato.
 * **IO (Gestione Somatica / Interna):**
   - *Segnale Corporeo:* Nausea da tradimento, bruciore acido all'esofago, carotidi che martellano, trapezi tesi come corde di violino, insonnia ossessiva.
   - *Intervento Neurovegetativo:* Bevi acqua tiepida; fai 5 minuti di camminata lenta a passi regolari respirando con il diaframma. Espelli dalla mente l'illusione punitiva: mandare una PEC (posta elettronica certificata) o una diffida legale al tuo socio paritetico distruggerà il valore aziendale e accelererà la liquidazione della società.
@@ -373,7 +373,7 @@ Di seguito vengono analizzate le 10 formule più distruttive riscontrate sul cam
 * **Traduzione di Processo Autorizzata:**  
   *«Questo indicatore fotografa con precisione un segmento dell'operatività. Quali altri costi occulti, frizioni logistiche o impatti di reparto non sta catturando questa metrica?»*
 
-#### 6. «Se hai un problema vieni da me con la soluzione, non con la lamentela»
+#### 6. «Vieni con la soluzione, non con il problema»
 * **Dove nasce (Marcatore Somatico):** Intolleranza viscerale del superiore per la complessità imprevista e per la sofferenza operativa altrui; meccanismo di evitamento difensivo.
 * **Danno Sistemico:** Sopprime la segnalazione precoce delle anomalie e degli scarti. Costringe i collaboratori a nascondere i difetti di processo, finché il danno per il cliente non diventa irreparabile.
 * **Traduzione di Processo Autorizzata:**  

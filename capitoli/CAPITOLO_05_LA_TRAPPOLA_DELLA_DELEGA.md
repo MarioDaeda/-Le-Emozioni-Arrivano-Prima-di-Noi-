@@ -14,7 +14,7 @@ Per la prima volta in 15 anni di gestione accentrata, Andrea aveva ceduto una pa
 
 Luca lo pressava, rimproverandogli di bloccare ogni firma operativa per l'ossessione del dettaglio. Anche Elena lo aveva sollecitato durante le sessioni di governance. Così Andrea aveva affidato a Enrico la costruzione del modello previsionale di cash flow di rete. Enrico aveva 27 anni e una laurea magistrale con lode in Ingegneria Gestionale al Politecnico di Milano. Aveva anche un master breve in Corporate Finance e una velocità sbalorditiva nello scrivere codice Python, report dinamici PowerBI e macro Visual Basic. Sulla carta, Enrico costituiva il prototipo del ricambio generazionale: il cervello analitico destinato a trasformare Omnia da studio professionale padronale a società di consulenza direzionale strutturata.
 
-2 colpi secchi nocche-contro-vetro fecero vibrare la guarnizione in gomma della porta dell'ufficio.
+Due colpi secchi nocche-contro-vetro fecero vibrare la guarnizione in gomma della porta dell'ufficio.
 
 «Dottor Vettori? Il cruscotto dinamico è pronto. Posso collegare il notebook?»
 
@@ -36,7 +36,7 @@ La rotellina del mouse si arrestò con uno scatto secco.
 
 «E i tempi di incasso delle forniture meccaniche di O.M.P.?»
 
-«60 giorni data fattura fine mese. È lo standard legale europeo contro i ritardi nei pagamenti commerciali.»
+«Sessanta giorni data fattura fine mese. È lo standard legale europeo contro i ritardi nei pagamenti commerciali.»
 
 Il silenzio piombò sulla stanza come una lastra di metallo calata dal soffitto. Sotto il palmo di Andrea, il mouse cigolò per la pressione delle dita; la fitta cervicale trapassò il muscolo trapezio, scaricando una pulsazione rovente sul polso.
 
@@ -79,7 +79,7 @@ Enrico si alzò come spinto da una molla metallica. Le mani gli tremavano al pun
 
 I passi del ragazzo si spensero lungo la scala antincendio. L'open space rimase deserto, inghiottito dal buio.
 
-Andrea rimase immobile al centro della luce bianca. Si passò le dita tra i capelli madidi di sudore freddo; sulla barra di sistema l'orologio digitale segnava le 19:35. 13 ore e 25 minuti all'apertura del tavolo di LogiDistretto.
+Andrea rimase immobile al centro della luce bianca. Si passò le dita tra i capelli madidi di sudore freddo; sulla barra di sistema l'orologio digitale segnava le 19:35. Mancavano 13 ore e 25 minuti all'apertura del tavolo di LogiDistretto.
 
 Si alzò a scatti e andò nella saletta ristoro. Caricò la moka da 6 con polvere di caffè scuro, accese la lampada da tavolo inclinando il paralume sul tastierino numerico e si sedette alla scrivania. Iniziò a riscrivere riga per riga, matrice per matrice, cella per cella, l'intero bilancio di rete di 32 fogli. Si condannava a una notte solitaria di veglia feroce. E confermava la condanna più tossica della sua vita d'impresa: *se vuoi che una cosa stia in piedi, devi farla da solo*.
 
@@ -129,7 +129,7 @@ Gli riaffiorò il ricordo del martedì precedente, nudo e impietoso. Aveva detto
 
 Il mento di Andrea cedette verso lo sterno; le dita si aprirono sul piano in noce della scrivania. «No. Non gli avevo dato i fogli di vincolo.»
 
-«Vuoi la verità, Andrea?» incalzò Elena, senza alzare la voce di un decibel. «La verità è che tu non hai delegato un bel niente. Gli hai detto: «Fammi un modello moderno». Non gli hai dato i tassi reali, non gli hai detto che i tedeschi trattengono il saldo, non gli hai fatto vedere un solo estratto conto. L'hai buttato nella nebbia senza bussola. E quando il ragazzo ha fatto l'unica cosa che poteva fare: usare i manuali della Bocconi e del Politecnico. Il tuo corpo ha visto rosso perché ti sei ricordato che Omnia non è più il garage di via Tombetta dove decidevi tutto tu con la pizza sul radiatore. Non hai passato la notte sveglio per salvare la baracca: l'hai passata qui per dimostrare che senza di te muoiono tutti.»
+«Vuoi la verità, Andrea?» incalzò Elena, senza alzare la voce di un decibel. «La verità è che tu non hai delegato un bel niente. Gli hai detto: «Fammi un modello moderno». Non gli hai dato i tassi reali, non gli hai detto che i tedeschi trattengono il saldo, non gli hai fatto vedere un solo estratto conto. L'hai buttato nella nebbia senza bussola. Il ragazzo ha fatto l'unica cosa che poteva fare: ha usato i manuali della Bocconi e del Politecnico. E il tuo corpo ha visto rosso, perché ti sei ricordato che Omnia non è più il garage di via Tombetta dove decidevi tutto tu con la pizza sul radiatore. Non hai passato la notte sveglio per salvare la baracca: l'hai passata qui per dimostrare che senza di te muoiono tutti.»
 
 L'aria uscì dai polmoni di Andrea senza fare rumore. Sotto la clavicola il muscolo cardiaco rallentò di colpo, lasciandogli un vuoto freddo nella gabbia toracica.
 

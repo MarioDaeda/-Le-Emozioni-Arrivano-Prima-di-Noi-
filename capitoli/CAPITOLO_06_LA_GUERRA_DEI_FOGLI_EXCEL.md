@@ -12,7 +12,7 @@ La tensione fisica della stanza era polarizzata sui 2 estremi del tavolo, a 4 me
 
 A capotavola sedeva Valerio Guidotti, 49 anni, Responsabile Ufficio Acquisti e Supply Chain di O.M.P. Precision da oltre un decennio. Valerio era un contabile meticoloso e spigoloso. Calvo, con radi capelli brizzolati tagliati cortissimi, portava occhiali da vista rettangolari con montatura a giorno. Aveva l'abitudine maniacale di allineare penna, taccuino e puntatore laser al millimetro con il bordo del tavolo. Il suo contratto prevedeva un cospicuo premio di risultato annuale, legato a un indicatore unico e inderogabile. Era la riduzione percentuale del costo unitario d'acquisto delle materie prime rispetto al listino medio della Camera di Commercio.
 
-All'estremo opposto sedeva Claudio Marcolini, 46 anni, Direttore Operativo di LogiDistretto. 1,85 metri per 95 chili, era un ex ufficiale di bordo della marina mercantile, con 15 anni di gestione banchine a Marghera e Genova. Portava la barba ispida da marinaio e la felpa tecnica blu scuro, con la zip aperta sul collo taurino. Il premio di Claudio, all'opposto, era ancorato alla rotazione rapida delle baie di carico, all'indice di saturazione volumetrica del magazzino e all'azzeramento delle soste passive degli autisti terzi.
+All'estremo opposto sedeva Claudio Marcolini, 46 anni, Direttore Operativo di LogiDistretto. Un metro e 85 per 95 chili, era un ex ufficiale di bordo della marina mercantile, con 15 anni di gestione banchine a Marghera e Genova. Portava la barba ispida da marinaio e la felpa tecnica blu scuro, con la zip aperta sul collo taurino. Il premio di Claudio, all'opposto, era ancorato alla rotazione rapida delle baie di carico, all'indice di saturazione volumetrica del magazzino e all'azzeramento delle soste passive degli autisti terzi.
 
 All'ordine del giorno c'era la verifica delle forniture del quarto trimestre: la lega 42CrMo4 e le barre forate in titanio. Servivano ad alimentare i centri a 5 assi di Silvano sulle commesse Kuka e Hydac.
 
@@ -34,7 +34,7 @@ Dall'altro capo del tavolo, le rotelle della sedia di Marcolini scavarono il pav
 
 Claudio si alzò di scatto, piantando entrambi i palmi chiusi a pugno sul piano in melaminico, il collo taurino percorso da vene gonfie e scure.
 
-«78.000 euro di risparmio?» ringhiò Claudio. La voce era un rombo cavernoso che fece vibrare i bicchieri d'acqua sul vassoio. «Adesso basta con questo teatrino indecente. Adesso vi mostro io i veri numeri che questo ragioniere tiene nascosti alla direzione per farsi dare il bonus di fine anno!»
+«Un risparmio di 78.000 euro?» ringhiò Claudio. La voce era un rombo cavernoso che fece vibrare i bicchieri d'acqua sul vassoio. «Adesso basta con questo teatrino indecente. Adesso vi mostro io i veri numeri che questo ragioniere tiene nascosti alla direzione per farsi dare il bonus di fine anno!»
 
 Dalla tasca della felpa estrasse una chiavetta USB con il guscio in gomma rossa. La scagliò sul tavolo: scivolò fino a fermarsi a mezzo centimetro dalla tastiera del portatile di Luca. Poi disse a Enrico: «Ingegnere, metta dentro quella chiavetta. Apra la cartella *Verità_Logistica* e proietti il file `COSTI_OCCULTI_FERROMETALLI.xlsx`!»
 
@@ -44,7 +44,7 @@ Valerio scattò sulla sedia; una vampata gelida gli svuotò le guance, lasciando
 
 «Metti a schermo quel file, Enrico!» ordinò Luca con voce dura, bloccando Valerio con un cenno della mano sinistra.
 
-Enrico inserì la memoria nel computer. 2 secondi dopo, il foglio verde smeraldo di Valerio venne sostituito da un secondo foglio di calcolo, formattato con violente righe alternate di colore rosso fuoco e giallo allarme:
+Enrico inserì la memoria nel computer. Due secondi dopo, il foglio verde smeraldo di Valerio venne sostituito da un secondo foglio di calcolo, formattato con violente righe alternate di colore rosso fuoco e giallo allarme:
 
 ```
 [TELEMETRIA DI MAGAZZINO LOGIDISTRETTO - FORNITURE FERROMETALLI SEBINA]
@@ -97,7 +97,7 @@ Dall'altra parte del tavolo sedeva Paolo Zantedeschi, 62 anni, per 28 anni Diret
 
 «Bevi un sorso d'acqua, Valerio,» disse Paolo, tagliando con calma una fetta di cotechino fumante. «Il vino a stomaco vuoto ti fa solo salire la bile.»
 
-«Non posso bere acqua, Paolo! Ho il veleno che mi esce dai pori della pelle!» sbottò Valerio, abbassando la voce verso la tovaglia per non farsi sentire dai camionisti seduti al bancone. «Quel cinghiale di Marcolini mi ha teso una trappola premeditata davanti alla direzione! Ha tirato fuori una chiavetta con un file taroccato per distruggermi. Ha fatto credere a Luca e a Sara che compri scarti per intascarmi il premio! Ma i miei dati sono inattaccabili, Paolo! Ho risparmiato 78.000 euro su base annua! 78.000 euro veri, contati su ogni singola fattura fornitore! I numeri non mentono mai!»
+«Non posso bere acqua, Paolo! Ho il veleno che mi esce dai pori della pelle!» sbottò Valerio, abbassando la voce verso la tovaglia per non farsi sentire dai camionisti seduti al bancone. «Quel cinghiale di Marcolini mi ha teso una trappola premeditata davanti alla direzione! Ha tirato fuori una chiavetta con un file taroccato per distruggermi. Ha fatto credere a Luca e a Sara che compri scarti per intascarmi il premio! Ma i miei dati sono inattaccabili, Paolo! Ho risparmiato 78.000 euro su base annua! Sono 78.000 euro veri, contati su ogni singola fattura fornitore! I numeri non mentono mai!»
 
 Paolo posò la forchetta e il coltello con movimenti millimetrici sul bordo del piatto. Si pulì la bocca con il tovagliolo di carta, poi incrociò le mani nodose sul tavolo e guardò Valerio con una fermezza priva di sconti.
 
@@ -113,7 +113,7 @@ La mandibola di Valerio si bloccò. Poggiò il bicchiere con un colpo secco che 
 
 Valerio abbassò gli occhi, stringendo le dita attorno al bordo del tavolo. La voce gli uscì a fatica, carica dell'affanno di chi vede crollare la propria linea difensiva:
 
-«Erano le matrici della trafileria... Le seconde trafile della Sebina hanno tolleranze più larghe. 3 decimi di pancia su alcune partite di tondo. Ma Marcolini poteva stoccarle nelle campate esterne invece di piantarle in mezzo alle corsie dei trilaterali per fare la sceneggiata davanti a Luca!»
+«Erano le matrici della trafileria... Le seconde trafile della Sebina hanno tolleranze più larghe. Tre decimi di pancia su alcune partite di tondo. Ma Marcolini poteva stoccarle nelle campate esterne invece di piantarle in mezzo alle corsie dei trilaterali per fare la sceneggiata davanti a Luca!»
 
 «Al perito non frega un accidente di come le stoccava Marcolini!» scandì Paolo, picchiando l'indice calloso sul piano. «Se la barra ha 0,3 mm di pancia, nelle pinze dei torni di Silvano non entra. E se spacca gli utensili, il tuo risparmio di Brescia è carta straccia che stai facendo pagare alla fabbrica.»
 
@@ -123,9 +123,9 @@ Valerio ammutolì. Lo sguardo scivolò sul piatto davanti a sé: il grasso del c
 
 La fiammata acida sulle guance collassò. Una morsa di gelo gli si strinse dietro la nuca, asciutta, spietata. I numeri si ricomponevano nella testa con la precisione di una sottrazione algebrica: 78.400 euro di sconto nominale contro 92.650 euro di costi logistici tra soste passive, perizie straordinarie e spazio occupato.
 
-«14.000 euro,» mormorò Valerio, fissando la macchia di vino sulla carta. «L'azienda ci rimette 14.000 euro netti.»
+«Circa 14.000 euro,» mormorò Valerio, fissando la macchia di vino sulla carta. «L'azienda ci rimette 14.000 euro netti.»
 
-«14.250 euro di perdita secca,» precisò Paolo, appoggiando la mano nodosa sull'avambraccio dell'allievo. «Senza contare le commesse tedesche di Kuka e Hydac che rischiano il fermo linea. La colpa non è tua e non è di Marcolini: la colpa è di un'organizzazione che vi ha dato 2 obiettivi che si prendono a cazzotti. Ma se domani mattina torni lì dentro a sventolare il tuo dossier contro i suoi magazzinieri, sarai tu a spaccare l'azienda. Domani vai da Luca e da Sara. Non per difendere il tuo foglio. Ci vai per buttare via entrambi i file. E per pretendere un metodo unico che metta insieme il costo del metallo e il costo del magazzino, prima che compriamo anche un solo chilo di barre.»
+«Per la precisione, 14.250 euro di perdita secca,» precisò Paolo, appoggiando la mano nodosa sull'avambraccio dell'allievo. «Senza contare le commesse tedesche di Kuka e Hydac che rischiano il fermo linea. La colpa non è tua e non è di Marcolini: la colpa è di un'organizzazione che vi ha dato 2 obiettivi che si prendono a cazzotti. Ma se domani mattina torni lì dentro a sventolare il tuo dossier contro i suoi magazzinieri, sarai tu a spaccare l'azienda. Domani vai da Luca e da Sara. Non per difendere il tuo foglio. Ci vai per buttare via entrambi i file. E per pretendere un metodo unico che metta insieme il costo del metallo e il costo del magazzino, prima che compriamo anche un solo chilo di barre.»
 
 ## Il dato come trincea
 

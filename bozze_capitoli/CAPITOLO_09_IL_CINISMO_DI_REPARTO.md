@@ -4,7 +4,7 @@
 
 Alle 10:28 di mercoledì 4 marzo, la sala mensa di O.M.P. Precision ha perso il suo odore di verze stufate e pane caldo per trasformarsi in un set televisivo aziendale.
 
-I tavoli lunghi in formica arancione sono stati ribaltati contro le pareti perimetrali, incastrati l'uno sull'altro come tavolame da cantiere. 120 sedie pieghevoli in polipropilene blu compongono un semicerchio perfetto davanti a una pedana modulare rivestita di moquette grigia a pelo corto. Sul fondo, 2 piantane telescopiche sostengono proiettori a led da 500 watt che inondano il centro della sala di una luce bianca, asettica, da sala operatoria. Il fascio luminoso sbatte contro un telo in pvc microforato largo 5 metri, dove campeggiano il marchio ridisegnato dell'azienda e le insegne dorate della nuova liturgia manageriale:
+I tavoli lunghi in formica arancione sono stati ribaltati contro le pareti perimetrali, incastrati l'uno sull'altro come tavolame da cantiere. Centoventi sedie pieghevoli in polipropilene blu compongono un semicerchio perfetto davanti a una pedana modulare rivestita di moquette grigia a pelo corto. Sul fondo, 2 piantane telescopiche sostengono proiettori a led da 500 watt che inondano il centro della sala di una luce bianca, asettica, da sala operatoria. Il fascio luminoso sbatte contro un telo in pvc microforato largo 5 metri, dove campeggiano il marchio ridisegnato dell'azienda e le insegne dorate della nuova liturgia manageriale:
 
 ```
 [CONVENTION GENERALE O.M.P. PRECISION 2027-2030]
@@ -28,7 +28,7 @@ L'Amministratore allarga le mani, il viso disteso in un sorriso caloroso da plen
 
 La sala sprofonda in un silenzio di piombo.
 
-Nessun applauso. Nessun sussurro. Nessun movimento di piedi sul pavimento in linoleum grigio cenere. 120 uomini e donne restano immobili con le braccia serrate contro lo sterno; le mascelle bloccate, le tute blu compatte come un unico bastione minerale. Le 120 borracce blu notte posate tra le ginocchia luccicano sotto i fari alogeni come corpi morti, orpelli ridicoli abbandonati su un banco di collaudo.
+Nessun applauso. Nessun sussurro. Nessun movimento di piedi sul pavimento in linoleum grigio cenere. Centoventi uomini e donne restano immobili con le braccia serrate contro lo sterno; le mascelle bloccate, le tute blu compatte come un unico bastione minerale. Le 120 borracce blu notte posate tra le ginocchia luccicano sotto i fari alogeni come corpi morti, orpelli ridicoli abbandonati su un banco di collaudo.
 
 Passano 10 secondi. Il silenzio pesa quintali. Oltre le vetrate opache della mensa si propaga solo il tonfo sordo delle forche di un muletto che sbattono contro un bancale di rottami.
 
@@ -38,7 +38,7 @@ Dalla quarta fila del settore centrale stride una sedia pieghevole. Ferravecchia
 
 Un uomo si stacca dalla spalliera con una lentezza calcolata.
 
-È Dario Meneghelli. 52 anni compiuti a gennaio, quasi 28 passati davanti alle guide delle rettifiche tangenziali di O.M.P. Precision. Ha le spalle magre e quadrate di chi ha sollevato mandrini per 30 anni e la schiena dritta come una riga graduata. Sopra il labbro superiore porta baffi spessi, ingialliti dalla nicotina. Gli occhiali da lettura hanno la montatura in celluloide, tenuta insieme sul ponte nasale da 3 giri stretti di nastro isolante nero. Sulle braccia scoperte dalla tuta estiva a maniche corte, vecchie cicatrici trasversali biancastre testimoniano i frammenti di pietra abrasiva esplosi quando le mole si ravvivavano a mano libera. Dario ha visto transitare 4 direttori generali, 3 procedure di concordato preventivo, 2 fusioni societarie con cassa integrazione a zero ore e 3 convention motivazionali con parole d'ordine sempre più astratte.
+È Dario Meneghelli. Cinquantadue anni compiuti a gennaio, quasi 28 passati davanti alle guide delle rettifiche tangenziali di O.M.P. Precision. Ha le spalle magre e quadrate di chi ha sollevato mandrini per 30 anni e la schiena dritta come una riga graduata. Sopra il labbro superiore porta baffi spessi, ingialliti dalla nicotina. Gli occhiali da lettura hanno la montatura in celluloide, tenuta insieme sul ponte nasale da 3 giri stretti di nastro isolante nero. Sulle braccia scoperte dalla tuta estiva a maniche corte, vecchie cicatrici trasversali biancastre testimoniano i frammenti di pietra abrasiva esplosi quando le mole si ravvivavano a mano libera. Dario ha visto transitare 4 direttori generali, 3 procedure di concordato preventivo, 2 fusioni societarie con cassa integrazione a zero ore e 3 convention motivazionali con parole d'ordine sempre più astratte.
 
 L'addetta stampa gli allunga il microfono freddo; Dario non lo tocca. Non alza nemmeno la mano.
 
@@ -48,7 +48,7 @@ Sul suo volto non compare ira. Sul labbro superiore si disegna una curva sardoni
 
 «Dottore,» esordisce Dario. La voce esce piana, profonda, priva di tremolii, tagliata per farsi intendere sopra il ronzio dei motori trifase. «La borraccia in alluminio è davvero un bel pensiero. Terrà sicuramente l'acqua fresca d'estate quando siamo a 40 gradi davanti alle rettifiche con le finestre chiuse per non far entrare la polvere.»
 
-3 secondi di sospensione assoluta. 120 schiene si raddrizzano contemporaneamente.
+Tre secondi di sospensione assoluta. Centoventi schiene si raddrizzano contemporaneamente.
 
 «Ma visto che oggi parliamo di *benessere olistico* e di *famiglia industriale*, volevo farle una domanda semplice da parte di quelli che stanno in tuta. **A novembre la proprietà ha congelato i 2.600 euro a testa di premio di risultato del 2025, con la scusa del buco di cassa di Apex. Intanto vi siete aumentati i compensi del consiglio di amministrazione. Allora: quei soldi ce li pagate dentro questa borraccia? O ci dobbiamo mettere i gettoni della macchinetta del caffè, che lunedì scorso avete aumentato da 40 a 55 centesimi?**»
 
@@ -94,7 +94,7 @@ Dario lascia sfuggire una mezza risata dalle narici, scuotendo il capo con disin
 
 «Non era solo una borraccia, Dario!» sbotta Sara, e la frustrazione trattenuta per 7 ore le incrina la voce. «C'erano 3 mesi di trattative massacranti per non far saltare i fidi con le banche. Gianluca Moretti non è venuto qui a fare il padrone: è un ingegnere che sta cercando di riorganizzare i flussi per non farci cacciare via dai tedeschi. Marta ha accettato di guidare l'accademia tecnica per insegnare ai ragazzi a non sbagliare le quote. Silvano sta governando le macchine per reggere il titanio. Andrea e Luca si sono spaccati la salute per trovare la liquidità per pagare a tutti gli stipendi base. C'era un tentativo pulito di ricominciare dopo il crac di Apex. E tu, con quella battuta sul caffè e sui premi di novembre, hai riavvolto il nastro dell'odio. Hai convinto 20 ragazzi assunti da 6 mesi che qui dentro l'unica cosa sensata sia remare contro. Hai ricacciato l'officina nella trincea del disprezzo. Cosa ci guadagni a fare il nichilista di professione?»
 
-Dario non risponde subito. Porta la sigaretta alla bocca, aspira l'ultima boccata fino alla carta ingiallita, poi schiaccia il mozzicone contro la lamiera fredda del fusto con una pressione lenta, metodica, deliberata. Getta il filtro nella melma ai suoi piedi. Infila le dita ruvide nelle tasche della tuta, fa 2 passi sull'asfalto bagnato e si arresta a mezzo metro da Sara. Le rughe attorno agli occhi sono solchi scavati dall'olio da taglio e dalla luce al neon.
+Dario non risponde subito. Porta la sigaretta alla bocca, aspira l'ultima boccata fino alla carta ingiallita, poi schiaccia il mozzicone contro la lamiera fredda del fusto con una pressione lenta, metodica, deliberata. Getta il mozzicone nella melma ai suoi piedi. Infila le dita ruvide nelle tasche della tuta, fa 2 passi sull'asfalto bagnato e si arresta a mezzo metro da Sara. Le rughe attorno agli occhi sono solchi scavati dall'olio da taglio e dalla luce al neon.
 
 «Dottoressa Sara, lei è una brava persona,» scandisce Dario, e il tono sardonico scompare, sostituito da una gravità minerale. «Lei è la migliore responsabile del personale che abbia messo piede in questo stabilimento negli ultimi 15 anni. Ma lei è arrivata qui 3 anni fa con le sue tabelle di valutazione e i suoi questionari anonimi sul clima aziendale. Io sono entrato dal portone 2 di via dell'Artigianato nel settembre del 1998. Allora le schede dei pezzi si compilavano ancora a mano, con la matita copiativa, e l'olio delle guide colava sui pavimenti di cemento. Sa quante convention con il palco e i video motivazionali ho visto dentro quella mensa?»
 
@@ -271,7 +271,7 @@ Nel corridoio che immette nella navata centrale, Silvano Spinelli cammina a fian
 
 Dario si arresta sulla soglia del reparto macchine.
 
-La luce gialla delle lampade a vapori di sodio taglia la nebbia sospesa dei refrigeranti. 44 macchine utensili girano a regime, con una percussione ritmica che fa tremare le solette di calcestruzzo. Al banco del collaudo dimensionale, Marta Bellamoli mostra a Gianluca Moretti il tastatore micrometrico per i corpi valvola Hydac. 2 postazioni più in là, il giovane perito Davide carica una barra d'acciaio sul mandrino della fresa. Ha movimenti attenti e puliti, senza l'isteria beffarda di mercoledì mattina.
+La luce gialla delle lampade a vapori di sodio taglia la nebbia sospesa dei refrigeranti. Quarantaquattro macchine utensili girano a regime, con una percussione ritmica che fa tremare le solette di calcestruzzo. Al banco del collaudo dimensionale, Marta Bellamoli mostra a Gianluca Moretti il tastatore micrometrico per i corpi valvola Hydac. Due postazioni più in là, il giovane perito Davide carica una barra d'acciaio sul mandrino della fresa. Ha movimenti attenti e puliti, senza l'isteria beffarda di mercoledì mattina.
 
 Dario infila 2 dita nella casacca, toccando la piega ruvida della copia del patto custodita sul petto.
 

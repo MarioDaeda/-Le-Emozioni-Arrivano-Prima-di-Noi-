@@ -45,7 +45,7 @@ Marta sentiva ancora il riverbero di quelle parole — *«promozione morale»* �
 
 Una cascata di brividi le scivolò lungo la colonna vertebrale fino all'altezza dei reni. I muscoli delle cosce e dei polpacci persero ogni tono. Le ginocchia cedettero di colpo verso l'interno, e Marta dovette serrare i talloni sul pavimento per non barcollare. Le spalle crollarono in avanti. Un peso le schiacciò gli avambracci e le dita, come se in quella stanza la gravità fosse diventata insostenibile. La laringe si contrasse a tenuta stagna; sulla lingua affiorò un sapore acido e denso di ruggine e fiele.
 
-22 anni di notti in bianco a respirare nebbia d'olio e di sabati sacrificati, mentre i figli crescevano lontani. Anni di guide prismatiche raschiate a mano con il blu di Prussia per togliere i centesimi di imprecisione. Anni passati a salvare le forniture quando i soci tremavano per i debiti bancari. Tutti cancellati. Liquidati con 2 colpetti sulla camicia da lavoro e una medaglietta di latta morale. E la stanza dei bottoni andava a un ragazzino in scarpe da ginnastica candide, che non conosceva il rumore di una fresa quando entra in risonanza.
+Ventidue anni di notti in bianco a respirare nebbia d'olio e di sabati sacrificati, mentre i figli crescevano lontani. Anni di guide prismatiche raschiate a mano con il blu di Prussia per togliere i centesimi di imprecisione. Anni passati a salvare le forniture quando i soci tremavano per i debiti bancari. Tutti cancellati. Liquidati con 2 colpetti sulla camicia da lavoro e una medaglietta di latta morale. E la stanza dei bottoni andava a un ragazzino in scarpe da ginnastica candide, che non conosceva il rumore di una fresa quando entra in risonanza.
 
 Marta non mosse un dito. Non gridò; non scagliò a terra il bicchiere; le labbra rimasero serrate in una fessura rigida. La pelle del viso si prosciugò di calore, tesa e grigia come una maschera di gesso essiccata all'aria. Allungò la mano sinistra verso il ripiano del carrello e posò il calice di vino intonso sul vassoio argentato, senza il minimo tintinnio. Poi ruotò sui tacchi bassi delle scarpe antinfortunistiche e varcò la porta tagliafuoco.
 
@@ -83,11 +83,11 @@ L'argine sterrato del canale Camuzzoni correva a valle della chiusa di Chievo, a
 
 Marta sedeva su una vecchia panchina in blocchi di pietra calcarea e sostegni di ghisa arrugginita. Stava rannicchiata dentro un giaccone impermeabile verde muschio, con il cappuccio calato fino alle sopracciglia e le mani affondate nelle tasche. L'umidità della pietra calcarea penetrava attraverso il panno pesante dei pantaloni da lavoro. Nel canale Camuzzoni, la corrente torbida trascinava rami marciti e scorie di canne verso le griglie d'acciaio della centrale.
 
-Accanto a lei, dritto sul sedile di pietra, c'era suo padre Gianni. 74 anni, un berretto di lana blu scuro calcato sul cranio rasato e un vecchio cappotto da ferroviere con i bottoni metallici d'ordinanza chiusi fino alla gola. Le sue mani erano posate sulle ginocchia, con le nocche deformate dall'artrite reumatoide. La pelle delle palme era una mappa di cicatrici biancastre, scavate da decenni di trucioli incandescenti. Le lunette delle unghie conservavano un orlo nero e indelebile di grafite e olio minerale. Era penetrato nei pori durante 37 anni di tornio parallelo alle Officine di Porta Vescovo. Da sotto i baffi ingialliti dal tabacco saliva a intervalli regolari una tosse secca e cavernosa, intrisa di polveri d'officina. Si scioglieva in sbuffi di vapore bianco nell'aria a zero gradi.
+Accanto a lei, dritto sul sedile di pietra, c'era suo padre Gianni. Settantaquattro anni, un berretto di lana blu scuro calcato sul cranio rasato e un vecchio cappotto da ferroviere con i bottoni metallici d'ordinanza chiusi fino alla gola. Le sue mani erano posate sulle ginocchia, con le nocche deformate dall'artrite reumatoide. La pelle delle palme era una mappa di cicatrici biancastre, scavate da decenni di trucioli incandescenti. Le lunette delle unghie conservavano un orlo nero e indelebile di grafite e olio minerale. Era penetrato nei pori durante 37 anni di tornio parallelo alle Officine di Porta Vescovo. Da sotto i baffi ingialliti dal tabacco saliva a intervalli regolari una tosse secca e cavernosa, intrisa di polveri d'officina. Si scioglieva in sbuffi di vapore bianco nell'aria a zero gradi.
 
 Marta piangeva senza fare rumore. Le lacrime le colavano lungo i solchi tra il naso e le labbra, scivolando sul bavero cerato senza che muovesse una mano per asciugarle.
 
-«Mi hanno buttata via come una scarpa rotta, papà.» La voce di Marta usciva raschiata, spogliata di ogni sicurezza. «22 anni di vita dentro quel buco. I sabati a smontare le teste di fresatura per far partire i lotti del lunedì. Il Natale di 3 anni fa passato a raschiare a mano la tavola dell'isola 2, per non pagare la penale ai tedeschi... E hanno preso un ragazzino di Modena che parla inglese per metterlo sopra di me. 'Promozione morale', mi ha detto in faccia l'amministratore col bicchiere in mano! Mi hanno dato 2 pacche sulla spalla come si fa con i cani vecchi prima di portarli dal veterinario... Si arrangino a fare il titanio per la Germania con le formule del Politecnico! Voglio vedere come fanno senza di me quando le frese cominciano a vibrare!»
+«Mi hanno buttata via come una scarpa rotta, papà.» La voce di Marta usciva raschiata, spogliata di ogni sicurezza. «Ventidue anni di vita dentro quel buco. I sabati a smontare le teste di fresatura per far partire i lotti del lunedì. Il Natale di 3 anni fa passato a raschiare a mano la tavola dell'isola 2, per non pagare la penale ai tedeschi... E hanno preso un ragazzino di Modena che parla inglese per metterlo sopra di me. 'Promozione morale', mi ha detto in faccia l'amministratore col bicchiere in mano! Mi hanno dato 2 pacche sulla spalla come si fa con i cani vecchi prima di portarli dal veterinario... Si arrangino a fare il titanio per la Germania con le formule del Politecnico! Voglio vedere come fanno senza di me quando le frese cominciano a vibrare!»
 
 Gianni tacque. Il respiro del vecchio usciva denso nell'aria a zero gradi. Nel gorgo del canale, un tronco d'acacia ruotava prima di inabissarsi contro le paratoie.
 
@@ -172,7 +172,7 @@ L'ufficio del personale di O.M.P. Precision era immerso nella luce grigia e meta
 
 Sulla scrivania in melaminico chiaro c'era una tazza di caffè intonsa. Accanto, Sara teneva le mani ferme sopra la cartellina azzurra chiusa del fascicolo di matricola 042 e sull'angolo bianco del modulo di dimissioni non protocollato. Alla sua sinistra, seduto sulla poltroncina con il blocco note vergine e l'iPad posato sulle cosce, c'era l'ingegner Gianluca Moretti. Indossava un maglione a collo alto grigio grafite e occhiali con montatura sottile in titanio. La suola in gomma della scarpa destra batteva un ticchettio rapido e continuo contro la gamba metallica della sedia.
 
-2 colpi secchi alla porta. Nocche di ferro contro legno tamburato.
+Due colpi secchi alla porta. Nocche di ferro contro legno tamburato.
 
 «Avanti.» La voce di Sara superò il ronzio della ventola del server.
 
@@ -221,7 +221,7 @@ Moretti esitò per un istante, poi voltò la testa verso Sara e annuì con un co
 
 Sara prese il telefono cellulare personale dalla scrivania, cercò il contatto dell'Amministratore Delegato, premette la chiamata e attivò il vivavoce, appoggiando l'apparecchio al centro del tavolo.
 
-Dall'altoparlante arrivò il rumore di fondo del rotolamento degli pneumatici sull'asfalto autostradale della A4 verso Milano. 3 squilli a vuoto.
+Dall'altoparlante arrivò il rumore di fondo del rotolamento degli pneumatici sull'asfalto autostradale della A4 verso Milano. Tre squilli a vuoto.
 
 Poi la voce dell'AD: «Sara? Sono all'altezza di Brescia. Dimmi, che sto guidando.»
 

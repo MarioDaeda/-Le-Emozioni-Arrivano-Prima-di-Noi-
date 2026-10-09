@@ -8,7 +8,7 @@ Al terzo piano della palazzina uffici, nell'ufficio di presidenza, la temperatur
 
 Mancavano esattamente 5 ore e 31 minuti alla chiusura improrogabile dei server regionali: le 23:59 di quella sera stessa.
 
-La posta in gioco reggeva l'intera architettura industriale della filiera veronese: un contributo a fondo perduto di **180.000 euro**. Doveva co-finanziare l'infrastruttura informatica MES di NexSys per tracciare le tolleranze centesimali e i moduli formativi dell'Accademia Tecnica di Marta Bellamoli in O.M.P. Precision. 2 mesi di lavoro istruttorio, perizie giurate, rendiconti di spesa e verbali di asseverazione rischiavano di polverizzarsi per un ritardo di trasmissione. Per validare l'invio finale mancavano solo 2 allegati formali. Il primo era la relazione tecnica di asseverazione dei flussi logistici, controfirmata da LogiDistretto. Il secondo era il prospetto delle conformità ambientali sulle emissioni dei refrigeranti. Luca Marangon, socio operativo e COO di Omnia, doveva caricarli entro le ore 17:00 con la propria smart card di firma digitale qualificata.
+La posta in gioco reggeva l'intera architettura industriale della filiera veronese: un contributo a fondo perduto di **180.000 euro**. Doveva co-finanziare l'infrastruttura informatica MES di NexSys per tracciare le tolleranze centesimali e i moduli formativi dell'Accademia Tecnica di Marta Bellamoli in O.M.P. Precision. Due mesi di lavoro istruttorio, perizie giurate, rendiconti di spesa e verbali di asseverazione rischiavano di polverizzarsi per un ritardo di trasmissione. Per validare l'invio finale mancavano solo 2 allegati formali. Il primo era la relazione tecnica di asseverazione dei flussi logistici, controfirmata da LogiDistretto. Il secondo era il prospetto delle conformità ambientali sulle emissioni dei refrigeranti. Luca Marangon, socio operativo e COO di Omnia, doveva caricarli entro le ore 17:00 con la propria smart card di firma digitale qualificata.
 
 Andrea Vettori si alzò dalla poltrona in ecopelle con uno scatto rigido. Le articolazioni delle ginocchia scricchiolarono nel silenzio dell'ufficio vuoto. Percorse a passi rapidi la corsia in moquette blu del corridoio. Superò le stanze buie dei revisori contabili e la fotocopiatrice centrale in modalità di risparmio energetico. Poi spinse la porta dell'ufficio di Luca senza bussare.
 
@@ -34,9 +34,9 @@ Andrea fissava quella riga tracciata a penna — *«fai tu il caricamento finale
 
 La minaccia non era la scadenza tecnica del bando regionale: era il senso viscerale, desolante e intollerabile del tradimento paritetico.
 
-15 anni di vita aziendale condivisa. I primi contratti firmati nel 2011 dentro un garage gelato di via Tombetta. Allora mangiavano tranci di pizza riscaldati sul radiatore per non sprecare liquidità. Poi le fideiussioni bancarie a garanzia personale, firmate insieme mettendo a pegno la casa di famiglia. I turni massacranti dopo il crollo di Apex, per tenere in piedi la baracca. E la promessa solenne, rinnovata a ogni bilancio: *«Siamo pari al 50%. Dividiamo la fatica, dividiamo i rischi, dividiamo tutto fino alla fine»*.
+Quindici anni di vita aziendale condivisa. I primi contratti firmati nel 2011 dentro un garage gelato di via Tombetta. Allora mangiavano tranci di pizza riscaldati sul radiatore per non sprecare liquidità. Poi le fideiussioni bancarie a garanzia personale, firmate insieme mettendo a pegno la casa di famiglia. I turni massacranti dopo il crollo di Apex, per tenere in piedi la baracca. E la promessa solenne, rinnovata a ogni bilancio: *«Siamo pari al 50%. Dividiamo la fatica, dividiamo i rischi, dividiamo tutto fino alla fine»*.
 
-15 anni di società buttati su un tavolo per un allenamento di basket. Con 180.000 euro di contributi regionali che scadevano a mezzanotte, il socio al 50% spegneva il monitor e lasciava il fango sulle spalle dell'altro. Da 18 mesi Luca tirava il freno, arrivava alle 9, se ne andava alle 5, firmava solo l'ordinario e lasciava le trincee e le grane burocratiche a lui. Si prendeva metà degli utili a fine esercizio e aspettava che fosse Andrea a spaccarsi le coronarie sulla tastiera. Il tradimento nel momento peggiore della loro storia.
+Quindici anni di società buttati su un tavolo per un allenamento di basket. Con 180.000 euro di contributi regionali che scadevano a mezzanotte, il socio al 50% spegneva il monitor e lasciava il fango sulle spalle dell'altro. Da 18 mesi Luca tirava il freno, arrivava alle 9, se ne andava alle 5, firmava solo l'ordinario e lasciava le trincee e le grane burocratiche a lui. Si prendeva metà degli utili a fine esercizio e aspettava che fosse Andrea a spaccarsi le coronarie sulla tastiera. Il tradimento nel momento peggiore della loro storia.
 
 Le dita di Andrea si chiusero a pugno, stritolando il post-it giallo fino a ridurlo a una pallina umida di sudore. La carta cerata gli punse la carne del palmo.
 
@@ -189,7 +189,7 @@ Luca sollevò il mento. La pelle del viso era grigiastra, segnata da ombre scure
 
 Andrea oltrepassò la soglia. Non si fermò davanti al tavolo: aggirò il piano in faggio, si avvicinò alla sedia di Luca, allungò la mano e prese il foglio della mail.
 
-Andrea tenne il foglio stretto tra i pollici per 3 secondi. 2 strappi secchi, perpendicolari, divisero la carta in 4 lembi. Le dita si aprirono; i frammenti caddero sul fondo del cestino di rete metallica accanto alla scrivania.
+Andrea tenne il foglio stretto tra i pollici per 3 secondi. Due strappi secchi, perpendicolari, divisero la carta in 4 lembi. Le dita si aprirono; i frammenti caddero sul fondo del cestino di rete metallica accanto alla scrivania.
 
 Poi scostò la scatola di cartone e si sedette sul bordo del tavolo, a mezzo metro dal socio.
 

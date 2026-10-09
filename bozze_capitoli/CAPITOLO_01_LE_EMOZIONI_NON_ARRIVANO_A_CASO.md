@@ -6,7 +6,7 @@ Alle 10:17 Andrea aveva già deciso che Luca non si fidava più di lui.
 
 Nella sala si era parlato per un'ora di margini, tempi di rientro e costi di avviamento. Il proiettore ronzava sopra il tavolo e buttava il foglio di calcolo sulla parete, a schermo intero. Colonne grigie, qualche cella gialla dove i ricavi tardavano, il totale in basso fermo sotto la riga della liquidità disponibile. Un riverbero bianco sbiancava le facce sul lato lungo del tavolo. Il progetto legava l'azienda per diciotto mesi. Se funzionava, apriva un mercato nuovo. Se le stime erano troppo ottimistiche, il danno non restava chiuso dentro una riga di bilancio: usciva, e nel viaggio si portava dietro il resto.
 
-Quei numeri Andrea li aveva. Controllati la sera, dopo cena, con il portatile accanto ai piatti da sparecchiare; ricontrollati alle 6:40 del mattino, il caffè che si freddava accanto al mouse. 45 anni, l'azienda fondata in 4 — adesso erano 32 — e una regola che si era dato da solo, senza mai dirla a nessuno: non innamorarsi delle proprie idee.
+Quei numeri Andrea li aveva. Controllati la sera, dopo cena, con il portatile accanto ai piatti da sparecchiare; ricontrollati alle 6:40 del mattino, il caffè che si freddava accanto al mouse. Quarantacinque anni, l'azienda fondata in 4 — adesso erano 32 — e una regola che si era dato da solo, senza mai dirla a nessuno: non innamorarsi delle proprie idee.
 
 Ed era stanco. Una settimana a rispondere a banche, consulenti e responsabili d'area. Ogni verifica richiesta era un giorno in più, e ogni giorno in più allontanava la decisione e avvicinava il cliente alla porta di qualcun altro.
 
@@ -32,7 +32,7 @@ Luca guardò lo schermo. «Non ho detto che non li hai seguiti.»
 
 «No. Hai detto che serve qualcuno che li controlli dopo di me.»
 
-La responsabile commerciale abbassò gli occhi sulle proprie note. Il cursore del consulente finanziario vagò sulla colonna dei ricavi e il clic non arrivò. 2 gesti, 2 trincee.
+La responsabile commerciale abbassò gli occhi sulle proprie note. Il cursore del consulente finanziario vagò sulla colonna dei ricavi e il clic non arrivò. Due gesti, due trincee.
 
 Luca inspirò dal naso. «Ho detto che prima di impegnare questa cifra, un paio di occhi che il piano non l'hanno costruito dovrebbero guardarlo. Tutto lì.»
 
@@ -42,9 +42,9 @@ Quello che seguì conservò la forma di una discussione sui numeri e perse, scam
 
 La decisione slittò di 48 ore. Nessuno propose di votare.
 
-La responsabile commerciale raccolse i fogli con una lentezza da persona che non vuole essere ricordata. Sulla porta disse che avrebbe avvisato il cliente del ritardo, senza promettere una data. «Non c'è nessun ritardo. C'è un ultimo controllo.» La frase era falsa, e nella stanza lo era per tutti, Andrea compreso. Il consulente chiese se dovesse preparare una versione aggiornata. «Non c'è niente da aggiornare.» 2 minuti prima accusava gli altri di scivolare via dai numeri; adesso i numeri era lui a non volerli più guardare.
+La responsabile commerciale raccolse i fogli con una lentezza da persona che non vuole essere ricordata. Sulla porta disse che avrebbe avvisato il cliente del ritardo, senza promettere una data. «Non c'è nessun ritardo. C'è un ultimo controllo.» La frase era falsa, e nella stanza lo era per tutti, Andrea compreso. Il consulente chiese se dovesse preparare una versione aggiornata. «Non c'è niente da aggiornare.» Due minuti prima accusava gli altri di scivolare via dai numeri; adesso i numeri era lui a non volerli più guardare.
 
-Nel corridoio Luca si fermò a scambiare 2 parole con una collega. Andrea tirò dritto senza voltarsi. 2 metri di linoleum, e la distanza diventò permafrost. Dietro le spalle partì il filmato, già montato. Luca scuoteva la testa, la collega annuiva sullo stesso tema: era diventato impossibile, non gli si poteva più dire niente. Dalla bocca di nessuno dei due era uscita una sillaba. La scena girava uguale a ogni passo, dentro, a ciclo continuo, costruita con materiali di scarto che la settimana aveva già pronti.
+Nel corridoio Luca si fermò a scambiare 2 parole con una collega. Andrea tirò dritto senza voltarsi. Due metri di linoleum, e la distanza diventò permafrost. Dietro le spalle partì il filmato, già montato. Luca scuoteva la testa, la collega annuiva sullo stesso tema: era diventato impossibile, non gli si poteva più dire niente. Dalla bocca di nessuno dei due era uscita una sillaba. La scena girava uguale a ogni passo, dentro, a ciclo continuo, costruita con materiali di scarto che la settimana aveva già pronti.
 
 Quando la stanza si svuotò, Andrea rimase solo davanti allo schermo spento. La riunione non aveva prodotto né un rifiuto, né la prova di un errore. Ma un fatto si era consumato lo stesso: Luca aveva messo a verbale la propria sfiducia nell'istante esatto in cui l'azienda rischiava la liquidità su una commessa da quattrocentomila euro. Il fastidio non era svanito dietro l'ultima giacca uscita; si era solidificato in una sentenza.
 
@@ -68,7 +68,7 @@ Elena si scrollò la farina dalle mani, sopra il lavello. «Luca non è mai stat
 
 «Lui, prima, dubbi ne aveva già messi sul tavolo?»
 
-«2 domande sui costi operativi.»
+«Due domande sui costi operativi.»
 
 «A cui avevi risposto?»
 
@@ -154,7 +154,7 @@ Andrea, in quella riunione, non aveva ricevuto prima una verità dal corpo e poi
 
 Secondo la teoria delle emozioni costruite di Lisa Feldman Barrett, l'esperienza emotiva dipende anche dal modo in cui il cervello dà significato a ciò che sta accadendo. Per farlo usa esperienze precedenti, concetti, contesto e segnali provenienti dal corpo. È un modello teorico influente, non una conclusione definitiva condivisa in ogni suo aspetto dalla ricerca.
 
-2 cautele, perché il modello regga. La prima: dire che l'esperienza emotiva è costruita non significa dire che è inventata, volontaria o priva di basi biologiche; anche una percezione costruita ha conseguenze concrete. La seconda: questa teoria non esaurisce da sola la spiegazione delle emozioni e non autorizza a credere che basti cambiare una parola per cambiare ciò che si prova.
+Due cautele, perché il modello regga. La prima: dire che l'esperienza emotiva è costruita non significa dire che è inventata, volontaria o priva di basi biologiche; anche una percezione costruita ha conseguenze concrete. La seconda: questa teoria non esaurisce da sola la spiegazione delle emozioni e non autorizza a credere che basti cambiare una parola per cambiare ciò che si prova.
 
 Nel caso di Andrea, contesto professionale, esperienze precedenti e concetti disponibili rendevano leggibile la frase di Luca come una sfida all'autorità. Un altro imprenditore, con un'altra storia o in una settimana meno tesa, avrebbe potuto ascoltarla come prudenza. Andrea stesso, in un'altra settimana, avrebbe potuto rispondere diversamente. Questo non significa che ogni interpretazione valga tutte le altre. Significa che per valutarne una bisogna guardare ai fatti e al processo che li rende significati.
 

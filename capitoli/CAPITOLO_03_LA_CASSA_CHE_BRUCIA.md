@@ -7,7 +7,7 @@
 
 Alle 18:47 di venerdì 21 novembre, il salvaschermo del monitor principale di Marco passò dal nero al codice sorgente di un microservizio in linguaggio Rust. Era un display ultrawide da 34 pollici, montato su un braccio d'acciaio satinato.
 
-L'open space di NexSys Solutions era al terzo piano della palazzina direzionale Archimede, a ridosso del casello di Verona Sud. Il silenzio era rotto soltanto dal sibilo del sistema di areazione e dal ticchettio discontinuo di 2 sviluppatori. Stavano completando gli ultimi commit prima del fine settimana. C'era odore di caffè lungo riscaldato nel microonde e plastica calda di schede madri. 18 postazioni ergonomiche, 24 chilometri di cavi in fibra cablati nei pavimenti galleggianti, server blade che pulsavano con piccole luci verdi all'interno del vano rack condizionato. Per chi entrava dall'esterno, NexSys era l'avanguardia del distretto: la fabbrica del codice che collegava i centri di lavoro a 5 assi di O.M.P. Precision con la flotta di autocarri intermodali di LogiDistretto.
+L'open space di NexSys Solutions era al terzo piano della palazzina direzionale Archimede, a ridosso del casello di Verona Sud. Il silenzio era rotto soltanto dal sibilo del sistema di areazione e dal ticchettio discontinuo di 2 sviluppatori. Stavano completando gli ultimi commit prima del fine settimana. C'era odore di caffè lungo riscaldato nel microonde e plastica calda di schede madri. Diciotto postazioni ergonomiche, 24 chilometri di cavi in fibra cablati nei pavimenti galleggianti, server blade che pulsavano con piccole luci verdi all'interno del vano rack condizionato. Per chi entrava dall'esterno, NexSys era l'avanguardia del distretto: la fabbrica del codice che collegava i centri di lavoro a 5 assi di O.M.P. Precision con la flotta di autocarri intermodali di LogiDistretto.
 
 Marco aveva 30 anni ed era fondatore, amministratore unico e azionista al 72% della società. Per lui quell'infrastruttura immateriale aveva una consistenza termica brutale: bruciava 42.250 euro di liquidità viva ogni 30 giorni. Era il *burn rate* operativo, implacabile.
 
@@ -96,7 +96,7 @@ Marco deglutì. La bocca era impastata, amara di caffè liofilizzato e acido gas
 
 Marco socchiuse le palpebre, recitando a memoria il testo che aveva scavato solchi nella sua corteccia cerebrale: «*Si comunica che il Comitato Rischi di Direzione ha richiesto un supplemento istruttorio sulla perizia asseverata del software proprietario. La pratica è stata aggiornata alla seduta collegiale di martedì pomeriggio.*»
 
-«Perfetto,» disse Giulia, sollevando un dito guantato contro il cielo di piombo. «45 parole. Adesso esaminiamo i dati per quello che sono. C'è scritta la parola *bocciata*?»
+«Perfetto,» disse Giulia, sollevando un dito guantato contro il cielo di piombo. «Quarantacinque parole. Adesso esaminiamo i dati per quello che sono. C'è scritta la parola *bocciata*?»
 
 «No, ma...»
 
@@ -217,7 +217,7 @@ Marangoni guardò la Bignami, poi annuì. «Con la firma digitale di Omnia come 
 
 Non ci fu nessun miracolo hollywoodiano: la liquidità non arrivò sul conto corrente quel martedì.
 
-Il 27 novembre Marco dovette riunire i suoi 18 programmatori nell'open space. Guardandoli negli occhi, con trasparenza assoluta, spiegò che il fido era deliberato. L'erogazione materiale, però, sarebbe avvenuta venerdì 28. Chiese a ciascuno di loro di accettare lo stipendio in 2 rate. Il 50% sarebbe arrivato quel giorno stesso, con le ultime riserve di cassa, e il saldo il lunedì successivo. 18 mani si alzarono all'unisono in segno di fiducia. Nessuno si licenziò, nessun sindacato bloccò i tornelli, nessun server venne spento.
+Il 27 novembre Marco dovette riunire i suoi 18 programmatori nell'open space. Guardandoli negli occhi, con trasparenza assoluta, spiegò che il fido era deliberato. L'erogazione materiale, però, sarebbe avvenuta venerdì 28. Chiese a ciascuno di loro di accettare lo stipendio in 2 rate. Il 50% sarebbe arrivato quel giorno stesso, con le ultime riserve di cassa, e il saldo il lunedì successivo. Diciotto mani si alzarono all'unisono in segno di fiducia. Nessuno si licenziò, nessun sindacato bloccò i tornelli, nessun server venne spento.
 
 Giovedì 27, alle 16:30, squillò il telefono. La Bignami confermò che l'accredito dei 300.000 euro sarebbe arrivato l'indomani, con valuta immediata. Marco era seduto al suo posto, davanti al monitor a 34 pollici.
 

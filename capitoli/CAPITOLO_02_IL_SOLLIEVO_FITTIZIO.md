@@ -57,7 +57,7 @@ Espirò a fondo. L'aria uscì dai polmoni con un sospiro tremulo e interminabile
 
 Ripose la cartellina nel cassetto inferiore della scrivania, chiuse a chiave, infilò il cappotto e timbrò il cartellino d'uscita alle 17:02, convinta che il lunedì avrebbe sistemato ogni dettaglio.
 
-3 ore dopo, la realtà materiale della produzione industriale presentò il conto.
+Tre ore dopo, la realtà materiale della produzione industriale presentò il conto.
 
 Alle 19:42, sull'isola di lavoro 4 del reparto CNC, il mandrino dell'elettromandrino da trentamila giri al minuto si arrestò con un fischio idraulico decelerante. La spia a colonna montata sulla sommità della cabina passò dal verde fisso a un lampeggio rosso intermittente, accompagnato dal segnale sonoro di allarme guasto a 85 decibel.
 
@@ -244,7 +244,7 @@ Marta rimase a fissare il banco per alcuni secondi, facendo scorrere il pollice 
 
 «L'indennità non mi interessa,» disse alla fine, anche se la piega amara sulla bocca si era addolcita. «Mi interessa non dover fare il lavoro degli altri di nascosto. Alle 07:30 sarò qui con i calibri azzerati.»
 
-2 ore dopo, Sara rientrò a casa.
+Due ore dopo, Sara rientrò a casa.
 
 Non c'era stato nessun abbraccio, nessuna riconciliazione trionfale. Marta non aveva ritirato formalmente la minaccia di dimettersi. Davide doveva ancora essere messo davanti a un patto operativo duro e impegnativo. La commessa Kuka restava un sentiero stretto, su cui l'azienda avrebbe camminato per i 6 mesi successivi. La stanchezza fisica le pesava ancora sulle palpebre e la preoccupazione per il bilancio di O.M.P. non si era dissolta.
 
