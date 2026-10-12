@@ -16,7 +16,7 @@ In conformità con il mandato operativo:
 
 | Capitolo | Titolo | File di Destinazione | Stato | Conteggio Parole | Data/Ora Aggiornamento |
 | :---: | :--- | :--- | :---: | :---: | :---: |
-| **Cap. 1** | *Le emozioni non arrivano a caso* | `10-14_CAPITOLO_1_E_MANOSCRITTO.md` (Integrato) | **COMPLETATO** (Pilota) | ~4.500 | 2026-07-19 21:03 |
+| **Cap. 1** | *Le emozioni non arrivano a caso* | `archivio/stesure_superate/10-14_CAPITOLO_1_E_MANOSCRITTO.md` (Integrato) | **COMPLETATO** (Pilota) | ~4.500 | 2026-07-19 21:03 |
 | **Cap. 2** | *Il sollievo fittizio e il costo dell'evitamento* | `bozze_capitoli/CAPITOLO_02_IL_SOLLIEVO_FITTIZIO.md` | **COMPLETATO** | 6.514 parole | 2026-09-26 05:29 |
 | **Cap. 3** | *La cassa che brucia e il panico da anticipazione* | `bozze_capitoli/CAPITOLO_03_LA_CASSA_CHE_BRUCIA.md` | **COMPLETATO** | 5.708 parole | 2026-09-26 05:30 |
 | **Cap. 4** | *La promessa del commerciale e la macchina satura* | `bozze_capitoli/CAPITOLO_04_LA_PROMESSA_E_LA_MACCHINA.md` | **COMPLETATO** | 6.619 parole | 2026-09-26 05:31 |

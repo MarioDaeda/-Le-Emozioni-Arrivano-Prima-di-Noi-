@@ -334,7 +334,7 @@ Nel Capitolo 3 abbiamo visto come la mente possa anticipare catastrofi immaginar
 
 Ma cosa accade quando l'ostacolo più doloroso alla crescita di un'impresa non proviene dall'esterno, né da un collega di un altro reparto? Quando nasce **dall'incapacità viscerale di un fondatore di cedere anche un solo millimetro del proprio controllo?**
 
-Pensiamo a un imprenditore straordinario, capace di creare dal nulla una realtà di successo. Perché viene travolto da un'angoscia intollerabile ogni volta che vede un giovane collaboratore sbagliare il primo compito delegato? E perché sente l'impulso a gridare *«faccio prima a farlo io che a spiegarlo a te!»*?
+Un imprenditore può essere straordinario e aver creato dal nulla una realtà di successo. Perché allora viene travolto da un'angoscia intollerabile ogni volta che vede un giovane collaboratore sbagliare il primo compito delegato? E perché sente l'impulso a gridare *«faccio prima a farlo io che a spiegarlo a te!»*?
 
 Perché l'accentratore vive come una minaccia il rischio che un altro faccia le cose in modo imperfetto?
 

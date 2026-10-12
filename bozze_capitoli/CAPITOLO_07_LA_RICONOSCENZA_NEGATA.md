@@ -192,7 +192,7 @@ Sara schiuse le dita e abbassò gli occhi sul fascicolo di matricola 042 e sulla
 
 Marta non si scompose. Non fece accenno al brindisi di venerdì, non nominò il bicchiere di vino né l'amministratore delegato. Mantenne lo sguardo fermo sul viso di Moretti per 2 secondi, poi voltò la testa verso Sara.
 
-«Andiamo al sodo.» Marta parlò con calma, senza un tremito. «Venerdì è stato presentato un organigramma in cui io sono indicata come coordinatore dei turni e l'ingegner Moretti come responsabile di divisione. Lasciamo perdere le parole al vento. Io sono qui per fare una domanda tecnica precisa. **Mettiamo che sull'isola 4 o sui centri a 5 assi si manifesti una deriva termica o una non conformità geometrica sul titanio delle boccole per Kuka e Hydac. In quel caso, chi ha l'autorità formale, scritta e insindacabile di premere il pulsante rosso d'emergenza e bloccare l'avanzamento dei lotti? La firmo io quella decisione a bordo macchina o deve firmarla l'ingegner Moretti dal suo ufficio al primo piano?**»
+«Andiamo al sodo.» Marta parlò con calma, senza un tremito. «Venerdì è stato presentato un organigramma in cui io sono indicata come coordinatore dei turni e l'ingegner Moretti come responsabile di divisione. Lasciamo perdere le parole al vento. Io sono qui per fare una domanda tecnica precisa. **Supponiamo che sull'isola 4 o sui centri a 5 assi si manifesti una deriva termica o una non conformità geometrica sul titanio delle boccole per Kuka e Hydac. In quel caso, chi ha l'autorità formale, scritta e insindacabile di premere il pulsante rosso d'emergenza e bloccare l'avanzamento dei lotti? La firmo io quella decisione a bordo macchina o deve firmarla l'ingegner Moretti dal suo ufficio al primo piano?**»
 
 La domanda cadde secca nella stanza.
 
@@ -327,7 +327,7 @@ Nel Capitolo 6 abbiamo visto come si è chiuso lo scontro tra Acquisti e Logisti
 
 Ma cosa accade quando la linea di faglia non separa la proprietà da una collaudatrice, né 2 direttori di funzione operativa? Cosa accade quando **colpisce il rapporto più stretto di tutti, quello tra soci alla pari?**
 
-Pensiamo a 2 **soci fondatori di Omnia al 50%**. Hanno condiviso 15 anni di fatiche, fideiussioni bancarie firmate con le garanzie sulle proprie case e notti passate a progettare il futuro comune. Cosa accade quando scivolano, quasi senza accorgersene, in un **gelo relazionale silenzioso**? In quel gelo la stanchezza fisica dell'uno viene letta dall'altro come disimpegno colpevole, e l'esigenza di controllo diventa accusa di sfiducia strategica.
+Due **soci fondatori di Omnia al 50%** hanno condiviso 15 anni di fatiche, fideiussioni bancarie firmate con le garanzie sulle proprie case e notti passate a progettare il futuro comune. Cosa accade quando scivolano, quasi senza accorgersene, in un **gelo relazionale silenzioso**? In quel gelo la stanchezza fisica dell'uno viene letta dall'altro come disimpegno colpevole, e l'esigenza di controllo diventa accusa di sfiducia strategica.
 
 Come scatta la trappola cognitiva dell'attribuzione rapida tra pari, quando l'alleato storico cessa di essere visto nella complessità della sua fatica per diventare un avversario interno da cui proteggersi?
 

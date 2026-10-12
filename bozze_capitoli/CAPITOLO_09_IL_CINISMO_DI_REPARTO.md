@@ -104,7 +104,7 @@ Sara non apre bocca.
 
 Dario si piega leggermente in avanti; l'odore di tabacco e trucioli caldi investe il viso di Sara:
 
-«Il mio cinismo non è disfattismo, Sara. È l'unico **scudo di sopravvivenza** che mi è rimasto. Mettiamo che io creda ancora alle favole dell'imprenditore di se stesso e della grande famiglia. Allora, ogni volta che un cliente delocalizza o un padrone si rimangia la parola, ci starei male ogni volta. Il sarcasmo è l'anestetico che tiene in piedi questi operai. Ci ridiamo sopra, diciamo che sono tutti ladri, ci teniamo stretto il nostro stipendio base, e così la sera torniamo a casa dai nostri figli senza portarci dietro la delusione. Se lei ci toglie anche questo scudo senza pagarci i debiti del passato, qui dentro non reggiamo più.»
+«Il mio cinismo non è disfattismo, Sara. È l'unico **scudo di sopravvivenza** che mi è rimasto. Se credessi ancora alle favole dell'imprenditore di se stesso e della grande famiglia, ci starei male ogni volta che un cliente delocalizza o un padrone si rimangia la parola. Il sarcasmo è l'anestetico che tiene in piedi questi operai. Ci ridiamo sopra, diciamo che sono tutti ladri, ci teniamo stretto il nostro stipendio base, e così la sera torniamo a casa dai nostri figli senza portarci dietro la delusione. Se lei ci toglie anche questo scudo senza pagarci i debiti del passato, qui dentro non reggiamo più.»
 
 Per Sara quelle parole sono un colpo allo stomaco; le manca il fiato. Ha la gola secca e non le viene in mente nessuna risposta da manuale.
 
@@ -307,7 +307,7 @@ Questo strumento operativo serve quando arriva una nuova iniziativa di riorganiz
 
 * **Il cinismo di fabbrica non è un vizio morale: è una cicatrice omeostatica (*Dean, Brandes e Dharwadkar; Andersson*).** L'atteggiamento cinico nasce dalla violazione ripetuta del contratto psicologico. Quando l'impresa pretende adesione ai valori ma nega i diritti economici, il lavoratore si anestetizza per non farsi più male.
 * **In contesti percepiti come immutabili, il distacco emotivo è una strategia vitale di sopravvivenza (*Lazarus & Folkman*).** Deridere i proclami del management e ritirare l'impegno dalla missione aziendale serve ad abbassare l'attivazione fisica. Così il corpo evita di logorarsi sotto uno stress continuo.
-* **La retorica motivazionale astratta alimenta il risentimento della base.** Pensiamo a persone senza risorse materiali o con i salari congelati. Regalare loro gadget ecologici, o proclamare che l'azienda è "una grande famiglia", è un'offesa che fa crescere il disprezzo.
+* **La retorica motivazionale astratta alimenta il risentimento della base.** Regalare gadget ecologici a persone senza risorse materiali o con i salari congelati, o proclamare che l'azienda è "una grande famiglia", è un'offesa che fa crescere il disprezzo.
 * **Il sarcasmo protegge l'individuo nel presente, ma condanna la comunità nel futuro.** L'anestesia cinica protegge l'organismo dal bruciore dell'ennesima beffa. Ma desertifica le relazioni, blocca il passaggio del mestiere tra generazioni e prepara la rovina materiale del sistema.
 * **La fiducia non rinasce con le parole: rinasce con la precisione della verità materiale.** L'unico antidoto reale al cinismo organizzativo è saldare i debiti pregressi e azzerare la finzione comunicativa. Serve anche condividere i numeri reali a bordo macchina, in modo trasparente e verificabile.
 
