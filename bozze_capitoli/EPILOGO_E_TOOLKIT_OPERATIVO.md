@@ -6,17 +6,17 @@
 
 ### 1. EPILOGO: LA MATERIA VIVA DELL'IMPRESA E LA RIVOLUZIONE DEL MODELLO B
 
-Nelle pagine di questo volume non abbiamo incontrato archetipi astratti, né formule consolatorie sull'armonia aziendale o decaloghi sul pensiero positivo. Abbiamo attraversato la materia viva e dura della produzione industriale e dei servizi avanzati. C'era l'odore di metallo tagliato e di emulsione fredda a 10 gradi centigradi nell'officina meccanica di O.M.P. Precision. C'erano il ronzio sordo dei server blade (server compatti montati in rack) e il codice Rust (un linguaggio di programmazione) nello studio affannato di NexSys. C'erano i fogli di calcolo del flusso di cassa, con i tassi di sconto contesi a notte fonda tra Andrea e Luca in Omnia Servizi Direzionali. C'erano i camion bloccati sotto la pioggia battente sulle baie di carico di LogiDistretto, all'Interporto Quadrante Europa. E c'erano le mani di Marta Bellamoli, Silvano Spinelli e Dario Meneghelli, segnate dall'artrite, dalla grafite e dall'olio minerale.
+Nelle pagine di questo volume non abbiamo incontrato archetipi astratti, né formule consolatorie sull'armonia aziendale o decaloghi sul pensiero positivo. Siamo entrati nella realtà concreta della produzione industriale e dei servizi avanzati. C'era l'odore di metallo tagliato e di emulsione fredda a 10 gradi centigradi nell'officina meccanica di O.M.P. Precision. C'erano il ronzio sordo dei server blade (server compatti montati in rack) e il codice Rust (un linguaggio di programmazione) nello studio affannato di NexSys. C'erano i fogli di calcolo del flusso di cassa, con i tassi di sconto contesi a notte fonda tra Andrea e Luca in Omnia Servizi Direzionali. C'erano i camion bloccati sotto la pioggia battente sulle baie di carico di LogiDistretto, all'Interporto Quadrante Europa. E c'erano le mani di Marta Bellamoli, Silvano Spinelli e Dario Meneghelli, segnate dall'artrite, dalla grafite e dall'olio minerale.
 
 La scelta fondativa di quest'opera si chiama **Modello B (Fratture Organizzative e Soggetti Complessi)**. Fin dalla prima riga ha respinto l'illusione cartesiana del *Modello A*. Secondo il Modello A, le organizzazioni sarebbero ingranaggi perfetti guidati da agenti puramente razionali. Le emozioni sarebbero solo "disturbi cognitivi": debolezze private da reprimere con l'autoritarismo manageriale, o da addolcire con borracce promozionali, buffet aziendali e convention motivazionali.
 
-Il Modello B parte da un dato di realtà: l'impresa è frammentata nella sua struttura. Le organizzazioni sono tese tra asimmetrie informative radicali, incentivi disallineati tra reparti e debiti di cassa non dichiarati. Pesa anche la fisiologia vulnerabile di persone che consumano il proprio corpo sul lavoro. Le neuroscienze cognitive contemporanee (da Antonio Damasio a Joseph LeDoux, da Stephen Porges a Daniel Kahneman) e l'epistemologia dei sistemi complessi consegnano a chi guida persone 3 assiomi non negoziabili:
+Il Modello B parte da un dato di realtà: l'impresa è frammentata nella sua struttura. Le organizzazioni sono tese tra asimmetrie informative radicali, incentivi disallineati tra reparti e debiti di cassa non dichiarati. Pesa anche la fisiologia vulnerabile di persone che consumano il proprio corpo sul lavoro. Le neuroscienze cognitive contemporanee (da Antonio Damasio a Joseph LeDoux, da Stephen Porges a Daniel Kahneman) e lo studio dei sistemi complessi offrono a chi guida persone 3 punti fermi:
 
 1. **Le emozioni arrivano prima di noi perché sono dispositivi di sopravvivenza omeostatica calibrati da milioni di anni di evoluzione biologica.** Pensiamo a un fornitore estero che ritarda un componente strategico e manda in crisi una linea di montaggio. O a una banca che rinvia a venerdì sera un'istruttoria di fido, senza concedere tiraggi. O a un socio che spegne il monitor alle 18:28 e lascia un post-it prima della scadenza di un bando da 180.000 euro. O a un maestro d'officina con 28 anni di reparto, scavalcato da un giovane manager esterno. In tutti questi casi il corpo non aspetta il calcolo logico della corteccia prefrontale. Mobilita all'istante il sistema simpatico e l'asse ipotalamo-ipofisi-surrene. Accelera la frequenza cardiaca, contrae i visceri e serra i muscoli della mascella. Inonda il sangue di ormoni dello stress come adrenalina e cortisolo, e prepara l'organismo all'attacco o alla fuga. L'emozione non chiede il permesso alla pianificazione strategica: interviene prima.
-2. **Il cervello umano non possiede un apparato neurale distinto per il bilancio economico e per l'omeostasi biologica.** Lo mostrano i marcatori somatici di Antonio Damasio e gli studi sul dolore sociale di Naomi Eisenberger e Matthew Lieberman. Pensiamo alla minaccia di fallimento di una commessa, alla perdita di reputazione professionale, all'esclusione da una decisione strategica o alla violazione di un confine paritetico. Queste esperienze attivano reti coinvolte anche nella componente spiacevole del dolore fisico. Tra queste reti ci sono la corteccia cingolata anteriore dorsale (dACC) e l'insula anteriore. Chi guida un'organizzazione non guida "risorse umane", intese come fattori produttivi intercambiabili. Governa organismi biologici complessi, che cercano disperatamente sicurezza neurocettiva, orientamento operativo e rispetto materiale.
-3. **L'emozione è reale al 100%; la causa che le attribuiamo è un'ipotesi da verificare.** Questo è il principio cardine che attraversa l'intera filiera meccatronica analizzata nel libro. Il nodo alla gola, la scarica acida all'esofago, la tachicardia a 130 battiti al minuto o il gelo delle dita non mentono mai. Certificano con precisione che l'organismo ha registrato una minaccia alla propria sopravvivenza o al proprio ruolo. Tuttavia, la mente cosciente costruisce all'istante un significato causale. Di solito è la distorsione di attribuzione che vede intenzioni malevole: «vuole fregarmi», «è un incompetente», «mi sta boicottando», «lo fa per disprezzo». Questo significato è quasi sempre una distorsione cognitiva guidata dal Sistema 1 (il pensiero rapido e automatico). Confondere l'intensità della propria sofferenza viscerale con la prova giuridica della malafede altrui è la scintilla che innesca ogni guerra civile aziendale.
+2. **Il cervello umano non possiede un apparato neurale distinto per il bilancio economico e per l'omeostasi biologica.** Lo mostrano i marcatori somatici di Antonio Damasio e gli studi sul dolore sociale di Naomi Eisenberger e Matthew Lieberman. Pensiamo alla minaccia di fallimento di una commessa, alla perdita di reputazione professionale, all'esclusione da una decisione strategica o alla violazione di un confine paritetico. Queste esperienze attivano reti coinvolte anche nella componente spiacevole del dolore fisico. Tra queste reti ci sono la corteccia cingolata anteriore dorsale (dACC) e l'insula anteriore. Chi guida un'organizzazione non guida "risorse umane", intese come fattori produttivi intercambiabili. Governa organismi biologici complessi, che cercano sicurezza, punti di riferimento e rispetto concreto.
+3. **L'emozione è reale al 100%; la causa che le attribuiamo è un'ipotesi da verificare.** È il principio che attraversa tutte le storie del libro. Il nodo alla gola, la scarica acida all'esofago, la tachicardia a 130 battiti al minuto o il gelo delle dita non mentono. Segnalano che l'organismo ha registrato una minaccia alla propria sopravvivenza o al proprio ruolo. Tuttavia, la mente cosciente costruisce all'istante un significato causale. Di solito è la distorsione di attribuzione che vede intenzioni malevole: «vuole fregarmi», «è un incompetente», «mi sta boicottando», «lo fa per disprezzo». Questo significato è quasi sempre una distorsione cognitiva guidata dal Sistema 1 (il pensiero rapido e automatico). Scambiare l'intensità del proprio malessere per la prova della malafede altrui è l'errore da cui partono quasi tutte le guerre interne in azienda.
 
-Guidare un'impresa nell'attrito materiale non significa non avere paura, non serrare i pugni per la rabbia o non sperimentare il vuoto della delusione. Significa **imparare ad abitare lo spazio tra il marcatore somatico e la risposta comportamentale**. È uno spazio di lucidità peritale. Lì il leader disinnesca l'automatismo di attacco o di fuga e attiva la disciplina della telecamera interiore. Decodifica il sovraccarico invisibile del proprio interlocutore. E formula la domanda di processo che riporta l'interazione sul terreno solido dei vincoli materiali.
+Guidare un'impresa nell'attrito materiale non significa non avere paura, non serrare i pugni per la rabbia o non sperimentare il vuoto della delusione. Significa **imparare ad abitare lo spazio tra il marcatore somatico e la risposta comportamentale**. È lo spazio in cui si può ragionare a mente fredda. Lì il leader disinnesca l'automatismo di attacco o di fuga e attiva la disciplina della telecamera interiore. Decodifica il sovraccarico invisibile del proprio interlocutore. E formula la domanda di processo che riporta l'interazione sul terreno solido dei vincoli materiali.
 
 I protocolli che seguono costituiscono la cassetta degli attrezzi per presidiare quello spazio ogni giorno, sul campo.
 
@@ -24,7 +24,7 @@ I protocolli che seguono costituiscono la cassetta degli attrezzi per presidiare
 
 ### 2. IL PROTOCOLLO UNIVERSALE DEI 180 SECONDI: DE-ESCALATION ISTANTANEA SOTTO ATTIVAZIONE SIMPATICA
 
-Può succedere in una riunione infuocata, in un corridoio di produzione o davanti al monitor: senti esplodere il detonatore emotivo. La gola si chiude, il sangue pulsa ai timpani, le tempie battono come martelli. La mente grida una sentenza irrevocabile di colpevolezza contro l'altro. In quel momento applica la sequenza tassativa dei **180 Secondi di Bonifica Somatica e Cognitiva**.
+Può succedere in una riunione infuocata, in un corridoio di produzione o davanti al monitor: senti che stai per esplodere. La gola si chiude, il sangue ti pulsa nelle orecchie, le tempie battono. Nella testa hai già condannato l'altro. In quel momento applica la sequenza dei **180 Secondi di Bonifica Somatica e Cognitiva**.
 
 ```
   [0 - 30 SECONDI]            [30 - 90 SECONDI]           [90 - 150 SECONDI]          [150 - 180 SECONDI]
@@ -39,28 +39,28 @@ Può succedere in una riunione infuocata, in un corridoio di produzione o davant
 ```
 
 #### FASE 1 (0–30 Secondi) — Il Freno Somatico e l'Apnea Inversa (Disinnesco Neurovegetativo)
-* **Radicamento Corporeo:** Pianta entrambi i piedi piatti sul pavimento, sentendo la pressione del peso sui talloni e sulle suole. Appoggia i palmi delle mani completamente aperti sul tavolo o sulle cosce. È vietato serrare i pugni, incrociare le braccia o puntare penne e indici contro l'interlocutore: la postura chiusa retroalimenta i circuiti adrenergici dell'amigdala e segnala minaccia all'ambiente circostante.
-* **Respirazione Fisiologica Prolungata (Schema 4-7-8):** Non parlare per 30 secondi. Imponiti il divieto biologico di emettere suoni articolati. Inspira dal naso per 4 secondi espandendo la gabbia toracica inferiore, trattieni l'aria per 7 secondi, espira dalla bocca socchiusa per 8 secondi con un sibilo continuo. L'espirazione lenta stimola i barocettori carotidei, attiva il nucleo ambiguo del tronco encefalico e reinserisce il freno vagale ventrale. Così la frequenza cardiaca scende di 10–15 battiti al minuto. Eviti di collassare nell'iperreattività simpatica o nel blocco vagale dorsale.
-* **Micro-richiamo Situato:** È l'apnea che congela il diaframma di Andrea Vettori alle 18:28 di lunedì, davanti al monitor spento di Luca e al post-it del bando regionale (Capitolo 8). È il nodo alla gola di Sara nella mensa di O.M.P. Precision. Intanto l'amministratore delegato sventola slogan sul Progetto Fenice e Dario Meneghelli fissa il pavimento con la mascella serrata (Capitolo 9).
-* **Comando Interiore:** *«Il mio corpo segnala emergenza vitale; ma qui non ci sono predatori nella savana. C'è un problema materiale da risolvere. Non concedo alla mia biochimica di dettare le mie parole.»*
+* **Radicamento Corporeo:** Pianta entrambi i piedi piatti sul pavimento, sentendo la pressione del peso sui talloni e sulle suole. Appoggia i palmi delle mani completamente aperti sul tavolo o sulle cosce. È vietato serrare i pugni, incrociare le braccia o puntare penne e indici contro l'interlocutore: la postura chiusa alimenta l'allarme interno e segnala minaccia a chi ti sta intorno.
+* **Respirazione Fisiologica Prolungata (Schema 4-7-8):** Non parlare per 30 secondi. Resta in silenzio. Inspira dal naso per 4 secondi espandendo la gabbia toracica inferiore, trattieni l'aria per 7 secondi, espira dalla bocca socchiusa per 8 secondi con un sibilo continuo. L'espirazione lenta stimola i barocettori carotidei, attiva il nucleo ambiguo del tronco encefalico e reinserisce il freno vagale ventrale. Così la frequenza cardiaca scende di 10–15 battiti al minuto. Eviti di collassare nell'iperreattività simpatica o nel blocco vagale dorsale.
+* **Micro-richiamo Situato:** È il fiato bloccato di Andrea Vettori alle 18:28 di lunedì, davanti al monitor spento di Luca e al post-it del bando regionale (Capitolo 8). È il nodo alla gola di Sara nella mensa di O.M.P. Precision. Intanto l'amministratore delegato sventola slogan sul Progetto Fenice e Dario Meneghelli fissa il pavimento con la mascella serrata (Capitolo 9).
+* **Comando Interiore:** *«Il mio corpo è in allarme, ma qui nessuno mi sta aggredendo. C'è un problema materiale da risolvere. Non lascio che sia l'agitazione a scegliere le parole.»*
 
 #### FASE 2 (30–90 Secondi) — L'Attivazione della Telecamera Interiore (Separazione Fatto vs Significato)
-* **Il Test della Registrazione Audio-Video:** Chiediti con freddezza chirurgica: *«Immagina una telecamera di sorveglianza ad alta definizione, con microfono a nastro, puntata sulla stanza. Che cosa avrebbe registrato, esattamente?»*
+* **Il Test della Registrazione Audio-Video:** Chiediti a mente fredda: *«Immagina una telecamera con microfono puntata sulla stanza. Che cosa avrebbe registrato, esattamente?»*
 * **Scomposizione Chirurgica:**
   - *Fatto Oggettivo:* il collega ha detto «questo numero non torna»; la mail è arrivata alle 17:45 senza l'allegato firmato; la rettifica ha sforato di 4 micron la tolleranza sul diametro interno; il socio ha abbandonato la stanza prima delle 19:00.
   - *Inferenza del Sistema 1:* «lo fa per screditarmi davanti a tutti», «mi sta ricattando», «non gliene frega nulla dell'azienda», «è un incapace pigro», «è un tradimento premeditato».
-* **Espunzione degli Aggettivi:** Cancella dalla mente ogni qualifica morale (*arrogante, negligente, sleale, incompetente, disonesto*). Riconduci l'evento al dato alfanumerico, alla traiettoria fisica o all'orario solare.
+* **Espunzione degli Aggettivi:** Cancella dalla mente ogni qualifica morale (*arrogante, negligente, sleale, incompetente, disonesto*). Riporta l'evento ai numeri, ai gesti e agli orari.
 * **Micro-richiamo Situato:** Dario Meneghelli, nella mensa, fa ruotare tra le dita la borraccia d'alluminio, senza alzare la voce. Non urla contro il management: separa i 2.600 euro di premio di produzione congelati dalle parole dorate della convention aziendale (Capitolo 9). Gianni Bellamoli, sulla sponda del canale Camuzzoni, rifiuta il melodramma della figlia e chiede: «Dov'è il foglio con la firma? Chi ha approvato il cambio di procedura?» (Capitolo 7).
 * **Assioma di Lucidità:** Ripeti mentalmente: **«Plausibile non significa ancora accertato»**. L'ipotesi maligna è la più rapida e meno faticosa per il cervello primordiale, ma quasi mai coincide con la dinamica dei fatti.
 
 #### FASE 3 (90–150 Secondi) — Il Decentramento Cognitivo e la Ricerca del Punto Cieco Sistemico
 * **Disattivazione della distorsione WYSIATI (*What You See Is All There Is*, cioè «quello che vedo è tutto ciò che c'è»):** Poniti la domanda diagnostica: *«Che cosa non sto vedendo in questo istante? Quale vincolo operativo, quale asimmetria informativa o quale paura invisibile sta guidando il comportamento dell'altro?»*
-* **Riconoscimento dell'Asimmetria Emozionale:** Tu hai accesso immediato alla tua fatica, alle tue ore di sonno perse, al peso delle tue responsabilità e alla bontà delle tue intenzioni. Dell'altro vedi solo il comportamento manifesto, e lo interpreti come ostilità deliberata. È l'errore fondamentale di attribuzione: attribuire il comportamento altrui al carattere anziché alla situazione. Chiediti se la sua chiusura o la sua aggressività siano la causa della crisi o il sintomo di un collasso di risorse fisiche, cognitive o logistiche.
+* **Riconoscimento dell'Asimmetria Emozionale:** Tu hai accesso immediato alla tua fatica, alle tue ore di sonno perse, al peso delle tue responsabilità e alla bontà delle tue intenzioni. Dell'altro vedi solo il comportamento manifesto, e lo interpreti come ostilità deliberata. È l'errore fondamentale di attribuzione: attribuire il comportamento altrui al carattere anziché alla situazione. Chiediti se la sua chiusura o la sua aggressività siano la causa della crisi o il segno che l'altro è a corto di energie, di informazioni o di mezzi.
 * **Mappatura degli Incentivi Disallineati:** Verifica se il contrasto nasca da regole di sistema contraddittorie. Per esempio, chi deve consegnare in fretta contro chi deve garantire lo scarto zero. Oppure chi viene valutato sul risparmio d'acquisto contro chi paga il costo del fermo magazzino.
 * **Micro-richiamo Situato:** Andrea Vettori è accecato dal terrore di perdere i 180.000 euro del Bando Reti Meccatroniche. Non vede la crisi ipertensiva a 180/100, la vista sfocata e il tracollo somatico di Luca Marangon, che ha retto da solo 15 anni di bilanci (Capitolo 8). Nel Capitolo 5 il giovane controller Enrico sbaglia, ma non per superficialità: Andrea gli aveva taciuto il debito di 498.700 euro con Mediocredito. Nel Capitolo 4 Fabio promette con entusiasmo consegne record. Non sa che le frese a 5 assi lavorano già al 99% della capacità con il titanio grado 5 per Hydac.
 
 #### FASE 4 (150–180 Secondi) — La Formulazione della Domanda di Processo (Il Rientro Pulito)
-* **Divieto Assoluto di Inquisizione Morale:** È severamente vietato rientrare nella conversazione con domande che contengono un verdetto implicito. Per esempio: *«Perché mi hai nascosto i dati?»*, *«Ti sembra questo il modo di lavorare?»*, *«Vuoi forse distruggere l'azienda?»*, *«Sei sempre il solito disorganizzato»*. Queste frasi stimolano il sistema di difesa dell'interlocutore, innescando all'istante una controffensiva o un mutismo ostile.
+* **Divieto Assoluto di Inquisizione Morale:** Non rientrare nella conversazione con domande che contengono un verdetto implicito. Per esempio: *«Perché mi hai nascosto i dati?»*, *«Ti sembra questo il modo di lavorare?»*, *«Vuoi forse distruggere l'azienda?»*, *«Sei sempre il solito disorganizzato»*. Queste frasi stimolano il sistema di difesa dell'interlocutore, innescando all'istante una controffensiva o un mutismo ostile.
 * **La Sintassi della Domanda di Processo:** La domanda deve essere aperta, ancorata ai parametri oggettivi, orientata alla ricostruzione della sequenza temporale e focalizzata sui vincoli materiali dell'organizzazione.
 * **Micro-richiamo Situato:** Silvano Spinelli ferma la mano di Fabio sul piano di lavoro della fresa. Non insulta l'ufficio commerciale. Gli chiede: «Quanti pezzi all'ora pensi che possa buttare fuori questa fresa con l'emulsione a 10 gradi e il tagliente che si scalda in 12 minuti?» (Capitolo 4). Marta Bellamoli ha 22 anni di officina e la delusione della promozione mancata. Non sbatte la porta. Esige da Moretti: «Chi ha l'autorità formale di spingere il pulsante rosso di emergenza quando una commessa sgarra di 2 micron sui 35 gradi di temperatura ambiente?» (Capitolo 7). Valerio e Claudio abbandonano le rispettive barricate contabili. Confrontano il risparmio nominale dell'11,4% di Ferrometalli Sebina con le 114 ore di penali sosta autisti a 70 euro l'ora. E valutano il passaggio a Trafilerie Venete, con un utile netto di 46.500 euro calcolato sul costo totale di possesso (TCO) (Capitolo 6).
 * **Formulazione Standard Autorizzata:**  
@@ -71,7 +71,7 @@ Può succedere in una riunione infuocata, in un corridoio di produzione o davant
 ### 3. LE 9 SCHEDE TASCABILI DI PRONTO SOCCORSO RELAZIONALE
 #### *(Architettura Tripartita: IO • ALTRI • ALTRO)*
 
-Le seguenti schede costituiscono il prontuario operativo per ciascuno dei 9 archetipi di frattura organizzativa analizzati nell'opera. Ogni scheda è autosufficiente e guida il professionista nella gestione integrata del proprio corpo (**IO**), della relazione con l'interlocutore (**ALTRI**) e dei vincoli fisici, economici e procedurali di sistema (**ALTRO**).
+Le seguenti schede sono un promemoria pratico per ciascuno dei 9 tipi di conflitto raccontati nel libro. Ogni scheda è autosufficiente e guida il professionista nella gestione integrata del proprio corpo (**IO**), della relazione con l'interlocutore (**ALTRI**) e dei vincoli fisici, economici e procedurali di sistema (**ALTRO**).
 
 ---
 
@@ -89,8 +89,8 @@ Le seguenti schede costituiscono il prontuario operativo per ciascuno dei 9 arch
 
 * **Contesto Narrativo e Frattura:** In una riunione a porte chiuse, il socio paritetico o un dirigente storico mette in dubbio i numeri presentati. Dice: *«Prima di procedere, forse dovremmo far controllare i numeri anche a qualcun altro.»* La frase viene percepita come un'accusa diretta di incompetenza o disonestà. Scatena una vampata di calore al volto e la tentazione di aggredire o di sbattere i documenti sul tavolo.
 * **IO (Gestione Somatica / Interna):**
-  - *Segnale Corporeo:* Pressione cocente alla nuca, mandibola serrata fino a far stridere i denti, battito accelerato nei seni carotidei.
-  - *Intervento Neurovegetativo:* Incolla la lingua al palato superiore (inibizione motoria della risposta vocale immediata). Lascia cadere le spalle di 3 centimetri. Espira per 8 secondi svuotando i polmoni. Riconosci che l'orgoglio ferito sta simulando una minaccia alla tua esistenza biologica.
+  - *Segnale Corporeo:* Calore alla nuca, denti stretti, battito che pulsa nel collo.
+  - *Intervento Neurovegetativo:* Incolla la lingua al palato superiore (inibizione motoria della risposta vocale immediata). Lascia cadere le spalle di 3 centimetri. Espira per 8 secondi svuotando i polmoni. Riconosci che è l'orgoglio ferito a farti sentire in pericolo.
 * **ALTRI (Gestione della Relazione / Interpersonale):**
   - *Decodifica del Sovraccarico Altrui:* Luca non sta mettendo in dubbio la tua onestà. Ha il terrore di firmare un bilancio con esposizioni bancarie che non comprende fino in fondo. E teme di risponderne con il proprio patrimonio. La sua richiesta di revisione è un disperato bisogno di sicurezza, non un atto di sfiducia personale.
   - *Tono e contatto:* Guarda l'altro negli occhi senza inclinare la testa all'indietro (postura di sfida). Usa un tono di voce più basso di mezzo tono rispetto al solito, senza inflessioni sarcastiche.
@@ -98,7 +98,7 @@ Le seguenti schede costituiscono il prontuario operativo per ciascuno dei 9 arch
   - *Fatti della Telecamera:* L'interlocutore ha chiesto una perizia terza sui conti patrimoniali; non ha aperto un fascicolo penale né ha revocato le deleghe.
   - *Vincolo Non Negoziabile:* La responsabilità patrimoniale e legale dei soci al 50% di fronte al codice civile e agli istituti di credito.
   - *Domanda di Processo Autorizzata:*  
-    *«Luca, guardiamo i registri contabili riga per riga. Qual è la voce specifica o il movimento di cassa su cui senti che non abbiamo una copertura documentale blindata? Se un controllo terzo ci serve per dormire la notte entrambi, stabiliamo insieme il perimetro e l'esperto a cui affidarlo.»*
+    *«Luca, guardiamo i registri contabili riga per riga. Qual è la voce specifica o il movimento di cassa su cui senti che ci mancano i documenti? Se un controllo terzo ci serve per dormire la notte entrambi, stabiliamo insieme il perimetro e l'esperto a cui affidarlo.»*
 
 ---
 
@@ -117,7 +117,7 @@ Le seguenti schede costituiscono il prontuario operativo per ciascuno dei 9 arch
 * **Contesto Narrativo e Frattura:** Un responsabile o un addetto HR rileva un errore operativo grave di un giovane collaboratore fragile o affaticato. È il caso delle boccole Kuka per i bracci robotici con rugosità fuori tolleranza a fine turno. Per non vederlo crollare, o per timore della sua reazione emotiva, si è tentati di non contestare l'errore. Si archivia il pezzo difettoso in silenzio e si rimanda il discorso a data da destinarsi, godendosi un breve sollievo (*rinforzo negativo da evitamento*).
 * **IO (Gestione Somatica / Interna):**
   - *Segnale Corporeo:* Tensione viscerale al plesso solare, ansia da compiacimento sociale («non voglio fare la figura del mostro insensibile»), respiro corto trattenuto nella parte alta del petto.
-  - *Intervento Neurovegetativo:* Il sollievo che provi nel chiudere la porta senza aver parlato è una droga biologica a breve termine. Riconoscilo: nel tempo comporterà un costo moltiplicato. Fai 3 cicli di espirazione profonda, appoggia entrambi i piedi a terra ed entra nella postazione di lavoro.
+  - *Intervento Neurovegetativo:* Il sollievo che provi nel chiudere la porta senza aver parlato dura poco. Riconoscilo: nel tempo comporterà un costo moltiplicato. Fai 3 cicli di espirazione profonda, appoggia entrambi i piedi a terra ed entra nella postazione di lavoro.
 * **ALTRI (Gestione della Relazione / Interpersonale):**
   - *Decodifica del Sovraccarico Altrui:* Davide non è un sabotatore. È un perito giovane, schiacciato dalla paura di essere licenziato. Ha visto slittare l'utensile sul mandrino, ma non ha avuto il coraggio di premere lo stop per non deludere la squadra.
   - *Presenza Non Minacciosa:* Non convocare il collaboratore nell'ufficio di presidenza come sotto processo. Affiancalo al banco di misura o sul pezzo scartato; postura laterale (non frontale di scontro), voce calma ma ferma, sguardo aperto.
@@ -141,12 +141,12 @@ Le seguenti schede costituiscono il prontuario operativo per ciascuno dei 9 arch
   [ALTRO: Processo]   → Tabella di cassa a 14 giorni, fidi reali, piano di rientro
 ```
 
-* **Contesto Narrativo e Frattura:** Arriva una comunicazione bancaria interlocutoria: la concessione di una linea di credito vitale slitta a venerdì sera. Oppure emerge un buco di incasso non preventivato da un cliente strategico. L'amministratore viene travolto da un attacco di panico anticipatorio: immagina i libri contabili in tribunale, l'impossibilità di pagare gli stipendi a fine mese e l'onta del fallimento sociale.
+* **Contesto Narrativo e Frattura:** Arriva una comunicazione bancaria interlocutoria: la concessione di una linea di credito vitale slitta a venerdì sera. Oppure emerge un buco di incasso non preventivato da un cliente strategico. L'amministratore viene travolto da un attacco di panico anticipatorio: immagina i libri contabili in tribunale, l'impossibilità di pagare gli stipendi a fine mese e la vergogna del fallimento.
 * **IO (Gestione Somatica / Interna):**
   - *Segnale Corporeo:* Frequenza cardiaca sopra i 130 battiti al minuto, sudorazione algida alle mani, vertigine con sensazione di svenimento o depersonalizzazione, visione periferica oscurata.
   - *Intervento Neurovegetativo:* Siediti a terra con la schiena appoggiata a una parete solida. Bevi un bicchiere d'acqua a temperatura ambiente a piccoli sorsi per stimolare la deglutizione e riattivare il nervo vago. Blocca la catastrofizzazione mentale: il cervello sta scambiando una simulazione predittiva per un fatto già compiuto nel presente.
 * **ALTRI (Gestione della Relazione / Interpersonale):**
-  - *Protezione della Rete Umana:* Non entrare nella stanza degli sviluppatori o in officina urlando che l'azienda sta affondando. La paura contagiosa del vertice paralizza l'operatività e spinge i talenti migliori all'autoconservazione e alla fuga.
+  - *Protezione della Rete Umana:* Non entrare nella stanza degli sviluppatori o in officina urlando che l'azienda sta affondando. La paura contagiosa del vertice paralizza l'operatività e spinge i migliori a guardarsi intorno e ad andarsene.
   - *Patto di Verità Operativa:* Mostra lucidità sobria con i collaboratori chiave: l'emergenza finanziaria esiste, ma c'è un piano di contenimento orario che tutela la produzione.
 * **ALTRO (Gestione del Contesto Sistemico / Materiale / di Processo):**
   - *Fatti della Telecamera:* La banca non ha revocato gli affidamenti in essere; ha semplicemente chiesto un supplemento istruttorio prima di deliberare il fido da 300.000 euro.
@@ -170,8 +170,8 @@ Le seguenti schede costituiscono il prontuario operativo per ciascuno dei 9 arch
 
 * **Contesto Narrativo e Frattura:** Il responsabile commerciale firma con trionfalismo un contratto con una scadenza impossibile, per incassare la provvigione o compiacere un cliente prestigioso. Così scarica sulla produzione 250 ore mandrino su leghe speciali, con le macchine già sature al 99%. Il capofficina esplode con pugni sul banco, minacce di sciopero e accuse di sabotaggio.
 * **IO (Gestione Somatica / Interna):**
-  - *Segnale Corporeo:* Visione a tunnel (perdita della visione periferica), muscoli trapezoidali e del collo contratti come cavi d'acciaio, tendenza urlatoria per dominare fisicamente l'interlocutore.
-  - *Intervento Neurovegetativo:* Allontana le mani dal piano di lavoro. Arretra di mezzo passo. Fai 3 respirazioni complete gonfiando l'addome. Riconosci che l'impulso a urlare è la risposta primitiva di difesa del territorio contro un'invasione di campo non concordata.
+  - *Segnale Corporeo:* Visione a tunnel (perdita della visione periferica), collo e spalle rigidi, voglia di alzare la voce per sovrastare l'altro.
+  - *Intervento Neurovegetativo:* Allontana le mani dal piano di lavoro. Arretra di mezzo passo. Fai 3 respirazioni complete gonfiando l'addome. Riconosci che la voglia di urlare è una reazione istintiva di difesa del territorio.
 * **ALTRI (Gestione della Relazione / Interpersonale):**
   - *Decodifica del Sovraccarico Altrui:* Fabio non vuole distruggere l'officina. Ha subito la pressione dell'amministratore delegato sul fatturato trimestrale. E ha il terrore di perdere il cliente Hydac a favore di un concorrente bresciano.
   - *Postura Negoziale:* Elimina gli insulti sulla competenza tecnica del commerciale. Siediti fianco a fianco davanti al diagramma di Gantt di produzione, non uno di fronte all'altro con la scrivania a fare da trincea.
@@ -179,7 +179,7 @@ Le seguenti schede costituiscono il prontuario operativo per ciascuno dei 9 arch
   - *Fatti della Telecamera:* L'ordine prevede la consegna di 300 distributori in titanio entro venerdì alle 16:00; la capacità produttiva disponibile sulle 5 assi è di sole 120 ore. La penale è di 3.000 euro al giorno.
   - *Vincolo Non Negoziabile:* La fisica dei metalli: aumentare la velocità di avanzamento utensile su titanio grado 5 oltre i parametri distrugge gli inserti in metallo duro e produce pezzi ovalizzati.
   - *Domanda di Processo Autorizzata:*  
-    *«Fabio, prendiamo il diagramma di Gantt della fresatura a 5 assi. Abbiamo 120 ore mandrino libere da qui a venerdì; la lavorazione del titanio per Hydac ne richiede 250 matematiche. Quale commessa già programmata possiamo ripianificare d'accordo con il cliente? Oppure, quali lotti possiamo girare a un terzista certificato di Quinzano per coprire il delta? Così non rischiamo la penale di 3.000 euro al giorno.»*
+    *«Fabio, prendiamo il diagramma di Gantt della fresatura a 5 assi. Abbiamo 120 ore mandrino libere da qui a venerdì; la lavorazione del titanio per Hydac ne richiede 250. Quale commessa già programmata possiamo ripianificare d'accordo con il cliente? Oppure, quali lotti possiamo girare a un terzista certificato di Quinzano per coprire il delta? Così non rischiamo la penale di 3.000 euro al giorno.»*
 
 ---
 
@@ -195,10 +195,10 @@ Le seguenti schede costituiscono il prontuario operativo per ciascuno dei 9 arch
   [ALTRO: Processo]   → Protocollo a 3 stadi, scheda dei vincoli non negoziabili
 ```
 
-* **Contesto Narrativo e Frattura:** Il fondatore o direttore generale, sovraccarico di lavoro fino a notte fonda, affida un compito critico a un giovane controller o collaboratore. Al primo errore o ritardo, viene colto da un moto di rabbia isterica. Strappa il file o il mouse dalle mani dell'altro e pronuncia la frase distruttiva: «Faccio prima a farlo io che a spiegarlo a te». Così condanna se stesso all'esaurimento e il collaboratore alla regressione infantile.
+* **Contesto Narrativo e Frattura:** Il fondatore o direttore generale, sovraccarico di lavoro fino a notte fonda, affida un compito critico a un giovane controller o collaboratore. Al primo errore o ritardo, perde la pazienza. Strappa il file o il mouse dalle mani dell'altro e pronuncia la frase distruttiva: «Faccio prima a farlo io che a spiegarlo a te». Così si condanna all'esaurimento e impedisce al collaboratore di crescere.
 * **IO (Gestione Somatica / Interna):**
-  - *Segnale Corporeo:* Fitta acida allo stomaco, vertigine da sovraccarico, mani che fremono per appropriarsi degli strumenti fisici di lavoro dell'altro, respiro ansimante.
-  - *Intervento Neurovegetativo:* Stacca fisicamente le mani dalla tastiera e dalla scrivania. Mettile in tasca o incrociale dietro la schiena. Fai un passo indietro di 1 metro. Riconosci che la tentazione di accentrare è un meccanismo nevrotico per placare l'angoscia della perdita di controllo, non una scelta di efficienza aziendale.
+  - *Segnale Corporeo:* Fitta acida allo stomaco, vertigine da sovraccarico, voglia di prendergli il mouse dalle mani, respiro ansimante.
+  - *Intervento Neurovegetativo:* Stacca fisicamente le mani dalla tastiera e dalla scrivania. Mettile in tasca o incrociale dietro la schiena. Fai un passo indietro di 1 metro. Riconosci che la tentazione di accentrare è un modo per calmare l'ansia di perdere il controllo, non una scelta di efficienza aziendale.
 * **ALTRI (Gestione della Relazione / Interpersonale):**
   - *Decodifica del Sovraccarico Altrui:* Enrico non è svogliato né stupido; non possiede la mappa mentale complessiva che il fondatore ha costruito in 15 anni di impresa. Ha commesso un errore perché gli sono stati omessi i presupposti storici e i tassi reali di sconto applicati dalle banche.
   - *Cura del Tono:* Nessun sarcasmo, nessun sospiro teatrale di compatimento. Spiega il principio senza svalutare la dignità professionale di chi sta imparando.
@@ -224,7 +224,7 @@ Le seguenti schede costituiscono il prontuario operativo per ciascuno dei 9 arch
 
 * **Contesto Narrativo e Frattura:** Valerio (approvvigionamenti, *Supply Chain*) e Claudio (logistica e magazzino all'Interporto) si scontrano in comitato direzionale armati di fogli di calcolo paralleli e contrastanti. Il primo difende l'acquisto di barre d'acciaio da Ferrometalli Sebina di Brescia, per massimizzare il risparmio nominale a budget. Il secondo dimostra i danni dei ritardi cronici di consegna e delle barre grezze in tolleranza commerciale h11. Hanno causato 114 ore di fermo autisti (penale sosta di 70 euro l'ora, per un totale di 7.980 euro). Hanno intasato le baie sotto la pioggia e fatto spaccare gli utensili sui centri a 5 assi.
 * **IO (Gestione Somatica / Interna):**
-  - *Segnale Corporeo:* Pulsazioni violente ai lati del collo, irrigidimento della cassa toracica, impulso irresistibile di impugnare il mouse come un'arma per smentire i numeri del collega.
+  - *Segnale Corporeo:* Battito forte nel collo, petto rigido, voglia di prendere il mouse e smontare subito i numeri del collega.
   - *Intervento Neurovegetativo:* Appoggia entrambi i piedi a terra, rilassa la muscolatura del trapezio. Riconosci che stai proteggendo il tuo indice di performance individuale (risparmio d'acquisto o saturazione delle baie) scaricando il costo del disallineamento sul margine complessivo della fabbrica.
 * **ALTRI (Gestione della Relazione / Interpersonale):**
   - *Decodifica del Sovraccarico Altrui:* Claudio non ce l'ha con te. Ha passato 3 notti sotto l'acqua all'Interporto, a gestire autisti inferociti che minacciavano di scaricare le barre nel fango. Valerio, invece, è stretto nella morsa degli obiettivi trimestrali di margine, imposti dalla proprietà dopo il buco di Apex.
@@ -249,18 +249,18 @@ Le seguenti schede costituiscono il prontuario operativo per ciascuno dei 9 arch
   [ALTRO: Processo]   → Documento integrativo contrattuale, Accademia Tecnica, stop d'impianto
 ```
 
-* **Contesto Narrativo e Frattura:** Una colonna tecnica storica dell'azienda ha 22 anni di fedeltà e sacrifici operativi. Eppure viene scartata per una promozione, a favore di un manager esterno assunto per introdurre nuovi sistemi gestionali. La direzione cerca di liquidare la delusione con lodi generiche e la formula ipocrita della «promozione morale». Il collaboratore storico sperimenta una ferita da tradimento che spegne ogni entusiasmo, inducendolo al disimpegno passivo o al sabotaggio silenzioso.
+* **Contesto Narrativo e Frattura:** Una colonna tecnica storica dell'azienda ha 22 anni di fedeltà e sacrifici operativi. Eppure viene scartata per una promozione, a favore di un manager esterno assunto per introdurre nuovi sistemi gestionali. La direzione cerca di liquidare la delusione con lodi generiche e la formula ipocrita della «promozione morale». Il collaboratore storico si sente tradito, perde ogni entusiasmo e scivola nel disimpegno passivo o al sabotaggio silenzioso.
 * **IO (Gestione Somatica / Interna):**
-  - *Segnale Corporeo:* Fitta sorda dietro lo sterno, sensazione di freddo glaciale alle estremità, postura che collassa in avanti, mutismo da blocco vagale dorsale (la risposta di immobilità del corpo).
-  - *Intervento Neurovegetativo:* Riconosci che l'esclusione sociale e la riconoscenza negata attivano le medesime aree del dolore fisico reale nel cervello (corteccia cingolata anteriore dorsale). Non vergognarti della sofferenza; respira profondamente per non scivolare nella dissociazione difensiva. Non rassegnarti al ruolo della vittima sacrificale.
+  - *Segnale Corporeo:* Fitta sorda dietro lo sterno, mani e piedi freddi, postura che collassa in avanti, mutismo da blocco vagale dorsale (la risposta di immobilità del corpo).
+  - *Intervento Neurovegetativo:* Riconosci che l'esclusione sociale e la riconoscenza negata attivano le medesime aree del dolore fisico reale nel cervello (corteccia cingolata anteriore dorsale). Non vergognarti della sofferenza; respira profondamente per non scivolare nella dissociazione difensiva. Non rassegnarti a fare la vittima.
 * **ALTRI (Gestione della Relazione / Interpersonale):**
-  - *Decodifica del Sovraccarico Altrui:* L'ingegner Moretti non è venuto a distruggere la tua storia. È un tecnico arrivato con un mandato esplicito della proprietà: digitalizzare la fabbrica. Ha il terrore di fallire e sa di non possedere la tua arte empirica sui metalli.
+  - *Decodifica del Sovraccarico Altrui:* L'ingegner Moretti non è venuto a distruggere la tua storia. È un tecnico arrivato con un mandato esplicito della proprietà: digitalizzare la fabbrica. Ha paura di fallire e sa di non avere la tua esperienza sui metalli.
   - *Confronto Diretto da Pari:* Rifiuta le pacche sulle spalle paternalistiche e le parole vuote. Pretendi un tavolo di lavoro formale per ridefinire i confini operativi.
 * **ALTRO (Gestione del Contesto Sistemico / Materiale / di Processo):**
   - *Fatti della Telecamera:* Il ruolo di responsabile delle operazioni è stato assegnato a Moretti. Ma la gestione della qualità critica e dei problemi dimensionali sulle linee pesa ancora tutta sull'esperienza storica di Marta.
   - *Vincolo Non Negoziabile:* Nessun sistema software o MES (il sistema di gestione della produzione) può sostituire la conoscenza dei materiali quando la tolleranza scende a 2 micron a 35 gradi di calore estivo.
   - *Domanda di Processo Autorizzata (Il documento integrativo di perimetro):*  
-    *«Ingegner Moretti, lasciamo da parte le promozioni morali che non hanno valore contrattuale. Definiamo formalmente le deleghe. Io assumo la direzione dell'Accademia Tecnica Interna, con il relativo adeguamento retributivo. E mantengo l'autorità, vincolante e insindacabile, di premere il pulsante rosso di fermo impianto. Vale ogni volta che un pezzo sgarra di 2 micron rispetto alle specifiche di collaudo. Mettiamolo nero su bianco nel nuovo organigramma aziendale.»*
+    *«Ingegner Moretti, lasciamo da parte le promozioni morali che non hanno valore contrattuale. Definiamo formalmente le deleghe. Io assumo la direzione dell'Accademia Tecnica Interna, con il relativo adeguamento retributivo. E mantengo l'autorità di premere il pulsante rosso di fermo impianto. Vale ogni volta che un pezzo sgarra di 2 micron rispetto alle specifiche di collaudo. Mettiamolo nero su bianco nel nuovo organigramma aziendale.»*
 
 ---
 
@@ -278,16 +278,16 @@ Le seguenti schede costituiscono il prontuario operativo per ciascuno dei 9 arch
 
 * **Contesto Narrativo e Frattura:** Due soci fondatori al 50%, dopo anni di simbiosi operativa, si ritrovano bloccati da un gelo rancoroso. Andrea ha continuato a spingere sull'acceleratore commerciale e sui bandi di finanziamento. Luca è crollato sotto il carico somatico della contabilità, delle banche e delle responsabilità legali. Alla fine ha spento il monitor e se n'è andato, lasciando un post-it prima di una scadenza da 180.000 euro. Il primo interpreta la stanchezza dell'altro come tradimento e prepara la diffida formale dell'avvocato.
 * **IO (Gestione Somatica / Interna):**
-  - *Segnale Corporeo:* Nausea da tradimento, bruciore acido all'esofago, carotidi che martellano, trapezi tesi come corde di violino, insonnia ossessiva.
-  - *Intervento Neurovegetativo:* Bevi acqua tiepida; fai 5 minuti di camminata lenta a passi regolari respirando con il diaframma. Espelli dalla mente l'illusione punitiva: mandare una PEC (posta elettronica certificata) o una diffida legale al tuo socio paritetico distruggerà il valore aziendale e accelererà la liquidazione della società.
+  - *Segnale Corporeo:* Nausea, bruciore di stomaco, battito forte nel collo, spalle rigide, notti senza sonno.
+  - *Intervento Neurovegetativo:* Bevi acqua tiepida; fai 5 minuti di camminata lenta a passi regolari respirando con il diaframma. Togliti dalla testa l'idea di punirlo: mandare una PEC (posta elettronica certificata) o una diffida legale al tuo socio paritetico distruggerà il valore aziendale e accelererà la liquidazione della società.
 * **ALTRI (Gestione della Relazione / Interpersonale):**
   - *Decodifica del Sovraccarico Altrui:* Luca non ti sta pugnalando alle spalle. Ha la pressione arteriosa a 180/100, scotomi visivi e un esaurimento biologico certificato. E ha la sensazione angosciosa di essere diventato il contabile invisibile delle tue manie di grandezza.
   - *L'Incontro a Carte Scoperte:* Vedersi da soli, di prima mattina, senza avvocati, senza schermi accesi, davanti a un caffè.
 * **ALTRO (Gestione del Contesto Sistemico / Materiale / di Processo):**
   - *Fatti della Telecamera:* Il bando regionale Reti Meccatroniche scadeva alle 23:59 ed è stato inviato. La contabilità interna è arretrata di 4 mesi, perché Luca ha saturato la sua capacità personale.
-  - *Vincolo Non Negoziabile:* Una società al 50% non può funzionare per decreto di maggioranza o a colpi di diffide legali. O ritrova un patto paritetico basato sulla sostenibilità biologica, o deve essere sciolta con la vendita delle quote.
+  - *Vincolo Non Negoziabile:* Una società al 50% non può funzionare per decreto di maggioranza o a colpi di diffide legali. O ritrova un patto paritetico basato su carichi che entrambi possono reggere, o deve essere sciolta con la vendita delle quote.
   - *Domanda di Processo Autorizzata (La Verifica Paritetica del Venerdì):*  
-    *«Luca, strappo davanti a te la bozza di diffida dell'avvocato. Non siamo più nel 2011. Non possiamo gestire un'azienda da 10 milioni di fatturato come quando eravamo in 2 nel garage di via Tombetta. Qual è il perimetro operativo che il tuo corpo può sostenere senza ammalarsi? Affidiamo la gestione ordinaria dei registri contabili a una società di revisione. Poi ridefiniamo i nostri compiti, separando con chiarezza le aree operative.»*
+    *«Luca, strappo davanti a te la bozza di diffida dell'avvocato. Non siamo più nel 2011. Non possiamo gestire un'azienda da 10 milioni di fatturato come quando eravamo in 2 nel garage di via Tombetta. Quanto lavoro riesci a reggere senza ammalarti? Affidiamo la gestione ordinaria dei registri contabili a una società di revisione. Poi ridefiniamo i nostri compiti, separando con chiarezza le aree operative.»*
 
 ---
 
@@ -306,7 +306,7 @@ Le seguenti schede costituiscono il prontuario operativo per ciascuno dei 9 arch
 * **Contesto Narrativo e Frattura:** Dopo mesi di cassa integrazione, tagli e straordinari bloccati, il management tenta di rilanciare il clima aziendale. Usa convention motivazionali, slogan emotivi, regali promozionali (le borracce metalliche serigrafate) e il lancio di un generico "Progetto Fenice". La base operaia reagisce con sarcasmo sordo, sguardi spenti e indifferenza ostile: gli operai storici ridono a mezza bocca e aumentano gli scarti per anestetizzarsi dalla farsa.
 * **IO (Gestione Somatica / Interna):**
   - *Segnale Corporeo:* Fastidio viscerale davanti al sarcasmo altrui, tentazione di etichettare gli operai come «ingrati e ottusi», frustrazione per l'insuccesso dell'iniziativa.
-  - *Intervento Neurovegetativo:* Inibisci l'impulso di fare una predica morale sulla dedizione al lavoro. Riconosci che il cinismo operaio non è un vizio caratteriale, ma una corazza omeostatica di difesa immunitaria biologica contro l'ennesima presa in giro retorica.
+  - *Intervento Neurovegetativo:* Inibisci l'impulso di fare una predica morale sulla dedizione al lavoro. Riconosci che il cinismo operaio non è un vizio caratteriale, ma una corazza contro l'ennesima presa in giro.
 * **ALTRI (Gestione della Relazione / Interpersonale):**
   - *Decodifica del Sovraccarico Altrui:* Dario Meneghelli ha 52 anni, 28 di officina e le mani rovinate dall'olio. La proprietà gli ha congelato 2.600 euro di premio di produzione, mentre il caffè alla macchinetta è aumentato da 40 a 55 centesimi. La borraccia metallica è percepita come un insulto alla sua intelligenza e al suo sacrificio materiale.
   - *Azzeramento della Maschera Manageriale:* Smetti di usare diapositive patinate, metafore sportive e formule anglosassoni. Parla la lingua nuda del lavoro e della fatica.
@@ -320,9 +320,9 @@ Le seguenti schede costituiscono il prontuario operativo per ciascuno dei 9 arch
 
 ### 4. LE 10 FRASI TOSSICHE DA ELIMINARE E LA LORO TRADUZIONE DI PROCESSO
 
-Nei sistemi industriali e organizzativi complessi, il linguaggio non è una semplice vernice concettuale: **è un operatore neurovegetativo attivo**. Basta una sola frase detta con sufficienza gerarchica o con sarcasmo difensivo. Nei collaboratori innesca una scarica adrenergica di attacco o un collasso vagale di chiusura. E la circolazione delle informazioni si blocca per mesi.
+Nei sistemi industriali e organizzativi complessi, le parole non sono un dettaglio di forma: **agiscono direttamente sul corpo di chi le ascolta**. Basta una sola frase detta con sufficienza gerarchica o con sarcasmo difensivo. Nei collaboratori innesca una scarica adrenergica di attacco o un collasso vagale di chiusura. E la circolazione delle informazioni si blocca per mesi.
 
-Di seguito vengono analizzate le 10 formule più distruttive riscontrate sul campo, con la relativa diagnosi neuro-relazionale e la corretta riformulazione di processo vincolante.
+Di seguito vengono analizzate le 10 formule più distruttive riscontrate sul campo, con l'effetto che producono e una riformulazione che funziona meglio.
 
 ```
 +------+----------------------------------------------------+----------------------------------------------------------------+
@@ -344,8 +344,8 @@ Di seguito vengono analizzate le 10 formule più distruttive riscontrate sul cam
 ```
 
 #### 1. «Faccio prima a farlo io che a spiegarlo a te»
-* **Dove nasce (Marcatore Somatico):** Fitta gastrica acida, disinnesto del freno vagale ventrale, ansia intollerabile da perdita di controllo del tempo (Capitolo 5).
-* **Danno Sistemico:** Umilia e infantilizza il collaboratore, distrugge l'autoefficacia operativa, impedisce la formazione di seconde linee e condanna il dirigente all'accentramento maniacale, all'insonnia e al tracollo biologico.
+* **Dove nasce (Marcatore Somatico):** Fitta gastrica acida, disinnesto del freno vagale ventrale, ansia di perdere il controllo dei tempi (Capitolo 5).
+* **Danno Sistemico:** Umilia e infantilizza il collaboratore, distrugge l'autoefficacia operativa, impedisce la formazione di seconde linee e condanna il dirigente a fare tutto da solo, a dormire male e, alla lunga, a crollare.
 * **Traduzione di Processo Autorizzata:**  
   *«Questo passaggio richiede parametri di contesto che non ti ho ancora trasferito per iscritto. Guarda mentre imposto questi 2 vincoli non negoziabili e prendi nota della sequenza. Al prossimo lotto lo imposti tu, sotto la mia supervisione.»*
 
@@ -362,10 +362,10 @@ Di seguito vengono analizzate le 10 formule più distruttive riscontrate sul cam
   *«Siamo una comunità professionale legata da un patto di lavoro trasparente e da uno scopo industriale condiviso. Ciascuno ha ruoli, responsabilità e diritti definiti. Ci impegniamo a misurare e riconoscere il contributo di tutti con equità materiale.»*
 
 #### 4. «È una promozione morale»
-* **Dove nasce (Marcatore Somatico):** Vigliaccheria gestionale del vertice che non possiede il coraggio di sostenere il costo emotivo di un diniego trasparente (Capitolo 7).
+* **Dove nasce (Marcatore Somatico):** Mancanza di coraggio del vertice, che non se la sente di dire un no chiaro (Capitolo 7).
 * **Danno Sistemico:** Attiva il circuito dACC del dolore sociale da tradimento. Il lavoratore con più anzianità ed esperienza diventa un oppositore sordo o un sabotatore passivo dell'organizzazione.
 * **Traduzione di Processo Autorizzata:**  
-  *«Per questa specifica posizione l'azienda ha scelto un profilo gestionale esterno con competenze differenti. Riconosciamo che il presidio della tua competenza tecnica è vitale. Ecco la ridefinizione formale del tuo perimetro di autorità e della tua autonomia di veto sulle linee. Ed ecco il relativo adeguamento retributivo.»*
+  *«Per questa specifica posizione l'azienda ha scelto un profilo gestionale esterno con competenze differenti. Riconosciamo che la tua competenza tecnica è indispensabile. Ecco la ridefinizione formale del tuo perimetro di autorità e della tua autonomia di veto sulle linee. Ed ecco il relativo adeguamento retributivo.»*
 
 #### 5. «I numeri non mentono mai» (usata come arma di chiusura)
 * **Dove nasce (Marcatore Somatico):** Euristica dell'affetto e distorsione di conferma; uso del dato quantitativo come scudo territoriale difensivo per evitare la discussione sulla realtà materiale (Capitolo 6).
@@ -374,40 +374,40 @@ Di seguito vengono analizzate le 10 formule più distruttive riscontrate sul cam
   *«Questo indicatore fotografa con precisione un segmento dell'operatività. Quali altri costi occulti, frizioni logistiche o impatti di reparto non sta catturando questa metrica?»*
 
 #### 6. «Vieni con la soluzione, non con il problema»
-* **Dove nasce (Marcatore Somatico):** Intolleranza viscerale del superiore per la complessità imprevista e per la sofferenza operativa altrui; meccanismo di evitamento difensivo.
+* **Dove nasce (Marcatore Somatico):** Il superiore non sopporta gli imprevisti e le difficoltà degli altri; meccanismo di evitamento difensivo.
 * **Danno Sistemico:** Sopprime la segnalazione precoce delle anomalie e degli scarti. Costringe i collaboratori a nascondere i difetti di processo, finché il danno per il cliente non diventa irreparabile.
 * **Traduzione di Processo Autorizzata:**  
   *«Segnalami il punto esatto in cui la procedura si blocca, appena lo rilevi. Fallo anche se non hai ancora un'ipotesi di soluzione. Mettiamo subito in sicurezza la linea e analizziamo i vincoli insieme prima che il pezzo diventi scarto.»*
 
 #### 7. «Non prenderla sul personale, sono solo affari»
-* **Dove nasce (Marcatore Somatico):** Dissociazione cognitiva del decisore per anestetizzare il proprio senso di colpa di fronte all'impatto distruttivo di una scelta organizzativa sulla vita altrui.
-* **Danno Sistemico:** Nega la biologia umana: l'organismo non distingue tra sfera personale e sfera professionale. Ogni decisione che toglie risorse, status o sicurezza attiva una risposta neurovegetativa di sopravvivenza primaria.
+* **Dove nasce (Marcatore Somatico):** Il decisore prende le distanze per non sentirsi in colpa dell'effetto della sua scelta sulla vita degli altri.
+* **Danno Sistemico:** Nega la biologia umana: l'organismo non distingue tra sfera personale e sfera professionale. Ogni decisione che toglie risorse, status o sicurezza fa scattare una reazione di allarme nel corpo.
 * **Traduzione di Processo Autorizzata:**  
-  *«Comprendo che questa decisione impatti direttamente sulla tua quotidianità lavorativa e sul tuo perimetro di responsabilità. Analizziamo insieme le conseguenze materiali e vediamo come ricalibrare i compiti senza ipocrisie o sconti di realtà.»*
+  *«Capisco che questa decisione cambia il tuo lavoro di tutti i giorni e le tue responsabilità. Analizziamo insieme le conseguenze materiali e vediamo come ricalibrare i compiti senza ipocrisie o sconti di realtà.»*
 
 #### 8. «Adesso non ho tempo, ne parliamo lunedì» (usata per fuggire dal conflitto)
-* **Dove nasce (Marcatore Somatico):** Tentazione del sollievo effimero da evitamento dello scontro; paura del pianto, dell'ansia o dell'aggressività altrui (Capitolo 2).
+* **Dove nasce (Marcatore Somatico):** Voglia di evitare lo scontro per sentirsi subito sollevati; paura del pianto, dell'ansia o dell'aggressività altrui (Capitolo 2).
 * **Danno Sistemico:** Trasferisce il costo dell'incertezza sul turno successivo, o su colleghi ignari durante il fine settimana. Così amplifica l'angoscia, alimenta le dicerie di corridoio e moltiplica il danno economico finale.
 * **Traduzione di Processo Autorizzata:**  
-  *«In questo momento non abbiamo a disposizione tutti i tabulati per deliberare l'intero piano. Fissiamo adesso la manovra minima di salvaguardia per le prossime 3 ore. Domani mattina alle 8:30 ci riuniamo formalmente, con i dati completi.»*
+  *«Adesso non abbiamo tutti i dati per decidere l'intero piano. Decidiamo subito cosa fare nelle prossime 3 ore per mettere in sicurezza la situazione. Domani mattina alle 8:30 ci riuniamo formalmente, con i dati completi.»*
 
 #### 9. «Se non ti sta bene, quella è la porta»
-* **Dove nasce (Marcatore Somatico):** Reazione simpatica di collera autoritaria scatenata dall'esaurimento degli argomenti tecnici e dalla perdita di lucidità del leader (Capitolo 4).
-* **Danno Sistemico:** Distrugge all'istante la sicurezza neurocettiva di tutta la squadra. Incentiva il conformismo dei lavoratori più cinici o disperati. E allontana i talenti più qualificati, capaci di pensiero critico e autonomia professionale.
+* **Dove nasce (Marcatore Somatico):** Scatto di collera del leader che ha finito gli argomenti tecnici e perde lucidità (Capitolo 4).
+* **Danno Sistemico:** Toglie all'istante a tutta la squadra la sensazione di essere al sicuro. Incentiva il conformismo dei lavoratori più cinici o disperati. E allontana i talenti più qualificati, capaci di pensiero critico e autonomia professionale.
 * **Traduzione di Processo Autorizzata:**  
-  *«Il vincolo di consegna su questa fornitura è un dato contrattuale certo che non possiamo modificare. Vogliamo rispettarlo senza distruggere la qualità e senza sovraccaricare le persone. Quali risorse operative, ripianificazioni di turno o attrezzature ausiliarie ci servono?»*
+  *«La data di consegna di questa fornitura è nel contratto e non possiamo spostarla. Vogliamo rispettarlo senza distruggere la qualità e senza sovraccaricare le persone. Quali risorse operative, ripianificazioni di turno o attrezzature ausiliarie ci servono?»*
 
 #### 10. «Prendo atto del tuo disimpegno» (inviata tramite mail formale o PEC con colleghi in copia)
 * **Dove nasce (Marcatore Somatico):** Illusione di intenzionalità malevola tra colleghi o soci logorati; pulsione punitiva e vendicativa del Sistema 1 (Capitolo 8).
 * **Danno Sistemico:** Avvia l'escalation giudiziaria o burocratica all'interno dell'azienda, distrugge ogni residuo di cooperazione informale e trasforma la società in un campo trincerato di perizie e controperizie.
 * **Traduzione di Processo Autorizzata:**  
-  *«Ho visto che ieri la lavorazione si è interrotta prima del completamento del programma. Ho presidiato io la chiusura dell'urgenza stanotte. Domani mattina alle 7:30 ci vediamo da soli, a porte chiuse. Così capiamo qual è la tua reale tenuta e come ricalibrare i carichi di lavoro.»*
+  *«Ho visto che ieri la lavorazione si è interrotta prima del completamento del programma. Stanotte l'urgenza l'ho chiusa io. Domani mattina alle 7:30 ci vediamo da soli, a porte chiuse. Così capiamo quanto riesci davvero a reggere e come ricalibrare i carichi di lavoro.»*
 
 ---
 
 ### 5. TABELLA SINOTTICA DI TELEMETRIA EMOTIVA AZIENDALE
 
-La matrice seguente è la mappa diagnostica unificata per identificare, decodificare e trattare le fratture relazionali nella filiera industriale e nei servizi avanzati. Collega la fisiologia del corpo umano ai vincoli materiali dell'impresa.
+La tabella seguente riassume come riconoscere, capire e gestire i conflitti nella filiera industriale e nei servizi avanzati. Collega la fisiologia del corpo umano ai vincoli materiali dell'impresa.
 
 ```
 +------+------------------------------+------------------------------+------------------------------+------------------------------+------------------------------+
@@ -466,7 +466,7 @@ L'errore più tragico del management moderno è credere che l'efficienza economi
 
 L'attrito materiale non è un guasto dell'organizzazione: **l'attrito materiale è l'organizzazione stessa**.
 
-Pensiamo a un tagliente in metallo duro che lavora una barra di titanio o di ergal (lega di alluminio), sotto il getto dell'emulsione fredda a 10 gradi. L'attrito fisico sprigiona calore, consuma l'utensile e impone una disciplina ferrea sulle quote al centesimo di millimetro. Ma solo attraverso quell'attrito controllato la barra grezza assume la forma geometrica esatta di un distributore idraulico o di una boccola aerospaziale. Senza attrito non c'è forma: c'è solo materia amorfa e immobile.
+Pensiamo a un tagliente in metallo duro che lavora una barra di titanio o di ergal (lega di alluminio), sotto il getto dell'emulsione fredda a 10 gradi. L'attrito fisico sprigiona calore, consuma l'utensile e impone una disciplina ferrea sulle quote al centesimo di millimetro. Ma solo attraverso quell'attrito controllato la barra grezza assume la forma geometrica esatta di un distributore idraulico o di una boccola aerospaziale. Senza attrito non c'è forma: resta solo una barra grezza.
 
 Lo stesso principio governa la vita delle persone dentro le imprese:
 * Tra soci fondatori paritetici che si misurano fino a notte fonda sulla sostenibilità dei debiti di cassa e sulle scadenze dei bandi;
@@ -474,8 +474,8 @@ Lo stesso principio governa la vita delle persone dentro le imprese:
 * Tra direttori acquisti e magazzinieri sulle banchine battute dal vento all'Interporto;
 * Tra maestri artigiani che custodiscono la memoria dei metalli e giovani periti chiamati a guidare l'automazione digitale.
 
-A volte il limite della biologia umana incontra la spietatezza dei numeri di bilancio. Allora nei corpi si sprigiona una tensione viscerale. Non è una colpa morale né un sabotaggio: è l'energia primaria dell'organismo che difende il proprio valore materiale. Chiudere gli occhi davanti a quell'energia, soffocarla con la paura o mascherarla con slogan motivazionali significa condannare l'impresa alla finzione burocratica o alla disintegrazione silenziosa.
+A volte i limiti fisici delle persone si scontrano con i numeri di bilancio. Allora nel corpo sale una tensione forte. Non è una colpa morale né un sabotaggio: è il modo in cui una persona difende il proprio valore. Chiudere gli occhi davanti a quell'energia, soffocarla con la paura o mascherarla con slogan motivazionali significa condannare l'impresa alla finzione o a sfaldarsi in silenzio.
 
-Bisogna riconoscere quell'energia nella sua verità fisiologica e accoglierla senza giudizio affrettato. E bisogna governarla con la disciplina della telecamera interiore, la ricerca dei punti ciechi di sistema e la chiarezza dei contratti di processo. Questo è l'unico atto di maturità manageriale che possa rendere un'azienda un luogo di prosperità economica e di dignità umana.
+Bisogna riconoscere quella tensione per quello che è, senza giudicarla in fretta. E bisogna governarla con la disciplina della telecamera interiore, la ricerca dei punti ciechi di sistema e la chiarezza dei contratti di processo. Solo così un'azienda può diventare un posto dove si guadagna e si lavora con dignità.
 
 Le emozioni arrivano prima di noi. Ma ciò che sappiamo costruire insieme nell'istante successivo a quell'arrivo è l'unica misura reale della nostra libertà, del nostro coraggio e della nostra leadership.
