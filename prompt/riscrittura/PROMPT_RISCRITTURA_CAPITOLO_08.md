@@ -1,8 +1,8 @@
 # MASTER PROMPT PER LA RISCRITTURA INTEGRALE DEEP POV — CAPITOLO 8 (FASE 2)
 ## Progetto Editoriale: *«Le Emozioni Arrivano Prima di Noi»*
 ### Applicabile a: Claude 3.5 Sonnet / Claude 3.7 Sonnet / Claude Opus
-**File Sorgente:** `bozze_capitoli/CAPITOLO_08_IL_GELO_TRA_PARI.md` (296 righe)  
-**Output Target:** `revisioni/2026-09-30_CAPITOLO_08_RISCRITTURA_DEEP_POV.md`  
+**File Sorgente:** `archivio/bozze_capitoli/CAPITOLO_08_IL_GELO_TRA_PARI.md` (296 righe)  
+**Output Target:** `archivio/revisioni/2026-09-30_CAPITOLO_08_RISCRITTURA_DEEP_POV.md`  
 **Branch di Lavoro:** `revisioni-deep-pov`
 
 ---
@@ -112,7 +112,7 @@ Genera l'intero file pronto per il commit, aprendo con la consueta intestazione 
 ```markdown
 # 2026-09-30 — Capitolo 8 — Riscrittura integrale deep POV
 
-**Metodo:** skill rewrite-deep-pov, Fase 2 eseguita sulle prescrizioni vincolanti del Referto Forense del 2026-09-30 (bozze_capitoli/CAPITOLO_08_IL_GELO_TRA_PARI.md, branch revisioni-deep-pov).
+**Metodo:** skill rewrite-deep-pov, Fase 2 eseguita sulle prescrizioni vincolanti del Referto Forense del 2026-09-30 (archivio/bozze_capitoli/CAPITOLO_08_IL_GELO_TRA_PARI.md, branch revisioni-deep-pov).
 
 **Prescrizioni applicate:**
 [Elenco analitico delle 8 prescrizioni implementate]

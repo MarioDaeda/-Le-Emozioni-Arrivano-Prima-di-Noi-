@@ -2,7 +2,7 @@
 ## Protocollo Operativo Multi-Pass per Sessioni di Lavoro Estensive ad Altissima Profondità
 ### Applicabile a: Claude 3.5 Sonnet / Claude 3.7 / Claude Opus / GPT-4o / Perplexity Pro
 **Opera Target:** *«Le Emozioni Arrivano Prima di Noi»* (59.435 parole, 11 Sezioni, Modello B)  
-**Documenti di Riferimento:** `LIBRO_COMPLETO_LE_EMOZIONI_ARRIVANO_PRIMA_DI_NOI.md`, `AUDIT_PSICOLOGICO_E_GRILLING_CAPITOLI.md`, `SKILLS.md`
+**Documenti di Riferimento:** `archivio/LIBRO_COMPLETO_LE_EMOZIONI_ARRIVANO_PRIMA_DI_NOI.md`, `reports/audit/AUDIT_PSICOLOGICO_E_GRILLING_CAPITOLI.md`, `strumenti/SKILL.md`
 
 ---
 
@@ -17,10 +17,10 @@ Agisci come **Capo del Comitato di Revisione Editoriale, Senior Developmental Ed
 Sei incaricato di condurre una **REVISIONE INTEGRALE, STRUTTURALE, CLINICA E DIALOGICA A PROFONDITÀ TOTALE** dell'intero manoscritto del libro *«Le Emozioni Arrivano Prima di Noi»* (composto da Prefazione Metodologica, Capitoli da 01 a 09 ed Epilogo con Toolkit Operativo).
 
 Hai a disposizione in questo ambiente di lavoro:
-1. Il volume master completo: `LIBRO_COMPLETO_LE_EMOZIONI_ARRIVANO_PRIMA_DI_NOI.md`
+1. Il volume master completo: `archivio/LIBRO_COMPLETO_LE_EMOZIONI_ARRIVANO_PRIMA_DI_NOI.md`
 2. I singoli capitoli autonomi (`CAPITOLO_01` fino a `CAPITOLO_09`, `PREFAZIONE` ed `EPILOGO`)
-3. Il dossier critico peritale: `AUDIT_PSICOLOGICO_E_GRILLING_CAPITOLI.md`
-4. Il framework metodologico delle skills open-source: `SKILLS.md` (derivate da `story-skills`, `fabric` e `AuthorAgent`)
+3. Il dossier critico peritale: `reports/audit/AUDIT_PSICOLOGICO_E_GRILLING_CAPITOLI.md`
+4. Il framework metodologico delle skills open-source: `strumenti/SKILL.md` (derivate da `story-skills`, `fabric` e `AuthorAgent`)
 
 ---
 

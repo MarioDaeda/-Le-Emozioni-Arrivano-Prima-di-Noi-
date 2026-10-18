@@ -2,9 +2,9 @@
 ## Progetto Editoriale: *«Le Emozioni Arrivano Prima di Noi»*
 ### Applicabile a: Claude 3.5 Sonnet / Claude 3.7 Sonnet / Claude Opus
 **Documenti Input del Manoscritto:**
-- `bozze_capitoli/CAPITOLO_01_LE_EMOZIONI_NON_ARRIVANO_A_CASO.md` (Tema: Appraisal, marcatore somatico, rabbia e minaccia di competenza — Andrea, Luca, Elena)
-- `bozze_capitoli/CAPITOLO_02_IL_SOLLIEVO_FITTIZIO.md` (Tema: Evitamento esperienziale, sollievo a breve termine vs disastro a lungo termine — Sara, Davide, Roberto, Silvano)
-- `bozze_capitoli/CAPITOLO_03_LA_CASSA_CHE_BRUCIA.md` (Tema: Panico anticipatorio, catastrofizzazione somatica, fido bancario — Marco, Dott.ssa Bignami, Giulia)
+- `archivio/bozze_capitoli/CAPITOLO_01_LE_EMOZIONI_NON_ARRIVANO_A_CASO.md` (Tema: Appraisal, marcatore somatico, rabbia e minaccia di competenza — Andrea, Luca, Elena)
+- `archivio/bozze_capitoli/CAPITOLO_02_IL_SOLLIEVO_FITTIZIO.md` (Tema: Evitamento esperienziale, sollievo a breve termine vs disastro a lungo termine — Sara, Davide, Roberto, Silvano)
+- `archivio/bozze_capitoli/CAPITOLO_03_LA_CASSA_CHE_BRUCIA.md` (Tema: Panico anticipatorio, catastrofizzazione somatica, fido bancario — Marco, Dott.ssa Bignami, Giulia)
 
 ---
 
@@ -157,8 +157,8 @@ Restituisci il lavoro organizzato secondo questo schema strutturato:
 1. Copia l'intero contenuto racchiuso nel tag <system_prompt>...</system_prompt>.
 2. Incolla il testo in Claude 3.5 Sonnet / Claude 3.7 Sonnet.
 3. Allega o incolla di seguito i testi completi di:
-   - `bozze_capitoli/CAPITOLO_01_LE_EMOZIONI_NON_ARRIVANO_A_CASO.md`
-   - `bozze_capitoli/CAPITOLO_02_IL_SOLLIEVO_FITTIZIO.md`
-   - `bozze_capitoli/CAPITOLO_03_LA_CASSA_CHE_BRUCIA.md`
+   - `archivio/bozze_capitoli/CAPITOLO_01_LE_EMOZIONI_NON_ARRIVANO_A_CASO.md`
+   - `archivio/bozze_capitoli/CAPITOLO_02_IL_SOLLIEVO_FITTIZIO.md`
+   - `archivio/bozze_capitoli/CAPITOLO_03_LA_CASSA_CHE_BRUCIA.md`
 4. Lancia la sessione. Sonnet restituirà l'audit comparativo, la bonifica Deep POV e tutti i blocchi di testo pronti per l'aggiornamento finale del branch.
 ```

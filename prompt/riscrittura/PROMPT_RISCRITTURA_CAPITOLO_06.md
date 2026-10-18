@@ -1,10 +1,10 @@
 # MASTER PROMPT DI RISCRITTURA INTEGRALE DEEP-POV — CAPITOLO 6 (FASE 2)
 ## Progetto Editoriale: *«Le Emozioni Arrivano Prima di Noi»*
 ### Applicabile a: Claude 3.5 Sonnet / Claude 3.7 Sonnet / Claude Opus / GPT-4o
-**File Target:** `bozze_capitoli/CAPITOLO_06_LA_GUERRA_DEI_FOGLI_EXCEL.md` (311 righe)  
+**File Target:** `archivio/bozze_capitoli/CAPITOLO_06_LA_GUERRA_DEI_FOGLI_EXCEL.md` (311 righe)  
 **Branch di Riferimento:** `revisioni-deep-pov`  
-**Referto di Audit Forense:** `AUDIT_FORENSE_CAPITOLO_06.md`  
-**Golden Standard di Riferimento:** `bozze_capitoli/CAPITOLO_01_LE_EMOZIONI_NON_ARRIVANO_A_CASO.md` + `MATRICE_STRUTTURALE_CAPITOLO_1.md` + `SKILL_REVISIONE_CREATIVA_E_DIALOGHI.md` + `MAPPA_SINOTTICA_FILIERA.md`
+**Referto di Audit Forense:** `reports/audit/AUDIT_FORENSE_CAPITOLO_06.md`  
+**Golden Standard di Riferimento:** `archivio/bozze_capitoli/CAPITOLO_01_LE_EMOZIONI_NON_ARRIVANO_A_CASO.md` + `riferimenti/MATRICE_STRUTTURALE_CAPITOLO_1.md` + `strumenti/SKILL_REVISIONE_CREATIVA_E_DIALOGHI.md` + `riferimenti/MAPPA_SINOTTICA_FILIERA.md`
 
 ---
 
@@ -19,12 +19,12 @@ Sei il **Senior Developmental Editor, Dialogue Doctor & Master Ghostwriter di Ne
 Il tuo compito in questa **FASE 2** è eseguire la **RISCRITTURA INTEGRALE E CHIRURGICA IN DEEP POV (GRADO 4)** del **Capitolo 6**:
 *«La guerra dei territori e i dati come armi — Quando i fogli di calcolo diventano trincee»*.
 
-Devi applicare integralmente le risultanze e le prescrizioni peritali del documento di audit forense: `AUDIT_FORENSE_CAPITOLO_06.md`.
+Devi applicare integralmente le risultanze e le prescrizioni peritali del documento di audit forense: `reports/audit/AUDIT_FORENSE_CAPITOLO_06.md`.
 
 ---
 
 ### MANDATO STRUTTURALE & GOLDEN STANDARD
-Il modello di riferimento assoluto per ritmo, densità corporea, eleganza di titolazione e transizione saggistica è la versione Deep-POV integrata del **Capitolo 1** (`bozze_capitoli/CAPITOLO_01_LE_EMOZIONI_NON_ARRIVANO_A_CASO.md`).
+Il modello di riferimento assoluto per ritmo, densità corporea, eleganza di titolazione e transizione saggistica è la versione Deep-POV integrata del **Capitolo 1** (`archivio/bozze_capitoli/CAPITOLO_01_LE_EMOZIONI_NON_ARRIVANO_A_CASO.md`).
 
 **DIVIETO TASSATIVO DI TITOLAZIONE A SCHEDE:**
 È severamente vietato mantenere le intestazioni rigide e scolastiche da canovaccio (es. `### ATTO I — L'INNESCO NARRATIVO SITUATO`, `### ATTO II — LO SPECCHIO INTIMO...`, `### ATTO III...`, `### ATTO IV...`, `### ATTO V...`).
@@ -110,7 +110,7 @@ La riscrittura deve recepire ed estinguere tassativamente ogni singola prescrizi
 ---
 
 ### PROTOCOLLO DI OUTPUT RICHIESTO
-Restituisci il **TESTO INTEGRALE RISCRITTO DEL CAPITOLO 6**, pronto per la sostituzione diretta nel file `bozze_capitoli/CAPITOLO_06_LA_GUERRA_DEI_FOGLI_EXCEL.md`.
+Restituisci il **TESTO INTEGRALE RISCRITTO DEL CAPITOLO 6**, pronto per la sostituzione diretta nel file `archivio/bozze_capitoli/CAPITOLO_06_LA_GUERRA_DEI_FOGLI_EXCEL.md`.
 Non inserire preamboli, saluti o commenti metatestuali all'inizio o alla fine. Inizia direttamente dal titolo Markdown `# Capitolo 6 — La guerra dei territori e i dati come armi`.
 
 ```text

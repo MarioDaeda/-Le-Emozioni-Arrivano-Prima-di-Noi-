@@ -7,7 +7,7 @@
 ```markdown
 /goal /boost Agisci come Autore Letterario, Senior Editor di Saggistica Narrativa ed Epistemologo Organizzativo. Il tuo compito è eseguire una MARATONA DI SCRITTURA AUTONOMA E APPROFONDITA per redigere LE BOZZE INTEGRALI DI TUTTI I CAPITOLI del libro "Le Emozioni Arrivano Prima di Noi" (volume complessivo di circa 130 pagine / 35.000–45.000 parole), operando nella directory `C:\Users\MARIO\Libro Emozioni`.
 
-Lavorerai adottando il **MODELLO B (Fratture Organizzative e Soggetti Complessi - ADR 0002)**, rigettando qualsiasi classificazione astratta delle emozioni e mantenendo per ciascun capitolo la rigida struttura a 5 Atti del Capitolo 1 (`MATRICE_STRUTTURALE_CAPITOLO_1.md`).
+Lavorerai adottando il **MODELLO B (Fratture Organizzative e Soggetti Complessi - ADR 0002)**, rigettando qualsiasi classificazione astratta delle emozioni e mantenendo per ciascun capitolo la rigida struttura a 5 Atti del Capitolo 1 (`riferimenti/MATRICE_STRUTTURALE_CAPITOLO_1.md`).
 
 ---
 
@@ -15,7 +15,7 @@ Lavorerai adottando il **MODELLO B (Fratture Organizzative e Soggetti Complessi 
 Data la natura prolungata del task (maratona di diverse ore), l'agente deve gestire in modo trasparente e persistente lo stato di avanzamento:
 1. Crea/aggiorna il file `C:\Users\MARIO\Libro Emozioni\STATO_AVANZAMENTO_STESURA.md` prima e dopo la stesura di ciascun capitolo.
 2. Per ciascun capitolo registra: [Numero | Titolo | Stato (IN CORSO / COMPLETATO) | Conteggio Parole | Data/Ora].
-3. Se l'esecuzione viene interrotta da timeout, crash o limite di contesto, la ripresa leggerà `STATO_AVANZAMENTO_STESURA.md` e ripartirà esattamente dal capitolo non completato, senza cancellare né sovrascrivere il lavoro già svolto.
+3. Se l'esecuzione viene interrotta da timeout, crash o limite di contesto, la ripresa leggerà `progetto/STATO_AVANZAMENTO_STESURA.md` e ripartirà esattamente dal capitolo non completato, senza cancellare né sovrascrivere il lavoro già svolto.
 
 ---
 
@@ -49,35 +49,35 @@ Per garantire l'equilibrio tra narrazione ed epistemologia ed evitare che la par
 
 ---
 
-### PIANO GUIDA DEI CAPITOLI (CARTELLA `bozze_capitoli/`):
+### PIANO GUIDA DEI CAPITOLI (CARTELLA `archivio/bozze_capitoli/`):
 
 Crea la cartella `C:\Users\MARIO\Libro Emozioni\bozze_capitoli/` se non esiste, e procedi capitolo dopo capitolo con piena libertà di affinamento:
 
-- **CAPITOLO 2 (`bozze_capitoli/CAPITOLO_02_IL_SOLLIEVO_FITTIZIO.md`)**:
+- **CAPITOLO 2 (`archivio/bozze_capitoli/CAPITOLO_02_IL_SOLLIEVO_FITTIZIO.md`)**:
   * *Tema*: *Il sollievo fittizio e il costo dell'evitamento* (Sara HR vs Davide in crisi). Evitamento del richiamo duro per sfuggire al disagio; sollievo immediato come trappola; fermo della linea notturna e straordinari di Marta.
   * *Scienza*: Lazarus (coping emotion-focused vs problem-focused); Vervliet (rinforzo dell'evitamento); Kahneman (euristica dell'affetto).
-- **CAPITOLO 3 (`bozze_capitoli/CAPITOLO_03_LA_CASSA_CHE_BRUCIA.md`)**:
+- **CAPITOLO 3 (`archivio/bozze_capitoli/CAPITOLO_03_LA_CASSA_CHE_BRUCIA.md`)**:
   * *Tema*: *La cassa che brucia e il panico da anticipazione* (Marco CEO NexSys vs mail interlocutoria della banca per il credito ponte da 300k€). Catastrofizzazione somatica nel weekend e reattività convulsa.
   * *Scienza*: LeDoux (amigdala e minaccia anticipatoria); Barrett (simulazione predittiva); Damasio (marcatore somatico del "come se").
-- **CAPITOLO 4 (`bozze_capitoli/CAPITOLO_04_LA_PROMESSA_E_LA_MACCHINA.md`)**:
+- **CAPITOLO 4 (`archivio/bozze_capitoli/CAPITOLO_04_LA_PROMESSA_E_LA_MACCHINA.md`)**:
   * *Tema*: *La promessa del commerciale e la macchina satura* (Direttore Commerciale con bonus anticipato vs Capo Officina CNC con macchine bloccate e turni saturi).
   * *Scienza*: Lazarus (core relational theme della rabbia come violazione asimmetrica di confini operativi); Gross; Kahneman (punitive sentiment).
-- **CAPITOLO 5 (`bozze_capitoli/CAPITOLO_05_LA_TRAPPOLA_DELLA_DELEGA.md`)**:
+- **CAPITOLO 5 (`archivio/bozze_capitoli/CAPITOLO_05_LA_TRAPPOLA_DELLA_DELEGA.md`)**:
   * *Tema*: *La solitudine dell'accentratore e la trappola della prima delega* (Titolare fondatore vs giovane ingegnere gestionale neoassunto). «Faccio prima a farlo io che a spiegarlo»: l'errore dell'altro vissuto come minaccia identitaria.
   * *Scienza*: Damasio (sopravvivenza nel ruolo); Porges (neurocezione di pericolo e risposta simpatica di attacco).
-- **CAPITOLO 6 (`bozze_capitoli/CAPITOLO_06_LA_GUERRA_DEI_FOGLI_EXCEL.md`)**:
+- **CAPITOLO 6 (`archivio/bozze_capitoli/CAPITOLO_06_LA_GUERRA_DEI_FOGLI_EXCEL.md`)**:
   * *Tema*: *La guerra dei territori e i dati come armi* (Ufficio Acquisti vs Logistica e Magazzino). Fogli Excel paralleli usati come trappole nelle riunioni con la direzione.
   * *Scienza*: Epistemologia del dato; Kahneman (WYSIATI e bias di conferma); cinismo sistemico da incentivi disallineati.
-- **CAPITOLO 7 (`bozze_capitoli/CAPITOLO_07_LA_RICONOSCENZA_NEGATA.md`)**:
+- **CAPITOLO 7 (`archivio/bozze_capitoli/CAPITOLO_07_LA_RICONOSCENZA_NEGATA.md`)**:
   * *Tema*: *La ferita della riconoscenza negata* (Capoturno con 22 anni di anzianità scavalcato dal nuovo manager esterno). Senso di tradimento viscerale, silenzio ostile e sabotaggio passivo.
   * *Scienza*: Damasio (tradimento ed esclusione sociale come dolore fisico reale); Porges (risposta dorso-vagale di congelamento e collasso metabolico).
-- **CAPITOLO 8 (`bozze_capitoli/CAPITOLO_08_IL_GELO_TRA_PARI.md`)**:
+- **CAPITOLO 8 (`archivio/bozze_capitoli/CAPITOLO_08_IL_GELO_TRA_PARI.md`)**:
   * *Tema*: *Il gelo tra pari: la deriva tra soci fondatori* (Due soci paritetici al 50% logorati da 15 anni insieme). Stanchezza cronica interpretata come disinteresse o tradimento.
   * *Scienza*: Kahneman (attribuzione causale rapida e causalità intenzionale spontanea); fallimento della teoria della mente tra pari.
-- **CAPITOLO 9 (`bozze_capitoli/CAPITOLO_09_IL_CINISMO_DI_REPARTO.md`)**:
+- **CAPITOLO 9 (`archivio/bozze_capitoli/CAPITOLO_09_IL_CINISMO_DI_REPARTO.md`)**:
   * *Tema*: *Il cinismo di reparto e l'anestesia difensiva* (Direzione enfatica sul "piano di rilancio" vs Sguardi vitrei e sarcasmo degli operai).
   * *Scienza*: Dean, Brandes & Dharwadkar (cinismo organizzativo come rottura del contratto psicologico); Lazarus & Folkman (distanziamento cognitivo in ambienti immutabili).
-- **EPILOGO & TOOLKIT OPERATIVO (`bozze_capitoli/EPILOGO_E_TOOLKIT_OPERATIVO.md`)**:
+- **EPILOGO & TOOLKIT OPERATIVO (`archivio/bozze_capitoli/EPILOGO_E_TOOLKIT_OPERATIVO.md`)**:
   * Vademecum tascabile del leader per la de-escalation in 180 secondi; le 10 frasi tossiche da eliminare; tabella di telemetria emotiva aziendale.
 
 ---

@@ -1,7 +1,7 @@
 # MASTER PROMPT DI AUDIT FORENSE & TECHNICAL GRILLING — CAPITOLO 9 (FASE 1)
 ## Progetto Editoriale: *«Le Emozioni Arrivano Prima di Noi»*
 ### Applicabile a: Claude 3.5 Sonnet / Claude 3.7 Sonnet / Claude Opus / Perplexity Pro
-**File Target:** `bozze_capitoli/CAPITOLO_09_IL_CINISMO_DI_REPARTO.md` (317 righe)  
+**File Target:** `archivio/bozze_capitoli/CAPITOLO_09_IL_CINISMO_DI_REPARTO.md` (317 righe)  
 **Branch di Riferimento:** `revisioni-deep-pov`
 
 ---
@@ -16,12 +16,12 @@ Sei il **Senior Developmental Editor & Forensic Literary Auditor** del progetto 
 
 Esegui l'**AUDIT FORENSE, IL GRILLING TECNICO E LA MATRICE DELLE PRESCRIZIONI (P1–P3)** della bozza del **Capitolo 9** (*«Il cinismo di reparto e l'anestesia difensiva — Quando l'indifferenza diventa sopravvivenza»*).
 
-**REGOLA TASSATIVA DI FASE 1:** **NON ESEGUIRE ALCUNA RISCRITTURA DEL TESTO IN QUESTO REFERTO.** Il tuo mandato è unicamente peritale, diagnostico e prescrittivo. Tutti i riferimenti «R» devono indicare le righe esatte della bozza (`bozze_capitoli/CAPITOLO_09_IL_CINISMO_DI_REPARTO.md`, 317 righe).
+**REGOLA TASSATIVA DI FASE 1:** **NON ESEGUIRE ALCUNA RISCRITTURA DEL TESTO IN QUESTO REFERTO.** Il tuo mandato è unicamente peritale, diagnostico e prescrittivo. Tutti i riferimenti «R» devono indicare le righe esatte della bozza (`archivio/bozze_capitoli/CAPITOLO_09_IL_CINISMO_DI_REPARTO.md`, 317 righe).
 
 ---
 
 ### PARAMETRI DI PERIZIA
-- **Oggetto:** `bozze_capitoli/CAPITOLO_09_IL_CINISMO_DI_REPARTO.md` (317 righe), branch `revisioni-deep-pov`.
+- **Oggetto:** `archivio/bozze_capitoli/CAPITOLO_09_IL_CINISMO_DI_REPARTO.md` (317 righe), branch `revisioni-deep-pov`.
 - **Titolo:** *«Il cinismo di reparto e l'anestesia difensiva — Quando l'indifferenza diventa sopravvivenza»*.
 - **Personaggi:**
   - **Dario Meneghelli** (52 anni, rettificatore universale senior da 28 anni in O.M.P. Precision, occhiali con montatura riparata con nastro isolante nero, baffi ingrigiti dal fumo, memoria storica di 4 cambi di vertice e 6 convention);
@@ -32,7 +32,7 @@ Esegui l'**AUDIT FORENSE, IL GRILLING TECNICO E LA MATRICE DELLE PRESCRIZIONI (P
   - **Silvano Spinelli** (capofficina storico, prossimo alla pensione) e **Marta Bellamoli** (Master Technical Specialist e responsabile Accademia Tecnica, Cap. 7);
   - **Davide ed Enrico** (giovani periti di officina, esposti al rischio del contagio cinico);
   - **I 120 lavoratori di O.M.P. Precision** (rettificatori, fresatori, montatori, collaudatori, magazzinieri in tuta blu).
-- **Golden standard:** `bozze_capitoli/CAPITOLO_01_LE_EMOZIONI_NON_ARRIVANO_A_CASO.md` (versione deep-POV integrata) + `.agents/skills/editing-creativo/SKILL.md` + `MATRICE_STRUTTURALE_CAPITOLO_1.md` + `AUDIT_PSICOLOGICO_E_GRILLING_CAPITOLI.md` + `MAPPA_SINOTTICA_FILIERA.md`.
+- **Golden standard:** `archivio/bozze_capitoli/CAPITOLO_01_LE_EMOZIONI_NON_ARRIVANO_A_CASO.md` (versione deep-POV integrata) + `.agents/skills/editing-creativo/SKILL.md` + `riferimenti/MATRICE_STRUTTURALE_CAPITOLO_1.md` + `reports/audit/AUDIT_PSICOLOGICO_E_GRILLING_CAPITOLI.md` + `riferimenti/MAPPA_SINOTTICA_FILIERA.md`.
 - **Raccordi di continuità verificati e chiusura filiera:**
   1. *Chiusura del percorso corale di fabbrica:* dopo la cassa (Cap. 3), la tensione commerciale/produzione (Cap. 4), l'accentramento (Cap. 5), l'integrazione MES (Cap. 6), la sovranità tecnica di Marta (Cap. 7) e il patto societario al vertice tra Andrea e Luca (Cap. 8), il Capitolo 9 affronta il nodo finale e più resistente: il cinismo disilluso della base operaia;
   2. *L'incoerenza materiale:* i 2.600€ congelati del premio di risultato 2025 vs i 14.000€ sprecati nella convention con video e borracce ("Progetto Fenice") e i 10 centesimi aumentati sui distributori di caffè (da 40 a 50 centesimi);

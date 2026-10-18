@@ -1,7 +1,7 @@
 # MASTER PROMPT DI AUDIT FORENSE & GRILLING — CAPITOLO 6 (FASE 1)
 ## Progetto Editoriale: *«Le Emozioni Arrivano Prima di Noi»*
 ### Applicabile a: Claude 3.5 Sonnet / Claude 3.7 Sonnet / Claude Opus
-**File Target:** `bozze_capitoli/CAPITOLO_06_LA_GUERRA_DEI_FOGLI_EXCEL.md` (311 righe)  
+**File Target:** `archivio/bozze_capitoli/CAPITOLO_06_LA_GUERRA_DEI_FOGLI_EXCEL.md` (311 righe)  
 **Branch di Riferimento:** `revisioni-deep-pov`
 
 ---
@@ -20,7 +20,7 @@ Esegui l'**AUDIT FORENSE, IL GRILLING TECNICO E LA MATRICE DELLE PRESCRIZIONI (P
 ---
 
 ### PARAMETRI DI PERIZIA
-- **Oggetto:** `bozze_capitoli/CAPITOLO_06_LA_GUERRA_DEI_FOGLI_EXCEL.md` (311 righe), branch `revisioni-deep-pov`.
+- **Oggetto:** `archivio/bozze_capitoli/CAPITOLO_06_LA_GUERRA_DEI_FOGLI_EXCEL.md` (311 righe), branch `revisioni-deep-pov`.
 - **Titolo:** *«La guerra dei territori e i dati come armi — Quando i fogli di calcolo diventano trincee»*.
 - **Personaggi:** 
   - Valerio Guidotti (49 anni, Responsabile Acquisti O.M.P. Precision, contabile rigido e meticoloso);
@@ -28,7 +28,7 @@ Esegui l'**AUDIT FORENSE, IL GRILLING TECNICO E LA MATRICE DELLE PRESCRIZIONI (P
   - Paolo Zantedeschi (62 anni, ex Direttore Amministrativo O.M.P. in pensione, mentore di Valerio);
   - Enrico De Marchi (ingegnere gestionale incaricato della standardizzazione flussi, reduce dal patto del Cap. 5);
   - Luca (COO Omnia Servizi) e Sara (HR O.M.P. Precision).
-- **Golden standard:** `bozze_capitoli/CAPITOLO_01_LE_EMOZIONI_NON_ARRIVANO_A_CASO.md` (versione deep-POV integrata) + `MATRICE_STRUTTURALE_CAPITOLO_1.md` + `SKILL_REVISIONE_CREATIVA_E_DIALOGHI.md` + `AUDIT_PSICOLOGICO_E_GRILLING_CAPITOLI.md` + `MAPPA_SINOTTICA_FILIERA.md`.
+- **Golden standard:** `archivio/bozze_capitoli/CAPITOLO_01_LE_EMOZIONI_NON_ARRIVANO_A_CASO.md` (versione deep-POV integrata) + `riferimenti/MATRICE_STRUTTURALE_CAPITOLO_1.md` + `strumenti/SKILL_REVISIONE_CREATIVA_E_DIALOGHI.md` + `reports/audit/AUDIT_PSICOLOGICO_E_GRILLING_CAPITOLI.md` + `riferimenti/MAPPA_SINOTTICA_FILIERA.md`.
 - **Raccordi di continuità verificati:** 
   1. Le barre ovalizzate di 3 decimi spiegano le frese spezzate e le tensioni sui mandrini Mori Seiki denunciate da Silvano nel Cap. 4;
   2. L'accordo di governance e la centralizzazione su architettura MES NexSys (Marco, Cap. 3) orchestrata da Enrico De Marchi (Cap. 5);

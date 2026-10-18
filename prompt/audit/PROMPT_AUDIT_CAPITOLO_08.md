@@ -1,7 +1,7 @@
 # MASTER PROMPT DI AUDIT FORENSE & TECHNICAL GRILLING — CAPITOLO 8 (FASE 1)
 ## Progetto Editoriale: *«Le Emozioni Arrivano Prima di Noi»*
 ### Applicabile a: Claude 3.5 Sonnet / Claude 3.7 Sonnet / Claude Opus
-**File Target:** `bozze_capitoli/CAPITOLO_08_IL_GELO_TRA_PARI.md` (296 righe)  
+**File Target:** `archivio/bozze_capitoli/CAPITOLO_08_IL_GELO_TRA_PARI.md` (296 righe)  
 **Branch di Riferimento:** `revisioni-deep-pov`
 
 ---
@@ -20,14 +20,14 @@ Esegui l'**AUDIT FORENSE, IL GRILLING TECNICO E LA MATRICE DELLE PRESCRIZIONI (P
 ---
 
 ### PARAMETRI DI PERIZIA
-- **Oggetto:** `bozze_capitoli/CAPITOLO_08_IL_GELO_TRA_PARI.md` (296 righe), branch `revisioni-deep-pov`.
+- **Oggetto:** `archivio/bozze_capitoli/CAPITOLO_08_IL_GELO_TRA_PARI.md` (296 righe), branch `revisioni-deep-pov`.
 - **Titolo:** *«Il gelo tra pari: la deriva tra soci fondatori — Quando la stanchezza diventa tradimento»*.
 - **Personaggi:**
   - Andrea Vettori (45 anni, fondatore e CEO di Omnia Servizi Direzionali, vulcanico e accentratore);
   - Luca Marangon (43 anni, co-fondatore e COO al 50%, meticoloso, silenzioso, piegato da sovraccarico somatico);
   - Elena (moglie di Andrea e consulente di governance di rete a Quinzano);
   - Sara (HR O.M.P. Precision, testimone del vertice aziendale).
-- **Golden standard:** `bozze_capitoli/CAPITOLO_01_LE_EMOZIONI_NON_ARRIVANO_A_CASO.md` (versione deep-POV integrata) + `MATRICE_STRUTTURALE_CAPITOLO_1.md` + `SKILL_REVISIONE_CREATIVA_E_DIALOGHI.md` + `AUDIT_PSICOLOGICO_E_GRILLING_CAPITOLI.md` + `MAPPA_SINOTTICA_FILIERA.md`.
+- **Golden standard:** `archivio/bozze_capitoli/CAPITOLO_01_LE_EMOZIONI_NON_ARRIVANO_A_CASO.md` (versione deep-POV integrata) + `riferimenti/MATRICE_STRUTTURALE_CAPITOLO_1.md` + `strumenti/SKILL_REVISIONE_CREATIVA_E_DIALOGHI.md` + `reports/audit/AUDIT_PSICOLOGICO_E_GRILLING_CAPITOLI.md` + `riferimenti/MAPPA_SINOTTICA_FILIERA.md`.
 - **Raccordi di continuità verificati:**
   1. Chiude l'arco narrativo aperto nel Capitolo 1 (la frase di Luca in riunione: *«forse dovremmo far controllare i numeri ad altri»*);
   2. Il Bando Reti Meccatroniche da 180.000€ co-finanzia l'infrastruttura MES di Marco (Cap. 3 e 6) e l'Accademia Tecnica di Marta (Cap. 7);

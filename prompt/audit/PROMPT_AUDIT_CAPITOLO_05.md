@@ -1,7 +1,7 @@
 # MASTER PROMPT DI AUDIT FORENSE & TECHNICAL GRILLING — CAPITOLO 5 (FASE 1)
 ## Progetto Editoriale: *«Le Emozioni Arrivano Prima di Noi»*
 ### Applicabile a: Claude 3.5 Sonnet / Claude 3.7 Sonnet / Claude Opus / Perplexity Pro
-**File Target:** `bozze_capitoli/CAPITOLO_05_LA_TRAPPOLA_DELLA_DELEGA.md` (322 righe)  
+**File Target:** `archivio/bozze_capitoli/CAPITOLO_05_LA_TRAPPOLA_DELLA_DELEGA.md` (322 righe)  
 **Branch di Riferimento:** `revisioni-deep-pov`
 
 ---
@@ -16,12 +16,12 @@ Sei il **Senior Developmental Editor & Forensic Literary Auditor** del progetto 
 
 Esegui l'**AUDIT FORENSE, IL GRILLING TECNICO E LA MATRICE DELLE PRESCRIZIONI (P1–P3)** della bozza del **Capitolo 5** (*«La solitudine dell'accentratore e la trappola della prima delega — "Faccio prima a farlo io che a spiegarlo"»*).
 
-**REGOLA TASSATIVA DI FASE 1:** **NON ESEGUIRE ALCUNA RISCRITTURA DEL TESTO IN QUESTO REFERTO.** Il tuo mandato è unicamente peritale, diagnostico e prescrittivo. Tutti i riferimenti «R» devono indicare le righe esatte della bozza (`bozze_capitoli/CAPITOLO_05_LA_TRAPPOLA_DELLA_DELEGA.md`, 322 righe).
+**REGOLA TASSATIVA DI FASE 1:** **NON ESEGUIRE ALCUNA RISCRITTURA DEL TESTO IN QUESTO REFERTO.** Il tuo mandato è unicamente peritale, diagnostico e prescrittivo. Tutti i riferimenti «R» devono indicare le righe esatte della bozza (`archivio/bozze_capitoli/CAPITOLO_05_LA_TRAPPOLA_DELLA_DELEGA.md`, 322 righe).
 
 ---
 
 ### PARAMETRI DI PERIZIA
-- **Oggetto:** `bozze_capitoli/CAPITOLO_05_LA_TRAPPOLA_DELLA_DELEGA.md` (322 righe), branch `revisioni-deep-pov`.
+- **Oggetto:** `archivio/bozze_capitoli/CAPITOLO_05_LA_TRAPPOLA_DELLA_DELEGA.md` (322 righe), branch `revisioni-deep-pov`.
 - **Titolo:** *«La solitudine dell'accentratore e la trappola della prima delega — "Faccio prima a farlo io che a spiegarlo"»*.
 - **Personaggi:**
   - **Andrea Vettori** (45 anni, fondatore e CEO di Omnia Servizi Direzionali, accentratore seriale, piegato da contrattura cervicale C5-C6 e terrore della perdita di controllo);
@@ -29,7 +29,7 @@ Esegui l'**AUDIT FORENSE, IL GRILLING TECNICO E LA MATRICE DELLE PRESCRIZIONI (P
   - **Elena** (moglie di Andrea e consulente di governance di rete a Quinzano);
   - **Luca Marangon** (43 anni, socio fondatore e COO al 50% di Omnia);
   - **Istituti di Credito e Rete Distrettuale:** Funzionari della Banca Popolare, Marco di NexSys (Cap. 3), Sara di O.M.P. Precision (Cap. 2), Silvano per il titanio Hydac (Cap. 4).
-- **Golden standard:** `bozze_capitoli/CAPITOLO_01_LE_EMOZIONI_NON_ARRIVANO_A_CASO.md` (versione deep-POV integrata) + `.agents/skills/editing-creativo/SKILL.md` + `MATRICE_STRUTTURALE_CAPITOLO_1.md` + `AUDIT_PSICOLOGICO_E_GRILLING_CAPITOLI.md` + `MAPPA_SINOTTICA_FILIERA.md`.
+- **Golden standard:** `archivio/bozze_capitoli/CAPITOLO_01_LE_EMOZIONI_NON_ARRIVANO_A_CASO.md` (versione deep-POV integrata) + `.agents/skills/editing-creativo/SKILL.md` + `riferimenti/MATRICE_STRUTTURALE_CAPITOLO_1.md` + `reports/audit/AUDIT_PSICOLOGICO_E_GRILLING_CAPITOLI.md` + `riferimenti/MAPPA_SINOTTICA_FILIERA.md`.
 - **Raccordi di continuità verificati e filiera distrettuale:**
   1. *L'innesco finanziario di rete:* la fuga di Apex da 3,2 milioni (Cap. 3) impone l'approvazione del Budget Consolidato 2027 per garantire alle banche la tenuta delle commesse Kuka (Cap. 2) e Hydac (Cap. 4);
   2. *L'errore matematico:* discrepanza materiale di **€ 498.700** tra il modello teorico di Enrico (+€ 410.500 con Euribor 3% e DSO a 60 gg) e la cassa reale (-€ 88.200 con spread Mediocredito 5,85% e DSO a 115 gg);

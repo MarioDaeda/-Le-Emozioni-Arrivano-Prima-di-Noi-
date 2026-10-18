@@ -2,8 +2,8 @@
 $ErrorActionPreference = "Stop"
 
 $baseDir = "C:\Users\MARIO\Libro Emozioni"
-$bozzeDir = Join-Path $baseDir "bozze_capitoli"
-$outputFile = Join-Path $baseDir "LIBRO_COMPLETO_LE_EMOZIONI_ARRIVANO_PRIMA_DI_NOI.md"
+$bozzeDir = Join-Path $baseDir "archivio/bozze_capitoli"
+$outputFile = Join-Path $baseDir "archivio/LIBRO_COMPLETO_LE_EMOZIONI_ARRIVANO_PRIMA_DI_NOI.md"
 
 $sb = New-Object System.Text.StringBuilder
 

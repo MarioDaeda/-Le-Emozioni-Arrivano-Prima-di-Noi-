@@ -1,7 +1,7 @@
 # MASTER PROMPT DI AUDIT FORENSE & GRILLING — CAPITOLO 7 (FASE 1)
 ## Progetto Editoriale: *«Le Emozioni Arrivano Prima di Noi»*
 ### Applicabile a: Claude 3.5 Sonnet / Claude 3.7 Sonnet / Claude Opus
-**File Target:** `bozze_capitoli/CAPITOLO_07_LA_RICONOSCENZA_NEGATA.md` (296 righe)  
+**File Target:** `archivio/bozze_capitoli/CAPITOLO_07_LA_RICONOSCENZA_NEGATA.md` (296 righe)  
 **Branch di Riferimento:** `revisioni-deep-pov`
 
 ---
@@ -20,7 +20,7 @@ Esegui l'**AUDIT FORENSE, IL GRILLING TECNICO E LA MATRICE DELLE PRESCRIZIONI (P
 ---
 
 ### PARAMETRI DI PERIZIA
-- **Oggetto:** `bozze_capitoli/CAPITOLO_07_LA_RICONOSCENZA_NEGATA.md` (296 righe), branch `revisioni-deep-pov`.
+- **Oggetto:** `archivio/bozze_capitoli/CAPITOLO_07_LA_RICONOSCENZA_NEGATA.md` (296 righe), branch `revisioni-deep-pov`.
 - **Titolo:** *«La ferita della riconoscenza negata — Il dolore dell'esclusione e il collasso del legame»*.
 - **Personaggi:** 
   - Marta Bellamoli (48 anni, collaudatrice capo e perno dell'officina O.M.P., 22 anni di anzianità);
@@ -28,7 +28,7 @@ Esegui l'**AUDIT FORENSE, IL GRILLING TECNICO E LA MATRICE DELLE PRESCRIZIONI (P
   - Amministratore Delegato O.M.P. (il padrone paternalista che dispensa pacche sulle spalle e «promozioni morali»);
   - Gianni Bellamoli (74 anni, padre di Marta, 37 anni tornitore e delegato sindacale alle Officine Ferroviarie di Porta Vescovo);
   - Sara (Responsabile HR O.M.P. Precision).
-- **Golden standard:** `bozze_capitoli/CAPITOLO_01_LE_EMOZIONI_NON_ARRIVANO_A_CASO.md` (versione deep-POV integrata) + `MATRICE_STRUTTURALE_CAPITOLO_1.md` + `SKILL_REVISIONE_CREATIVA_E_DIALOGHI.md` + `AUDIT_PSICOLOGICO_E_GRILLING_CAPITOLI.md` + `MAPPA_SINOTTICA_FILIERA.md`.
+- **Golden standard:** `archivio/bozze_capitoli/CAPITOLO_01_LE_EMOZIONI_NON_ARRIVANO_A_CASO.md` (versione deep-POV integrata) + `riferimenti/MATRICE_STRUTTURALE_CAPITOLO_1.md` + `strumenti/SKILL_REVISIONE_CREATIVA_E_DIALOGHI.md` + `reports/audit/AUDIT_PSICOLOGICO_E_GRILLING_CAPITOLI.md` + `riferimenti/MAPPA_SINOTTICA_FILIERA.md`.
 - **Raccordi di continuità verificati:** 
   1. Marta ha salvato la commessa Kuka di notte (Cap. 2) e ha formato Davide; ha curato i setup del titanio Hydac di Silvano (Cap. 4);
   2. L'organigramma 2027 approvato dopo l'unificazione delle forniture (Cap. 6);
