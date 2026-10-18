@@ -6,10 +6,6 @@ Glossario terminologico ufficiale del progetto editoriale *«Le Emozioni Arrivan
 
 ## 1. Epistemologia e Neuroscienze Cognitive
 
-**Primato Somatico**:
-La precedenza neurofisiologica della risposta viscerale ed emotiva (arousal, battito cardiaco, contrazione muscolare) rispetto all'elaborazione cosciente della corteccia prefrontale.
-_Avoid_: Reazione psicologica, umore, istinto irrazionale.
-
 **Appraisal Primario / Secondario**:
 La doppia valutazione cognitiva automatica (Lazarus): l'appraisal primario valuta se l'evento impatta sulla sopravvivenza o sugli scopi vitali; l'appraisal secondario valuta le risorse disponibili per fronteggiarlo.
 _Avoid_: Giudizio soggettivo, impressione personale.
@@ -22,8 +18,9 @@ _Avoid_: Stress da lavoro, fatica mentale, stanchezza generica.
 Il circuito polivagale dell'ingaggio sociale (Porges) che modula la frequenza cardiaca, la mimica facciale e la prosodia vocale, abilitando la cooperazione, l'ascolto e la reciprocità.
 _Avoid_: Empatia, atteggiamento positivo, apertura mentale.
 
-**Shutdown Vagale Dorsale (DVC)**:
+**Collasso Vagale (shutdown vagale dorsale, DVC)**:
 La risposta biologica arcaica di immobilizzazione, ipotensione, intorpidimento e mutismo protettivo attivata quando il sistema nervoso percepisce una minaccia insormontabile o un'esclusione irreparabile.
+Nel testo si usa "collasso vagale"; il termine scientifico compare tra parentesi solo alla prima comparsa.
 _Avoid_: Depressione momentanea, blocco emotivo, debolezza di carattere.
 
 **Neurocezione**:
@@ -40,7 +37,8 @@ _Avoid_: Delusione aziendale, promessa mancata.
 
 **Cinismo Organizzativo**:
 La strategia omeostatica tridimensionale (credenza di mancanza d'integrità, affetto negativo, comportamenti svalutanti) impiegata per anestetizzare il dolore delle delusioni storiche (Dean, Brandes & Dharwadkar).
-_Avoid_: Sfattismo, disimpegno, ribellismo sterile.
+Per il lettore si chiama "anestesia difensiva"; "difesa omeostatica" è il nome scientifico. "Disimpegno morale" si usa solo come termine di Bandura, in CAP07.
+_Avoid_: Sfattismo, disimpegno (fuori dal senso di Bandura), ribellismo sterile.
 
 ---
 
@@ -66,19 +64,19 @@ _Avoid_: Fattori esterni, contesto generico, dettagli tecnici secondari.
 L'isolamento chirurgico dei fatti materiali oggettivamente registrabili dall'audio e dal video, spogliati da qualsiasi aggettivo interpretativo o attribuzione di colpa.
 _Avoid_: Obiettività soggettiva, punto di vista neutrale.
 
-**Domanda di Processo**:
+**Domanda di Processo** (unico nome nel libro, anche in CAP03):
 Una domanda aperta formulata ad alta voce, focalizzata sui vincoli tecnici, sui dati misurabili e sui presupposti logici della scelta, escludendo ogni rimprovero morale.
-_Avoid_: Domanda retorica, interrogatorio, chiarimento personale.
+_Avoid_: Domanda cardine, domanda retorica, interrogatorio, chiarimento personale.
 
 **Scheda dei Vincoli Non Negoziabili**:
 Il documento preliminare scritto che fissa i parametri invalicabili (finanziari, operativi, temporali) prima di delegare l'esecuzione di un compito.
 _Avoid_: Linee guida generiche, brief verbale.
 
-**Feasibility Check**:
+**Verifica di Fattibilità**:
 La verifica tecnica congiunta prima della firma dell'ordine commerciale, volta a confrontare i tempi di consegna promessi con la saturazione fisica e termica delle macchine utensili.
-_Avoid_: Controllo di fattibilità astratto, parere informale.
+_Avoid_: Feasibility Check, controllo di fattibilità astratto, parere informale.
 
-**Patto di Trasparenza Materiale**:
+**Patto di Trasparenza Materiale** (forma completa la prima volta, "patto di trasparenza" dopo):
 L'accordo scritto tra vertice aziendale e maestranze basato sulla condivisione dei dati di cassa a bordo macchina e sul saldo certo dei debiti pregressi prima di richiedere cooperazione.
 _Avoid_: Patto della fiducia, accordo morale, carta dei valori.
 
@@ -87,10 +85,10 @@ _Avoid_: Patto della fiducia, accordo morale, carta dei valori.
 ## 4. Industria Meccatronica e Filiera Territoriale
 
 **DSO di Distretto (Days Sales Outstanding)**:
-I tempi medi effettivi di incasso delle fatture industriali nel territorio (115–120 giorni), condizionati dal rilascio della perizia di collaudo dimensionale.
+I tempi medi effettivi di incasso delle fatture industriali nel territorio (115–120 giorni), condizionati dal rilascio del collaudo dimensionale.
 _Avoid_: Termini di legge europei a 60 giorni (applicati solo in astratto).
 
-**Tolleranza Micrometrica a 2 Micron**:
+**Tolleranza Micrometrica a 2 Micron** (unico valore per i pezzi Kuka/Hydac in titanio; la classe h7 delle barre del fornitore è un'altra cosa):
 Precisione geometrica e dimensionale (0,002 mm) richiesta sui componenti medicali (Kuka) e idraulici (Hydac) in leghe nobili (titanio Grado 5, ergal 7075-T6).
 _Avoid_: Lavorazione precisa, tolleranza centesimale generica.
 
