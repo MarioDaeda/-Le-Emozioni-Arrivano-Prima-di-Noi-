@@ -67,9 +67,9 @@ Perché in riunione sbattiamo la cartellina prima di pensare? Quattro studiosi r
  │ANTONIO DAMASIO│   │RICHARD LAZARUS│       │ L. FELDMAN    │   │DANIEL         │
  │               │   │               │       │ BARRETT       │   │KAHNEMAN       │
  │marcatore      │   │appraisal e    │       │emozioni       │   │Sistema 1 e 2, │
- │somatico,      │   │tema relazio-  │       │costruite,     │   │WYSIATI,       │
- │omeostasi      │   │nale centrale  │       │cervello       │   │euristica      │
- │               │   │               │       │predittivo     │   │dell'affetto   │
+ │somatico,      │   │tema relazio-  │       │costruite,     │   │WYSIATI, bias, │
+ │omeostasi,     │   │nale centrale  │       │cervello       │   │euristica      │
+ │as-if loop     │   │               │       │predittivo     │   │dell'affetto   │
  └───────┬───────┘   └───────┬───────┘       └───────┬───────┘   └───────┬───────┘
          │                   │                       │                   │
          └─────────────┐     │     ┌─────────────────┘                   │

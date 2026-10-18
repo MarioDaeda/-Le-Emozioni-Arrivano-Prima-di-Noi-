@@ -1,12 +1,13 @@
-# BRIEFING — 2026-09-30T13:10:13Z
+# BRIEFING — 2026-10-18T17:14:00Z
 
 ## Mission
-Coordinate and monitor multi-agent execution for Deep POV Grado 4 line-editing, de-ventriloquization, thought-tags purge, organic titles rewrite for Chapters 2, 3, 4 of «Le Emozioni Arrivano Prima di Noi», with mechatronic algebra preservation, book assembly, and automated testing.
+Coordinate and monitor execution for automated parallel insurance RC benchmark for Rino Conventi (CF: CNVRNI65B23E107T, Ravenna, 24yo driver, plate GZ249TD) and ANIA registration discrepancy resolution.
 
 ## 🔒 My Identity
 - Archetype: sentinel
 - Working directory: C:\Users\MARIO\Libro Emozioni\.agents\teamwork\sentinel
-- Orchestrator: TBD
+- Current working directory: /Volumes/maxone/Claude/Libro Emozioni/.agents/teamwork/sentinel
+- Orchestrator: 12f0096e-e11a-47d7-b12c-4a0fc5260f04
 - Victory Auditor: to be spawned on victory claim
 
 ## 🔒 Key Constraints
@@ -16,12 +17,15 @@ Coordinate and monitor multi-agent execution for Deep POV Grado 4 line-editing, 
 - Monitor via progress and liveness crons
 
 ## User Context
-- **Last user request**: Bonifica stilistica, de-ventriloquizzazione dialoghi intimi (Kitchen Test), purga filter words, scioglimento thought-tags e titolazione organica Deep POV Grado 4 per Capitoli 2, 3 e 4, preservando algebra meccatronica P1 e riassemblando il master book con verifica automatizzata.
+- **Last user request**: Benchmark e comparazione parallela automatizzata per ottenere la polizza RC più economica per Rino Conventi (CF: CNVRNI65B23E107T, residenza Ravenna, guidatore abituale 24 anni, veicolo targa GZ249TD), risolvendo la discrepanza di immatricolazione tra banca dati ANIA e libretto.
 - **Pending clarifications**: none
 - **Delivered results**: none
 
 ## Project Status
-- **Phase**: not started
+- **Phase**: in progress
+- **Route**: General (teamwork_preview_orchestrator)
+- **Active Orchestrator**: 12f0096e-e11a-47d7-b12c-4a0fc5260f04 (.agents/teamwork/orchestrator_benchmark_1)
+- **Crons**: task-28 (progress reporting */8m), task-30 (liveness check */10m)
 
 ## Victory Audit Status
 - **Triggered**: no
@@ -29,4 +33,6 @@ Coordinate and monitor multi-agent execution for Deep POV Grado 4 line-editing, 
 - **Retry count**: 0
 
 ## Artifact Index
-- C:\Users\MARIO\Libro Emozioni\.agents\teamwork\ORIGINAL_REQUEST.md — Original user request
+- /Volumes/maxone/Claude/Libro Emozioni/.agents/teamwork/ORIGINAL_REQUEST.md — Authoritative user requests
+- /Volumes/maxone/Claude/Libro Emozioni/.agents/teamwork/orchestrator_benchmark_1/context.md — Orchestrator workspace descriptor
+- /Volumes/maxone/Claude/Libro Emozioni/scratch/insurance_benchmark — Target benchmark directory
