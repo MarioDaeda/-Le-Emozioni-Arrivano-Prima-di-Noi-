@@ -2,6 +2,8 @@
 
 Cartella di lavoro del libro. Questa pagina dice dove sta ogni cosa e quale versione è quella corrente.
 
+**Per riprendere la revisione, leggi prima [PASSAGGIO_DI_CONSEGNE.md](PASSAGGIO_DI_CONSEGNE.md).**
+
 ## Dove trovare cosa
 
 | Cartella | Contenuto | Quando serve |
