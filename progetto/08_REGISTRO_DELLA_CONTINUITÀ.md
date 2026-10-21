@@ -1339,3 +1339,7 @@ Stato: **operativo e riallineato al Capitolo 1, versione 0.4.1 da approvare; da 
 
 
 ---
+
+## Decisioni dell'autore durante la revisione (21 ottobre 2026)
+
+- Tolleranze dei pezzi in titanio: 2 micron (D1 del glossario).
