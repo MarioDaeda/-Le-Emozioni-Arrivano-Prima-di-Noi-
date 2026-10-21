@@ -53,3 +53,34 @@ Requested team: Full multi-agent team (specialisti dedicati su stile, lore e ver
 ### Algebra Meccatronica e Continuità
 - [ ] Zero regressioni sull'algebra e calendario P1: Hydac a 140.000 € / 300 pz / 250 h / 3.000 €/die; Mediocredito giovedì 27 novembre; TCO Trafilerie Venete a 46.500 €/anno.
 - [ ] Esecuzione con successo di `assemble_book.ps1` e superamento del 100% dei test di collaudo.
+
+
+## Follow-up — 2026-10-18T17:12:39Z
+
+Benchmark e comparazione parallela automatizzata per ottenere la polizza RC più economica per Rino Conventi (CF: CNVRNI65B23E107T, residenza Ravenna, guidatore abituale 24 anni, veicolo targa GZ249TD), risolvendo la discrepanza di immatricolazione tra banca dati ANIA e libretto.
+
+Working directory: /Volumes/maxone/Claude/Libro Emozioni/scratch/insurance_benchmark
+Integrity mode: development
+
+## Requirements
+
+### R1. Multi-Platform Parallel Quote Search
+Confrontare le tariffe minime su 3 cluster indipendenti:
+1. Aggregatori (Facile.it, Segugio.it)
+2. Compagnie dirette pure (Prima.it, ConTe.it, Allianz Direct)
+3. Preventivatore pubblico ufficiale (Preventivass - Contratto Base IVASS)
+
+### R2. Plate & Registration Conflict Resolution
+Gestire l'anomalia rilevata nei database ufficiali ANIA/Motorizzazione (dove la targa GZ249TD risulta registrata a maggio 2025 come autocarro Renault Master 6ª serie anziché autovettura Volkswagen Polo):
+- Eseguire il calcolo preventivo con i parametri della Polo (1.6 TDI, immatricolazione storica) inseriti manualmente a modello.
+- Eseguire in parallelo il calcolo automatico da targa GZ249TD (ramo autocarro) per verificare il costo reale se il sistema ministeriale forza la tipologia da archivio.
+
+### R3. Driver Under-26 Risk Assessment
+Identificare le compagnie che consentono la guida con conducente di 24 anni alle migliori condizioni economiche (es. clausola "Guida Esperta >= 23 anni" come Allianz Direct vs "Guida Libera" senza rivalsa economica in caso di incidente).
+
+## Acceptance Criteria
+
+### Verifica Tariffe & Trasparenza
+- [ ] Tabella comparativa con il premio minimo annuale (€) e l'eventuale rata mensile
+- [ ] Segnalazione esplicita delle condizioni di rivalsa per guidatore di 24 anni
+- [ ] Chiarimento sull'anomalia di targa da esibire al controllo libretto / assicuratore
