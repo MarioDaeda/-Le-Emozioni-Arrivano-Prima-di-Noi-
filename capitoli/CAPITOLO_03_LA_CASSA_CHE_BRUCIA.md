@@ -13,7 +13,7 @@ Ma per Marco — trent'anni, fondatore, amministratore unico e azionista al 72% 
 
 I committenti del manifatturiero pagavano a novanta giorni dalla fattura, con scadenza a fine mese, se andava bene. Quando le perizie di collaudo accumulavano ritardi, il pagamento slittava a centoventi giorni. Era il caso del blocco software della settimana prima sull'isola 4 di O.M.P. Precision. Il 27 del mese corrente, giovedì successivo, il conto corrente aziendale presso la Banca Popolare del Distretto avrebbe dovuto far fronte a uscite improrogabili per centotrentottomila euro: gli stipendi netti dei diciotto programmatori, le ritenute fiscali, i contributi Inps e la rata leasing dei server. Sul saldo disponibile, quella sera, figuravano esattamente dodicimilasettecentoquaranta euro e ventidue centesimi.
 
-Tutto il castello poggiava su una trave portante: un fido ponte da trecentomila euro. Serviva ad anticipare il denaro dei contratti e le spese di ricerca e sviluppo (R&D). Era assistito dal Fondo Centrale di Garanzia, e il gestore territoriale lo aveva deliberato in via preliminare tre settimane prima. Mancava solo l'approvazione finale del Comitato Rischi, da ottenere entro le ore 18:00 di quel maledetto venerdì. Senza quel credito, il 27 novembre NexSys non avrebbe avuto i soldi per pagare. Il rischio era reale: un'azienda che non paga stipendi e contributi mette in gioco anche il rapporto con la sua banca, e nella peggiore delle ipotesi i fidi potevano essere revocati.
+Tutto il castello poggiava su una trave portante: un fido ponte da trecentomila euro. Serviva ad anticipare il denaro dei contratti e le spese di ricerca e sviluppo (R&D). Il gestore territoriale lo aveva deliberato in via preliminare tre settimane prima. Mancava solo l'approvazione finale del Comitato Rischi, da ottenere entro le ore 18:00 di quel maledetto venerdì. Senza quel credito, il 27 novembre NexSys non avrebbe avuto i soldi per pagare. Il rischio era reale: un'azienda che non paga stipendi e contributi mette in gioco anche il rapporto con la sua banca, e nella peggiore delle ipotesi i fidi potevano essere revocati.
 
 Alle 18:47 squillò la notifica push dell'app di posta elettronica sullo smartphone appoggiato accanto alla tastiera.
 
@@ -204,17 +204,17 @@ Non aprì il discorso protestando. Non fece appelli alla moralità aziendale, n�
 
 La domanda, asciutta e priva di recriminazioni, creò un breve silenzio nella stanza. Marangoni alzò gli occhi dal fascicolo, aprì la cartella ed estrasse la perizia asseverata presentata da NexSys venti giorni prima.
 
-«Manca una firma,» disse, indicando con la penna l'ultima pagina. «La perizia attribuisce al software, cioè all'architettura MES e ai protocolli IoT, un valore di seicentoventimila euro. È firmata da un ottimo ingegnere meccanico iscritto all'ordine. Per la garanzia del Fondo Centrale di Garanzia, su un software di questo tipo, ci serve una seconda firma.»
+«Manca una firma,» disse, indicando con la penna l'ultima pagina. «La perizia attribuisce al software, cioè all'architettura MES e ai protocolli IoT, un valore di seicentoventimila euro. È firmata da un ottimo ingegnere meccanico iscritto all'ordine. Su un software di questo tipo, il Comitato vuole una seconda firma: qualcuno che confermi che quel valore regge.»
 
 «Di chi?»
 
-«Di un ente certificatore. Oppure del capofila di un contratto di rete, se certifica l'interoperabilità di filiera: cioè che i sistemi della filiera possono lavorare insieme.»
+«Di un perito con competenze sul software. Oppure del capofila del vostro contratto di rete, che conosce i sistemi della filiera e può attestare che lavorano davvero insieme.»
 
 Il sangue defluì dalla testa verso il petto: non era, almeno per ora, un rifiuto.
 
 «Perché vi serve?»
 
-«Il Comitato non mette in discussione il valore del software,» disse la Bignami. «E i numeri del conto economico sono buoni. Ma se deliberiamo il fido da trecentomila euro con questa perizia e poi la garanzia non regge a un controllo, la banca resta scoperta per l'intero importo. Venerdì abbiamo rinviato per questo: per capire come completare la pratica, invece di bocciarla.»
+«Il Comitato non mette in discussione il valore del software,» disse la Bignami. «E i numeri del conto economico sono buoni. Ma se deliberiamo il fido da trecentomila euro su questa perizia e poi quel valore non regge, abbiamo prestato il denaro su una stima che nessuno ha controllato. Venerdì abbiamo rinviato per questo: per capire come completare la pratica, invece di bocciarla.»
 
 La banca non stava cercando di distruggerlo. Stava proteggendo la propria posizione, con vincoli che Marco non conosceva. Questo non gli garantiva il sì; gli diceva che cosa mancava.
 
@@ -224,7 +224,7 @@ Marangoni guardò la Bignami, poi annuì. «Se arriva la firma di Omnia entro le
 
 Non ci fu nessun miracolo hollywoodiano: la liquidità non arrivò sul conto corrente quel martedì.
 
-Il 27 novembre Marco dovette riunire i suoi diciotto programmatori nell'open space: guardandoli negli occhi con trasparenza assoluta, spiegò che il fido era deliberato ma che l'erogazione materiale sarebbe avvenuta venerdì 28. Chiese a ciascuno di loro di accettare lo scaglionamento dello stipendio in due rate: il 50% quel giorno stesso (attraverso le ultime riserve di cassa) e il saldo il lunedì successivo. Accettarono. Nessuno si licenziò, nessun sindacato bloccò i tornelli, nessun server venne spento.
+Il 27 novembre Marco dovette riunire i suoi diciotto programmatori nell'open space: guardandoli negli occhi con trasparenza assoluta, spiegò che il fido era deliberato ma che l'erogazione materiale sarebbe avvenuta venerdì 28. Chiese a ciascuno di loro di accettare che lo stipendio arrivasse in due tempi: una prima parte quel giorno stesso, il resto appena il credito fosse stato erogato. Accettarono. Nessuno si licenziò, nessun sindacato bloccò i tornelli, nessun server venne spento.
 
 Alle 16:30 dello stesso giovedì squillò il telefono: la Bignami confermava l'accredito dei trecentomila euro, con un giorno di anticipo sulla data prevista. Marco era seduto al suo posto, davanti al monitor da trentaquattro pollici.
 
@@ -251,7 +251,7 @@ Prima di agire, ripeti la domanda cardine: *«A che cosa sta reagendo il mio cor
 **A posteriori**
 
 6. **Comportamento.** Quale azione concreta hai compiuto? (es. *«Ho trattenuto la diffida; ho spento il monitor; ho camminato all'aperto; ho vietato a me stesso di mandare comunicazioni fino al lunedì»*).
-7. **Conseguenze accertate.** Che cosa è accaduto, e che cosa dipendeva dalla tua scelta? Una buona domanda non garantisce un buon esito: valuta la scelta per ciò che ti ha permesso di sapere e di fare, non solo per come è finita (es. *«Il Comitato chiedeva una seconda firma sulla perizia per la garanzia pubblica; con la controfirma di Omnia il fido è stato deliberato. Se avesse detto di no, avrei saputo perché, senza avere rotto prima il rapporto con la banca»*).
+7. **Conseguenze accertate.** Che cosa è accaduto, e che cosa dipendeva dalla tua scelta? Una buona domanda non garantisce un buon esito: valuta la scelta per ciò che ti ha permesso di sapere e di fare, non solo per come è finita (es. *«Il Comitato chiedeva una seconda firma sulla perizia; con la controfirma di Omnia il fido è stato deliberato. Se avesse detto di no, avrei saputo perché, senza avere rotto prima il rapporto con la banca»*).
 
 ## Da ricordare
 

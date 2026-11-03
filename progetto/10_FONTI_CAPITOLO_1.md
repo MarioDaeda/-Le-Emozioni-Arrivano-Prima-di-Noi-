@@ -508,7 +508,7 @@ Le affermazioni controverse devono restare formulate come teorie, ipotesi o inte
 
 La revisione della 0.4 corretta ha portato a valutare Watzlawick, Festinger, EMDR, VAK/VARK e Frijda. Non vengono inseriti tra le fonti autorizzate del Capitolo 1 perché non sono stati consultati e schedati secondo il protocollo oppure perché non sono necessari all’impianto attuale.
 
-- **Watzlawick:** possibile fonte futura sulla comunicazione; non sostiene le equivalenze e la percentuale comparse negli appunti.
+- **Watzlawick:** possibile fonte futura sulla comunicazione; non sostiene le equivalenze e la percentuale comparse negli appunti. **Aggiornamento 2026-11-03:** per decisione dell'autore il nome compare nel Capitolo 1 (principio contenuto/relazione). La schedatura secondo il protocollo è a carico dell'autore e va completata prima della pubblicazione.
 - **Festinger:** possibile fonte futura sulla dissonanza cognitiva; non sostiene una teoria generale secondo cui ogni emozione nasce dalla distanza tra realtà e aspettativa.
 - **EMDR:** escluso dal Capitolo 1; un eventuale uso futuro dovrà essere clinicamente circoscritto e fondato su linee guida e revisioni.
 - **VAK/VARK:** escluso come base scientifica.

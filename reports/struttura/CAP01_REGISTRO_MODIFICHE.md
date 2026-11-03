@@ -46,3 +46,4 @@ Ogni cifra, data e nome della versione di partenza c'è ancora: 4.200, quattroce
 - Riga 47: «Dalla bocca di nessuno dei due era uscita una sillaba» diventa «Di quello che si erano detti, Andrea non aveva sentito una sillaba»: la conversazione c'è stata, Andrea non l'ha ascoltata.
 - Riga 129: «piegati in tre parole» diventa «quattro parole» («Mi ha fatto arrabbiare»).
 - Watzlawick: ancora aperto. `progetto/10_FONTI_CAPITOLO_1.md` (§ 8.4) lo elenca tra i riferimenti «valutati ma non integrati» e stabilisce che non deve comparire nel manoscritto finché non è reperito, consultato e schedato. Il testo attuale lo nomina: decisione dell'autore.
+- Watzlawick, decisione dell'autore: il nome resta nel testo; la schedatura della fonte è a carico dell'autore. Annotato in `progetto/10_FONTI_CAPITOLO_1.md`, § 8.4.

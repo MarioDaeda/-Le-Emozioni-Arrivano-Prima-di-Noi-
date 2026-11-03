@@ -140,3 +140,8 @@ Tutte le altre cifre, date e nomi restano. Tolti di proposito: 130 bpm, 80%, Cor
 
 - Raccordo al capitolo 4 sostituito con il testo proposto: Marco aveva un problema reale; il conflitto successivo è tra due esigenze entrambe concrete. Resta l'ultima riga con il titolo del capitolo 4.
 - Ancora aperti, e bloccanti per il via libera: verifica del meccanismo bancario (seconda firma sulla perizia per il Fondo Centrale di Garanzia) e raccordo sul pagamento degli stipendi (50% con le «ultime riserve di cassa» a fronte di 12.740,22 euro; saldo «il lunedì successivo» dopo l'accredito di giovedì).
+
+## Decisioni dell'autore sui punti bloccanti (2026-11-03)
+
+- **Soluzione bancaria resa generica.** Tolto ogni riferimento al Fondo Centrale di Garanzia (apertura, scena in banca, esercizio). Ora è il Comitato a volere una seconda firma sulla perizia: «qualcuno che confermi che quel valore regge», un perito con competenze sul software oppure il capofila del contratto di rete. La Bignami motiva il rinvio senza norme: «abbiamo prestato il denaro su una stima che nessuno ha controllato». Il glossario G11 (Fondo Centrale di Garanzia) non si applica più al capitolo. Nota di continuità: il capitolo 5 (riga 47) nomina ancora il Fondo Centrale a proposito della Banca Popolare; non è in contraddizione, ma non ha più un antecedente nel capitolo 3.
+- **Stipendi.** Tolti il 50%, le «ultime riserve di cassa» e il saldo «il lunedì successivo»: Marco chiede di pagare lo stipendio «in due tempi: una prima parte quel giorno stesso, il resto appena il credito fosse stato erogato». Così non ci sono più cifre da giustificare né il saldo rimandato dopo l'accredito di giovedì.
