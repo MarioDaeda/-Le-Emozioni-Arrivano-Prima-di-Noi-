@@ -40,3 +40,9 @@ Ogni cifra, data e nome della versione di partenza c'è ancora: 4.200, quattroce
 - **Lakoff.** Se si vuole tenerlo, va creato l'apparato delle note (oggi il libro non ne ha) o una bibliografia di capitolo. La frase tolta: «George Lakoff, da un'altra strada, quella della linguistica cognitiva, ha mostrato quanto la cornice in cui una frase viene ascoltata orienti il significato che le si attribuisce.»
 - **Prefazione (deciso: togliere).** Su indicazione dell'autore, il termine è stato tolto anche da `capitoli/PREFAZIONE_METODOLOGICA.md` (Atto IV): «ma la stipula di un **Contratto di Salvaguardia di Processo**: un accordo sobrio…» è diventato «ma un accordo sobrio…». Il termine non compare più in `capitoli/`. Resta, nella stessa frase dell'Atto IV, la metafora «il perimetro del contratto che firmano per non farsi saltare la gola».
 - **Ancora da fare** (dalla lista di controllo della scheda): rilettura ad alta voce e prova con un lettore non specialista.
+
+## Rifinitura dopo la seconda lettura dell'autore (2026-11-03)
+
+- Riga 47: «Dalla bocca di nessuno dei due era uscita una sillaba» diventa «Di quello che si erano detti, Andrea non aveva sentito una sillaba»: la conversazione c'è stata, Andrea non l'ha ascoltata.
+- Riga 129: «piegati in tre parole» diventa «quattro parole» («Mi ha fatto arrabbiare»).
+- Watzlawick: ancora aperto. `progetto/10_FONTI_CAPITOLO_1.md` (§ 8.4) lo elenca tra i riferimenti «valutati ma non integrati» e stabilisce che non deve comparire nel manoscritto finché non è reperito, consultato e schedato. Il testo attuale lo nomina: decisione dell'autore.

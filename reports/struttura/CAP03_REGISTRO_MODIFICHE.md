@@ -135,3 +135,8 @@ Tutte le altre cifre, date e nomi restano. Tolti di proposito: 130 bpm, 80%, Cor
 - **Fonti.** Da verificare sulle fonti le formulazioni rimaste su LeDoux (due vie, sentimento cosciente), Barrett e Damasio (il «come se»).
 - **Biografia di Marco.** Restano i brevetti registrati a Monaco: va bene che esistano accanto al software, ma conviene confermarlo.
 - **Continuità.** Manca la lettura insieme ai capitoli 1 e 2 (ultimo passo della scheda).
+
+## Rifinitura dopo la seconda lettura dell'autore (2026-11-03)
+
+- Raccordo al capitolo 4 sostituito con il testo proposto: Marco aveva un problema reale; il conflitto successivo è tra due esigenze entrambe concrete. Resta l'ultima riga con il titolo del capitolo 4.
+- Ancora aperti, e bloccanti per il via libera: verifica del meccanismo bancario (seconda firma sulla perizia per il Fondo Centrale di Garanzia) e raccordo sul pagamento degli stipendi (50% con le «ultime riserve di cassa» a fronte di 12.740,22 euro; saldo «il lunedì successivo» dopo l'accredito di giovedì).

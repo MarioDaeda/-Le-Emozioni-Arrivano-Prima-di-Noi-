@@ -41,3 +41,14 @@ Confronto con la versione di partenza: restano tutte le cifre e i nomi (16:24, 1
 - **Cronologia di Marta.** La frase «Aveva staccato alle dieci e mezza di sera… era tornata prima delle sei» ricava gli orari dal testo (fine turno 19:30, tre ore di straordinario, corriere tra le 06:00 e le 06:20). Va confermata.
 - **Corriere.** Il trasportatore è «di LogiDistretto» alle 06:00 (scena del venerdì) e «il corriere tedesco» alle 06:20 (scena del sabato): non è chiaro se siano lo stesso. Non l'ho toccato.
 - **Ancora da fare.** Controllare fonti, terminologia e bozze dopo queste modifiche di struttura (ultimo passo dell'ordine di lavoro della scheda). Lo stesso per le frasi su Lazarus (sollievo) e Kahneman (sostituzione), che non ho modificato.
+
+## Rifinitura dopo la seconda lettura dell'autore (2026-11-03)
+
+| Punto | Intervento |
+|---|---|
+| A. Raccordo al capitolo 3 | Sostituiti il paragrafo e la domanda con il testo proposto («Fin qui abbiamo visto… Come si affronta quel rischio senza trattare il peggiore degli esiti come una certezza?»). Resta l'ultima riga con il titolo del capitolo 3 |
+| B. Definizione del sollievo | Tolto il paragrafo «Dove "sollievo" misura esclusivamente la rapidità…» |
+| C. Esercizio | Passo 1: Sara convoca Davide, i documenti sono già sulla scrivania; tolti «presenta un lotto» e «ripongo la scheda nel cassetto». Passo 5: tolto il sorriso; ora riproduce i gesti e le parole della scena |
+| D. Teoria | Lazarus sul sollievo ridotto a tre frasi, senza *goal incongruence* / *goal congruence*. Kahneman: la sostituzione è ora una lettura del caso («Non sappiamo che cosa sia accaduto davvero nella sua testa»), senza Sistema 1 e Sistema 2 come attori |
+
+Resta «la fucina dell'ansia predittiva» nell'ultima riga: il glossario del capitolo 3 (G7) aveva scelto «panico da anticipazione». Non toccato.

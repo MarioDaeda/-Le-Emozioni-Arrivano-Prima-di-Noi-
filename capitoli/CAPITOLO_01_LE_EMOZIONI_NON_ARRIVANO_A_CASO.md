@@ -44,7 +44,7 @@ La decisione slittò di quarantotto ore. Nessuno propose di votare.
 
 La responsabile commerciale raccolse i fogli con una lentezza da persona che non vuole essere ricordata. Sulla porta disse che avrebbe avvisato il cliente del ritardo, senza promettere una data. «Non c'è nessun ritardo. C'è un ultimo controllo.» La frase era falsa, e nella stanza lo era per tutti, Andrea compreso. Il consulente chiese se dovesse preparare una versione aggiornata. «Non c'è niente da aggiornare.» Due minuti prima accusava gli altri di scivolare via dai numeri; adesso i numeri era lui a non volerli più guardare.
 
-Nel corridoio Luca si fermò a scambiare due parole con una collega. Andrea tirò dritto senza voltarsi. Due metri di linoleum, e la distanza diventò permafrost. Dietro le spalle partì il filmato, già montato: Luca che scuoteva la testa, la collega che annuiva sullo stesso tema — che era diventato impossibile, che non gli si poteva più dire niente. Dalla bocca di nessuno dei due era uscita una sillaba. La scena girava uguale a ogni passo, dentro, a ciclo continuo, costruita con materiali di scarto che la settimana aveva già pronti.
+Nel corridoio Luca si fermò a scambiare due parole con una collega. Andrea tirò dritto senza voltarsi. Due metri di linoleum, e la distanza diventò permafrost. Dietro le spalle partì il filmato, già montato: Luca che scuoteva la testa, la collega che annuiva sullo stesso tema — che era diventato impossibile, che non gli si poteva più dire niente. Di quello che si erano detti, Andrea non aveva sentito una sillaba. La scena girava uguale a ogni passo, dentro, a ciclo continuo, costruita con materiali di scarto che la settimana aveva già pronti.
 
 La riunione non aveva prodotto né un rifiuto né la prova di un errore. Andrea, però, ne usciva con una certezza: Luca non si fidava più di lui. Aveva chiesto un controllo davanti a tutti, proprio mentre l'azienda rischiava la liquidità su una commessa da quattrocentomila euro. Che altro poteva significare? Il fastidio si era solidificato in una sentenza.
 
@@ -126,7 +126,7 @@ Andrea quella sera non cambiò idea. Il dubbio si aprì in un punto preciso: la 
 
 ## Il processo invisibile
 
-«Mi ha fatto arrabbiare» è una compressione. Dentro, piegati in tre parole, ci stanno settimane di lavoro, notti corte, un conto da firmare e la memoria di altre frasi capitate in altri momenti. Comprimere non è mentire: è una scorciatoia nel racconto. E a volte la scorciatoia del racconto ricalca una scorciatoia mentale: un'euristica, cioè un modo rapido di dare significato a una situazione usando pochi elementi, più ricordi, aspettative e conoscenze precedenti.
+«Mi ha fatto arrabbiare» è una compressione. Dentro, piegati in quattro parole, ci stanno settimane di lavoro, notti corte, un conto da firmare e la memoria di altre frasi capitate in altri momenti. Comprimere non è mentire: è una scorciatoia nel racconto. E a volte la scorciatoia del racconto ricalca una scorciatoia mentale: un'euristica, cioè un modo rapido di dare significato a una situazione usando pochi elementi, più ricordi, aspettative e conoscenze precedenti.
 
 Le euristiche non sono difetti. Permettono di orientarsi in fretta, e la fretta è spesso la risposta giusta. Ma una scorciatoia può far arrivare prima nel posto sbagliato. Producono in pochi istanti una prima lettura della realtà; non garantiscono che sia quella più fedele ai fatti. Il pensiero critico comincia quando la prima lettura smette di valere come verdetto e comincia a valere come ipotesi da verificare.
 

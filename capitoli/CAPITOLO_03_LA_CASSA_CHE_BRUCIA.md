@@ -262,12 +262,8 @@ Prima di agire, ripeti la domanda cardine: *«A che cosa sta reagendo il mio cor
 * **L'attesa pesa, e la mente può preferire chiuderla in anticipo.** A volte proclamare il fallimento sembra meno insopportabile che restare nell'incertezza.
 * **La disciplina della telecamera non è cinismo.** Distinguere ciò che è scritto da ciò che è inferito permette di presentarsi al tavolo con domande precise invece che con accuse.
 
-Nel Capitolo 2 abbiamo scoperto come il sollievo fittizio possa spingerci a fuggire dal dovere del limite. In questo capitolo abbiamo visto come un rischio possibile possa diventare, nella mente, una rovina già accaduta.
+Marco aveva un problema reale e gli aveva attribuito un esito ancora incerto. Nel prossimo capitolo, il conflitto prende un'altra forma: una promessa commerciale incontra i limiti della produzione.
 
-Ma cosa accade quando la minaccia non è una proiezione del futuro né un equivoco documentale, ma **una collisione materiale, viscerale e violentissima tra due funzioni vitali della stessa impresa?**
-
-Cosa succede quando la promessa contrattuale firmata dal Direttore Commerciale per incassare il bonus di fine anno atterra come un macigno insostenibile sulle macchine già sature dell'Officina Meccanica, costringendo i capireparto a turni massacranti e pezzi deformati?
-
-Quale logica biologica governa l'incendio della rabbia tra colleghi che dovrebbero cooperare per lo stesso obiettivo?
+Che cosa accade quando chi vende e chi deve consegnare difendono esigenze diverse, entrambe concrete, e cominciano a trattarsi come avversari?
 
 Il Capitolo 4 entra nel cuore del conflitto di produzione: **La promessa del commerciale e la macchina satura**.

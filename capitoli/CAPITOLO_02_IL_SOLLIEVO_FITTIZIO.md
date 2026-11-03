@@ -190,11 +190,11 @@ Il bersaglio di questo capitolo è un altro: il sollievo usato come prova di ave
 
 Perché questa trappola funziona anche con professionisti esperti come Sara? Una parte della risposta sta nel modo in cui funziona il **sollievo**.
 
-Nel trattato fondamentale *Emotion and Adaptation*, Lazarus definisce il sollievo come un'emozione unica nel suo genere: essa non nasce dalla conquista attiva di un bene nuovo, ma dal **brusco passaggio da una condizione di incongruenza rispetto agli scopi (*goal incongruence*, la minaccia acuta di infliggere un trauma a Davide ed essere considerata un carnefice) a una condizione di momentanea congruenza (*goal congruence*) generata dalla scomparsa o rimozione dello stimolo minaccioso**. Quando Sara ha chiuso la cartellina e ha pronunciato le parole di assoluzione, la minaccia di conflitto è svanita dalla sua percezione immediata.
+In *Emotion and Adaptation*, Lazarus descrive il sollievo come un'emozione particolare: non nasce dall'ottenere qualcosa di nuovo, ma dal **venir meno di una situazione in contrasto con i propri scopi**. Per Sara, il contrasto era la prospettiva di ferire Davide ed essere vista come una carnefice. Chiusa la cartellina, quella minaccia era sparita dalla sua percezione immediata.
 
 Negli esperimenti di condizionamento di Bram Vervliet, Iris Lange e Mohammed Milad, condotti in laboratorio con partecipanti sani, il mancato arrivo di un evento spiacevole atteso produce sollievo. Gli autori propongono, con cautela, che quel sollievo possa fare da **rinforzo negativo**: rendere più probabile, la volta successiva, il comportamento che ha allontanato la minaccia. Se è così, si forma un apprendimento implicito: *quando mi sottraggo al confronto, sto meglio.* È uno dei modi in cui un rinvio può diventare un'abitudine, anche se non lo diventa per forza.
 
-A questa dinamica somatica si sovrappone l'architettura decisionale decodificata da **Daniel Kahneman**. Sotto la pressione di una sofferenza empatica acuta, il Sistema 1 compie una rapida **sostituzione euristica**: azzera la domanda complessa e differita del Sistema 2 (*«Quale assetto di turni e collaudi garantisce che il reparto Kuka non si blocchi stanotte tutelando al contempo la salute di Davide?»*) e la sostituisce con la domanda immediata, emotivamente accessibile ed economica (*«Che cosa posso dire in questo preciso istante affinché Davide smetta di piangere e io smetta di sentirmi un mostro?»*). Somiglia a ciò che Paul Slovic ha chiamato **euristica dell'affetto**: la valutazione del rischio si lascia orientare da come ci fa sentire la situazione.
+La scena si può leggere anche con un'idea resa nota da **Daniel Kahneman**, la **sostituzione**: davanti a una domanda difficile, a volte rispondiamo senza accorgercene a una più facile. La domanda difficile, per Sara, era: *«Quale assetto di turni e collaudi evita che il reparto Kuka si blocchi stanotte, tenendo conto della situazione di Davide?»* Quella facile: *«Che cosa posso dire adesso perché Davide smetta di piangere e io smetta di sentirmi un mostro?»* Non sappiamo che cosa sia accaduto davvero nella sua testa. Sappiamo che la decisione presa risponde alla seconda domanda, non alla prima. Somiglia a ciò che Paul Slovic ha chiamato **euristica dell'affetto**: la valutazione del rischio si lascia orientare da come ci fa sentire la situazione.
 
 La sequenza si legge sulla **mappa minima** dell'episodio:
 
@@ -212,8 +212,6 @@ La sequenza si legge sulla **mappa minima** dell'episodio:
 Da questa decodifica scaturisce la domanda cardine che ogni manager, imprenditore o responsabile deve porsi quando avverte l'impulso a deviare da un confine difficile:
 
 > **«Questa decisione mi sta dando un sollievo immediato o sta davvero risolvendo la situazione materiale?»**
-
-Dove «sollievo» misura esclusivamente la rapidità con cui facciamo cessare il nostro malessere corporeo, mentre «risoluzione» misura la sostenibilità tecnica, relazionale ed economica delle conseguenze generate sull'intero ecosistema.
 
 ---
 
@@ -281,11 +279,11 @@ Applica queste sette righe, entro ventiquattr'ore, a una situazione in cui hai r
 
 Per confronto, scegline anche una in cui rimandare è stato la scelta giusta. Il criterio non è avere affrontato tutto subito: è che cosa il rinvio ha lasciato dietro di sé.
 
-1. **Fatto.** Descrivi l'episodio eliminando ogni termine psicologico o giudizio morale. Registra unicamente dati cronometrici, parole testuali pronunciate, gesti materiali e documenti fisici presenti (es. *«Venerdì ore 16:30: il collaboratore presenta un lotto con 3 controlli omessi e afferma di non poter sostenere un richiamo per gravi problemi familiari; ripongo la scheda nel cassetto senza richiedere la compilazione e rinvio il colloquio a lunedì»*).
+1. **Fatto.** Descrivi l'episodio eliminando ogni termine psicologico o giudizio morale. Registra unicamente dati cronometrici, parole testuali pronunciate, gesti materiali e documenti fisici presenti (es. *«Venerdì ore 16:30: convoco il collaboratore nel mio ufficio per tre controlli omessi e un lotto scartato, con i documenti sulla scrivania. Lui piange e dice che una contestazione formale gli farebbe perdere il mutuo. Chiudo la cartellina, dico che non ci sarà contestazione e rinvio il colloquio a lunedì»*).
 2. **Elemento notato.** Identifica il micro-dettaglio su cui si è polarizzata la tua attenzione escludendo il contesto (es. *«La lacrima sulla guancia, la voce spezzata sul mutuo della casa, le occhiaie scavate»*).
 3. **Significato attribuito.** Trascrivi il verdetto istantaneo formulato su te stesso e sulla situazione (es. *«Se mantengo la contestazione sono una persona crudele e spietata; se chiudo la cartellina salvo la sua vita e sono una leader empatica»*).
 4. **Emozione e impulso.** Nomina l'emozione viscerale e la spinta fisica ad essa associata (es. *«Angoscia acuta da colpa; contrazione diaframmatica allo stomaco; impulso impellente di fuggire dalla stanza e pronunciare parole rassicuranti per far cessare la tensione»*).
-5. **Comportamento.** Registra l'azione effettivamente compiuta (es. *«Ho sorriso, ho spostato il fascicolo, ho detto che non era una contestazione e ho congedato il collaboratore senza riassegnare il lavoro scoperto»*).
+5. **Comportamento.** Registra l'azione effettivamente compiuta (es. *«Ho chiuso la cartellina e l'ho spinta di lato, ho detto che non ci sarebbe stata nessuna lettera di contestazione e ho mandato a casa il collaboratore senza riassegnare il lavoro scoperto»*).
 6. **Conseguenze, immediate e differite.**  
    - *Immediata (il sollievo):* distensione somatica rapida, cessazione del pianto dell'altro, illusione di armonia relazionale.  
    - *Differita (il costo trasferito):* fermo macchina alle 19:42, tre ore di straordinario coatto per un terzo ignaro, rottura della fiducia organizzativa.  
@@ -300,10 +298,8 @@ Per confronto, scegline anche una in cui rimandare è stato la scelta giusta. Il
 * **I problemi non affrontati non evaporano: viaggiano lungo la filiera.** Quando una decisione lascia scoperti compiti e responsabilità, il carico non scompare: diventa straordinario forzato, rancore e disservizio nel turno successivo.
 * **La compassione non è l'errore.** Sostenere una persona in difficoltà significa creare perimetri chiari e risorse reali per imparare, non fingere che gli scarti non esistano.
 
-Nel Capitolo 1 abbiamo decodificato l'origine situata dell'emozione e la disciplina della telecamera. In questo capitolo abbiamo visto la trappola del sollievo fittizio e il costo sistemico dell'evitamento.
+Fin qui abbiamo visto che cosa accade quando il sollievo prende il posto di una soluzione. Ma può succedere anche il contrario: un problema reale diventa, nella nostra mente, una catastrofe già compiuta.
 
-Resta tuttavia un paradosso ancora più profondo e vertiginoso che minaccia quotidianamente la lucidità di chi guida un'impresa: **cosa accade quando la minaccia non è presente nella stanza, ma viene interamente generata dal nostro cervello prima ancora che i fatti abbiano avuto luogo?**
-
-Perché un imprenditore o un manager può sperimentare un collasso somatico devastante — tachicardia, sudorazione fredda, nausea e panico paralizzante — leggendo una semplice riga di testo interlocutoria inviata da una banca o da un cliente in un venerdì sera d'autunno?
+Una mail della banca comunica un rinvio. La scadenza resta, i soldi mancano, ma il rifiuto non è ancora arrivato. Come si affronta quel rischio senza trattare il peggiore degli esiti come una certezza?
 
 Il Capitolo 3 entra nella fucina dell'ansia predittiva: **La cassa che brucia e il panico da anticipazione**.
