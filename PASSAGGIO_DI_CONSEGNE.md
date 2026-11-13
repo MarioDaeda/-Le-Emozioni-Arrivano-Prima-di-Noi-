@@ -51,6 +51,7 @@ Il registro completo è in `reports/struttura/CAP03_REGISTRO_MODIFICHE.md`. I pa
 
 - `PROMPT_REVISIONE_LEGGIBILITA_HAIKU.md`: report di leggibilità, un subagente per file.
 - `PROMPT_REVISIONE_STRUTTURA_SONNET_ULTRACODE.md`: revisione di struttura completa (circa 110 agenti).
+- `GUIDA_CRITERI_REVISIONE.md` e `PROMPT_REVISIONE_CAPITOLO.md` (13 novembre 2026): i criteri ricavati dalla revisione dei capitoli 1-3 e il prompt per rivedere un capitolo alla volta, con diagnosi e applicazione separate da una fermata per l'autore. **Da usare per i capitoli 4-9, la prefazione e l'epilogo.**
 - `PROMPT_STRUTTURA_TEST_RISPARMIO_CAP01-03.md`: versione a basso consumo (circa 25 agenti), con le correzioni dopo il primo test. **È quella da usare per rigenerare CAP01 e CAP02** e per i capitoli successivi. Va lanciata un capitolo alla volta (basta lasciare una sola riga nell'array `FILES`) e i report si salvano dalla sessione principale.
 - `PROMPT_APPLICA_REVISIONE_CAP03.md`: applicazione al testo. Per un altro capitolo basta cambiare nome del file e dei report.
 - `PROMPT_REVISIONE_FINALE_CAPITOLI_1_2_3_SONNET.md`: revisione finale precedente, per consultazione.

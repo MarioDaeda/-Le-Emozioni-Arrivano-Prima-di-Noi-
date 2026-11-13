@@ -32,7 +32,7 @@ Cartella di lavoro del libro. Questa pagina dice dove sta ogni cosa e quale vers
 
 1. Si modifica il testo in `capitoli/`.
 2. Le decisioni di voce e di coerenza si controllano in `progetto/03_GUIDA_STILISTICA.md` e `progetto/08_REGISTRO_DELLA_CONTINUITÀ.md`.
-3. I prompt di `prompt/revisione/` producono report in `reports/leggibilita/` e `reports/struttura/`.
+3. I prompt di `prompt/revisione/` producono report in `reports/leggibilita/` e `reports/struttura/`. Per rivedere un capitolo con i criteri dei capitoli 1-3: `prompt/revisione/GUIDA_CRITERI_REVISIONE.md` e `prompt/revisione/PROMPT_REVISIONE_CAPITOLO.md`.
 4. Le modifiche applicate si annotano in `reports/struttura/CAPxx_REGISTRO_MODIFICHE.md`.
 
 ## Da sapere
