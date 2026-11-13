@@ -336,25 +336,3 @@ Cosa accade quando due **soci fondatori al 50%**, che hanno condiviso quindici a
 Come scatta la trappola cognitiva dell'attribuzione rapida tra pari, quando l'alleato storico cessa di essere visto nella complessità della sua fatica per diventare un avversario interno da cui proteggersi?
 
 Il Capitolo 8 affronta la deriva più letale per il destino dell'impresa: **Il gelo tra pari: la deriva tra soci fondatori**.
-
----
-
-### 4. Note di Lavorazione e Registro di Continuità
-
-#### Verifiche Scientifiche e Fonti
-* **Antonio Damasio (2021) & Naomi I. Eisenberger / Matthew D. Lieberman (2003, 2012):** Basi neurobiologiche della sovrapposizione anatomica e chimica tra dolore fisico e dolore da rifiuto sociale; reclutamento della dACC (corteccia cingolata anteriore dorsale) e dell'insula anteriore.
-* **Stephen W. Porges (2011):** Teoria Polivagale e sequenza di *behavioral shutdown* a carico del Complesso Vagale Dorsale non mielinizzato (ipotensione, bradicardia reattiva, perdita di tono muscolare posturale, mutismo difensivo).
-* **Richard S. Lazarus (1991):** Teoria del *Cognitive Appraisal*; transizione da mobilitazione simpatica (rabbia) a risposta di shutdown (tristezza profonda) mediata dalla valutazione di *loss of an irrevocable commitment*.
-* **Denise M. Rousseau (1995):** Dinamiche della violazione del *contratto psicologico* (*psychological contract breach*) e cinismo organizzativo reattivo nei contesti di riassetto proprietario.
-
-#### Marcatori di Continuità e Intreccio di Filiera
-* **Codice Scena:** `SC-C7-01` (Buffet O.M.P. / Organigramma e colloquio con l'AD), `SC-C7-02` (Argine del canale Camuzzoni / Dialogo disincantato con Gianni Bellamoli), `SC-C7-03` (Ufficio HR / Negoziazione tecnica a tre e telefonata in vivavoce).
-* **Debiti di Filiera Intrecciati:**
-  - **Marta Bellamoli:** Presente nei Capitoli 2 (soccorso notturno sulle boccole di Davide), 4 (setup di sgrossatura sul titanio di Silvano) e 6 (ricezione del lotto Ferrometalli), approda qui alla piena maturità identitaria: rifiuta l'emigrazione in Svizzera e il sabotaggio passivo, conquistando il livello Quadro come Master Technical Specialist;
-  - **Ing. Gianluca Moretti:** Contrariamente alla sinossi primordiale di filiera, Moretti non è un avversario manicheo o una macchietta burocratica: è un professionista Six Sigma che riconosce immediatamente la propria dipendenza dalla maestria di Marta;
-  - **Pensione di Silvano:** L'imminente congedo del vecchio capofficina (primavera 2027) chiude l'era pionieristica della meccanica veronese e apre la breccia al nuovo assetto;
-  - **Ponte Finanziario con il Capitolo 8:** L'Accademia Tecnica di Reparto diretta da Marta è formalmente co-finanziata dal Bando Regionale Meccatronica `VR-2027-8891` da **180.000 euro**, citato a riga 14 del Capitolo 8 (`bozze_capitoli/CAPITOLO_08_IL_GELO_TRA_PARI.md`), creando un incastro materiale e documentale perfetto tra le due aziende della filiera.
-
-#### Scostamenti Narrativi Motivati
-* **La de-ventriloquizzazione di Gianni Bellamoli:** La totale bonifica della parola didattica «telecamera» e dei corsi aziendali restituisce alla sequenza sul canale Camuzzoni l'autenticità storica e drammatica del sindacalismo operaio di Porta Vescovo degli anni Settanta.
-* **L'agency di Marta:** Il passaggio in cui Marta scandisce personalmente le sue tre condizioni prima della telefonata con l'AD risana il deficit di protagonismo dell'Atto IV, trasformando la collaudatrice nella sola artefice del proprio riscatto contrattuale.

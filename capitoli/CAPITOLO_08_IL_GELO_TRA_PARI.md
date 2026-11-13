@@ -323,24 +323,3 @@ Cosa succede quando la Direzione Generale convoca la plenaria dei dipendenti per
 Perché il sarcasmo operaio, la rassegnazione e il cinismo organizzativo non sono vizi morali o pigrizia sindacale, ma un'estrema, disperata **anestesia difensiva omeostatica** per impedire che il cuore dei lavoratori si spezzi per l'ennesima promessa non mantenuta?
 
 Il Capitolo 9 entra nella trincea più dura dell'industria: **Il cinismo di reparto e l'anestesia difensiva**.
-
----
-
-### 4. Note di Lavorazione e Registro di Continuità
-
-#### Verifiche Scientifiche e Fonti
-* **Albert Michotte (1946) & Daniel Kahneman (2011):** Basi neuro-fenomenologiche della percezione visiva di causalità e salto automatico del Sistema 1 verso la causalità intenzionale (*intentional causality*, Paul Bloom 2005; pp. 89–97).
-* **Lee Ross (1977) & Daniel Kahneman (2011):** L'*Errore Fondamentale di Attribuzione* (*Fundamental Attribution Error*) nei rapporti societari simmetrici e principio *WYSIATI* nella genesi dei sospetti di parassitismo (pp. 98–108).
-* **Richard S. Lazarus (1991):** Teoria del *Cognitive Appraisal*; la distinzione strutturale tra *Accountability* (responsabilità fattuale) e *Blame* (colpa morale con controllo imputato) nella modulazione della risposta iper-simpatica adrenergica e della riparazione relazionale (p. 238).
-* **Teoria della Mente (*Theory of Mind failure*):** Disfunzione dei circuiti di mentalizzazione prefrontale indotta da debito allostatico cronico e privazione del sonno (*allostatic load*, Sterling & Eyer 1988; Feldman Barrett 2017).
-
-#### Marcatori di Continuità e Intreccio di Filiera
-* **Codice Scena:** `SC-C8-01` (Ufficio Luca / Post-it e mail notturna delle 00:18), `SC-C8-02` (Studio Quinzano / Elena e la verità domestica), `SC-C8-03` (Ufficio Luca ore 07:22 / Distruzione della mail e patto a quattro pilastri).
-* **Debiti di Filiera Intrecciati:**
-  - **Bando Reti Meccatroniche VR-2027-8891 da 180.000 €:** Salvato alle 23:44 da Andrea, co-finanzia l'infrastruttura MES di Marco in NexSys (Capp. 3 e 6) e l'Accademia Tecnica di Marta in O.M.P. Precision (Cap. 7), saldando la contabilità materiale della filiera;
-  - **Chiusura dell'Arco del Capitolo 1:** Il sussurro esausto di Luca durante la riunione di budget (*«Forse dovremmo far controllare i numeri ad altri»*) trova qui la sua risoluzione definitiva, trasformando il sospetto reciproco in tutela condivisa;
-  - **Ponte verso il Capitolo 9:** La pacificazione al vertice di Omnia è il prerequisito necessario che permette ad Andrea e Luca di affacciarsi uniti sull'officina per affrontare il cinismo e la rassegnazione della base operaia.
-
-#### Scostamenti Narrativi Motivati
-* **De-ventriloquizzazione radicale di Elena:** La cancellazione totale della parola «telecamera» e delle citazioni teoriche di Kahneman ha restituito al dialogo di Quinzano l'autenticità viscerale di un confronto coniugale notturno, dove la verità della stanchezza vince su ogni orpello didascalico.
-* **Ricalibrazione del post-it di Luca:** L'omissione temporanea dei valori pressori estremi nel biglietto delle 17:15 rende psicologicamente plausibile l'inferenza di diserzione di Andrea, riservando la rivelazione della crisi clinica a 180/100 all'apice drammatico dell'Atto IV.

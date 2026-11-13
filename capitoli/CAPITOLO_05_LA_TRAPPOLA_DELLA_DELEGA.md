@@ -308,19 +308,3 @@ Cosa succede quando l'Ufficio Acquisti e la Logistica di Magazzino creano **fogl
 Come può un leader disinnescare la manipolazione difensiva dei numeri quando i dati cessano di essere strumenti di verità per diventare scudi di trincea?
 
 Il Capitolo 6 scende nel campo minato della rivalità feudale: **La guerra dei territori e i dati come armi**.
-
----
-
-### 4. Note di Lavorazione e Registro di Continuità
-
-#### Verifiche Scientifiche e Fonti Primarie
-* **Antonio Damasio (1994, 2021):** Applicazione dell'ipotesi del marcatore somatico alla *sopravvivenza nel ruolo* sociale e professionale (*Role survival threat*) e coincidenza dei circuiti biologici dell'omeostasi con le dinamiche di status e reputazione aziendale.
-* **Stephen W. Porges (2011):** *The Polyvagal Theory*. La *neurocezione* di pericolo legata alla perdita di controllo; disinnesto del freno vagale ventrale (ingaggio sociale e cooperazione pedagogica) e transizione automatica alla mobilitazione simpatica di attacco (*fight response*) e micro-management.
-* **Daniel Kahneman (2011):** *Thinking, Fast and Slow*. Bias di attribuzione dispositiva (*«i giovani non hanno voglia di fare»*) e cecità cognitiva verso le variabili di contesto.
-
-#### Marcatori di Continuità e Intreccio di Filiera
-* **Codici Scena:** `SC-C5-01` (Ufficio Andrea ore 19:14 / Crollo del file di Enrico), `SC-C5-02` (Studio Quinzano ore 05:42 / Elena e lo spegnimento del monitor), `SC-C5-03` (Ufficio Andrea ore 15:45 / Il protocollo di delega a tre stadi).
-* **Debiti di Filiera Intrecciati:**
-  - Il Budget Consolidato 2027 approvato da Andrea, Luca, Sara, Marco e la banca integra formalmente i contratti Kuka (Cap. 2), il fido salvato di NexSys (Cap. 3) e la commessa Hydac rinegoziata da Silvano (Cap. 4);
-  - Elena riprende il proprio ruolo di specchio intimo e arbitro metodologico nei confronti di Andrea, preparando la propria caduta emotiva da errore contrattuale nel Capitolo 8;
-  - Enrico De Marchi, dopo aver metabolizzato la Scheda dei Vincoli nel Capitolo 5, diventerà l'analista tecnico fidato incaricato di bonificare i fogli Excel clandestini nel Capitolo 6.
